@@ -1,0 +1,20 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "13",
+  "title": "12. Dor de amor",
+  "checked_at": "2026-10-24T13:20:43",
+  "segments_total": 6,
+  "segments_translated": 6,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "13-0002",
+      "text": "\"Dor de amor\" → \"Lovesickness\" in the title; \"dores de amor\" in the text → \"the pains of love.\" Alternatives: \"Heartache,\" \"Love pain.\""
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "22",
+  "title": "Aforismos",
+  "checked_at": "2026-10-24T13:20:43",
+  "segments_total": 114,
+  "segments_translated": 114,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "22-0019",
+      "text": "\"para nos tomarem por aí\" is unusual; read as \"to take us for a ride\" (to exploit/fool us). Alternatives: \"to take hold of us,\" \"to get the better of us.\""
+    },
+    {
+      "segment": "22-0033",
+      "text": "\"revolta\" rendered \"resentment\" to keep it distinct from \"rebeldia\" (\"rebelliousness\") in 22-0034, which the author sets on the other side. Alternatives: \"revolt,\" \"outrage.\""
+    },
+    {
+      "segment": "22-0098",
+      "text": "Heading \"Irritação da dúvida\" rendered \"The irritation of doubt,\" the phrase used in Charles S. Peirce’s \"The Fixation of Belief\" (1877, public domain), which the author points to here."
+    },
+    {
+      "segment": "22-0102",
+      "text": "\"o uso de relatos e perguntas\" read as relying on women’s own accounts and on asking them questions; rendered \"accounts and questionnaires.\" Alternative: \"accounts and questions.\""
+    },
+    {
+      "segment": "22-0110",
+      "text": "\"desencarnação\" (spiritist term for death, the soul leaving the body) rendered \"discarnation.\" Alternative: \"hastens death.\""
+    }
+  ],
+  "translator_notes": []
+}

@@ -16,6 +16,7 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 - *A Guerra da Paixão* (`guerra-da-paixao-2005`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *O Profano Feminino* (`profano-feminino-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *Textos Complementares* (`textos-complementares-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
+- *Textos Complementares II* (`textos-complementares-ii-2009`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - Os 5 livros restantes estão **na fila do agente agendado** (`automation/queue.txt`,
   `automation/README.md`): traduz um por vez e faz commit + push ao terminar cada um.
   Progresso em `automation/state/<slug>-progress.md`. Numa sessão interativa, não

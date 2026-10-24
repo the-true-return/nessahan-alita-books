@@ -1,0 +1,20 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "10",
+  "title": "9. Desarticulação antecipada",
+  "checked_at": "2026-10-24T13:20:43",
+  "segments_total": 9,
+  "segments_translated": 9,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "10-0001",
+      "text": "\"Desarticulação antecipada\" → \"Preemptive dismantling\" (\"desarticular\" is rendered \"dismantle\" throughout). Alternatives: \"Advance dismantling,\" \"Dismantling in advance.\""
+    }
+  ],
+  "translator_notes": []
+}

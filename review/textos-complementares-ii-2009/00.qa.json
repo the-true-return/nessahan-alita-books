@@ -1,0 +1,28 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T13:20:42",
+  "segments_total": 29,
+  "segments_translated": 29,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Title \"Textos Complementares II\" → \"Supplementary Texts II\" (config title_en; consistent with \"Supplementary Texts\" for the 2008 volume). Alternative: \"Complementary Texts II\"."
+    },
+    {
+      "segment": "00-0004",
+      "text": "The citation gives the English title; the Portuguese original is \"Textos Complementares II\". \"Edição virtual independente\" → \"Independent online edition\", as in the other volumes."
+    },
+    {
+      "segment": "00-0027",
+      "text": "The original contents line reads \"20 Indo além\" (no period after the number); the period was added to match the chapter heading and the other entries."
+    }
+  ],
+  "translator_notes": []
+}

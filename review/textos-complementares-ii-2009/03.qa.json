@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "03",
+  "title": "2. Sobre a magia sexual",
+  "checked_at": "2026-10-24T13:20:42",
+  "segments_total": 8,
+  "segments_translated": 8,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "03-0002",
+      "text": "\"magia sexual\" → \"sexual magic\" (the usual rendering in English translations of Samael Aun Weor). Alternative: \"sex magic.\""
+    },
+    {
+      "segment": "03-0004",
+      "text": "\"agüentar o tranco\" (colloquial: to withstand the jolt, to hold up under strain) → \"take the pounding.\" Alternatives: \"withstand the jolt,\" \"hold up.\""
+    }
+  ],
+  "translator_notes": []
+}

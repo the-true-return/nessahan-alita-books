@@ -1757,6 +1757,79 @@
         "*"
       ],
       "notes": "Textos Complementares 22-0004, 22-0005 ('passionalismo romântico' → 'romantic passionalism'). Mantido o neologismo do autor; alternativa: 'passion-driven sentimentality'."
+    },
+    {
+      "term_pt": "magia sexual",
+      "match_pt": [
+        "magia sexual"
+      ],
+      "term_en": "sexual magic",
+      "match_en": [
+        "sexual magic"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "textos-complementares-ii-2009"
+      ],
+      "notes": "Textos Complementares II cap. 2 (03-0002 a 03-0008). Forma usual nas traduções inglesas de Samael Aun Weor; alternativa: 'sex magic'.",
+      "display_en": "sexual magic",
+      "display_pt": "magia sexual",
+      "note_en": "The occult term the author uses for a spiritualized, non-ejaculatory sexual practice with a single steady partner, opposed to promiscuity and to the common pursuit of orgasm. He presents it as requiring great mental concentration and refers the reader to recognized masters for its study."
+    },
+    {
+      "term_pt": "ginásio psicológico",
+      "match_pt": [
+        "ginásio psicológico"
+      ],
+      "term_en": "psychological gymnasium",
+      "match_en": [
+        "psychological gymnasium"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "textos-complementares-ii-2009"
+      ],
+      "notes": "Termo gnóstico (Samael Aun Weor): a vida diária como campo de auto-observação. Textos Complementares II 20-0022, 20-0023.",
+      "display_en": "psychological gymnasium",
+      "display_pt": "ginásio psicológico",
+      "note_en": "A Gnostic term for everyday life and its situations as the field in which one observes and dissolves one’s defects. The author warns that seeking out tempting situations on the pretext of observing the Ego is a misuse of it that only strengthens the “I’s.”"
+    },
+    {
+      "term_pt": "trapaça(s)",
+      "match_pt": [
+        "trapaça",
+        "trapaças"
+      ],
+      "term_en": "swindle(s)",
+      "match_en": [
+        "swindle",
+        "swindles",
+        "swindling"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "textos-complementares-ii-2009"
+      ],
+      "notes": "Engano deliberado no amor ('trapaça amorosa' → 'romantic swindle'; 'trapaças emocionais' → 'emotional swindles'). O verbo 'trapacear' fica 'cheat' ou 'swindle' conforme o contexto; 'trapaceira' → 'cheat' (entrada própria). Textos Complementares II 10-0005, 15-0004, 21-0006."
+    },
+    {
+      "term_pt": "entrega unilateral",
+      "match_pt": [
+        "entrega unilateral"
+      ],
+      "term_en": "one-sided surrender",
+      "match_en": [
+        "one-sided surrender"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "textos-complementares-ii-2009"
+      ],
+      "notes": "A entrega (do coração, dos sentimentos, da alma, do sexo) que a mulher exige do homem sem retribuí-la; 'entregar-se' → 'surrender' / 'give over'. Textos Complementares II 22-0074, 22-0076, 22-0077."
     }
   ]
 }

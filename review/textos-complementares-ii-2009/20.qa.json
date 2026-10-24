@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "20",
+  "title": "19. Libertando a alma",
+  "checked_at": "2026-10-24T13:20:43",
+  "segments_total": 45,
+  "segments_translated": 45,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "20-0013",
+      "text": "\"morte dos detalhes\" → \"death of details\" and \"lei de recorrência\" → \"law of recurrence\" (Gnostic terms from Samael Aun Weor, as usually rendered in English). Alternative for the first: \"death of the small details.\""
+    },
+    {
+      "segment": "20-0022",
+      "text": "\"ginásio psicológico\" → \"psychological gymnasium\" (Samael Aun Weor's term for daily life as a field for self-observation, as usually rendered in English)."
+    }
+  ],
+  "translator_notes": []
+}
