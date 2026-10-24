@@ -1663,6 +1663,100 @@
       "display_en": "emotional center",
       "display_pt": "centro emocional",
       "note_en": "From Gurdjieff and Samael Aun Weor: the psychic center of feelings, distinct from the intellectual and motor centers. The author holds that a man must master it to stay immune to emotional provocation and manipulation."
+    },
+    {
+      "term_pt": "tríade sinistra",
+      "match_pt": [
+        "tríade sinistra"
+      ],
+      "term_en": "Dark Triad",
+      "match_en": [
+        "Dark Triad"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo de psicologia (narcisismo, maquiavelismo, psicopatia), citado pelo autor a partir de Jonason e Schmitt (grafados 'Johnasson'). Textos Complementares 08-0004, 09-0007, 23-0010. Usado o termo inglês consagrado; alternativa literal: 'sinister triad'.",
+      "display_en": "Dark Triad",
+      "display_pt": "tríade sinistra",
+      "note_en": "The psychological term for the combination of narcissism, Machiavellianism, and psychopathy. The author cites the research of Jonason and Schmitt to support his claim that women are attracted to men who lie, act impulsively, and cheat."
+    },
+    {
+      "term_pt": "níveis de aproximação",
+      "match_pt": [
+        "níveis de aproximação",
+        "nível de aproximação"
+      ],
+      "term_en": "levels of approach",
+      "match_en": [
+        "levels of approach",
+        "level of approach"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Textos Complementares 02-0022 e cap. 18 (19-0001 a 19-0018): os quatro níveis do cortejo (ela não percebe o homem; contato; intenção explicitada; contato físico íntimo), cada um com táticas próprias.",
+      "display_en": "levels of approach",
+      "display_pt": "níveis de aproximação",
+      "note_en": "The four stages the author distinguishes in courtship: she does not notice the man, contact is established, his intention is made explicit, and intimate physical contact is achieved. He holds that a tactic that works at one level can be useless or harmful at another."
+    },
+    {
+      "term_pt": "infernização",
+      "match_pt": [
+        "infernização",
+        "infernizações"
+      ],
+      "term_en": "torment(s)",
+      "match_en": [
+        "torment",
+        "torments"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Ato de 'infernizar' a vida do homem. Traduzido como 'torment' em Reflexões Masculinas sobre a Mulher e o Amor (07-0010) e em Textos Complementares (19-0014, 19-0015). Alternativa: 'making life hell'."
+    },
+    {
+      "term_pt": "luxúria / luxurioso",
+      "match_pt": [
+        "luxúria",
+        "luxurioso",
+        "luxuriosos",
+        "luxuriosa"
+      ],
+      "term_en": "lust / lustful",
+      "match_en": [
+        "lust",
+        "lustful"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Desejo sexual desordenado, oposto pelo autor à paixão romântica. Textos Complementares cap. 21 (22-0001 a 22-0008); já 'lust' nos outros livros. Não confundir com 'luxury'."
+    },
+    {
+      "term_pt": "passionalismo",
+      "match_pt": [
+        "passionalismo"
+      ],
+      "term_en": "passionalism",
+      "match_en": [
+        "passionalism"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Textos Complementares 22-0004, 22-0005 ('passionalismo romântico' → 'romantic passionalism'). Mantido o neologismo do autor; alternativa: 'passion-driven sentimentality'."
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "06",
+  "title": "5. Comportamento violento e desilusão",
+  "checked_at": "2026-10-24T08:46:49",
+  "segments_total": 32,
+  "segments_translated": 32,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "06-0008",
+      "text": "The original spells the English term \"batttered man syndrome\" (typo); corrected to \"battered man syndrome,\" as the author writes it in 06-0019."
+    },
+    {
+      "segment": "06-0009",
+      "text": "The original note reads \"Em português: 'síndrome do homem maltratado'\" (\"In Portuguese: 'syndrome of the mistreated man'\"), glossing the English term for Brazilian readers. Rendered as a gloss in English so no Portuguese remains; alternative: drop the \"In Portuguese\" framing as done, or have a TN explain that the term was in English in the original."
+    }
+  ],
+  "translator_notes": []
+}

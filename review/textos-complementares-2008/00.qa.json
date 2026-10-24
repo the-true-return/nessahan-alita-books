@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T08:46:49",
+  "segments_total": 31,
+  "segments_translated": 31,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Title \"Textos Complementares\" → \"Supplementary Texts\" (glossary, config title_en). Alternative: \"Complementary Texts\"."
+    },
+    {
+      "segment": "00-0004",
+      "text": "The citation gives the English title; the Portuguese original is \"Textos Complementares\". \"Edição virtual independente\" → \"Independent online edition\", as in the other volumes."
+    }
+  ],
+  "translator_notes": []
+}

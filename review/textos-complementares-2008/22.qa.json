@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "22",
+  "title": "21. Amor passional e luxúria",
+  "checked_at": "2026-10-24T08:46:50",
+  "segments_total": 13,
+  "segments_translated": 13,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "22-0005",
+      "text": "Original spells \"Eric From\"; corrected to \"Erich Fromm\"."
+    },
+    {
+      "segment": "22-0013",
+      "text": "\"V.M.\" (Venerável Mestre, \"Venerable Master\") kept as the abbreviation used in Gnostic literature. Book title \"Morte em Marcha\" translated literally as \"Death in Motion\"; no established English title confirmed (alternatives: \"Death on the March\", \"Death Underway\"). The original ends with a doubled period \"..\", treated as a typo."
+    }
+  ],
+  "translator_notes": []
+}

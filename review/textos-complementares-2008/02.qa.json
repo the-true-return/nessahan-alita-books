@@ -1,0 +1,40 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "02",
+  "title": "1. Aprofundamentos",
+  "checked_at": "2026-10-24T08:46:49",
+  "segments_total": 113,
+  "segments_translated": 113,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "02-0001",
+      "text": "\"Aprofundamentos\" (literally \"deepenings\"): a set of short notes that deepen points from the earlier books. Used \"Going deeper\"; alternatives: \"Deeper insights\", \"Further explorations\"."
+    },
+    {
+      "segment": "02-0017",
+      "text": "\"virar o barco\" (literally \"turn the boat around\"): to reverse the situation. Kept the image; alternative: \"turn the tables\"."
+    },
+    {
+      "segment": "02-0022",
+      "text": "\"Estreitamento da intimidade\" (literally \"narrowing of intimacy\"): growing closer, increasing intimacy. Heading \"Narrowing the distance of intimacy\"; alternatives: \"Deepening intimacy\", \"Growing closer\"."
+    },
+    {
+      "segment": "02-0081",
+      "text": "\"O Alienista\" → \"The Alienist\" (established English title of Machado de Assis’s novella). \"O Imbecil Coletivo\" (Olavo de Carvalho, 1996) has no established English edition; translated as \"The Collective Imbecile\"."
+    },
+    {
+      "segment": "02-0102",
+      "text": "Wordplay: \"desgraçados\" means \"wretches,\" and the author reads it as \"des-graçados,\" \"deprived of Grace.\" Rendered \"dis-graced wretches\" to keep the pun; alternative: \"We human beings are wretches (deprived of the Grace of the Spirit)\" with a TN."
+    },
+    {
+      "segment": "02-0113",
+      "text": "\"sangue de barata\" (literally \"cockroach blood\"): Brazilian idiom for imperturbable coolness. Rendered \"ice water in our veins\"; alternative: \"a cool head\"."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,24 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "08",
+  "title": "7. Decadência familiar",
+  "checked_at": "2026-10-24T08:46:49",
+  "segments_total": 10,
+  "segments_translated": 10,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "08-0004",
+      "text": "The original spells the researcher’s name \"Johnasson\" (also in chapter 22); corrected to Peter K. Jonason. \"Tríade sinistra\" (literally \"sinister triad\") rendered with the established English term \"Dark Triad\" (narcissism, Machiavellianism, psychopathy); alternative: \"sinister triad\"."
+    },
+    {
+      "segment": "08-0006",
+      "text": "\"matrimônio perfeito\" alludes to Samael Aun Weor’s \"The Perfect Matrimony\" (O Matrimônio Perfeito), the title used in The Profane Feminine; rendered \"the perfect matrimony.\""
+    }
+  ],
+  "translator_notes": []
+}
