@@ -1,0 +1,26 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "23",
+  "title": "22. A infidelidade",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 44,
+  "segments_translated": 44,
+  "complete": true,
+  "pending_from": null,
+  "status": "warn",
+  "errors": [],
+  "warnings": [
+    "duplicate translation for different source segments: 23-0020, 23-0027, 23-0038, 23-0040"
+  ],
+  "queries": [
+    {
+      "segment": "23-0009",
+      "text": "Schopenhauer quotations in this chapter translated from the author’s Portuguese (Schopenhauer, 2004, a Portuguese anthology on women); no English edition is quoted."
+    },
+    {
+      "segment": "23-0017",
+      "text": "The bibliography (ch. 34) confirms the author is Eliana Calligaris (a woman), so \"Segundo ela\" → \"According to her\". The in-text spelling \"Caligaris\" is kept as in the original; the bibliography spells \"Calligaris\"."
+    }
+  ],
+  "translator_notes": []
+}

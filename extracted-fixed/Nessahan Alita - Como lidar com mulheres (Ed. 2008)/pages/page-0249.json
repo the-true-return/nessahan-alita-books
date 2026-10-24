@@ -1,0 +1,629 @@
+{
+  "page_number": 249,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        248.81979370117188,
+        109.04645538330078,
+        349.8471984863281,
+        127.87608337402344
+      ],
+      "text": "Sobre o autor:",
+      "spans": [
+        {
+          "text": "Sobre o autor: ",
+          "font": "Times-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            248.81979370117188,
+            109.04645538330078,
+            349.8471984863281,
+            127.87608337402344
+          ],
+          "origin": [
+            248.81979370117188,
+            123.24005126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        136.27142333984375,
+        515.4953002929688,
+        286.0602722167969
+      ],
+      "text": "O autor desta obra NÃO É PSICÓLOGO, sua formação profissional é \nem outro campo. Ele NÃO É MESTRE e NÃO QUER DISCÍPULOS E NEM \nSEGUIDORES. Ele NÃO É LÍDER DE NENHUMA RELIGIÃO. Ele apenas \ngosta de pensar livremente sobre a questão amorosa e acha que possui esse \ndireito. Seus pareceres são PROVISÓRIOS E INDEPENDENTES. O autor \npublicou suas idéias apenas para que as pessoas as estudassem e \ndiscutissem criticamente e recomenda às pessoas que leiam outros livros \nsobre o assunto. Suas idéias são somente um ponto de partida para \naprofundamento e pontes para outros autores e outros pontos de vista. Ele \nNÃO DÁ ORDENS, apenas faz sugestões que devem ser recebidas \ncriticamente.",
+      "spans": [
+        {
+          "text": "O autor desta obra NÃO É PSICÓLOGO, sua formação profissional é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            136.27142333984375,
+            515.4089965820312,
+            151.83926391601562
+          ],
+          "origin": [
+            117.23979187011719,
+            148.5599365234375
+          ]
+        },
+        {
+          "text": "em outro campo. Ele NÃO É MESTRE e NÃO QUER DISCÍPULOS E NEM ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            149.71148681640625,
+            515.3493041992188,
+            165.27944946289062
+          ],
+          "origin": [
+            82.74002075195312,
+            162.00018310546875
+          ]
+        },
+        {
+          "text": "SEGUIDORES. Ele NÃO É LÍDER DE NENHUMA RELIGIÃO. Ele apenas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            163.09149169921875,
+            515.4483642578125,
+            178.65927124023438
+          ],
+          "origin": [
+            82.73979949951172,
+            175.3800048828125
+          ]
+        },
+        {
+          "text": "gosta de pensar livremente sobre a questão amorosa e acha que possui esse ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            176.53167724609375,
+            515.4953002929688,
+            192.09945678710938
+          ],
+          "origin": [
+            82.74002075195312,
+            188.8201904296875
+          ]
+        },
+        {
+          "text": "direito. Seus pareceres são PROVISÓRIOS E INDEPENDENTES. O autor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            189.97149658203125,
+            515.3797607421875,
+            205.54006958007812
+          ],
+          "origin": [
+            82.74002075195312,
+            202.26080322265625
+          ]
+        },
+        {
+          "text": "publicou suas idéias apenas para que as pessoas as estudassem e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            203.3511962890625,
+            515.3873901367188,
+            218.91897583007812
+          ],
+          "origin": [
+            82.74099731445312,
+            215.63970947265625
+          ]
+        },
+        {
+          "text": "discutissem criticamente e recomenda às pessoas que leiam outros livros ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            216.7913818359375,
+            515.4575805664062,
+            232.35916137695312
+          ],
+          "origin": [
+            82.74099731445312,
+            229.07989501953125
+          ]
+        },
+        {
+          "text": "sobre o assunto. Suas idéias são somente um ponto de partida para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            230.2315673828125,
+            515.4541015625,
+            245.79934692382812
+          ],
+          "origin": [
+            82.74099731445312,
+            242.52008056640625
+          ]
+        },
+        {
+          "text": "aprofundamento e pontes para outros autores e outros pontos de vista. Ele ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            243.61126708984375,
+            515.4821166992188,
+            259.1790466308594
+          ],
+          "origin": [
+            82.74099731445312,
+            255.8997802734375
+          ]
+        },
+        {
+          "text": "NÃO DÁ ORDENS, apenas faz sugestões que devem ser recebidas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            257.0518798828125,
+            515.4780883789062,
+            272.6196594238281
+          ],
+          "origin": [
+            82.74099731445312,
+            269.34039306640625
+          ]
+        },
+        {
+          "text": "criticamente. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            270.49249267578125,
+            158.9039306640625,
+            286.0602722167969
+          ],
+          "origin": [
+            82.74099731445312,
+            282.781005859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74099731445312,
+        295.57257080078125,
+        515.5098876953125,
+        364.7809753417969
+      ],
+      "text": "O autor pede aos leitores para que NÃO O IMPORTUNEM com \nperguntas, porque tudo já está muito bem explicado em seus livros, e nem o \nPERTURBEM \ncom \ninsistências \npara \nque \ntome \nparte \nem \ngrupos \ntendenciosos. Ele não quer fãs e nem admiradores, quer apenas LEITORES \nCRÍTICOS, REFLEXIVOS E ESTUDIOSOS.",
+      "spans": [
+        {
+          "text": "O autor pede aos leitores para que NÃO O IMPORTUNEM com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24099731445312,
+            295.57257080078125,
+            515.48046875,
+            311.1403503417969
+          ],
+          "origin": [
+            117.24099731445312,
+            307.861083984375
+          ]
+        },
+        {
+          "text": "perguntas, porque tudo já está muito bem explicado em seus livros, e nem o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            308.9522705078125,
+            515.3976440429688,
+            324.5200500488281
+          ],
+          "origin": [
+            82.74099731445312,
+            321.24078369140625
+          ]
+        },
+        {
+          "text": "PERTURBEM ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            322.39288330078125,
+            164.48219299316406,
+            337.9606628417969
+          ],
+          "origin": [
+            82.74099731445312,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            175.18475341796875,
+            322.39288330078125,
+            201.13192749023438,
+            337.9606628417969
+          ],
+          "origin": [
+            175.18475341796875,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "insistências ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            211.8939971923828,
+            322.39288330078125,
+            280.3897705078125,
+            337.9606628417969
+          ],
+          "origin": [
+            211.8939971923828,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            291.15185546875,
+            322.39288330078125,
+            318.05816650390625,
+            337.9606628417969
+          ],
+          "origin": [
+            291.15185546875,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            328.7606201171875,
+            322.39288330078125,
+            351.5159606933594,
+            337.9606628417969
+          ],
+          "origin": [
+            328.7606201171875,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "tome ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            362.21844482421875,
+            322.39288330078125,
+            392.4097900390625,
+            337.9606628417969
+          ],
+          "origin": [
+            362.21844482421875,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "parte ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            403.171875,
+            322.39288330078125,
+            434.3403015136719,
+            337.9606628417969
+          ],
+          "origin": [
+            403.171875,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            445.1023864746094,
+            322.39288330078125,
+            464.2188720703125,
+            337.9606628417969
+          ],
+          "origin": [
+            445.1023864746094,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "grupos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            474.98095703125,
+            322.39288330078125,
+            515.5098876953125,
+            337.9606628417969
+          ],
+          "origin": [
+            474.98095703125,
+            334.681396484375
+          ]
+        },
+        {
+          "text": "tendenciosos. Ele não quer fãs e nem admiradores, quer apenas LEITORES ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            335.83349609375,
+            515.4396362304688,
+            351.4012756347656
+          ],
+          "origin": [
+            82.74099731445312,
+            348.12200927734375
+          ]
+        },
+        {
+          "text": "CRÍTICOS, REFLEXIVOS E ESTUDIOSOS. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            349.21319580078125,
+            336.38836669921875,
+            364.7809753417969
+          ],
+          "origin": [
+            82.74099731445312,
+            361.501708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74099731445312,
+        374.3526916503906,
+        515.5432739257812,
+        470.4410400390625
+      ],
+      "text": "O autor DESAPROVA a formação de quaisquer grupos que pretendam \nrepresentá-lo ou às suas idéias. Não há nenhum grupo ou instituição, em \nnenhum lugar do mundo, virtual ou não, que represente este autor. \nObviamente, podem existir grupos com pontos de vista semelhantes aos dele \nmas, definitivamente, nenhum destes grupos o representa. Todos aqueles \nque se disserem seus discípulos são IMPOSTORES e devem ser \ndesmascarados.",
+      "spans": [
+        {
+          "text": "O autor DESAPROVA a formação de quaisquer grupos que pretendam ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24099731445312,
+            374.3526916503906,
+            515.3605346679688,
+            389.92047119140625
+          ],
+          "origin": [
+            117.24099731445312,
+            386.6412048339844
+          ]
+        },
+        {
+          "text": "representá-lo ou às suas idéias. Não há nenhum grupo ou instituição, em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            387.7323913574219,
+            515.5432739257812,
+            403.3001708984375
+          ],
+          "origin": [
+            82.74099731445312,
+            400.0209045410156
+          ]
+        },
+        {
+          "text": "nenhum lugar do mundo, virtual ou não, que represente este autor. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            401.1730041503906,
+            515.4803466796875,
+            416.74078369140625
+          ],
+          "origin": [
+            82.74099731445312,
+            413.4615173339844
+          ]
+        },
+        {
+          "text": "Obviamente, podem existir grupos com pontos de vista semelhantes aos dele ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            414.6131896972656,
+            515.4143676757812,
+            430.18096923828125
+          ],
+          "origin": [
+            82.74099731445312,
+            426.9017028808594
+          ]
+        },
+        {
+          "text": "mas, definitivamente, nenhum destes grupos o representa. Todos aqueles ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            427.9928894042969,
+            515.3837280273438,
+            443.5606689453125
+          ],
+          "origin": [
+            82.74099731445312,
+            440.2814025878906
+          ]
+        },
+        {
+          "text": "que se disserem seus discípulos são IMPOSTORES e devem ser ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            441.4330749511719,
+            515.4705810546875,
+            457.0008544921875
+          ],
+          "origin": [
+            82.74099731445312,
+            453.7215881347656
+          ]
+        },
+        {
+          "text": "desmascarados. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            454.8732604980469,
+            172.2233428955078,
+            470.4410400390625
+          ],
+          "origin": [
+            82.74099731445312,
+            467.1617736816406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "249",
+      "spans": [
+        {
+          "text": "249",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "29",
+  "title": "28. Ao telefone",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 14,
+  "segments_translated": 14,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "29-0010",
+      "text": "Riddick’s line is translated from the author’s Portuguese (\"Talvez eu me importe\"); check the exact wording in the English dialogue of the film."
+    },
+    {
+      "segment": "29-0011",
+      "text": "The original cites the Brazilian title, \"A Batalha de Riddick\"; rendered with the English title, \"The Chronicles of Riddick\" (2004, dir. David Twohy)."
+    }
+  ],
+  "translator_notes": []
+}

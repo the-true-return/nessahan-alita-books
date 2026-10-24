@@ -179,11 +179,19 @@ def classify(lines: list[dict], page: dict, metrics: dict, drop_res, prev_page_n
 
     normal = [ln for ln in lines if ln["kind"] is None and ln["size"] > body_size - 1]
     last_normal = max((ln["y1"] for ln in normal), default=0)
+    # Long notes can start above mid-page, so any height is allowed when the
+    # zone opens with a raised number; a continuation from the previous page
+    # must sit low on the page.
     candidates = [ln for ln in lines if ln["kind"] is None and ln["size"] <= body_size - 1
-                  and ln["y0"] > 0.5 * height and ln["y0"] >= last_normal]
+                  and ln["y0"] >= last_normal]
     in_zone = False
+    # Size of the note text on this page (the line that follows the number);
+    # small text of another size (e.g. letters in 9.7 pt) is not a note.
+    note_sizes = {ln["size"] for ln in candidates if starts_with_ref(ln)}
     for i, ln in enumerate(candidates):
-        if starts_with_ref(ln) or (i == 0 and prev_page_notes and ln["y0"] > 0.7 * height):
+        same_size = any(abs(ln["size"] - s_) < 0.3 for s_ in note_sizes)
+        continuation = i == 0 and prev_page_notes and (ln["y0"] > 0.7 * height or same_size)
+        if starts_with_ref(ln) or continuation:
             in_zone = True
         if in_zone:
             ln["kind"] = "footnote"
@@ -428,6 +436,18 @@ def attach_footnotes(chapters, notes, warnings):
                     break
             if target:
                 break
+        if not target:
+            # Word sometimes prints a note pages away from its reference (the
+            # letters in "Como lidar com mulheres"): take the nearest unused
+            # reference with the same number, in either direction.
+            options = [(min(abs(page - p) for p in pages), k, ch, seg)
+                       for k, (pages, rn, ch, seg) in enumerate(refs) if rn == n and k not in used]
+            if options:
+                dist, k, ch, seg = min(options, key=lambda o: o[0])
+                if dist <= 6:
+                    target = (k, ch, seg)
+                    warnings.append(f"footnote {n} on page {page}: matched to the reference "
+                                    f"{dist} pages away (check)")
         if target:
             used.add(target[0])
             inserts[id(target[2])].append(note)

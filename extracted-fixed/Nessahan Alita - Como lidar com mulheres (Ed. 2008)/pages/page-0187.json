@@ -1,0 +1,480 @@
+{
+  "page_number": 187,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4903564453125,
+        118.65927124023438
+      ],
+      "text": "amor \ncom \namor, \na \ndedicação \ncom \ndedicação, \nque \nnos \namariam",
+      "spans": [
+        {
+          "text": "amor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            113.61473846435547,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            123.59723663330078,
+            103.09149169921875,
+            149.55038452148438,
+            118.65927124023438
+          ],
+          "origin": [
+            123.59723663330078,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "amor, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            159.59242248535156,
+            103.09149169921875,
+            194.30809020996094,
+            118.65927124023438
+          ],
+          "origin": [
+            159.59242248535156,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            204.35012817382812,
+            103.09149169921875,
+            213.44338989257812,
+            118.65927124023438
+          ],
+          "origin": [
+            204.35012817382812,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "dedicação ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            223.4854278564453,
+            103.09149169921875,
+            281.984619140625,
+            118.65927124023438
+          ],
+          "origin": [
+            223.4854278564453,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            291.90771484375,
+            103.09149169921875,
+            317.90380859375,
+            118.65927124023438
+          ],
+          "origin": [
+            291.90771484375,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "dedicação, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            327.9458312988281,
+            103.09149169921875,
+            390.18304443359375,
+            118.65927124023438
+          ],
+          "origin": [
+            327.9458312988281,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            400.16546630859375,
+            103.09149169921875,
+            422.8634338378906,
+            118.65927124023438
+          ],
+          "origin": [
+            400.16546630859375,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "nos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            432.90545654296875,
+            103.09149169921875,
+            455.01544189453125,
+            118.65927124023438
+          ],
+          "origin": [
+            432.90545654296875,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "amariam ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            465.0574645996094,
+            103.09149169921875,
+            515.4903564453125,
+            118.65927124023438
+          ],
+          "origin": [
+            465.0574645996094,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4413452148438,
+        138.81906127929688
+      ],
+      "text": "espontaneamente ao perceberem que as amamos e nos esforçamos para",
+      "spans": [
+        {
+          "text": "espontaneamente ao perceberem que as amamos e nos esforçamos para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4413452148438,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        515.4150390625,
+        158.97927856445312
+      ],
+      "text": "atender a seus gostos. Trata-se de uma mentira que ocasionou a adoção de",
+      "spans": [
+        {
+          "text": "atender a seus gostos. Trata-se de uma mentira que ocasionou a adoção de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            515.4150390625,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.51190185546875,
+        515.429931640625,
+        179.07968139648438
+      ],
+      "text": "padrões comportamentais errôneos. Agora, estamos condicionados e",
+      "spans": [
+        {
+          "text": "padrões comportamentais errôneos. Agora, estamos condicionados e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.51190185546875,
+            515.429931640625,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73980712890625,
+            175.8004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        183.67169189453125,
+        515.4522094726562,
+        199.23947143554688
+      ],
+      "text": "precisamos adotar um novo comportamento para atingir os fins que",
+      "spans": [
+        {
+          "text": "precisamos adotar um novo comportamento para atingir os fins que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            183.67169189453125,
+            515.4522094726562,
+            199.23947143554688
+          ],
+          "origin": [
+            82.73980712890625,
+            195.960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        203.7720947265625,
+        475.013916015625,
+        219.33987426757812
+      ],
+      "text": "almejamos mas para tanto é necessário antes conhecê-lo com clareza.",
+      "spans": [
+        {
+          "text": "almejamos mas para tanto é necessário antes conhecê-lo com clareza. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            203.7720947265625,
+            475.013916015625,
+            219.33987426757812
+          ],
+          "origin": [
+            82.73980712890625,
+            216.06060791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        235.57171630859375,
+        515.572509765625,
+        251.13949584960938
+      ],
+      "text": "O que define o comportamento adequado para a conquista e a",
+      "spans": [
+        {
+          "text": "O que define o comportamento adequado para a conquista e a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            235.57171630859375,
+            515.572509765625,
+            251.13949584960938
+          ],
+          "origin": [
+            117.23980712890625,
+            247.8602294921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        255.73150634765625,
+        515.4630126953125,
+        271.2992858886719
+      ],
+      "text": "convivência são as estruturas do inconsciente feminino e não aquilo que é",
+      "spans": [
+        {
+          "text": "convivência são as estruturas do inconsciente feminino e não aquilo que é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            255.73150634765625,
+            515.4630126953125,
+            271.2992858886719
+          ],
+          "origin": [
+            82.73980712890625,
+            268.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        275.8319091796875,
+        515.5880126953125,
+        291.3996887207031
+      ],
+      "text": "conscientemente dito e assumido. O amor, tal como nos foi ensinado, é uma",
+      "spans": [
+        {
+          "text": "conscientemente dito e assumido. O amor, tal como nos foi ensinado, é uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            275.8319091796875,
+            515.5880126953125,
+            291.3996887207031
+          ],
+          "origin": [
+            82.73980712890625,
+            288.12042236328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        295.99212646484375,
+        347.65533447265625,
+        311.5599060058594
+      ],
+      "text": "mentira pestilenta que precisa ser abandonada.",
+      "spans": [
+        {
+          "text": "mentira pestilenta que precisa ser abandonada. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            295.99212646484375,
+            347.65533447265625,
+            311.5599060058594
+          ],
+          "origin": [
+            82.73980712890625,
+            308.2806396484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "187",
+      "spans": [
+        {
+          "text": "187",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

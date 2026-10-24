@@ -1,0 +1,25 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "24",
+  "title": "23. A infantilidade",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 17,
+  "segments_translated": 17,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "24-0003",
+      "text": "Harrison and Weiner (Human Biology, 1964), translated from the Portuguese edition quoted by the author; the English original is copyrighted, so this is a back-translation. “a tenção” in the source read as “a retenção” (retention)."
+    }
+  ],
+  "translator_notes": [
+    {
+      "segment": "24-0008",
+      "text": "Saci, caipora, curupira, and iara (spelled “yara” in the original) are mischievous or dangerous beings of Brazilian folklore (a one-legged trickster, forest guardians, a river siren). Kept as names; an English reader may need a note."
+    }
+  ]
+}

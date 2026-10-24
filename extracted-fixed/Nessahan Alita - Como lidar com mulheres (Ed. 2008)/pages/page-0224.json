@@ -1,0 +1,1483 @@
+{
+  "page_number": 224,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        103.99347686767578,
+        529.0953369140625,
+        117.18739318847656
+      ],
+      "text": "Apenas darei continuidade ao fecundo (apesar da intolerância) estudo",
+      "spans": [
+        {
+          "text": "Apenas darei continuidade ao fecundo (apesar da intolerância) estudo ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            103.99347686767578,
+            529.0953369140625,
+            117.18739318847656
+          ],
+          "origin": [
+            94.0198974609375,
+            114.41998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        121.75348663330078,
+        469.1142578125,
+        134.94740295410156
+      ],
+      "text": "que temos feito. Obviamente publicarei todos os escritos meus.",
+      "spans": [
+        {
+          "text": "que temos feito. Obviamente publicarei todos os escritos meus. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            121.75348663330078,
+            469.1142578125,
+            134.94740295410156
+          ],
+          "origin": [
+            94.0198974609375,
+            132.17999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        151.15350341796875,
+        529.2333374023438,
+        164.34742736816406
+      ],
+      "text": "Com o amante, a mulher vive  um conto de fadas. Sua necessidade",
+      "spans": [
+        {
+          "text": "Com o amante, a mulher vive  um conto de fadas. Sua necessidade ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            151.15350341796875,
+            529.2333374023438,
+            164.34742736816406
+          ],
+          "origin": [
+            128.4600067138672,
+            161.58001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        168.79345703125,
+        529.09228515625,
+        181.9873809814453
+      ],
+      "text": "de emoções intensas a impele continuamente a buscar o papel de",
+      "spans": [
+        {
+          "text": "de emoções intensas a impele continuamente a buscar o papel de ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            168.79345703125,
+            529.09228515625,
+            181.9873809814453
+          ],
+          "origin": [
+            94.0198974609375,
+            179.219970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        186.553466796875,
+        529.2144165039062,
+        199.7473907470703
+      ],
+      "text": "princesa à espera do príncipe encantado. Quando o amante se torna",
+      "spans": [
+        {
+          "text": "princesa à espera do príncipe encantado. Quando o amante se torna ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            186.553466796875,
+            529.2144165039062,
+            199.7473907470703
+          ],
+          "origin": [
+            94.0198974609375,
+            196.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        204.3134765625,
+        529.2335815429688,
+        217.5074005126953
+      ],
+      "text": "marido, \nautomaticamente \ntorna-se \no \nvilão \nde \num \nnovo \nconto. \nO",
+      "spans": [
+        {
+          "text": "marido, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            204.3134765625,
+            141.2346954345703,
+            217.5074005126953
+          ],
+          "origin": [
+            94.0198974609375,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "automaticamente ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            149.68992614746094,
+            204.3134765625,
+            252.55477905273438,
+            217.5074005126953
+          ],
+          "origin": [
+            149.68992614746094,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "torna-se ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            261.010009765625,
+            204.3134765625,
+            312.6476135253906,
+            217.5074005126953
+          ],
+          "origin": [
+            261.010009765625,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            321.10284423828125,
+            204.3134765625,
+            330.69036865234375,
+            217.5074005126953
+          ],
+          "origin": [
+            321.10284423828125,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "vilão ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            339.0859680175781,
+            204.3134765625,
+            369.5050354003906,
+            217.5074005126953
+          ],
+          "origin": [
+            339.0859680175781,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            377.96026611328125,
+            204.3134765625,
+            394.47509765625,
+            217.5074005126953
+          ],
+          "origin": [
+            377.96026611328125,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "um ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            402.9303283691406,
+            204.3134765625,
+            423.27978515625,
+            217.5074005126953
+          ],
+          "origin": [
+            402.9303283691406,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "novo ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            431.675537109375,
+            204.3134765625,
+            462.0778503417969,
+            217.5074005126953
+          ],
+          "origin": [
+            431.675537109375,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "conto. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            470.4736022949219,
+            204.3134765625,
+            509.4369201660156,
+            217.5074005126953
+          ],
+          "origin": [
+            470.4736022949219,
+            214.739990234375
+          ]
+        },
+        {
+          "text": "O ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            517.89208984375,
+            204.3134765625,
+            529.2335815429688,
+            217.5074005126953
+          ],
+          "origin": [
+            517.89208984375,
+            214.739990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        222.01348876953125,
+        529.1256713867188,
+        235.20741271972656
+      ],
+      "text": "responsável por isto é o convívio próximo e continuado, que elimina a",
+      "spans": [
+        {
+          "text": "responsável por isto é o convívio próximo e continuado, que elimina a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            222.01348876953125,
+            529.1256713867188,
+            235.20741271972656
+          ],
+          "origin": [
+            94.0198974609375,
+            232.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        239.77349853515625,
+        529.2623901367188,
+        252.96742248535156
+      ],
+      "text": "possibilidade de fantasiar e faz com que a princesa se acostume ao",
+      "spans": [
+        {
+          "text": "possibilidade de fantasiar e faz com que a princesa se acostume ao ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            239.77349853515625,
+            529.2623901367188,
+            252.96742248535156
+          ],
+          "origin": [
+            94.0198974609375,
+            250.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        257.4735107421875,
+        529.2200317382812,
+        270.66741943359375
+      ],
+      "text": "príncipe, agora marido. Para continuar atendendo à necessidade de sua",
+      "spans": [
+        {
+          "text": "príncipe, agora marido. Para continuar atendendo à necessidade de sua ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            257.4735107421875,
+            529.2200317382812,
+            270.66741943359375
+          ],
+          "origin": [
+            94.0198974609375,
+            267.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        275.1734619140625,
+        529.3125,
+        288.36737060546875
+      ],
+      "text": "alma, a princesa então transforma o antigo príncipe em vilão e se",
+      "spans": [
+        {
+          "text": "alma, a princesa então transforma o antigo príncipe em vilão e se ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            275.1734619140625,
+            529.3125,
+            288.36737060546875
+          ],
+          "origin": [
+            94.0198974609375,
+            285.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        292.9334716796875,
+        529.1557006835938,
+        306.12738037109375
+      ],
+      "text": "mantém à espera do homem da sua vida, espera que jamais se realizará",
+      "spans": [
+        {
+          "text": "mantém à espera do homem da sua vida, espera que jamais se realizará ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            292.9334716796875,
+            529.1557006835938,
+            306.12738037109375
+          ],
+          "origin": [
+            94.0198974609375,
+            303.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        310.6934814453125,
+        529.1715087890625,
+        323.88739013671875
+      ],
+      "text": "pelo simples fato de que este homem não existe na vida real mas apenas",
+      "spans": [
+        {
+          "text": "pelo simples fato de que este homem não existe na vida real mas apenas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            310.6934814453125,
+            529.1715087890625,
+            323.88739013671875
+          ],
+          "origin": [
+            94.0198974609375,
+            321.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        328.39349365234375,
+        193.723876953125,
+        341.58740234375
+      ],
+      "text": "em sua fantasia.",
+      "spans": [
+        {
+          "text": "em sua fantasia. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            328.39349365234375,
+            193.723876953125,
+            341.58740234375
+          ],
+          "origin": [
+            94.0198974609375,
+            338.82000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        357.7934875488281,
+        529.1284790039062,
+        370.9873962402344
+      ],
+      "text": "A sutileza da traição feminina torna muito difícil sua admissão,",
+      "spans": [
+        {
+          "text": "A sutileza da traição feminina torna muito difícil sua admissão, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            357.7934875488281,
+            529.1284790039062,
+            370.9873962402344
+          ],
+          "origin": [
+            128.4600067138672,
+            368.2200012207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        375.4934997558594,
+        529.184814453125,
+        388.6874084472656
+      ],
+      "text": "quase impossível, quando não há um flagrante, fato que irrita o homem.",
+      "spans": [
+        {
+          "text": "quase impossível, quando não há um flagrante, fato que irrita o homem. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            375.4934997558594,
+            529.184814453125,
+            388.6874084472656
+          ],
+          "origin": [
+            94.0198974609375,
+            385.9200134277344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        393.25347900390625,
+        529.1786499023438,
+        406.4473876953125
+      ],
+      "text": "Reveste-se  de uma aura magnífica, impecável, inocente e espiritual, da",
+      "spans": [
+        {
+          "text": "Reveste-se  de uma aura magnífica, impecável, inocente e espiritual, da ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            393.25347900390625,
+            529.1786499023438,
+            406.4473876953125
+          ],
+          "origin": [
+            94.0198974609375,
+            403.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        410.9534912109375,
+        529.1101684570312,
+        424.14739990234375
+      ],
+      "text": "qual duvidar seria um sacrilégio: a intimidade pura com um amigo sem",
+      "spans": [
+        {
+          "text": "qual duvidar seria um sacrilégio: a intimidade pura com um amigo sem ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            410.9534912109375,
+            529.1101684570312,
+            424.14739990234375
+          ],
+          "origin": [
+            94.0198974609375,
+            421.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        428.7135009765625,
+        529.0965576171875,
+        441.90740966796875
+      ],
+      "text": "maldade, \na \nadmiração \n\"sem \nintenção\" \npor \numa \nfigura \nmasculina",
+      "spans": [
+        {
+          "text": "maldade, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            428.7135009765625,
+            149.76593017578125,
+            441.90740966796875
+          ],
+          "origin": [
+            94.0198974609375,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            158.82139587402344,
+            428.7135009765625,
+            168.37490844726562,
+            441.90740966796875
+          ],
+          "origin": [
+            158.82139587402344,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "admiração ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            177.4303741455078,
+            428.7135009765625,
+            239.80723571777344,
+            441.90740966796875
+          ],
+          "origin": [
+            177.4303741455078,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "\"sem ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            248.92218017578125,
+            428.7135009765625,
+            280.3822937011719,
+            441.90740966796875
+          ],
+          "origin": [
+            248.92218017578125,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "intenção\" ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            289.4971618652344,
+            428.7135009765625,
+            346.7434997558594,
+            441.90740966796875
+          ],
+          "origin": [
+            289.4971618652344,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "por ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            355.7989501953125,
+            428.7135009765625,
+            377.5866394042969,
+            441.90740966796875
+          ],
+          "origin": [
+            355.7989501953125,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "uma ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            386.7016906738281,
+            428.7135009765625,
+            413.8087463378906,
+            441.90740966796875
+          ],
+          "origin": [
+            386.7016906738281,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "figura ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            422.9247741699219,
+            428.7135009765625,
+            459.7259521484375,
+            441.90740966796875
+          ],
+          "origin": [
+            422.9247741699219,
+            439.1400146484375
+          ]
+        },
+        {
+          "text": "masculina ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            468.7818908691406,
+            428.7135009765625,
+            529.0965576171875,
+            441.90740966796875
+          ],
+          "origin": [
+            468.7818908691406,
+            439.1400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        446.4734802246094,
+        529.2184448242188,
+        459.6673889160156
+      ],
+      "text": "qualquer, famosa ou não, acessível ou não. Por esta razão, os homens",
+      "spans": [
+        {
+          "text": "qualquer, famosa ou não, acessível ou não. Por esta razão, os homens ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            446.4734802246094,
+            529.2184448242188,
+            459.6673889160156
+          ],
+          "origin": [
+            94.0198974609375,
+            456.8999938964844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        464.1734924316406,
+        529.2093505859375,
+        477.3674011230469
+      ],
+      "text": "experientes \nconsideram \nque \ntodas \nas \nmulheres \nque \nlhes \ncaem",
+      "spans": [
+        {
+          "text": "experientes ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            464.1734924316406,
+            164.34994506835938,
+            477.3674011230469
+          ],
+          "origin": [
+            94.0198974609375,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "consideram ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            174.90509033203125,
+            464.1734924316406,
+            243.53695678710938,
+            477.3674011230469
+          ],
+          "origin": [
+            174.90509033203125,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            253.97230529785156,
+            464.1734924316406,
+            277.6394958496094,
+            477.3674011230469
+          ],
+          "origin": [
+            253.97230529785156,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "todas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            288.1946105957031,
+            464.1734924316406,
+            322.4073486328125,
+            477.3674011230469
+          ],
+          "origin": [
+            288.1946105957031,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "as ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            332.9624938964844,
+            464.1734924316406,
+            348.49798583984375,
+            477.3674011230469
+          ],
+          "origin": [
+            332.9624938964844,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "mulheres ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            359.0531311035156,
+            464.1734924316406,
+            414.8417663574219,
+            477.3674011230469
+          ],
+          "origin": [
+            359.0531311035156,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            425.3968811035156,
+            464.1734924316406,
+            449.0495910644531,
+            477.3674011230469
+          ],
+          "origin": [
+            425.3968811035156,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "lhes ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            459.5453186035156,
+            464.1734924316406,
+            485.7596740722656,
+            477.3674011230469
+          ],
+          "origin": [
+            459.5453186035156,
+            474.6000061035156
+          ]
+        },
+        {
+          "text": "caem ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            496.3147888183594,
+            464.1734924316406,
+            529.2093505859375,
+            477.3674011230469
+          ],
+          "origin": [
+            496.3147888183594,
+            474.6000061035156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        481.87347412109375,
+        529.1657104492188,
+        495.0673828125
+      ],
+      "text": "apaixonadas nos braços são infiéis até fortes provas em contrário.",
+      "spans": [
+        {
+          "text": "apaixonadas nos braços são infiéis até fortes provas em contrário. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            481.87347412109375,
+            529.1657104492188,
+            495.0673828125
+          ],
+          "origin": [
+            94.0198974609375,
+            492.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        499.63348388671875,
+        529.1917114257812,
+        512.827392578125
+      ],
+      "text": "Desconfiam mais das que lhes juram sinceridade e entrega do que das",
+      "spans": [
+        {
+          "text": "Desconfiam mais das que lhes juram sinceridade e entrega do que das ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            499.63348388671875,
+            529.1917114257812,
+            512.827392578125
+          ],
+          "origin": [
+            94.0198974609375,
+            510.05999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        517.33349609375,
+        529.1858520507812,
+        530.5274047851562
+      ],
+      "text": "que se assumem como prostitutas: estas não mentem e não representam",
+      "spans": [
+        {
+          "text": "que se assumem como prostitutas: estas não mentem e não representam ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            517.33349609375,
+            529.1858520507812,
+            530.5274047851562
+          ],
+          "origin": [
+            94.0198974609375,
+            527.760009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        535.093505859375,
+        529.2192993164062,
+        548.2874145507812
+      ],
+      "text": "perigo, sua natureza já está escancarada, revelada; aquelas escondem as",
+      "spans": [
+        {
+          "text": "perigo, sua natureza já está escancarada, revelada; aquelas escondem as ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            535.093505859375,
+            529.2192993164062,
+            548.2874145507812
+          ],
+          "origin": [
+            94.0198974609375,
+            545.52001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        552.79345703125,
+        529.1735229492188,
+        565.9873657226562
+      ],
+      "text": "armadilhas. Quanto mais a entrega sentimental for solicitada, mais",
+      "spans": [
+        {
+          "text": "armadilhas. Quanto mais a entrega sentimental for solicitada, mais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            552.79345703125,
+            529.1735229492188,
+            565.9873657226562
+          ],
+          "origin": [
+            94.0198974609375,
+            563.219970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        570.553466796875,
+        264.41748046875,
+        583.7473754882812
+      ],
+      "text": "desconfiado ficará o homem.",
+      "spans": [
+        {
+          "text": "desconfiado ficará o homem. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            570.553466796875,
+            264.41748046875,
+            583.7473754882812
+          ],
+          "origin": [
+            94.0198974609375,
+            580.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73944091796875,
+        613.859130859375,
+        514.8961181640625,
+        737.4002685546875
+      ],
+      "text": "26  \"Vejamos agora uma estratégia muito engraçada para que os tímidos e complexados \nconsigam conquistar mulheres: Quando um homem sai acompanhado por uma mulher linda, as \noutras mulheres passam a paquerá-lo por se sentirem inferiorizadas. As fêmeas humanas são \naltamente competitivas. Portanto, basta pagar para uma amiga linda aparecer em público \nconosco para que rapidamente as outras fiquem interessadas, se questionando sobre nossos \natrativos.  Obviamente, as mulheres que lerem isso negarão tudo e irão deplorar esta divertida \nestratégia, mas ela funciona\" (mensagem postada em blog pessoal, em 3/8/2004, às 00:46:32). \n27 Não se trata de sentir o orgasmo e simultaneamente reter o sêmen mas de realmente sacrificar \no orgasmo, uma função meramente animal, para experienciar outra modalidade de êxtase: o \nespiritual.  \n28 Refere-se a uma indagação a respeito da ocorrência do estupro entre os animais.",
+      "spans": [
+        {
+          "text": "26",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            624.2757568359375,
+            88.5977783203125,
+            632.0596313476562
+          ],
+          "origin": [
+            82.74002075195312,
+            630.4199829101562
+          ]
+        },
+        {
+          "text": "\"Vejamos agora uma estratégia muito engraçada para que os tímidos e complexados ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            101.3404312133789,
+            625.9963989257812,
+            514.5951538085938,
+            636.6831665039062
+          ],
+          "origin": [
+            101.3404312133789,
+            634.3200073242188
+          ]
+        },
+        {
+          "text": "consigam conquistar mulheres: Quando um homem sai acompanhado por uma mulher linda, as ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            636.0162963867188,
+            514.6031494140625,
+            646.7030639648438
+          ],
+          "origin": [
+            82.74082946777344,
+            644.3399047851562
+          ]
+        },
+        {
+          "text": "outras mulheres passam a paquerá-lo por se sentirem inferiorizadas. As fêmeas humanas são ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            646.0968017578125,
+            514.6823120117188,
+            656.7835693359375
+          ],
+          "origin": [
+            82.74082946777344,
+            654.42041015625
+          ]
+        },
+        {
+          "text": "altamente competitivas. Portanto, basta pagar para uma amiga linda aparecer em público ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            656.1773071289062,
+            514.7203369140625,
+            666.8640747070312
+          ],
+          "origin": [
+            82.74082946777344,
+            664.5009155273438
+          ]
+        },
+        {
+          "text": "conosco para que rapidamente as outras fiquem interessadas, se questionando sobre nossos ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            666.2578125,
+            514.6214599609375,
+            676.944580078125
+          ],
+          "origin": [
+            82.74082946777344,
+            674.5814208984375
+          ]
+        },
+        {
+          "text": "atrativos.  Obviamente, as mulheres que lerem isso negarão tudo e irão deplorar esta divertida ",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            676.2777099609375,
+            514.705810546875,
+            686.9644775390625
+          ],
+          "origin": [
+            82.74082946777344,
+            684.601318359375
+          ]
+        },
+        {
+          "text": "estratégia, mas ela funciona\"",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74082946777344,
+            686.3577880859375,
+            212.78761291503906,
+            697.0445556640625
+          ],
+          "origin": [
+            82.74082946777344,
+            694.681396484375
+          ]
+        },
+        {
+          "text": " (mensagem postada em blog pessoal, em 3/8/2004, às 00:46:32).",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            213.84083557128906,
+            685.4650268554688,
+            501.6508483886719,
+            697.140869140625
+          ],
+          "origin": [
+            213.84083557128906,
+            694.681396484375
+          ]
+        },
+        {
+          "text": "27",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73983764648438,
+            694.7164916992188,
+            88.59759521484375,
+            702.5003662109375
+          ],
+          "origin": [
+            82.73983764648438,
+            700.8607177734375
+          ]
+        },
+        {
+          "text": " Não se trata de sentir o orgasmo e simultaneamente reter o sêmen mas de realmente sacrificar ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56015014648438,
+            695.5443115234375,
+            514.682373046875,
+            707.2201538085938
+          ],
+          "origin": [
+            88.56015014648438,
+            704.7606811523438
+          ]
+        },
+        {
+          "text": "o orgasmo, uma função meramente animal, para experienciar outra modalidade de êxtase: o ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73944854736328,
+            705.6244506835938,
+            514.7258911132812,
+            717.30029296875
+          ],
+          "origin": [
+            82.73944854736328,
+            714.8408203125
+          ]
+        },
+        {
+          "text": "espiritual.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73944091796875,
+            715.6443481445312,
+            133.59429931640625,
+            727.3201904296875
+          ],
+          "origin": [
+            82.73944091796875,
+            724.8607177734375
+          ]
+        },
+        {
+          "text": "28",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73944091796875,
+            724.8965454101562,
+            88.59719848632812,
+            732.680419921875
+          ],
+          "origin": [
+            82.73944091796875,
+            731.040771484375
+          ]
+        },
+        {
+          "text": " Refere-se a uma indagação a respeito da ocorrência do estupro entre os animais. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55975341796875,
+            725.7244262695312,
+            451.03729248046875,
+            737.4002685546875
+          ],
+          "origin": [
+            88.55975341796875,
+            734.9407958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "224",
+      "spans": [
+        {
+          "text": "224",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "page_number": 217,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        103.99347686767578,
+        529.1675415039062,
+        117.18739318847656
+      ],
+      "text": "O fundamental é ser cada vez mais ousado nas investidas e ao",
+      "spans": [
+        {
+          "text": "O fundamental é ser cada vez mais ousado nas investidas e ao ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            103.99347686767578,
+            529.1675415039062,
+            117.18739318847656
+          ],
+          "origin": [
+            128.4600067138672,
+            114.41998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        121.75348663330078,
+        529.221923828125,
+        134.94740295410156
+      ],
+      "text": "mesmo tempo cada vez mais indiferente. Observe as reações dela e vá",
+      "spans": [
+        {
+          "text": "mesmo tempo cada vez mais indiferente. Observe as reações dela e vá ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            121.75348663330078,
+            529.221923828125,
+            134.94740295410156
+          ],
+          "origin": [
+            94.0198974609375,
+            132.17999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        139.4534912109375,
+        170.23098754882812,
+        152.6474151611328
+      ],
+      "text": "seguindo-as.",
+      "spans": [
+        {
+          "text": "seguindo-as. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            139.4534912109375,
+            170.23098754882812,
+            152.6474151611328
+          ],
+          "origin": [
+            94.0198974609375,
+            149.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        168.37347412109375,
+        330.80029296875,
+        193.5335693359375
+      ],
+      "text": "***** \n10/8/2004 00:49:23",
+      "spans": [
+        {
+          "text": "***** ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            292.260009765625,
+            168.37347412109375,
+            330.80029296875,
+            181.56739807128906
+          ],
+          "origin": [
+            292.260009765625,
+            178.79998779296875
+          ]
+        },
+        {
+          "text": "10/8/2004 00:49:23",
+          "font": "Helvetica",
+          "size": 9.744400024414062,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            180.14476013183594,
+            211.21688842773438,
+            193.5335693359375
+          ],
+          "origin": [
+            94.0198974609375,
+            190.6199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        227.23345947265625,
+        529.1849365234375,
+        240.42738342285156
+      ],
+      "text": "Não pretendia continuar mas, vendo a necessidade, o faço por",
+      "spans": [
+        {
+          "text": "Não pretendia continuar mas, vendo a necessidade, o faço por ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            227.23345947265625,
+            529.1849365234375,
+            240.42738342285156
+          ],
+          "origin": [
+            128.4600067138672,
+            237.65997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        244.99346923828125,
+        529.13134765625,
+        258.1873779296875
+      ],
+      "text": "enquanto. Excepcionalmente, me deixarei desviar um pouco de nossos",
+      "spans": [
+        {
+          "text": "enquanto. Excepcionalmente, me deixarei desviar um pouco de nossos ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            244.99346923828125,
+            529.13134765625,
+            258.1873779296875
+          ],
+          "origin": [
+            94.0198974609375,
+            255.41998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        262.6934814453125,
+        529.1115112304688,
+        275.88739013671875
+      ],
+      "text": "objetos de estudo para tratar extensamente de questões pessoais",
+      "spans": [
+        {
+          "text": "objetos de estudo para tratar extensamente de questões pessoais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            262.6934814453125,
+            529.1115112304688,
+            275.88739013671875
+          ],
+          "origin": [
+            94.0198974609375,
+            273.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        280.4534912109375,
+        529.1825561523438,
+        293.64739990234375
+      ],
+      "text": "inúteis, apenas neste e-mail. Nos próximos (se houver resposta sua),",
+      "spans": [
+        {
+          "text": "inúteis, apenas neste e-mail. Nos próximos (se houver resposta sua), ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            280.4534912109375,
+            529.1825561523438,
+            293.64739990234375
+          ],
+          "origin": [
+            94.0198974609375,
+            290.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        298.15350341796875,
+        529.1978149414062,
+        311.347412109375
+      ],
+      "text": "ignorarei por completo qualquer uma de suas observações fúteis sobre",
+      "spans": [
+        {
+          "text": "ignorarei por completo qualquer uma de suas observações fúteis sobre ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            298.15350341796875,
+            529.1978149414062,
+            311.347412109375
+          ],
+          "origin": [
+            94.0198974609375,
+            308.58001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        315.853515625,
+        529.1947631835938,
+        329.04742431640625
+      ],
+      "text": "minha pessoa e me centrarei exclusivamente nos temas, a despeito de",
+      "spans": [
+        {
+          "text": "minha pessoa e me centrarei exclusivamente nos temas, a despeito de ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            315.853515625,
+            529.1947631835938,
+            329.04742431640625
+          ],
+          "origin": [
+            94.0198974609375,
+            326.280029296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        333.6134948730469,
+        234.9092559814453,
+        346.8074035644531
+      ],
+      "text": "seus possíveis alaridos.",
+      "spans": [
+        {
+          "text": "seus possíveis alaridos. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            333.6134948730469,
+            234.9092559814453,
+            346.8074035644531
+          ],
+          "origin": [
+            94.0198974609375,
+            344.0400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        363.01348876953125,
+        529.2188720703125,
+        376.2073974609375
+      ],
+      "text": "É evidente sua incapacidade de entender o que digo, de falsear e",
+      "spans": [
+        {
+          "text": "É evidente sua incapacidade de entender o que digo, de falsear e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            363.01348876953125,
+            529.2188720703125,
+            376.2073974609375
+          ],
+          "origin": [
+            128.4600067138672,
+            373.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        380.77349853515625,
+        529.208740234375,
+        393.9674072265625
+      ],
+      "text": "de distorcer tudo. Sua forma de estudo é absolutamente confusa e as",
+      "spans": [
+        {
+          "text": "de distorcer tudo. Sua forma de estudo é absolutamente confusa e as ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            380.77349853515625,
+            529.208740234375,
+            393.9674072265625
+          ],
+          "origin": [
+            94.0198974609375,
+            391.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        398.4734802246094,
+        529.1476440429688,
+        411.6673889160156
+      ],
+      "text": "idéias se misturam em um pandemônio infernal e passional. A clareza",
+      "spans": [
+        {
+          "text": "idéias se misturam em um pandemônio infernal e passional. A clareza ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            398.4734802246094,
+            529.1476440429688,
+            411.6673889160156
+          ],
+          "origin": [
+            94.0198974609375,
+            408.8999938964844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        416.2334899902344,
+        529.0914306640625,
+        429.4273986816406
+      ],
+      "text": "inexiste em seus escritos e a recusa em adotá-la é constante. Há",
+      "spans": [
+        {
+          "text": "inexiste em seus escritos e a recusa em adotá-la é constante. Há ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            416.2334899902344,
+            529.0914306640625,
+            429.4273986816406
+          ],
+          "origin": [
+            94.0198974609375,
+            426.6600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        433.87347412109375,
+        529.1953125,
+        447.0673828125
+      ],
+      "text": "também a incapacidade de relacionar minhas afirmações presentes com",
+      "spans": [
+        {
+          "text": "também a incapacidade de relacionar minhas afirmações presentes com ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            433.87347412109375,
+            529.1953125,
+            447.0673828125
+          ],
+          "origin": [
+            94.0198974609375,
+            444.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        451.63348388671875,
+        529.0992431640625,
+        464.827392578125
+      ],
+      "text": "pontos que você mesma levantou ao longo de vários e-mails passados.",
+      "spans": [
+        {
+          "text": "pontos que você mesma levantou ao longo de vários e-mails passados. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            451.63348388671875,
+            529.0992431640625,
+            464.827392578125
+          ],
+          "origin": [
+            94.0198974609375,
+            462.05999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        469.39349365234375,
+        529.1268920898438,
+        482.58740234375
+      ],
+      "text": "Além disso, a senhorita evitou inúmeros pontos que levantei em minhas",
+      "spans": [
+        {
+          "text": "Além disso, a senhorita evitou inúmeros pontos que levantei em minhas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            469.39349365234375,
+            529.1268920898438,
+            482.58740234375
+          ],
+          "origin": [
+            94.0198974609375,
+            479.82000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        487.0934753417969,
+        529.1834716796875,
+        500.2873840332031
+      ],
+      "text": "mensagens e é claro que não perderei meu tempo indo atrás disso pois",
+      "spans": [
+        {
+          "text": "mensagens e é claro que não perderei meu tempo indo atrás disso pois ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            487.0934753417969,
+            529.1834716796875,
+            500.2873840332031
+          ],
+          "origin": [
+            94.0198974609375,
+            497.5199890136719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        504.853515625,
+        529.1830444335938,
+        518.0474243164062
+      ],
+      "text": "os pontos evitados foram justamente os erros nevrálgicos em seu",
+      "spans": [
+        {
+          "text": "os pontos evitados foram justamente os erros nevrálgicos em seu ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            504.853515625,
+            529.1830444335938,
+            518.0474243164062
+          ],
+          "origin": [
+            94.0198974609375,
+            515.280029296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        522.6124877929688,
+        529.3632202148438,
+        535.806396484375
+      ],
+      "text": "pensamento. Tais fatos apenas reforçam minhas observações sobre a",
+      "spans": [
+        {
+          "text": "pensamento. Tais fatos apenas reforçam minhas observações sobre a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            522.6124877929688,
+            529.3632202148438,
+            535.806396484375
+          ],
+          "origin": [
+            94.0198974609375,
+            533.0390014648438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        540.2534790039062,
+        346.0969543457031,
+        553.4473876953125
+      ],
+      "text": "incapacidade argumentativa das mulheres.",
+      "spans": [
+        {
+          "text": "incapacidade argumentativa das mulheres. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            540.2534790039062,
+            346.0969543457031,
+            553.4473876953125
+          ],
+          "origin": [
+            94.0198974609375,
+            550.6799926757812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        569.6534423828125,
+        529.2577514648438,
+        582.8473510742188
+      ],
+      "text": "Não confunda boa argumentação com seus ataques apelativos",
+      "spans": [
+        {
+          "text": "Não confunda boa argumentação com seus ataques apelativos ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            569.6534423828125,
+            529.2577514648438,
+            582.8473510742188
+          ],
+          "origin": [
+            128.4600067138672,
+            580.0799560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        587.4134521484375,
+        431.48406982421875,
+        600.6073608398438
+      ],
+      "text": "emocionais porque a diferença é visível e ficaria ridículo.",
+      "spans": [
+        {
+          "text": "emocionais porque a diferença é visível e ficaria ridículo. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            587.4134521484375,
+            431.48406982421875,
+            600.6073608398438
+          ],
+          "origin": [
+            94.0198974609375,
+            597.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        616.8134765625,
+        529.2190551757812,
+        630.0073852539062
+      ],
+      "text": "A senhorita não deveria condenar o teor analítico de minhas",
+      "spans": [
+        {
+          "text": "A senhorita não deveria condenar o teor analítico de minhas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            616.8134765625,
+            529.2190551757812,
+            630.0073852539062
+          ],
+          "origin": [
+            128.4600067138672,
+            627.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        634.573486328125,
+        529.1537475585938,
+        647.7673950195312
+      ],
+      "text": "mensagens ou perder o tempo sabotando o estudo com observações",
+      "spans": [
+        {
+          "text": "mensagens ou perder o tempo sabotando o estudo com observações ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            634.573486328125,
+            529.1537475585938,
+            647.7673950195312
+          ],
+          "origin": [
+            94.0198974609375,
+            645.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        652.33349609375,
+        529.0704345703125,
+        665.5274047851562
+      ],
+      "text": "passionais sobre a minha pessoa. Se não dispõe da capacidade de",
+      "spans": [
+        {
+          "text": "passionais sobre a minha pessoa. Se não dispõe da capacidade de ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            652.33349609375,
+            529.0704345703125,
+            665.5274047851562
+          ],
+          "origin": [
+            94.0198974609375,
+            662.760009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        669.9735107421875,
+        529.1105346679688,
+        683.1674194335938
+      ],
+      "text": "devolver réplicas com o mesmo nível de objetividade, profundidade e",
+      "spans": [
+        {
+          "text": "devolver réplicas com o mesmo nível de objetividade, profundidade e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            669.9735107421875,
+            529.1105346679688,
+            683.1674194335938
+          ],
+          "origin": [
+            94.0198974609375,
+            680.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        687.7335205078125,
+        280.935791015625,
+        700.9274291992188
+      ],
+      "text": "abrangência, o problema é seu.",
+      "spans": [
+        {
+          "text": "abrangência, o problema é seu. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            687.7335205078125,
+            280.935791015625,
+            700.9274291992188
+          ],
+          "origin": [
+            94.0198974609375,
+            698.1600341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        717.1334838867188,
+        529.165283203125,
+        730.327392578125
+      ],
+      "text": "Em nenhum momento deixei de responder às perguntas quando",
+      "spans": [
+        {
+          "text": "Em nenhum momento deixei de responder às perguntas quando ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            717.1334838867188,
+            529.165283203125,
+            730.327392578125
+          ],
+          "origin": [
+            128.4600067138672,
+            727.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "217",
+      "spans": [
+        {
+          "text": "217",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

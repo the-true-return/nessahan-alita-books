@@ -1,0 +1,959 @@
+{
+  "page_number": 79,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        246.71978759765625,
+        109.19652557373047,
+        351.494140625,
+        125.3594741821289
+      ],
+      "text": "10. A alternância",
+      "spans": [
+        {
+          "text": "10. A alternância ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            246.71978759765625,
+            109.19652557373047,
+            351.494140625,
+            125.3594741821289
+          ],
+          "origin": [
+            246.71978759765625,
+            121.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        140.77081298828125,
+        492.2217712402344,
+        156.33859252929688
+      ],
+      "text": "A relação nunca deve se polarizar na frieza ou no afeto contínuos.",
+      "spans": [
+        {
+          "text": "A relação nunca deve se polarizar na frieza ou no afeto contínuos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            140.77081298828125,
+            492.2217712402344,
+            156.33859252929688
+          ],
+          "origin": [
+            117.23979187011719,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        172.5704345703125,
+        515.4204711914062,
+        188.13821411132812
+      ],
+      "text": "Temos que ser indiferentes e, ao mesmo, tempo ardentemente",
+      "spans": [
+        {
+          "text": "Temos que ser indiferentes e, ao mesmo, tempo ardentemente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            172.5704345703125,
+            515.4204711914062,
+            188.13821411132812
+          ],
+          "origin": [
+            117.23979187011719,
+            184.85894775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        192.67083740234375,
+        151.15155029296875,
+        208.23861694335938
+      ],
+      "text": "românticos.",
+      "spans": [
+        {
+          "text": "românticos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            192.67083740234375,
+            151.15155029296875,
+            208.23861694335938
+          ],
+          "origin": [
+            82.73979187011719,
+            204.9593505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        224.470458984375,
+        515.5450439453125,
+        240.03823852539062
+      ],
+      "text": "O homem exclusivamente afetuoso torna-se repulsivo e a mulher",
+      "spans": [
+        {
+          "text": "O homem exclusivamente afetuoso torna-se repulsivo e a mulher ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            224.470458984375,
+            515.5450439453125,
+            240.03823852539062
+          ],
+          "origin": [
+            117.23979187011719,
+            236.75897216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        244.6302490234375,
+        515.4219360351562,
+        260.1980285644531
+      ],
+      "text": "passa a considerá-lo pegajoso. Por outro lado, a distância e a indiferença",
+      "spans": [
+        {
+          "text": "passa a considerá-lo pegajoso. Por outro lado, a distância e a indiferença ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            244.6302490234375,
+            515.4219360351562,
+            260.1980285644531
+          ],
+          "origin": [
+            82.73979187011719,
+            256.91876220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        263.5084228515625,
+        515.4883422851562,
+        280.2992248535156
+      ],
+      "text": "prolongadas esfriam a relação1. Logo, temos que alternar nossa conduta,",
+      "spans": [
+        {
+          "text": "prolongadas esfriam a relação",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            264.73065185546875,
+            257.5531921386719,
+            280.2984313964844
+          ],
+          "origin": [
+            82.73979187011719,
+            277.0191650390625
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            258.539794921875,
+            263.5084228515625,
+            262.41998291015625,
+            273.86077880859375
+          ],
+          "origin": [
+            258.539794921875,
+            271.68011474609375
+          ]
+        },
+        {
+          "text": ". Logo, temos que alternar nossa conduta, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            262.4397888183594,
+            264.7314453125,
+            515.4883422851562,
+            280.2992248535156
+          ],
+          "origin": [
+            262.4397888183594,
+            277.01995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        284.89166259765625,
+        515.47314453125,
+        300.4594421386719
+      ],
+      "text": "deixando-a confusa, sem saber o que realmente sentimos, exatamente como",
+      "spans": [
+        {
+          "text": "deixando-a confusa, sem saber o que realmente sentimos, exatamente como ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            284.89166259765625,
+            515.47314453125,
+            300.4594421386719
+          ],
+          "origin": [
+            82.73979187011719,
+            297.18017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        304.9920654296875,
+        515.5253295898438,
+        320.5598449707031
+      ],
+      "text": "ela faz conosco. Cultive a frieza do Budismo Zen aliada ao calor do Kama",
+      "spans": [
+        {
+          "text": "ela faz conosco. Cultive a frieza do Budismo Zen aliada ao calor do Kama ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            304.9920654296875,
+            515.5253295898438,
+            320.5598449707031
+          ],
+          "origin": [
+            82.73979187011719,
+            317.28057861328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        325.15185546875,
+        119.09786224365234,
+        340.7196350097656
+      ],
+      "text": "Sutra.",
+      "spans": [
+        {
+          "text": "Sutra. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            325.15185546875,
+            119.09786224365234,
+            340.7196350097656
+          ],
+          "origin": [
+            82.73979187011719,
+            337.44036865234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        355.6686706542969,
+        515.4132080078125,
+        372.5196228027344
+      ],
+      "text": "Temos que sobrepujar a mulher2 em suas tendências opostas,",
+      "spans": [
+        {
+          "text": "Temos que sobrepujar a mulher",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            356.9514465332031,
+            319.73297119140625,
+            372.51922607421875
+          ],
+          "origin": [
+            117.23979187011719,
+            369.2399597167969
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            320.7008056640625,
+            355.6686706542969,
+            324.58099365234375,
+            366.0210266113281
+          ],
+          "origin": [
+            320.7008056640625,
+            363.8403625488281
+          ]
+        },
+        {
+          "text": " em suas tendências opostas, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            324.6007995605469,
+            356.95184326171875,
+            515.4132080078125,
+            372.5196228027344
+          ],
+          "origin": [
+            324.6007995605469,
+            369.2403564453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        377.05224609375,
+        515.5548706054688,
+        392.6200256347656
+      ],
+      "text": "bipolares. Temos que conduzir a relação e administrar os sentimentos",
+      "spans": [
+        {
+          "text": "bipolares. Temos que conduzir a relação e administrar os sentimentos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            377.05224609375,
+            515.5548706054688,
+            392.6200256347656
+          ],
+          "origin": [
+            82.74180603027344,
+            389.34075927734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        397.15264892578125,
+        504.52386474609375,
+        412.7204284667969
+      ],
+      "text": "femininos tal como aparecem, ao invés de tentar mudá-los ou submetê-los.",
+      "spans": [
+        {
+          "text": "femininos tal como aparecem, ao invés de tentar mudá-los ou submetê-los. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            397.15264892578125,
+            504.52386474609375,
+            412.7204284667969
+          ],
+          "origin": [
+            82.74180603027344,
+            409.441162109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24180603027344,
+        428.9522399902344,
+        515.5383911132812,
+        444.52001953125
+      ],
+      "text": "Por conhecerem bem os mecanismos emocionais, as mulheres",
+      "spans": [
+        {
+          "text": "Por conhecerem bem os mecanismos emocionais, as mulheres ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24180603027344,
+            428.9522399902344,
+            515.5383911132812,
+            444.52001953125
+          ],
+          "origin": [
+            117.24180603027344,
+            441.2407531738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        449.0526428222656,
+        515.50927734375,
+        464.62042236328125
+      ],
+      "text": "costumam fazer jogos de alternância (LÉVI, 1855/2001). São jogos que",
+      "spans": [
+        {
+          "text": "costumam fazer jogos de alternância (LÉVI, 1855/2001). São jogos que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            449.0526428222656,
+            515.50927734375,
+            464.62042236328125
+          ],
+          "origin": [
+            82.74180603027344,
+            461.3411560058594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        469.2124328613281,
+        515.474365234375,
+        484.78021240234375
+      ],
+      "text": "variam muito na forma e são marcados pela oscilação entre opostos:",
+      "spans": [
+        {
+          "text": "variam muito na forma e são marcados pela oscilação entre opostos: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            469.2124328613281,
+            515.474365234375,
+            484.78021240234375
+          ],
+          "origin": [
+            82.74180603027344,
+            481.5009460449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        489.3128356933594,
+        515.6303100585938,
+        504.880615234375
+      ],
+      "text": "aproximam-se e depois afastam-se, comportam-se como se fossem fiéis e em",
+      "spans": [
+        {
+          "text": "aproximam-se e depois afastam-se, comportam-se como se fossem fiéis e em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            489.3128356933594,
+            515.6303100585938,
+            504.880615234375
+          ],
+          "origin": [
+            82.74180603027344,
+            501.6013488769531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74180603027344,
+        509.47259521484375,
+        288.9707336425781,
+        525.0404052734375
+      ],
+      "text": "seguida admiram outros machos etc.",
+      "spans": [
+        {
+          "text": "seguida admiram outros machos etc. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74180603027344,
+            509.47259521484375,
+            288.9707336425781,
+            525.0404052734375
+          ],
+          "origin": [
+            82.74180603027344,
+            521.7611083984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24180603027344,
+        541.272216796875,
+        515.4421997070312,
+        556.8400268554688
+      ],
+      "text": "A melhor forma de estraçalhar esses odiosos jogos emocionais com os",
+      "spans": [
+        {
+          "text": "A melhor forma de estraçalhar esses odiosos jogos emocionais com os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24180603027344,
+            541.272216796875,
+            515.4421997070312,
+            556.8400268554688
+          ],
+          "origin": [
+            117.24180603027344,
+            553.5607299804688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74179077148438,
+        561.4324340820312,
+        515.3910522460938,
+        577.000244140625
+      ],
+      "text": "opostos consiste em “empurrar” a mulher justamente rumo à direção",
+      "spans": [
+        {
+          "text": "opostos consiste em “empurrar” a mulher justamente rumo à direção ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74179077148438,
+            561.4324340820312,
+            515.3910522460938,
+            577.000244140625
+          ],
+          "origin": [
+            82.74179077148438,
+            573.720947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74179077148438,
+        580.30859375,
+        515.5590209960938,
+        597.1005859375
+      ],
+      "text": "inesperada3. A responsabilidade e a culpa que lhe cabem, e que ela tenta",
+      "spans": [
+        {
+          "text": "inesperada",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74179077148438,
+            581.5327758789062,
+            141.47088623046875,
+            597.1005859375
+          ],
+          "origin": [
+            82.74179077148438,
+            593.8212890625
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            142.38128662109375,
+            580.30859375,
+            146.26148986816406,
+            590.6609497070312
+          ],
+          "origin": [
+            142.38128662109375,
+            588.4802856445312
+          ]
+        },
+        {
+          "text": ". A responsabilidade e a culpa que lhe cabem, e que ela tenta ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            146.28128051757812,
+            581.5316162109375,
+            515.5590209960938,
+            597.0994262695312
+          ],
+          "origin": [
+            146.28128051757812,
+            593.8201293945312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74148559570312,
+        601.6918334960938,
+        425.564697265625,
+        617.2596435546875
+      ],
+      "text": "transferir a nós, precisa ser devolvida muito amigavelmente.",
+      "spans": [
+        {
+          "text": "transferir a nós, precisa ser devolvida muito amigavelmente. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74148559570312,
+            601.6918334960938,
+            425.564697265625,
+            617.2596435546875
+          ],
+          "origin": [
+            82.74148559570312,
+            613.9803466796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        654.1195068359375,
+        514.7068481445312,
+        737.399658203125
+      ],
+      "text": "1 “A perpetuidade das carícias gera logo a saciedade, o tédio, a antipatia, do mesmo modo que \numa frieza ou uma severidade constantes distanciam e destróem gradativamente a afeição” \n(LËVI, 2001, p. 226). \n2 Refiro-me à competição por auto-domínio já explicada.  \n3 Ou seja, em direção àquilo que ela está tentando fazer, à atitude ou comportamento \nindesejáveis que ela está tentando assumir. Não forçaremos, portanto, o livre-arbítrio feminino \nao adotarmos esta postura.",
+      "spans": [
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            664.5357666015625,
+            85.65750885009766,
+            672.3196411132812
+          ],
+          "origin": [
+            82.74000549316406,
+            670.6799926757812
+          ]
+        },
+        {
+          "text": " “A perpetuidade das carícias gera logo a saciedade, o tédio, a antipatia, do mesmo modo que ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            665.3636474609375,
+            514.64794921875,
+            677.0394897460938
+          ],
+          "origin": [
+            85.68023681640625,
+            674.5800170898438
+          ]
+        },
+        {
+          "text": "uma frieza ou uma severidade constantes distanciam e destróem gradativamente a afeição” ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            675.383544921875,
+            514.705078125,
+            687.0593872070312
+          ],
+          "origin": [
+            82.74024963378906,
+            684.5999145507812
+          ]
+        },
+        {
+          "text": "(LËVI, 2001, p. 226). ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74026489257812,
+            685.463623046875,
+            181.5541534423828,
+            697.1394653320312
+          ],
+          "origin": [
+            82.74026489257812,
+            694.6799926757812
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74026489257812,
+            694.7158813476562,
+            85.65776824951172,
+            702.499755859375
+          ],
+          "origin": [
+            82.74026489257812,
+            700.860107421875
+          ]
+        },
+        {
+          "text": " Refiro-me à competição por auto-domínio já explicada.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68049621582031,
+            695.543701171875,
+            339.9494934082031,
+            707.2195434570312
+          ],
+          "origin": [
+            85.68049621582031,
+            704.7600708007812
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74026489257812,
+            704.7959594726562,
+            85.65776824951172,
+            712.579833984375
+          ],
+          "origin": [
+            82.74026489257812,
+            710.940185546875
+          ]
+        },
+        {
+          "text": " Ou seja, em direção àquilo que ela está tentando fazer, à atitude ou comportamento ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68049621582031,
+            705.623779296875,
+            514.6885986328125,
+            717.2996215820312
+          ],
+          "origin": [
+            85.68049621582031,
+            714.8401489257812
+          ]
+        },
+        {
+          "text": "indesejáveis que ela está tentando assumir. Não forçaremos, portanto, o livre-arbítrio feminino ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74065399169922,
+            715.643310546875,
+            514.7068481445312,
+            727.3191528320312
+          ],
+          "origin": [
+            82.74065399169922,
+            724.8596801757812
+          ]
+        },
+        {
+          "text": "ao adotarmos esta postura. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74065399169922,
+            725.7238159179688,
+            203.0916748046875,
+            737.399658203125
+          ],
+          "origin": [
+            82.74065399169922,
+            734.940185546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "79",
+      "spans": [
+        {
+          "text": "79",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

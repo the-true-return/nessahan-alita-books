@@ -1,0 +1,1009 @@
+{
+  "page_number": 245,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.44580078125,
+        145.54006958007812
+      ],
+      "text": "Primeira Epístola do Apóstolo Paulo a Timóteo. In: A Bíblia Sagrada \n(1997-2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae \nPublicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola do Apóstolo Paulo a Timóteo. In: A Bíblia Sagrada ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.3775024414062,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "(1997-2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            116.53167724609375,
+            515.44580078125,
+            132.09945678710938
+          ],
+          "origin": [
+            82.74002075195312,
+            128.8201904296875
+          ]
+        },
+        {
+          "text": "Publicações. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            129.9722900390625,
+            162.78692626953125,
+            145.54006958007812
+          ],
+          "origin": [
+            82.74002075195312,
+            142.26080322265625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            163.79981994628906,
+            128.68833923339844,
+            165.9416961669922,
+            139.0407257080078
+          ],
+          "origin": [
+            163.79981994628906,
+            136.86004638671875
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            166.91973876953125,
+            129.9715576171875,
+            214.0282440185547,
+            145.53933715820312
+          ],
+          "origin": [
+            166.91973876953125,
+            142.26007080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        155.0516357421875,
+        515.4127807617188,
+        197.43936157226562
+      ],
+      "text": "Primeira Epístola Universal do Apóstolo Pedro. In: A Bíblia Sagrada: O \nAntigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). \nBarueri: Sociedade Bíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola Universal do Apóstolo Pedro. In: A Bíblia Sagrada: O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73924255371094,
+            155.0516357421875,
+            515.4127807617188,
+            170.61941528320312
+          ],
+          "origin": [
+            82.73924255371094,
+            167.34014892578125
+          ]
+        },
+        {
+          "text": "Antigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            168.49151611328125,
+            515.4089965820312,
+            184.05929565429688
+          ],
+          "origin": [
+            82.73979949951172,
+            180.780029296875
+          ]
+        },
+        {
+          "text": "Barueri: Sociedade Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            181.8712158203125,
+            302.567138671875,
+            197.43899536132812
+          ],
+          "origin": [
+            82.739013671875,
+            194.15972900390625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            303.4800109863281,
+            180.64817810058594,
+            305.62188720703125,
+            191.0005645751953
+          ],
+          "origin": [
+            303.4800109863281,
+            188.81988525390625
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            306.5999450683594,
+            181.87158203125,
+            353.6157531738281,
+            197.43936157226562
+          ],
+          "origin": [
+            306.5999450683594,
+            194.16009521484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        207.0111083984375,
+        515.4115600585938,
+        249.39913940429688
+      ],
+      "text": "Primeira Epístola Universal do Apóstolo Pedro. In: A Bíblia Sagrada (1997-\n2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae Publicações. \n2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola Universal do Apóstolo Pedro. In: A Bíblia Sagrada (1997-",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            207.0111083984375,
+            511.5630187988281,
+            222.57925415039062
+          ],
+          "origin": [
+            82.73994445800781,
+            219.29962158203125
+          ]
+        },
+        {
+          "text": "2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae Publicações. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            220.39117431640625,
+            515.4115600585938,
+            235.95895385742188
+          ],
+          "origin": [
+            82.739013671875,
+            232.6796875
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            233.83135986328125,
+            88.57401275634766,
+            249.39913940429688
+          ],
+          "origin": [
+            82.739013671875,
+            246.119873046875
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            89.57964324951172,
+            232.5481414794922,
+            91.72151184082031,
+            242.90052795410156
+          ],
+          "origin": [
+            89.57964324951172,
+            240.7198486328125
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            92.6995620727539,
+            233.83135986328125,
+            139.71322631835938,
+            249.39913940429688
+          ],
+          "origin": [
+            92.6995620727539,
+            246.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7394027709961,
+        258.91143798828125,
+        515.50927734375,
+        301.2983093261719
+      ],
+      "text": "Provérbios de Salomão. In: A Bíblia Sagrada: O Antigo e o Novo \nTestamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade \nBíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "Provérbios de Salomão. In: A Bíblia Sagrada: O Antigo e o Novo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7394027709961,
+            258.91143798828125,
+            515.50927734375,
+            274.4792175292969
+          ],
+          "origin": [
+            82.7394027709961,
+            271.199951171875
+          ]
+        },
+        {
+          "text": "Testamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            272.3504638671875,
+            515.4237060546875,
+            287.9182434082031
+          ],
+          "origin": [
+            82.73979949951172,
+            284.63897705078125
+          ]
+        },
+        {
+          "text": "Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74019622802734,
+            285.73016357421875,
+            192.01364135742188,
+            301.2979431152344
+          ],
+          "origin": [
+            82.74019622802734,
+            298.0186767578125
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            192.960205078125,
+            284.50750732421875,
+            195.10208129882812,
+            294.85986328125
+          ],
+          "origin": [
+            192.960205078125,
+            292.67919921875
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.0801239013672,
+            285.73052978515625,
+            243.09593200683594,
+            301.2983093261719
+          ],
+          "origin": [
+            196.0801239013672,
+            298.01904296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        310.87030029296875,
+        515.4541015625,
+        339.8193359375
+      ],
+      "text": "Provérbios de Salomão. In: A Bíblia Sagrada (1997-2004, João Ferreira de \nAlmeida, trad.). São Paulo: Scripturae Publicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "Provérbios de Salomão. In: A Bíblia Sagrada (1997-2004, João Ferreira de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74012756347656,
+            310.87030029296875,
+            515.4541015625,
+            326.4392395019531
+          ],
+          "origin": [
+            82.74012756347656,
+            323.1588134765625
+          ]
+        },
+        {
+          "text": "Almeida, trad.). São Paulo: Scripturae Publicações. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            324.25115966796875,
+            381.5561828613281,
+            339.8189392089844
+          ],
+          "origin": [
+            82.739990234375,
+            336.5396728515625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            382.55999755859375,
+            323.02813720703125,
+            384.7018737792969,
+            333.3804931640625
+          ],
+          "origin": [
+            382.55999755859375,
+            331.1998291015625
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            385.6197814941406,
+            324.2515563964844,
+            432.65924072265625,
+            339.8193359375
+          ],
+          "origin": [
+            385.6197814941406,
+            336.5400695800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        349.3312683105469,
+        515.50390625,
+        378.3392639160156
+      ],
+      "text": "SALMANSHON, Karen (1994). Como Adestrar seu Homem em Mais ou \nMenos 21 Dias. Best Seller.",
+      "spans": [
+        {
+          "text": "SALMANSHON, Karen (1994). Como Adestrar seu Homem em Mais ou ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            349.3312683105469,
+            515.50390625,
+            364.8990478515625
+          ],
+          "origin": [
+            82.73977661132812,
+            361.6197814941406
+          ]
+        },
+        {
+          "text": "Menos 21 Dias. Best Seller.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            362.771484375,
+            246.11709594726562,
+            378.3392639160156
+          ],
+          "origin": [
+            82.73979949951172,
+            375.05999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        387.8515930175781,
+        515.4623413085938,
+        416.8592529296875
+      ],
+      "text": "SANFORD, J. (1987). Os Parceiros Invisíveis: o Masculino e o Feminino \ndentro de Cada Um de Nós. (I. F. Leal Ferreira, trad.). São Paulo: Paulus.",
+      "spans": [
+        {
+          "text": "SANFORD, J. (1987). Os Parceiros Invisíveis: o Masculino e o Feminino ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            387.8515930175781,
+            515.4623413085938,
+            403.41937255859375
+          ],
+          "origin": [
+            82.73979949951172,
+            400.1401062011719
+          ]
+        },
+        {
+          "text": "dentro de Cada Um de Nós. (I. F. Leal Ferreira, trad.). São Paulo: Paulus.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            401.2914733886719,
+            504.4046630859375,
+            416.8592529296875
+          ],
+          "origin": [
+            82.73979949951172,
+            413.5799865722656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        426.3114929199219,
+        515.4358520507812,
+        455.3194580078125
+      ],
+      "text": "SANFORD, J. (1988) Mal: O Lado Sombrio da Realidade.(Sílvio José Pilon \ne João Silvério Trevisan, trads.) São Paulo: Paulus. 2ª edição.",
+      "spans": [
+        {
+          "text": "SANFORD, J. (1988) Mal: O Lado Sombrio da Realidade.(Sílvio José Pilon ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            426.3114929199219,
+            515.4358520507812,
+            441.8795471191406
+          ],
+          "origin": [
+            82.74000549316406,
+            438.60028076171875
+          ]
+        },
+        {
+          "text": "e João Silvério Trevisan, trads.) São Paulo: Paulus. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            439.7516784667969,
+            381.5951843261719,
+            455.3194580078125
+          ],
+          "origin": [
+            82.74099731445312,
+            452.0401916503906
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            382.5,
+            438.468505859375,
+            384.6418762207031,
+            448.82086181640625
+          ],
+          "origin": [
+            382.5,
+            446.64019775390625
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            385.61993408203125,
+            439.7516784667969,
+            432.6711730957031,
+            455.3194580078125
+          ],
+          "origin": [
+            385.61993408203125,
+            452.0401916503906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73992919921875,
+        464.8313903808594,
+        515.3976440429688,
+        493.83978271484375
+      ],
+      "text": "SCHELP, Diogo (2006). O Sexo Oprimido (Entrevista realizada com Van \nCreveld). Revista Veja. Ano 36, número 39, 1 de outubro de 2006.",
+      "spans": [
+        {
+          "text": "SCHELP, Diogo (2006). O Sexo Oprimido (Entrevista realizada com Van ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            464.8313903808594,
+            515.3976440429688,
+            480.399169921875
+          ],
+          "origin": [
+            82.73992919921875,
+            477.1199035644531
+          ]
+        },
+        {
+          "text": "Creveld). Revista Veja. Ano 36, número 39, 1 de outubro de 2006.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            478.271484375,
+            462.9505920410156,
+            493.83978271484375
+          ],
+          "origin": [
+            82.73992919921875,
+            490.5605163574219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        503.35052490234375,
+        515.4841918945312,
+        559.1788330078125
+      ],
+      "text": "SCHOPENHAUER, Arthur (2004). A Arte de Lidar com as Mulheres \n(Eurides Avance de Souza, trad. do alemão, Karina Jannini, trad. do \nitaliano, Franco Volpi, rev. e org.). São Paulo: Martins Fontes. Coletânea \nde trechos extraídos de 8 originais.",
+      "spans": [
+        {
+          "text": "SCHOPENHAUER, Arthur (2004). A Arte de Lidar com as Mulheres ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            503.35052490234375,
+            515.3775024414062,
+            518.91943359375
+          ],
+          "origin": [
+            82.74000549316406,
+            515.64013671875
+          ]
+        },
+        {
+          "text": "(Eurides Avance de Souza, trad. do alemão, Karina Jannini, trad. do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            516.7910766601562,
+            515.4841918945312,
+            532.35888671875
+          ],
+          "origin": [
+            82.74002075195312,
+            529.07958984375
+          ]
+        },
+        {
+          "text": "italiano, Franco Volpi, rev. e org.). São Paulo: Martins Fontes. Coletânea ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            530.1708374023438,
+            515.43408203125,
+            545.7386474609375
+          ],
+          "origin": [
+            82.74002075195312,
+            542.4593505859375
+          ]
+        },
+        {
+          "text": "de trechos extraídos de 8 originais. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            543.6110229492188,
+            283.3626708984375,
+            559.1788330078125
+          ],
+          "origin": [
+            82.74002075195312,
+            555.8995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        568.6911010742188,
+        515.4008178710938,
+        611.0789794921875
+      ],
+      "text": "SOMMERS, Christina Hoff (Jun 12, 2001). The War Against Boys: How \nMisguided Feminism Is Harming Our Young Men. Simon & Schuster Ltda. \nFirst Edition.",
+      "spans": [
+        {
+          "text": "SOMMERS, Christina Hoff (Jun 12, 2001). The War Against Boys: How ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            568.6911010742188,
+            515.2866821289062,
+            584.2589111328125
+          ],
+          "origin": [
+            82.74002075195312,
+            580.9796142578125
+          ]
+        },
+        {
+          "text": "Misguided Feminism Is Harming Our Young Men. Simon & Schuster Ltda. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            582.1314697265625,
+            515.4008178710938,
+            597.6992797851562
+          ],
+          "origin": [
+            82.73979949951172,
+            594.4199829101562
+          ]
+        },
+        {
+          "text": "First Edition. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            595.5111694335938,
+            160.94772338867188,
+            611.0789794921875
+          ],
+          "origin": [
+            82.739990234375,
+            607.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        620.6506958007812,
+        515.4879150390625,
+        663.0399169921875
+      ],
+      "text": "SOUZA, Mauro Araújo de (2003). Cosmovisão em Nietzsche: Leituras de \nGilles Deleuze, Scarlett Marton e outra leitura. São Paulo: Oficina do Livro \nEditora.",
+      "spans": [
+        {
+          "text": "SOUZA, Mauro Araújo de (2003). Cosmovisão em Nietzsche: Leituras de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            620.6506958007812,
+            515.4879150390625,
+            636.218505859375
+          ],
+          "origin": [
+            82.739990234375,
+            632.939208984375
+          ]
+        },
+        {
+          "text": "Gilles Deleuze, Scarlett Marton e outra leitura. São Paulo: Oficina do Livro ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            634.031494140625,
+            515.4132690429688,
+            649.5993041992188
+          ],
+          "origin": [
+            82.73979949951172,
+            646.3200073242188
+          ]
+        },
+        {
+          "text": "Editora.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            647.4721069335938,
+            134.65298461914062,
+            663.0399169921875
+          ],
+          "origin": [
+            82.74002075195312,
+            659.7606201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        672.5514526367188,
+        515.4122924804688,
+        701.5595092773438
+      ],
+      "text": "VILAR, Esther (sep 2, 1998). The Manipulated Man. Pinter & Martin Ltda. \n2ª edition. (Originalmente publicado em 1972).",
+      "spans": [
+        {
+          "text": "VILAR, Esther (sep 2, 1998). The Manipulated Man. Pinter & Martin Ltda. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            672.5514526367188,
+            515.4122924804688,
+            688.11962890625
+          ],
+          "origin": [
+            82.74002075195312,
+            684.84033203125
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            685.99169921875,
+            88.57498931884766,
+            701.5595092773438
+          ],
+          "origin": [
+            82.739990234375,
+            698.2802124023438
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            89.579833984375,
+            684.7081298828125,
+            91.7217025756836,
+            695.0604858398438
+          ],
+          "origin": [
+            89.579833984375,
+            692.8798217773438
+          ]
+        },
+        {
+          "text": " edition. (Originalmente publicado em 1972). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            92.69975280761719,
+            685.9912719726562,
+            350.18756103515625,
+            701.55908203125
+          ],
+          "origin": [
+            92.69975280761719,
+            698.27978515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "245",
+      "spans": [
+        {
+          "text": "245",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

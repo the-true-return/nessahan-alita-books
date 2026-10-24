@@ -1,0 +1,909 @@
+{
+  "page_number": 247,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.3775024414062,
+        132.09945678710938
+      ],
+      "text": "D'ARCY, Martin S. J. (sem data). O Encontro do Amor e do Conhecimento \n(Esther de Carvalho, trad.). Belo Horizonte: Itatiaia.",
+      "spans": [
+        {
+          "text": "D'ARCY, Martin S. J. (sem data). O Encontro do Amor e do Conhecimento ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.3775024414062,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "(Esther de Carvalho, trad.). Belo Horizonte: Itatiaia. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            116.53167724609375,
+            381.3123474121094,
+            132.09945678710938
+          ],
+          "origin": [
+            82.74002075195312,
+            128.8201904296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        141.61175537109375,
+        515.4827270507812,
+        184.05947875976562
+      ],
+      "text": "ELLIS, Thomas (sep 1, 2005). The Rantings of a Single Male: Losing \nPatience with Feminism, Political Correctness... and Basically Everything. \nRannenberg Publishing.",
+      "spans": [
+        {
+          "text": "ELLIS, Thomas (sep 1, 2005). The Rantings of a Single Male: Losing ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            141.61175537109375,
+            515.4827270507812,
+            157.17953491210938
+          ],
+          "origin": [
+            82.74002075195312,
+            153.9002685546875
+          ]
+        },
+        {
+          "text": "Patience with Feminism, Political Correctness... and Basically Everything. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            155.051513671875,
+            515.3775024414062,
+            170.61929321289062
+          ],
+          "origin": [
+            82.73979949951172,
+            167.34002685546875
+          ]
+        },
+        {
+          "text": "Rannenberg Publishing. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            168.49169921875,
+            219.22802734375,
+            184.05947875976562
+          ],
+          "origin": [
+            82.74002075195312,
+            180.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        193.57147216796875,
+        515.3802490234375,
+        222.57943725585938
+      ],
+      "text": "FARRELL, PHD Warren (jan 9, 2001). The Myth of Male Power. Berkley \nPublishing Group.",
+      "spans": [
+        {
+          "text": "FARRELL, PHD Warren (jan 9, 2001). The Myth of Male Power. Berkley ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            193.57147216796875,
+            515.3802490234375,
+            209.13955688476562
+          ],
+          "origin": [
+            82.74002075195312,
+            205.86029052734375
+          ]
+        },
+        {
+          "text": "Publishing Group. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            207.01165771484375,
+            187.85948181152344,
+            222.57943725585938
+          ],
+          "origin": [
+            82.74002075195312,
+            219.3001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        232.09173583984375,
+        515.497802734375,
+        261.0382385253906
+      ],
+      "text": "FARRELL, PHD Warren (nov 8, 2000). Women Can't Hear What Men Don't \nSay. Jeremy P. Tarcher, 1ªst edition.",
+      "spans": [
+        {
+          "text": "FARRELL, PHD Warren (nov 8, 2000). Women Can't Hear What Men Don't ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            232.09173583984375,
+            515.497802734375,
+            247.65951538085938
+          ],
+          "origin": [
+            82.74002075195312,
+            244.3802490234375
+          ]
+        },
+        {
+          "text": "Say. Jeremy P. Tarcher, 1",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            245.470458984375,
+            226.23773193359375,
+            261.0382385253906
+          ],
+          "origin": [
+            82.73979949951172,
+            257.75897216796875
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            227.27999877929688,
+            244.24742126464844,
+            229.421875,
+            254.5998077392578
+          ],
+          "origin": [
+            227.27999877929688,
+            252.41912841796875
+          ]
+        },
+        {
+          "text": "st edition. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            230.39991760253906,
+            245.470458984375,
+            290.1025695800781,
+            261.0382385253906
+          ],
+          "origin": [
+            230.39991760253906,
+            257.75897216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73892211914062,
+        270.6102294921875,
+        515.4483642578125,
+        299.5593566894531
+      ],
+      "text": "FREUD, Anna (1982). O Ego e os Mecanismos de Defesa (Álvaro Cabral, \ntrad.). Rio de Janeiro: Civilização Brasileira. (Original de 1946). 6ª edição.",
+      "spans": [
+        {
+          "text": "FREUD, Anna (1982). O Ego e os Mecanismos de Defesa (Álvaro Cabral, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73892211914062,
+            270.6102294921875,
+            515.4483642578125,
+            286.1792907714844
+          ],
+          "origin": [
+            82.73892211914062,
+            282.89874267578125
+          ]
+        },
+        {
+          "text": "trad.). Rio de Janeiro: Civilização Brasileira. (Original de 1946). 6",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            283.9912109375,
+            459.042724609375,
+            299.5589904785156
+          ],
+          "origin": [
+            82.739990234375,
+            296.27972412109375
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            459.9599914550781,
+            282.7685546875,
+            462.10186767578125,
+            293.12091064453125
+          ],
+          "origin": [
+            459.9599914550781,
+            290.94024658203125
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            463.14007568359375,
+            283.9915771484375,
+            510.0918273925781,
+            299.5593566894531
+          ],
+          "origin": [
+            463.14007568359375,
+            296.28009033203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        309.0716552734375,
+        515.5335083007812,
+        364.8985595703125
+      ],
+      "text": "FREUD, Sigmund e BREUER, Josef (1993). Estudios sobre la Histeria (José \nLuis Etcheverry e Leandro Wolfson, trads.). In. Sigmund Freud: Obras \nCompletas II. Buenos Aires: Amorrortu Editores. (Original de 1975, \noriginalmente publicado em 1893-95).",
+      "spans": [
+        {
+          "text": "FREUD, Sigmund e BREUER, Josef (1993). Estudios sobre la Histeria (José ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            309.0716552734375,
+            515.3468627929688,
+            324.6394348144531
+          ],
+          "origin": [
+            82.74008178710938,
+            321.36016845703125
+          ]
+        },
+        {
+          "text": "Luis Etcheverry e Leandro Wolfson, trads.). In. Sigmund Freud: Obras ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            322.5118408203125,
+            515.5101318359375,
+            338.0796203613281
+          ],
+          "origin": [
+            82.74008178710938,
+            334.80035400390625
+          ]
+        },
+        {
+          "text": "Completas II. Buenos Aires: Amorrortu Editores. (Original de 1975, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            335.95147705078125,
+            515.5335083007812,
+            351.5192565917969
+          ],
+          "origin": [
+            82.73979949951172,
+            348.239990234375
+          ]
+        },
+        {
+          "text": "originalmente publicado em 1893-95).  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74019622802734,
+            349.3307800292969,
+            304.2491149902344,
+            364.8985595703125
+          ],
+          "origin": [
+            82.74019622802734,
+            361.6192932128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        374.4705810546875,
+        515.4303588867188,
+        403.4189758300781
+      ],
+      "text": "FREUD, Sigmund (1997). O Mal Estar na Civilização. Rio de Janeiro: \nImago (Originalmente publicado em 1930).",
+      "spans": [
+        {
+          "text": "FREUD, Sigmund (1997). O Mal Estar na Civilização. Rio de Janeiro: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74019622802734,
+            374.4705810546875,
+            515.4303588867188,
+            390.0392761230469
+          ],
+          "origin": [
+            82.74019622802734,
+            386.75909423828125
+          ]
+        },
+        {
+          "text": "Imago (Originalmente publicado em 1930).  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            387.8511962890625,
+            331.8133544921875,
+            403.4189758300781
+          ],
+          "origin": [
+            82.739990234375,
+            400.13970947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        412.930908203125,
+        515.4917602539062,
+        455.3194580078125
+      ],
+      "text": "GOLEMAN, David (1999 – org.). Emoções que Curam: Conversas com o \nDalai Lama sobre Mente Alerta, Emoção e Saúde (Cláudia Gerpe Duarte, \ntrad.) Rio de Janeiro: Rocco.",
+      "spans": [
+        {
+          "text": "GOLEMAN, David (1999 – org.). Emoções que Curam: Conversas com o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            412.930908203125,
+            515.4917602539062,
+            428.4986877441406
+          ],
+          "origin": [
+            82.739990234375,
+            425.21942138671875
+          ]
+        },
+        {
+          "text": "Dalai Lama sobre Mente Alerta, Emoção e Saúde (Cláudia Gerpe Duarte, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            426.3114929199219,
+            515.4201049804688,
+            441.8792724609375
+          ],
+          "origin": [
+            82.73979949951172,
+            438.6000061035156
+          ]
+        },
+        {
+          "text": "trad.) Rio de Janeiro: Rocco. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            439.7516784667969,
+            248.11932373046875,
+            455.3194580078125
+          ],
+          "origin": [
+            82.739990234375,
+            452.0401916503906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        464.831787109375,
+        515.429931640625,
+        493.8392639160156
+      ],
+      "text": "JUNG, Carl Gustav (1938). Lo Inconsciente en la Vida Psíquica Normal y \nPatológica (Trad. de Emilio Rodríguez Sadia). Buenos Aires: Losada.",
+      "spans": [
+        {
+          "text": "JUNG, Carl Gustav (1938). Lo Inconsciente en la Vida Psíquica Normal y ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            464.831787109375,
+            515.429931640625,
+            480.3995666503906
+          ],
+          "origin": [
+            82.739990234375,
+            477.12030029296875
+          ]
+        },
+        {
+          "text": "Patológica (Trad. de Emilio Rodríguez Sadia). Buenos Aires: Losada. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            478.271484375,
+            476.6019287109375,
+            493.8392639160156
+          ],
+          "origin": [
+            82.73979949951172,
+            490.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        503.35052490234375,
+        515.3800659179688,
+        532.35888671875
+      ],
+      "text": "JUNG, Carl Gustav (1981). O Desenvolvimento da Personalidade (Frei \nValdemar do Amaral, trad.). Petrópolis: Vozes.",
+      "spans": [
+        {
+          "text": "JUNG, Carl Gustav (1981). O Desenvolvimento da Personalidade (Frei ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            503.35052490234375,
+            515.3800659179688,
+            518.91943359375
+          ],
+          "origin": [
+            82.73989868164062,
+            515.64013671875
+          ]
+        },
+        {
+          "text": "Valdemar do Amaral, trad.). Petrópolis: Vozes.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            516.7910766601562,
+            354.9338684082031,
+            532.35888671875
+          ],
+          "origin": [
+            82.74002075195312,
+            529.07958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        541.8707885742188,
+        515.3980712890625,
+        570.8189697265625
+      ],
+      "text": "JUNG, Carl Gustav (1983). Psicologia do Inconsciente (Maria Luíza Appy, \ntrad.). Petrópolis: Vozes.",
+      "spans": [
+        {
+          "text": "JUNG, Carl Gustav (1983). Psicologia do Inconsciente (Maria Luíza Appy, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            541.8707885742188,
+            515.3980712890625,
+            557.4393310546875
+          ],
+          "origin": [
+            82.74002075195312,
+            554.1593017578125
+          ]
+        },
+        {
+          "text": "trad.). Petrópolis: Vozes.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            555.2511596679688,
+            231.1710662841797,
+            570.8189697265625
+          ],
+          "origin": [
+            82.739990234375,
+            567.5396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        580.3906860351562,
+        448.3699951171875,
+        595.9592895507812
+      ],
+      "text": "MANSFIELD, Harvey (2006). Manliness. Yale University Press.",
+      "spans": [
+        {
+          "text": "MANSFIELD, Harvey (2006). Manliness. Yale University Press. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            580.3906860351562,
+            448.3699951171875,
+            595.9592895507812
+          ],
+          "origin": [
+            82.739990234375,
+            592.67919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73898315429688,
+        605.4714965820312,
+        515.4392700195312,
+        634.4190063476562
+      ],
+      "text": "MORRIS, Desmond (1990). O Contrato Animal (Lucia Simodini, trad.). Rio \nde Janeiro: Record.",
+      "spans": [
+        {
+          "text": "MORRIS, Desmond (1990). O Contrato Animal (Lucia Simodini, trad.). Rio ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73898315429688,
+            605.4714965820312,
+            515.4392700195312,
+            621.0393676757812
+          ],
+          "origin": [
+            82.73898315429688,
+            617.7600708007812
+          ]
+        },
+        {
+          "text": "de Janeiro: Record. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            618.8511962890625,
+            194.61692810058594,
+            634.4190063476562
+          ],
+          "origin": [
+            82.739990234375,
+            631.1397094726562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        643.9906616210938,
+        515.424560546875,
+        672.93896484375
+      ],
+      "text": "MORRIS, Desmond (sem data). O Macaco Nu (Hermano Neves Paulo, trad.) \nSão Paulo: Círculo do Livro.",
+      "spans": [
+        {
+          "text": "MORRIS, Desmond (sem data). O Macaco Nu (Hermano Neves Paulo, trad.) ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            643.9906616210938,
+            515.424560546875,
+            659.559326171875
+          ],
+          "origin": [
+            82.739990234375,
+            656.2791748046875
+          ]
+        },
+        {
+          "text": "São Paulo: Círculo do Livro. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            657.3711547851562,
+            247.54483032226562,
+            672.93896484375
+          ],
+          "origin": [
+            82.739990234375,
+            669.65966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        682.4512939453125,
+        515.4282836914062,
+        711.45947265625
+      ],
+      "text": "NIETZSCHE, Friedrich W (1984). La Genealogia de la Moral (Andrés \nSánchez Pascual, trad.). Madrid: Alianza Editorial. 8ª edição.",
+      "spans": [
+        {
+          "text": "NIETZSCHE, Friedrich W (1984). La Genealogia de la Moral (Andrés ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            682.4512939453125,
+            515.4282836914062,
+            698.019287109375
+          ],
+          "origin": [
+            82.739990234375,
+            694.7398071289062
+          ]
+        },
+        {
+          "text": "Sánchez Pascual, trad.). Madrid: Alianza Editorial. 8",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            695.8916625976562,
+            379.6493225097656,
+            711.45947265625
+          ],
+          "origin": [
+            82.74002075195312,
+            708.18017578125
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            380.6400146484375,
+            694.6682739257812,
+            382.7818908691406,
+            705.0206298828125
+          ],
+          "origin": [
+            380.6400146484375,
+            702.8399658203125
+          ]
+        },
+        {
+          "text": " edição.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            383.7001647949219,
+            695.8912963867188,
+            434.6442565917969,
+            711.4591064453125
+          ],
+          "origin": [
+            383.7001647949219,
+            708.1798095703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        720.971435546875,
+        515.4855346679688,
+        736.539306640625
+      ],
+      "text": "ROSSET, Clément (1989). Lógica do Pior (Fernando J. Fagundes Ribeiro e",
+      "spans": [
+        {
+          "text": "ROSSET, Clément (1989). Lógica do Pior (Fernando J. Fagundes Ribeiro e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            720.971435546875,
+            515.4855346679688,
+            736.539306640625
+          ],
+          "origin": [
+            82.74017333984375,
+            733.2599487304688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "247",
+      "spans": [
+        {
+          "text": "247",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

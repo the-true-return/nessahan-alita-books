@@ -3,3 +3,5 @@ output/*/build/
 output/*/preview/
 *.tmp
 __pycache__/
+automation/logs/
+automation/state/*.lock

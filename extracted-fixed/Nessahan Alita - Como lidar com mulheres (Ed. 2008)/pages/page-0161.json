@@ -1,0 +1,1131 @@
+{
+  "page_number": 161,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        102.83475494384766,
+        398.3683166503906,
+        118.86933135986328
+      ],
+      "text": "1) proporcionar segurança material e emocional;",
+      "spans": [
+        {
+          "text": "1)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            103.09149169921875,
+            127.96570587158203,
+            118.65927124023438
+          ],
+          "origin": [
+            117.23980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "proporcionar segurança material e emocional;  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.76007080078125,
+            103.09149169921875,
+            398.3683166503906,
+            118.65927124023438
+          ],
+          "origin": [
+            134.76007080078125,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2397689819336,
+        134.69497680664062,
+        515.5797119140625,
+        150.7295684814453
+      ],
+      "text": "2) ser exibido para a sociedade, principalmente para as fêmeas rivais,",
+      "spans": [
+        {
+          "text": "2)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2397689819336,
+            134.95172119140625,
+            127.96566772460938,
+            150.51950073242188
+          ],
+          "origin": [
+            117.2397689819336,
+            147.240234375
+          ]
+        },
+        {
+          "text": "ser exibido para a sociedade, principalmente para as fêmeas rivais, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.76002502441406,
+            134.95172119140625,
+            515.5797119140625,
+            150.51950073242188
+          ],
+          "origin": [
+            134.76002502441406,
+            147.240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        134.76002502441406,
+        155.0521240234375,
+        387.4183044433594,
+        170.61990356445312
+      ],
+      "text": "como prova de que não se está \"encalhada\";",
+      "spans": [
+        {
+          "text": "como prova de que não se está \"encalhada\";  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.76002502441406,
+            155.0521240234375,
+            387.4183044433594,
+            170.61990356445312
+          ],
+          "origin": [
+            134.76002502441406,
+            167.34063720703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2397232055664,
+        186.59500122070312,
+        216.15951538085938,
+        202.6295928955078
+      ],
+      "text": "3) levar chifres.",
+      "spans": [
+        {
+          "text": "3)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2397232055664,
+            186.85174560546875,
+            127.96562194824219,
+            202.41952514648438
+          ],
+          "origin": [
+            117.2397232055664,
+            199.1402587890625
+          ]
+        },
+        {
+          "text": "levar chifres.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.75997924804688,
+            186.85174560546875,
+            216.15951538085938,
+            202.41952514648438
+          ],
+          "origin": [
+            134.75997924804688,
+            199.1402587890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23967742919922,
+        218.6513671875,
+        348.70751953125,
+        234.21914672851562
+      ],
+      "text": "Vamos agora tratar desta última função.",
+      "spans": [
+        {
+          "text": "Vamos agora tratar desta última função.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23967742919922,
+            218.6513671875,
+            348.70751953125,
+            234.21914672851562
+          ],
+          "origin": [
+            117.23967742919922,
+            230.93988037109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23967742919922,
+        250.45098876953125,
+        515.4005126953125,
+        266.0187683105469
+      ],
+      "text": "Em \ngeral, \no \ncasamento \né \numa \narmadilha \npara \no \nhomem",
+      "spans": [
+        {
+          "text": "Em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23967742919922,
+            250.45098876953125,
+            138.24819946289062,
+            266.0187683105469
+          ],
+          "origin": [
+            117.23967742919922,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "geral, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            149.25062561035156,
+            250.45098876953125,
+            184.34927368164062,
+            266.0187683105469
+          ],
+          "origin": [
+            149.25062561035156,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            195.23155212402344,
+            250.45098876953125,
+            205.04937744140625,
+            266.0187683105469
+          ],
+          "origin": [
+            195.23155212402344,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "casamento ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.93165588378906,
+            250.45098876953125,
+            276.9322509765625,
+            266.0187683105469
+          ],
+          "origin": [
+            215.93165588378906,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            287.81451416015625,
+            250.45098876953125,
+            296.9124450683594,
+            266.0187683105469
+          ],
+          "origin": [
+            287.81451416015625,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            307.8553466796875,
+            250.45098876953125,
+            333.81500244140625,
+            266.0187683105469
+          ],
+          "origin": [
+            307.8553466796875,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "armadilha ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.81744384765625,
+            250.45098876953125,
+            403.1856994628906,
+            266.0187683105469
+          ],
+          "origin": [
+            344.81744384765625,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            414.1881408691406,
+            250.45098876953125,
+            441.1269836425781,
+            266.0187683105469
+          ],
+          "origin": [
+            414.1881408691406,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            452.0092468261719,
+            250.45098876953125,
+            461.7607116699219,
+            266.0187683105469
+          ],
+          "origin": [
+            452.0092468261719,
+            262.739501953125
+          ]
+        },
+        {
+          "text": "homem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            472.7037658691406,
+            250.45098876953125,
+            515.4005126953125,
+            266.0187683105469
+          ],
+          "origin": [
+            472.7037658691406,
+            262.739501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73967742919922,
+        270.61077880859375,
+        515.365966796875,
+        286.1785583496094
+      ],
+      "text": "(SCHOPENHAUER, 2004). Após ser atraído, fisgado e preso, o esposo",
+      "spans": [
+        {
+          "text": "(SCHOPENHAUER, 2004). Após ser atraído, fisgado e preso, o esposo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73967742919922,
+            270.61077880859375,
+            515.365966796875,
+            286.1785583496094
+          ],
+          "origin": [
+            82.73967742919922,
+            282.8992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        290.711181640625,
+        515.6497802734375,
+        306.2789611816406
+      ],
+      "text": "serve a alguns desejos do inconsciente feminino, dos quais o principal é a",
+      "spans": [
+        {
+          "text": "serve a alguns desejos do inconsciente feminino, dos quais o principal é a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            290.711181640625,
+            515.6497802734375,
+            306.2789611816406
+          ],
+          "origin": [
+            82.73968505859375,
+            302.99969482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        310.87139892578125,
+        515.47265625,
+        326.4391784667969
+      ],
+      "text": "fantasia de ser um misto de cortesã com princesa indefesa a espera de um",
+      "spans": [
+        {
+          "text": "fantasia de ser um misto de cortesã com princesa indefesa a espera de um ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            310.87139892578125,
+            515.47265625,
+            326.4391784667969
+          ],
+          "origin": [
+            82.73968505859375,
+            323.159912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        330.9718017578125,
+        515.5247802734375,
+        346.5395812988281
+      ],
+      "text": "cavaleiro. Convém observar que as explosões de paixão e libido",
+      "spans": [
+        {
+          "text": "cavaleiro. Convém observar que as explosões de paixão e libido ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            330.9718017578125,
+            515.5247802734375,
+            346.5395812988281
+          ],
+          "origin": [
+            82.73968505859375,
+            343.26031494140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        351.131591796875,
+        515.5023803710938,
+        366.6993713378906
+      ],
+      "text": "normalmente não acontecem dentro do casamento mas fora. E uma das",
+      "spans": [
+        {
+          "text": "normalmente não acontecem dentro do casamento mas fora. E uma das ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            351.131591796875,
+            515.5023803710938,
+            366.6993713378906
+          ],
+          "origin": [
+            82.73968505859375,
+            363.42010498046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        371.23199462890625,
+        515.46923828125,
+        386.7997741699219
+      ],
+      "text": "razões para tanto é que a esposa precisa sentir-se uma princesa raptada por",
+      "spans": [
+        {
+          "text": "razões para tanto é que a esposa precisa sentir-se uma princesa raptada por ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            371.23199462890625,
+            515.46923828125,
+            386.7997741699219
+          ],
+          "origin": [
+            82.73968505859375,
+            383.5205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        391.3323974609375,
+        515.544189453125,
+        406.9001770019531
+      ],
+      "text": "um vilão ou um dragão. O amante, então, encarna o arquétipo do príncipe",
+      "spans": [
+        {
+          "text": "um vilão ou um dragão. O amante, então, encarna o arquétipo do príncipe ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            391.3323974609375,
+            515.544189453125,
+            406.9001770019531
+          ],
+          "origin": [
+            82.73968505859375,
+            403.62091064453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        411.43280029296875,
+        515.4359130859375,
+        427.0005798339844
+      ],
+      "text": "encantado, do cavaleiro que a resgata da dor, do sofrimento e da prisão.",
+      "spans": [
+        {
+          "text": "encantado, do cavaleiro que a resgata da dor, do sofrimento e da prisão. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            411.43280029296875,
+            515.4359130859375,
+            427.0005798339844
+          ],
+          "origin": [
+            82.73968505859375,
+            423.7213134765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        431.5929870605469,
+        515.4319458007812,
+        447.1607666015625
+      ],
+      "text": "Obviamente, após a princesa se casar com o príncipe, este se converte em",
+      "spans": [
+        {
+          "text": "Obviamente, após a princesa se casar com o príncipe, este se converte em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            431.5929870605469,
+            515.4319458007812,
+            447.1607666015625
+          ],
+          "origin": [
+            82.73968505859375,
+            443.8815002441406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        451.6933898925781,
+        515.4593505859375,
+        467.26116943359375
+      ],
+      "text": "marido e, portanto, em novo vilão e o ciclo se repete. As intensas emoções",
+      "spans": [
+        {
+          "text": "marido e, portanto, em novo vilão e o ciclo se repete. As intensas emoções ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            451.6933898925781,
+            515.4593505859375,
+            467.26116943359375
+          ],
+          "origin": [
+            82.73968505859375,
+            463.9819030761719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        471.8531799316406,
+        515.5084228515625,
+        487.42095947265625
+      ],
+      "text": "no adultério, ou nas traições dos romances em geral, são proporcionadas",
+      "spans": [
+        {
+          "text": "no adultério, ou nas traições dos romances em geral, são proporcionadas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            471.8531799316406,
+            515.5084228515625,
+            487.42095947265625
+          ],
+          "origin": [
+            82.73968505859375,
+            484.1416931152344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        491.9535827636719,
+        515.4459228515625,
+        507.5213623046875
+      ],
+      "text": "pelo \nmarido/namorado/noivo, \ncom \nsua \npresença \nconstantemente",
+      "spans": [
+        {
+          "text": "pelo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            491.9535827636719,
+            109.74078369140625,
+            507.5213623046875
+          ],
+          "origin": [
+            82.73968505859375,
+            504.2420959472656
+          ]
+        },
+        {
+          "text": "marido/namorado/noivo, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            125.3027572631836,
+            491.9535827636719,
+            265.27252197265625,
+            507.5213623046875
+          ],
+          "origin": [
+            125.3027572631836,
+            504.2420959472656
+          ]
+        },
+        {
+          "text": "com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            280.8345031738281,
+            491.9535827636719,
+            306.73577880859375,
+            507.5213623046875
+          ],
+          "origin": [
+            280.8345031738281,
+            504.2420959472656
+          ]
+        },
+        {
+          "text": "sua ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            322.2977600097656,
+            491.9535827636719,
+            343.6983337402344,
+            507.5213623046875
+          ],
+          "origin": [
+            322.2977600097656,
+            504.2420959472656
+          ]
+        },
+        {
+          "text": "presença ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            359.26031494140625,
+            491.9535827636719,
+            410.762451171875,
+            507.5213623046875
+          ],
+          "origin": [
+            359.26031494140625,
+            504.2420959472656
+          ]
+        },
+        {
+          "text": "constantemente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            426.3244323730469,
+            491.9535827636719,
+            515.4459228515625,
+            507.5213623046875
+          ],
+          "origin": [
+            426.3244323730469,
+            504.2420959472656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        512.1133422851562,
+        515.558837890625,
+        527.68115234375
+      ],
+      "text": "ameaçadora, e não somente pelo amante em si como parece à primeira vista.",
+      "spans": [
+        {
+          "text": "ameaçadora, e não somente pelo amante em si como parece à primeira vista. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            512.1133422851562,
+            515.558837890625,
+            527.68115234375
+          ],
+          "origin": [
+            82.73968505859375,
+            524.40185546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        532.2138061523438,
+        515.3958129882812,
+        547.7816162109375
+      ],
+      "text": "Eis a razão pela qual o amante, quando se casa com a adúltera, tem grandes",
+      "spans": [
+        {
+          "text": "Eis a razão pela qual o amante, quando se casa com a adúltera, tem grandes ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            532.2138061523438,
+            515.3958129882812,
+            547.7816162109375
+          ],
+          "origin": [
+            82.73968505859375,
+            544.5023193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        552.3739624023438,
+        515.3859252929688,
+        567.9417724609375
+      ],
+      "text": "chances de ser posteriormente traído por esta. Uma vez casado, os papéis se",
+      "spans": [
+        {
+          "text": "chances de ser posteriormente traído por esta. Uma vez casado, os papéis se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            552.3739624023438,
+            515.3859252929688,
+            567.9417724609375
+          ],
+          "origin": [
+            82.73968505859375,
+            564.6624755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        572.474365234375,
+        515.5468139648438,
+        588.0421752929688
+      ],
+      "text": "modificam e a fantasia feminina já não pode mais ser satisfeita sem uma",
+      "spans": [
+        {
+          "text": "modificam e a fantasia feminina já não pode mais ser satisfeita sem uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            572.474365234375,
+            515.5468139648438,
+            588.0421752929688
+          ],
+          "origin": [
+            82.73968505859375,
+            584.7628784179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        591.3486328125,
+        249.63705444335938,
+        608.2019653320312
+      ],
+      "text": "nova paixão extra-conjugal.3",
+      "spans": [
+        {
+          "text": "nova paixão extra-conjugal.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            592.6341552734375,
+            237.93162536621094,
+            608.2019653320312
+          ],
+          "origin": [
+            82.73968505859375,
+            604.9226684570312
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            238.85968017578125,
+            591.3486328125,
+            242.73988342285156,
+            601.7009887695312
+          ],
+          "origin": [
+            238.85968017578125,
+            599.5203247070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23944091796875,
+        624.4314575195312,
+        515.5001831054688,
+        639.999267578125
+      ],
+      "text": "Essas damas preferem enganar o marido a agir honestamente,",
+      "spans": [
+        {
+          "text": "Essas damas preferem enganar o marido a agir honestamente, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23944091796875,
+            624.4314575195312,
+            515.5001831054688,
+            639.999267578125
+          ],
+          "origin": [
+            117.23944091796875,
+            636.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73944091796875,
+        644.5317993164062,
+        515.5123901367188,
+        660.099609375
+      ],
+      "text": "dizendo-lhe que se sentem atraídas por outro. O fazem para que a emoção",
+      "spans": [
+        {
+          "text": "dizendo-lhe que se sentem atraídas por outro. O fazem para que a emoção ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73944091796875,
+            644.5317993164062,
+            515.5123901367188,
+            660.099609375
+          ],
+          "origin": [
+            82.73944091796875,
+            656.8203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73944091796875,
+        664.9191284179688,
+        514.8961181640625,
+        707.939453125
+      ],
+      "text": "2 Alberoni (1986/sem data) nos diz que as mulheres não sentem remorso nesses casos porque \nconsideram que os sentimentos intensos justificam moralmente o ato.",
+      "spans": [
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            675.3357543945312,
+            85.65752410888672,
+            683.11962890625
+          ],
+          "origin": [
+            82.74002075195312,
+            681.47998046875
+          ]
+        },
+        {
+          "text": " Alberoni (1986/sem data) nos diz que as mulheres não sentem remorso nesses casos porque ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68025207519531,
+            676.1636352539062,
+            514.6717529296875,
+            687.8394775390625
+          ],
+          "origin": [
+            85.68025207519531,
+            685.3800048828125
+          ]
+        },
+        {
+          "text": "consideram que os sentimentos intensos justificam moralmente o ato.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74040985107422,
+            686.1835327148438,
+            396.1771240234375,
+            697.859375
+          ],
+          "origin": [
+            82.74040985107422,
+            695.39990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "161",
+      "spans": [
+        {
+          "text": "161",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

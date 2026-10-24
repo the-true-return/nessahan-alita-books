@@ -36,6 +36,7 @@ GLOSSARY_INTRO = (
 )
 
 OUTPUT_DIR = ROOT / "output"
+FONT_MAP: dict = {}
 TOKEN_RE = re.compile(r"(<i>|</i>|<b>|</b>|\[\^\d+\]|\n)")
 
 
@@ -76,6 +77,12 @@ def paragraph(seg: dict, en_text: str, metrics: dict, footnotes: dict, used: set
     body = inline(en_text, footnotes, used)
     size = style["size"]
     text_args = f"size: {size}pt"
+    # Original font families other than the main one (e.g. Helvetica letters)
+    # map to a free equivalent: config pdf.font_map {"Helvetica": "Liberation Sans"}.
+    for family, free in FONT_MAP.items():
+        if family.lower() in style.get("font", "").lower():
+            text_args += f', font: "{free}"'
+            break
     if style["bold"]:
         text_args += ', weight: "bold"'
     if style["italic"]:
@@ -108,7 +115,7 @@ def preamble(cfg: dict, metrics: dict, page: dict) -> str:
 #set page(
   width: {page['width']}pt, height: {page['height']}pt,
   margin: (left: {metrics['left']}pt, right: {page['width'] - metrics['right']}pt, top: {top}pt, bottom: {bottom}pt),
-  footer: context align(center, text(size: {pdf['page_number_size_pt']}pt, counter(page).display())),
+  footer: context align({pdf.get('page_number_align', 'center')}, text(size: {pdf['page_number_size_pt']}pt, counter(page).display())),
   footer-descent: 40%,
 )
 #set text(font: "{pdf['font']}", size: {size}pt, lang: "en", region: "US",
@@ -118,7 +125,7 @@ def preamble(cfg: dict, metrics: dict, page: dict) -> str:
 #set footnote.entry(separator: line(length: {pdf['footnote_rule_pt']}pt, stroke: 0.5pt), indent: 0pt, gap: {fn_leading + 2}pt)
 #show footnote.entry: set text(size: {pdf['footnote_size_pt']}pt)
 #show footnote.entry: set par(leading: {fn_leading:.2f}pt, first-line-indent: 0pt)
-#show heading: it => block(above: 0pt, below: {spacing:.2f}pt, width: 100%,
+#show heading: it => block(above: {spacing:.2f}pt, below: {spacing:.2f}pt, width: 100%,
   align(center, par(justify: false, text(size: {size}pt, weight: "bold", hyphenate: false, it.body))))
 """
 
@@ -151,13 +158,24 @@ def front_matter(segments, en, layout, metrics, footnotes, used) -> str:
 def chapter_body(segments, en, layout, metrics, footnotes, used) -> str:
     out = []
     top = metrics.get("top_margin", 71)
+    run_in = ""  # emphasized sentence misdetected as a heading, joined to the next paragraph
     for i, seg in enumerate(segments):
         if seg["type"] == "footnote":
             continue
         text = en[seg["id"]]
-        if not re.search(r"\w", strip_markup(text)):
-            # Typographic artifact (e.g. a stray "." alone in the original).
-            print(f"skipped {seg['id']}: no letters or digits ({text!r})")
+        if seg["type"] == "heading" and i > 0 and seg["style"]["size"] < metrics["body_size"] - 0.5:
+            # Real headings are never smaller than the body text: this is a bold
+            # sentence that continues in the next segment (e.g. 32-0148 of
+            # como-lidar-com-mulheres-2008).
+            print(f"run-in {seg['id']}: heading smaller than body text, joined to the next paragraph")
+            run_in = (f"<b>{text}</b>" if seg["style"].get("bold") else text) + " "
+            continue
+        if run_in and seg["type"] != "heading":
+            text, run_in = run_in + text, ""
+        if re.fullmatch(r"\s*[.,;:]\s*", strip_markup(text)):
+            # Typographic artifact: a single stray punctuation mark alone in the
+            # original. Separators such as "*****" are kept.
+            print(f"skipped {seg['id']}: stray punctuation ({text!r})")
             continue
         if seg["type"] == "heading":
             first_line = layout[seg["id"]]["lines"][0]
@@ -212,10 +230,18 @@ def build(slug: str, draft: bool) -> None:
     page = load_json(cfg["_extracted_path"] / "metadata.json")["pages"][0]
     glossary = load_glossary(slug)
 
+    FONT_MAP.clear()
+    FONT_MAP.update(cfg["pdf"].get("font_map", {}))
     parts = [preamble(cfg, metrics, page)]
     book_text = []
     for chapter in chapter_ids(slug):
-        result = check_chapter(slug, chapter, glossary)
+        try:
+            result = check_chapter(slug, chapter, glossary)
+        except PipelineError:
+            if not draft:
+                raise
+            result = {"complete": False, "errors": ["no translation file"],
+                      "segments_translated": 0, "segments_total": "?"}
         if not result["complete"] or result["errors"]:
             msg = (f"chapter {chapter}: {result['segments_translated']}/{result['segments_total']} "
                    f"translated, {len(result['errors'])} QA errors")
@@ -226,7 +252,8 @@ def build(slug: str, draft: bool) -> None:
         layout = load_json(WORK_DIR / slug / "chapters" / f"{chapter}.layout.json")
         en_path = TRANSLATIONS_DIR / slug / f"{chapter}.en.md"
         en = {e["id"]: e["text"] for e in parse_marked_md(en_path)} if en_path.exists() else {}
-        en = {s_["id"]: en.get(s_["id"]) or f"[UNTRANSLATED {s_['id']}]" for s_ in source}
+        # Draft builds fall back to the source text so the layout can be checked.
+        en = {s_["id"]: en.get(s_["id"]) or s_["text"] for s_ in source}
         footnotes = {s_["fn"]: en[s_["id"]] for s_ in source if s_["type"] == "footnote"}
         book_text += [strip_markup(s_["text"]) for s_ in source]
         used = set()

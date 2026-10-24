@@ -1,0 +1,47 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "28",
+  "title": "27. Como ser fascinante aos olhos das mulheres",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 65,
+  "segments_translated": 65,
+  "complete": true,
+  "pending_from": null,
+  "status": "warn",
+  "errors": [],
+  "warnings": [
+    "28-0002: numbers differ: source ['90'] vs translation ['1990']"
+  ],
+  "queries": [
+    {
+      "segment": "28-0002",
+      "text": "\"na década de 90\" rendered \"in the 1990s\" (number check warning expected)."
+    },
+    {
+      "segment": "28-0007",
+      "text": "Robert A. Johnson (1987, Portuguese edition); the quotation is translated from the author’s Portuguese, since the English original is copyrighted. The bibliography lists \"She: A Chave do Entendimento da Psicologia Feminina\", i.e. \"She: Understanding Feminine Psychology\"."
+    },
+    {
+      "segment": "28-0015",
+      "text": "Vinícius de Moraes, \"Que me perdoem as feias, mas beleza é fundamental\" (from the poem \"Receita de mulher\"); translated literally."
+    },
+    {
+      "segment": "28-0023",
+      "text": "Ram Dass (1997, Portuguese edition); translated from the author’s Portuguese, since the English original is copyrighted. Source: Ram Dass, \"Promises and Pitfalls of the Spiritual Path,\" in Grof and Grof (eds.), \"Spiritual Emergency\" (1989)."
+    },
+    {
+      "segment": "28-0047",
+      "text": "Nelson Rodrigues’s play \"Bonitinha, mas Ordinária\" (1962) has no established English title; rendered \"Pretty but Wicked\". Alternatives: \"Cute but Common\", \"Pretty but Trashy\"."
+    },
+    {
+      "segment": "28-0048",
+      "text": "\"kuhikuru\" in the original; corrected to Kuikuro, an Indigenous people of the Upper Xingu in Brazil."
+    }
+  ],
+  "translator_notes": [
+    {
+      "segment": "28-0034",
+      "text": "In Brazil a \"motel\" is typically a love hotel rented by the hour; the English reader may miss this connotation."
+    }
+  ]
+}

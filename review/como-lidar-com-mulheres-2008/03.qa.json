@@ -1,0 +1,32 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "03",
+  "title": "2. As etapas do trabalho de encantamento de mulheres refratárias e arredias",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 31,
+  "segments_translated": 31,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "03-0007",
+      "text": "The original spells the name \"Karen Salmanshon\"; corrected to Karen Salmansohn, author of \"How to Make Your Man Behave in 21 Days or Less Using the Secrets of Professional Dog Trainers\" (1994). Check against the bibliography."
+    },
+    {
+      "segment": "03-0014",
+      "text": "The original cites the film by its Brazilian title, \"Conselheiro Amoroso\" (full Brazilian title \"Hitch: Conselheiro Amoroso\"); rendered with its English title \"Hitch\". The film (dir. Andy Tennant) was released in 2005, not 2001 as the original gives; the year is kept as in the original."
+    },
+    {
+      "segment": "03-0017",
+      "text": "Eliphas Lévi, Dogma and Ritual of High Magic (1855); translated from the author’s Portuguese. A public-domain English version exists (A. E. Waite, \"Transcendental Magic\", 1896). \"Clarices\" rendered as \"Clarissas\" (Richardson’s Clarissa and Lovelace, as in Lévi’s French)."
+    },
+    {
+      "segment": "03-0019",
+      "text": "Translated from the author’s Portuguese of Lévi (Dogma and Ritual of High Magic). The sentence about Gioconda and the hidden treasure is obscure in the Portuguese; rendered literally. Compare Waite’s public-domain \"Transcendental Magic\" (1896). \"A despeito de um outro motivo insensato\" read as \"for want of any other senseless motive\"; alternative: \"despite some other senseless motive\"."
+    }
+  ],
+  "translator_notes": []
+}

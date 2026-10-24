@@ -1,0 +1,881 @@
+{
+  "page_number": 188,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73951721191406,
+        103.31652069091797,
+        514.9675903320312,
+        163.29872131347656
+      ],
+      "text": "27. Como ser fascinante aos olhos das mulheres \n \nObs. Este artigo foi escrito na década de 90 e não havia sido publicado até a primeira \nedição virtual deste livro. Revisei-o, detalhei-o e clarifiquei os pontos que permitiam \nmás interpretações, leituras tendenciosas e distorções intencionais.",
+      "spans": [
+        {
+          "text": "27. Como ser fascinante aos olhos das mulheres ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            157.559814453125,
+            103.31652069091797,
+            440.5006408691406,
+            119.4794692993164
+          ],
+          "origin": [
+            157.559814453125,
+            115.5
+          ]
+        },
+        {
+          "text": "Obs. Este artigo foi escrito na década de 90 e não havia sido publicado até a primeira ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73951721191406,
+            127.91957092285156,
+            514.9381103515625,
+            140.91859436035156
+          ],
+          "origin": [
+            82.73951721191406,
+            138.180419921875
+          ]
+        },
+        {
+          "text": "edição virtual deste livro. Revisei-o, detalhei-o e clarifiquei os pontos que permitiam ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73951721191406,
+            139.0797882080078,
+            514.9675903320312,
+            152.0788116455078
+          ],
+          "origin": [
+            82.73951721191406,
+            149.34063720703125
+          ]
+        },
+        {
+          "text": "más interpretações, leituras tendenciosas e distorções intencionais. ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73951721191406,
+            150.29969787597656,
+            410.1584777832031,
+            163.29872131347656
+          ],
+          "origin": [
+            82.73951721191406,
+            160.560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.77951049804688,
+        180.49163818359375,
+        515.4608764648438,
+        196.05941772460938
+      ],
+      "text": "Vou escrever agora sem o menor pudor e sem nenhuma preocupação",
+      "spans": [
+        {
+          "text": "Vou escrever agora sem o menor pudor e sem nenhuma preocupação ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.77951049804688,
+            180.49163818359375,
+            515.4608764648438,
+            196.05941772460938
+          ],
+          "origin": [
+            117.77951049804688,
+            192.7801513671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73931121826172,
+        199.36827087402344,
+        193.59690856933594,
+        216.21963500976562
+      ],
+      "text": "com as feministas1.",
+      "spans": [
+        {
+          "text": "com as feministas",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73931121826172,
+            200.65185546875,
+            181.89761352539062,
+            216.21963500976562
+          ],
+          "origin": [
+            82.73931121826172,
+            212.94036865234375
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            182.87930297851562,
+            199.36827087402344,
+            186.75950622558594,
+            209.7206573486328
+          ],
+          "origin": [
+            182.87930297851562,
+            207.53997802734375
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            186.779296875,
+            200.65185546875,
+            193.59690856933594,
+            216.21963500976562
+          ],
+          "origin": [
+            186.779296875,
+            212.94036865234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23869323730469,
+        232.4510498046875,
+        515.5275268554688,
+        248.01882934570312
+      ],
+      "text": "Nossa cultura ocidental moderna nos meteu na cabeça a crença de que",
+      "spans": [
+        {
+          "text": "Nossa cultura ocidental moderna nos meteu na cabeça a crença de que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23869323730469,
+            232.4510498046875,
+            515.5275268554688,
+            248.01882934570312
+          ],
+          "origin": [
+            117.23869323730469,
+            244.73956298828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        252.55145263671875,
+        515.407958984375,
+        268.1192321777344
+      ],
+      "text": "o amor da mulher vem por mera retribuição ao nosso amor e desejo.  Deste",
+      "spans": [
+        {
+          "text": "o amor da mulher vem por mera retribuição ao nosso amor e desejo.  Deste ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            252.55145263671875,
+            515.407958984375,
+            268.1192321777344
+          ],
+          "origin": [
+            82.73869323730469,
+            264.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        272.711669921875,
+        515.4579467773438,
+        288.2794494628906
+      ],
+      "text": "modo, bastaria que as amássemos sinceramente para que fôssemos",
+      "spans": [
+        {
+          "text": "modo, bastaria que as amássemos sinceramente para que fôssemos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            272.711669921875,
+            515.4579467773438,
+            288.2794494628906
+          ],
+          "origin": [
+            82.73869323730469,
+            285.00018310546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        292.81207275390625,
+        341.5308837890625,
+        308.3798522949219
+      ],
+      "text": "correspondidos. Este erro causou muito dano.",
+      "spans": [
+        {
+          "text": "correspondidos. Este erro causou muito dano. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            292.81207275390625,
+            341.5308837890625,
+            308.3798522949219
+          ],
+          "origin": [
+            82.73869323730469,
+            305.1005859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.779296875,
+        324.6116638183594,
+        515.449462890625,
+        340.179443359375
+      ],
+      "text": "Na verdade, a mulher, a não ser excepcionalmente, não ama nenhum",
+      "spans": [
+        {
+          "text": "Na verdade, a mulher, a não ser excepcionalmente, não ama nenhum ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.779296875,
+            324.6116638183594,
+            515.449462890625,
+            340.179443359375
+          ],
+          "origin": [
+            117.779296875,
+            336.9001770019531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        344.7714538574219,
+        515.31982421875,
+        360.3392333984375
+      ],
+      "text": "homem em si e por si mesmo mas sim as características atraentes que ele",
+      "spans": [
+        {
+          "text": "homem em si e por si mesmo mas sim as características atraentes que ele ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            344.7714538574219,
+            515.31982421875,
+            360.3392333984375
+          ],
+          "origin": [
+            82.73869323730469,
+            357.0599670410156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        364.8718566894531,
+        515.460693359375,
+        380.43963623046875
+      ],
+      "text": "possui. Quando o homem apresenta certos atributos que correspondem às",
+      "spans": [
+        {
+          "text": "possui. Quando o homem apresenta certos atributos que correspondem às ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            364.8718566894531,
+            515.460693359375,
+            380.43963623046875
+          ],
+          "origin": [
+            82.73869323730469,
+            377.1603698730469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        385.03204345703125,
+        515.4916381835938,
+        400.5998229980469
+      ],
+      "text": "loucuras femininas, a mulher diz que o adora. Na verdade, está fascinada",
+      "spans": [
+        {
+          "text": "loucuras femininas, a mulher diz que o adora. Na verdade, está fascinada ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            385.03204345703125,
+            515.4916381835938,
+            400.5998229980469
+          ],
+          "origin": [
+            82.73869323730469,
+            397.320556640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        405.1324462890625,
+        515.4803466796875,
+        420.7002258300781
+      ],
+      "text": "pelos atributos que encontrou. Não somos amados pelo que somos mas pelo",
+      "spans": [
+        {
+          "text": "pelos atributos que encontrou. Não somos amados pelo que somos mas pelo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            405.1324462890625,
+            515.4803466796875,
+            420.7002258300781
+          ],
+          "origin": [
+            82.73869323730469,
+            417.42095947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73869323730469,
+        425.292236328125,
+        315.203125,
+        440.8600158691406
+      ],
+      "text": "que elas desejam e imaginam que somos:",
+      "spans": [
+        {
+          "text": "que elas desejam e imaginam que somos: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73869323730469,
+            425.292236328125,
+            315.203125,
+            440.8600158691406
+          ],
+          "origin": [
+            82.73869323730469,
+            437.58074951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.779296875,
+        457.31988525390625,
+        514.9049072265625,
+        470.3189392089844
+      ],
+      "text": "“As mulheres são psiquê vendo o seu amado mais como eros, no seu papel de",
+      "spans": [
+        {
+          "text": "“As mulheres são psiquê vendo o seu amado mais como eros, no seu papel de ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.779296875,
+            457.31988525390625,
+            514.9049072265625,
+            470.3189392089844
+          ],
+          "origin": [
+            117.779296875,
+            467.58074951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739501953125,
+        474.12030029296875,
+        514.9818725585938,
+        487.1193542480469
+      ],
+      "text": "deus do amor, do que como o homem que ela conhece e poderia amar pelo que ele é.”",
+      "spans": [
+        {
+          "text": "deus do amor, do que como o homem que ela conhece e poderia amar pelo que ele é.” ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739501953125,
+            474.12030029296875,
+            514.9818725585938,
+            487.1193542480469
+          ],
+          "origin": [
+            82.739501953125,
+            484.38116455078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739501953125,
+        490.860107421875,
+        174.86427307128906,
+        503.8591613769531
+      ],
+      "text": "(JOHNSON, 1987)",
+      "spans": [
+        {
+          "text": "(JOHNSON, 1987) ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739501953125,
+            490.860107421875,
+            174.86427307128906,
+            503.8591613769531
+          ],
+          "origin": [
+            82.739501953125,
+            501.1209716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.779296875,
+        519.0121459960938,
+        515.4402465820312,
+        534.5799560546875
+      ],
+      "text": "Se surgirem na frente delas cem homens com os mesmos atributos (ou",
+      "spans": [
+        {
+          "text": "Se surgirem na frente delas cem homens com os mesmos atributos (ou ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.779296875,
+            519.0121459960938,
+            515.4402465820312,
+            534.5799560546875
+          ],
+          "origin": [
+            117.779296875,
+            531.3006591796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        539.1723022460938,
+        515.43310546875,
+        554.7401123046875
+      ],
+      "text": "mais alguns ainda melhores aos seus olhos) serão todos amados",
+      "spans": [
+        {
+          "text": "mais alguns ainda melhores aos seus olhos) serão todos amados ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            539.1723022460938,
+            515.43310546875,
+            554.7401123046875
+          ],
+          "origin": [
+            82.73909759521484,
+            551.4608154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        559.2727661132812,
+        515.4764404296875,
+        574.840576171875
+      ],
+      "text": "alucinadamente e ao mesmo tempo. A traição não é exclusividade e nem",
+      "spans": [
+        {
+          "text": "alucinadamente e ao mesmo tempo. A traição não é exclusividade e nem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            559.2727661132812,
+            515.4764404296875,
+            574.840576171875
+          ],
+          "origin": [
+            82.73909759521484,
+            571.561279296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        579.4325561523438,
+        515.4977416992188,
+        595.0003662109375
+      ],
+      "text": "maior propensão masculina, como todo mundo acredita. Isso é puro",
+      "spans": [
+        {
+          "text": "maior propensão masculina, como todo mundo acredita. Isso é puro ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            579.4325561523438,
+            515.4977416992188,
+            595.0003662109375
+          ],
+          "origin": [
+            82.73909759521484,
+            591.7210693359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        599.5923461914062,
+        515.4054565429688,
+        615.16015625
+      ],
+      "text": "preconceito contra nós. Este preconceito dita que somos todos sem",
+      "spans": [
+        {
+          "text": "preconceito contra nós. Este preconceito dita que somos todos sem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            599.5923461914062,
+            515.4054565429688,
+            615.16015625
+          ],
+          "origin": [
+            82.73909759521484,
+            611.880859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        619.6927490234375,
+        338.52813720703125,
+        635.2605590820312
+      ],
+      "text": "vergonhas enquanto elas são todas santinhas.",
+      "spans": [
+        {
+          "text": "vergonhas enquanto elas são todas santinhas. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            619.6927490234375,
+            338.52813720703125,
+            635.2605590820312
+          ],
+          "origin": [
+            82.73909759521484,
+            631.9812622070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.779296875,
+        651.4923706054688,
+        515.4080810546875,
+        667.0601806640625
+      ],
+      "text": "Todas as fêmeas são altamente seletivas mas isto não significa que",
+      "spans": [
+        {
+          "text": "Todas as fêmeas são altamente seletivas mas isto não significa que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.779296875,
+            651.4923706054688,
+            515.4080810546875,
+            667.0601806640625
+          ],
+          "origin": [
+            117.779296875,
+            663.7808837890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        671.6525268554688,
+        515.45263671875,
+        687.2203369140625
+      ],
+      "text": "sejam naturalmente fiéis ou monogâmicas. Querem oferecer seu sexo apenas",
+      "spans": [
+        {
+          "text": "sejam naturalmente fiéis ou monogâmicas. Querem oferecer seu sexo apenas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73909759521484,
+            671.6525268554688,
+            515.45263671875,
+            687.2203369140625
+          ],
+          "origin": [
+            82.73909759521484,
+            683.9410400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73909759521484,
+        704.4598999023438,
+        514.7142333984375,
+        737.3997802734375
+      ],
+      "text": "1 Refiro-me às feministas radicais, dogmáticas, unilaterais e extremistas e não às feministas \nesclarecidas.",
+      "spans": [
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            714.8159790039062,
+            85.65750885009766,
+            722.599853515625
+          ],
+          "origin": [
+            82.74000549316406,
+            720.960205078125
+          ]
+        },
+        {
+          "text": " Refiro-me às feministas radicais, dogmáticas, unilaterais e extremistas e não às feministas ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            715.6438598632812,
+            514.7142333984375,
+            727.3197021484375
+          ],
+          "origin": [
+            85.68023681640625,
+            724.8602294921875
+          ]
+        },
+        {
+          "text": "esclarecidas. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            725.7239379882812,
+            142.041015625,
+            737.3997802734375
+          ],
+          "origin": [
+            82.74039459228516,
+            734.9403076171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "188",
+      "spans": [
+        {
+          "text": "188",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

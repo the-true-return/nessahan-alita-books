@@ -1,0 +1,1138 @@
+{
+  "page_number": 233,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        103.99347686767578,
+        529.212158203125,
+        117.18739318847656
+      ],
+      "text": "podem ser sintetizados em três elementos básicos: a beleza, a volúpia e",
+      "spans": [
+        {
+          "text": "podem ser sintetizados em três elementos básicos: a beleza, a volúpia e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            103.99347686767578,
+            529.212158203125,
+            117.18739318847656
+          ],
+          "origin": [
+            94.0198974609375,
+            114.41998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        121.75348663330078,
+        529.2044067382812,
+        134.94740295410156
+      ],
+      "text": "o carinho. Somente os homens que vencem a atração poderosa destes",
+      "spans": [
+        {
+          "text": "o carinho. Somente os homens que vencem a atração poderosa destes ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            121.75348663330078,
+            529.2044067382812,
+            134.94740295410156
+          ],
+          "origin": [
+            94.0198974609375,
+            132.17999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        139.4534912109375,
+        363.41595458984375,
+        152.6474151611328
+      ],
+      "text": "três elementos pode deles dispor e desfrutar.",
+      "spans": [
+        {
+          "text": "três elementos pode deles dispor e desfrutar. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            139.4534912109375,
+            363.41595458984375,
+            152.6474151611328
+          ],
+          "origin": [
+            94.0198974609375,
+            149.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        168.79345703125,
+        529.1708374023438,
+        181.9873809814453
+      ],
+      "text": "A idéia de uma suposta entrega igualitária, bilateral e recíproca é",
+      "spans": [
+        {
+          "text": "A idéia de uma suposta entrega igualitária, bilateral e recíproca é ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            168.79345703125,
+            529.1708374023438,
+            181.9873809814453
+          ],
+          "origin": [
+            128.4600067138672,
+            179.219970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        186.553466796875,
+        529.1588745117188,
+        199.7473907470703
+      ],
+      "text": "muito \nbonita \nmas \nabsurda. \nEstá \nbaseada \nno \ndesconhecimento \nda",
+      "spans": [
+        {
+          "text": "muito ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            186.553466796875,
+            129.57937622070312,
+            199.7473907470703
+          ],
+          "origin": [
+            94.0198974609375,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "bonita ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            138.15428161621094,
+            186.553466796875,
+            177.16477966308594,
+            199.7473907470703
+          ],
+          "origin": [
+            138.15428161621094,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "mas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            185.680419921875,
+            186.553466796875,
+            211.7319793701172,
+            199.7473907470703
+          ],
+          "origin": [
+            185.680419921875,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "absurda. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            220.24761962890625,
+            186.553466796875,
+            273.45703125,
+            199.7473907470703
+          ],
+          "origin": [
+            220.24761962890625,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "Está ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            282.031982421875,
+            186.553466796875,
+            309.5205993652344,
+            199.7473907470703
+          ],
+          "origin": [
+            282.031982421875,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "baseada ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            318.0362243652344,
+            186.553466796875,
+            368.0845947265625,
+            199.7473907470703
+          ],
+          "origin": [
+            318.0362243652344,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "no ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            376.6002197265625,
+            186.553466796875,
+            393.3068542480469,
+            199.7473907470703
+          ],
+          "origin": [
+            376.6002197265625,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "desconhecimento ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            401.8818664550781,
+            186.553466796875,
+            504.07098388671875,
+            199.7473907470703
+          ],
+          "origin": [
+            401.8818664550781,
+            196.97998046875
+          ]
+        },
+        {
+          "text": "da ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            512.5866088867188,
+            186.553466796875,
+            529.1588745117188,
+            199.7473907470703
+          ],
+          "origin": [
+            512.5866088867188,
+            196.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        204.3134765625,
+        529.1548461914062,
+        217.5074005126953
+      ],
+      "text": "condições psíquicas coletivas reinantes. No plano real, somos monstros,",
+      "spans": [
+        {
+          "text": "condições psíquicas coletivas reinantes. No plano real, somos monstros, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            204.3134765625,
+            529.1548461914062,
+            217.5074005126953
+          ],
+          "origin": [
+            94.0198974609375,
+            214.739990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        222.01348876953125,
+        529.1470336914062,
+        235.20741271972656
+      ],
+      "text": "animais e demônios com aparência humanóide. Somos macacos com um",
+      "spans": [
+        {
+          "text": "animais e demônios com aparência humanóide. Somos macacos com um ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            222.01348876953125,
+            529.1470336914062,
+            235.20741271972656
+          ],
+          "origin": [
+            94.0198974609375,
+            232.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        239.77349853515625,
+        529.1817626953125,
+        252.96742248535156
+      ],
+      "text": "poder de raciocínio elevado e, por isto, feras perigosas. Não há espécie",
+      "spans": [
+        {
+          "text": "poder de raciocínio elevado e, por isto, feras perigosas. Não há espécie ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            239.77349853515625,
+            529.1817626953125,
+            252.96742248535156
+          ],
+          "origin": [
+            94.0198974609375,
+            250.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        257.4735107421875,
+        316.8934020996094,
+        270.66741943359375
+      ],
+      "text": "animal mais perigosa do que a nossa.",
+      "spans": [
+        {
+          "text": "animal mais perigosa do que a nossa. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            257.4735107421875,
+            316.8934020996094,
+            270.66741943359375
+          ],
+          "origin": [
+            94.0198974609375,
+            267.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        286.87347412109375,
+        529.175537109375,
+        300.0673828125
+      ],
+      "text": "Infelizmente, nosso estado precário de consciência nos leva a crer",
+      "spans": [
+        {
+          "text": "Infelizmente, nosso estado precário de consciência nos leva a crer ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            286.87347412109375,
+            529.175537109375,
+            300.0673828125
+          ],
+          "origin": [
+            128.4600067138672,
+            297.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        304.573486328125,
+        529.1651611328125,
+        317.76739501953125
+      ],
+      "text": "sempre o melhor a respeito de nós mesmos. Este é um problema grave",
+      "spans": [
+        {
+          "text": "sempre o melhor a respeito de nós mesmos. Este é um problema grave ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            304.573486328125,
+            529.1651611328125,
+            317.76739501953125
+          ],
+          "origin": [
+            94.0198974609375,
+            315.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        322.33349609375,
+        529.260498046875,
+        335.52740478515625
+      ],
+      "text": "porque tal crença nos estanca espiritualmente. Quando acreditamos que",
+      "spans": [
+        {
+          "text": "porque tal crença nos estanca espiritualmente. Quando acreditamos que ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            322.33349609375,
+            529.260498046875,
+            335.52740478515625
+          ],
+          "origin": [
+            94.0198974609375,
+            332.760009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        340.0934753417969,
+        529.150146484375,
+        353.2873840332031
+      ],
+      "text": "superamos a etapa animal, não nos sentimos incomodados com nossa",
+      "spans": [
+        {
+          "text": "superamos a etapa animal, não nos sentimos incomodados com nossa ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            340.0934753417969,
+            529.150146484375,
+            353.2873840332031
+          ],
+          "origin": [
+            94.0198974609375,
+            350.5199890136719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        357.7934875488281,
+        529.196533203125,
+        370.9873962402344
+      ],
+      "text": "condição e, como conseqüência, cessam nossos esforços no sentido de",
+      "spans": [
+        {
+          "text": "condição e, como conseqüência, cessam nossos esforços no sentido de ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            357.7934875488281,
+            529.196533203125,
+            370.9873962402344
+          ],
+          "origin": [
+            94.0198974609375,
+            368.2200012207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        375.4934997558594,
+        435.56866455078125,
+        388.6874084472656
+      ],
+      "text": "nos desenvolvermos interiormente em direção ao Homem.",
+      "spans": [
+        {
+          "text": "nos desenvolvermos interiormente em direção ao Homem. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            375.4934997558594,
+            435.56866455078125,
+            388.6874084472656
+          ],
+          "origin": [
+            94.0198974609375,
+            385.9200134277344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        292.260009765625,
+        404.84478759765625,
+        330.51641845703125,
+        418.23358154296875
+      ],
+      "text": "*****",
+      "spans": [
+        {
+          "text": "*****",
+          "font": "Helvetica",
+          "size": 9.744400024414062,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            292.260009765625,
+            404.84478759765625,
+            324.7390441894531,
+            418.23358154296875
+          ],
+          "origin": [
+            292.260009765625,
+            415.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        463.644775390625,
+        208.5379180908203,
+        477.0335693359375
+      ],
+      "text": "1/8/2004 01:17:29",
+      "spans": [
+        {
+          "text": "1/8/2004 01:17:29 ",
+          "font": "Helvetica",
+          "size": 9.744400024414062,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            463.644775390625,
+            208.5379180908203,
+            477.0335693359375
+          ],
+          "origin": [
+            94.0198974609375,
+            474.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        493.1534729003906,
+        402.97393798828125,
+        506.3473815917969
+      ],
+      "text": "Assunto: Magnetismo - amor e inveja do pênis",
+      "spans": [
+        {
+          "text": "Assunto: Magnetismo - amor e inveja do pênis ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            493.1534729003906,
+            402.97393798828125,
+            506.3473815917969
+          ],
+          "origin": [
+            128.4600067138672,
+            503.5799865722656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        522.553466796875,
+        275.8791198730469,
+        535.7473754882812
+      ],
+      "text": "Queridos amigos virtuais",
+      "spans": [
+        {
+          "text": "Queridos amigos virtuais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            522.553466796875,
+            275.8791198730469,
+            535.7473754882812
+          ],
+          "origin": [
+            128.4600067138672,
+            532.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        551.8934936523438,
+        529.0763549804688,
+        565.08740234375
+      ],
+      "text": "Nossos diálogos têm sido muito ricos. Os assuntos evocados",
+      "spans": [
+        {
+          "text": "Nossos diálogos têm sido muito ricos. Os assuntos evocados ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            551.8934936523438,
+            529.0763549804688,
+            565.08740234375
+          ],
+          "origin": [
+            128.4600067138672,
+            562.3200073242188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        569.6534423828125,
+        529.2760009765625,
+        582.8473510742188
+      ],
+      "text": "aumentam gradativamente, o que torna necessária uma abordagem mais",
+      "spans": [
+        {
+          "text": "aumentam gradativamente, o que torna necessária uma abordagem mais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            569.6534423828125,
+            529.2760009765625,
+            582.8473510742188
+          ],
+          "origin": [
+            94.0198974609375,
+            580.0799560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        587.353515625,
+        529.2400512695312,
+        600.5474243164062
+      ],
+      "text": "clara e organizada. Sugiro que permaneçamos nestes dois pontos antes",
+      "spans": [
+        {
+          "text": "clara e organizada. Sugiro que permaneçamos nestes dois pontos antes ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            587.353515625,
+            529.2400512695312,
+            600.5474243164062
+          ],
+          "origin": [
+            94.0198974609375,
+            597.780029296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        605.1134643554688,
+        407.5118713378906,
+        618.307373046875
+      ],
+      "text": "de avançarmos sobre outros. Manterei-me em alerta.",
+      "spans": [
+        {
+          "text": "de avançarmos sobre outros. Manterei-me em alerta. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            605.1134643554688,
+            407.5118713378906,
+            618.307373046875
+          ],
+          "origin": [
+            94.0198974609375,
+            615.5399780273438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        634.5134887695312,
+        529.1771240234375,
+        647.7073974609375
+      ],
+      "text": "Tentarei contemplar todas as questões levantadas na medida do",
+      "spans": [
+        {
+          "text": "Tentarei contemplar todas as questões levantadas na medida do ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            634.5134887695312,
+            529.1771240234375,
+            647.7073974609375
+          ],
+          "origin": [
+            128.4600067138672,
+            644.9400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        652.2734985351562,
+        529.2059326171875,
+        665.4674072265625
+      ],
+      "text": "possível \ne \naguardarei \nas \nrespostas. \nMuito \ndo \nque \nfoi \nperguntado",
+      "spans": [
+        {
+          "text": "possível ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            652.2734985351562,
+            143.49732971191406,
+            665.4674072265625
+          ],
+          "origin": [
+            94.0198974609375,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            151.47303771972656,
+            652.2734985351562,
+            160.943603515625,
+            665.4674072265625
+          ],
+          "origin": [
+            151.47303771972656,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "aguardarei ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            168.9788360595703,
+            652.2734985351562,
+            233.9486846923828,
+            665.4674072265625
+          ],
+          "origin": [
+            168.9788360595703,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "as ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            241.98390197753906,
+            652.2734985351562,
+            257.53399658203125,
+            665.4674072265625
+          ],
+          "origin": [
+            241.98390197753906,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "respostas. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            265.5692138671875,
+            652.2734985351562,
+            328.4513244628906,
+            665.4674072265625
+          ],
+          "origin": [
+            265.5692138671875,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "Muito ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            336.4271545410156,
+            652.2734985351562,
+            370.7713623046875,
+            665.4674072265625
+          ],
+          "origin": [
+            336.4271545410156,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            378.7471008300781,
+            652.2734985351562,
+            395.3495788574219,
+            665.4674072265625
+          ],
+          "origin": [
+            378.7471008300781,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            403.38482666015625,
+            652.2734985351562,
+            427.08331298828125,
+            665.4674072265625
+          ],
+          "origin": [
+            403.38482666015625,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "foi ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            435.0591125488281,
+            652.2734985351562,
+            452.73779296875,
+            665.4674072265625
+          ],
+          "origin": [
+            435.0591125488281,
+            662.7000122070312
+          ]
+        },
+        {
+          "text": "perguntado ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            460.7730407714844,
+            652.2734985351562,
+            529.2059326171875,
+            665.4674072265625
+          ],
+          "origin": [
+            460.7730407714844,
+            662.7000122070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        669.9134521484375,
+        328.44989013671875,
+        683.1073608398438
+      ],
+      "text": "subentende-se de afirmações já feitas.",
+      "spans": [
+        {
+          "text": "subentende-se de afirmações já feitas.  ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            669.9134521484375,
+            328.44989013671875,
+            683.1073608398438
+          ],
+          "origin": [
+            94.0198974609375,
+            680.3399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        699.3134765625,
+        529.2186279296875,
+        712.5073852539062
+      ],
+      "text": "A inveja do pênis não é algo literal mas sim metafórico. A mulher",
+      "spans": [
+        {
+          "text": "A inveja do pênis não é algo literal mas sim metafórico. A mulher ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            699.3134765625,
+            529.2186279296875,
+            712.5073852539062
+          ],
+          "origin": [
+            128.4600067138672,
+            709.739990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        717.073486328125,
+        529.1990356445312,
+        730.2673950195312
+      ],
+      "text": "não possui um desejo literal de ter um pênis mas apenas uma tendência",
+      "spans": [
+        {
+          "text": "não possui um desejo literal de ter um pênis mas apenas uma tendência ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            717.073486328125,
+            529.1990356445312,
+            730.2673950195312
+          ],
+          "origin": [
+            94.0198974609375,
+            727.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "233",
+      "spans": [
+        {
+          "text": "233",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

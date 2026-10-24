@@ -1,0 +1,28 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "11",
+  "title": "10. A alternância",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 43,
+  "segments_translated": 43,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "11-0005",
+      "text": "Lévi, translated from the author's Portuguese; compare Waite's public-domain \"Transcendental Magic\". The original misspells the author as \"LËVI\"; corrected."
+    },
+    {
+      "segment": "11-0039",
+      "text": "Lévi, translated from the author's Portuguese; compare Waite's public-domain \"Transcendental Magic\". \"LËVI\" in the original corrected to LÉVI. The author's emphasis is not marked in the extracted text."
+    },
+    {
+      "segment": "11-0042",
+      "text": "The original spells the title \"Misterium Conjunctionis\"; corrected to Jung's Latin title \"Mysterium Coniunctionis\" (also the title of the English edition)."
+    }
+  ],
+  "translator_notes": []
+}

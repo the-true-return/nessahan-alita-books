@@ -1,0 +1,975 @@
+{
+  "page_number": 11,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.5625610351562,
+        118.65927124023438
+      ],
+      "text": "(generalizações a partir de alguns casos particulares). Preferi optar pela via",
+      "spans": [
+        {
+          "text": "(generalizações a partir de alguns casos particulares). Preferi optar pela via ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.5625610351562,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.3938598632812,
+        138.81906127929688
+      ],
+      "text": "da dedução, tecendo conclusões provisórias a partir de inferências por",
+      "spans": [
+        {
+          "text": "da dedução, tecendo conclusões provisórias a partir de inferências por ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.3938598632812,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.41107177734375,
+        515.5255126953125,
+        158.97885131835938
+      ],
+      "text": "premissas socialmente aceitas, validáveis pela experiência comum, ou",
+      "spans": [
+        {
+          "text": "premissas socialmente aceitas, validáveis pela experiência comum, ou ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.41107177734375,
+            515.5255126953125,
+            158.97885131835938
+          ],
+          "origin": [
+            82.73980712890625,
+            155.6995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.511474609375,
+        515.5067749023438,
+        179.07925415039062
+      ],
+      "text": "defendidas por autores que sempre admirei e que influenciaram fortemente",
+      "spans": [
+        {
+          "text": "defendidas por autores que sempre admirei e que influenciaram fortemente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.511474609375,
+            515.5067749023438,
+            179.07925415039062
+          ],
+          "origin": [
+            82.73980712890625,
+            175.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        183.6712646484375,
+        515.4266967773438,
+        199.23904418945312
+      ],
+      "text": "minha visão de mundo. Não são hipóteses científicas mas sim hipóteses de",
+      "spans": [
+        {
+          "text": "minha visão de mundo. Não são hipóteses científicas mas sim hipóteses de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            183.6712646484375,
+            515.4266967773438,
+            199.23904418945312
+          ],
+          "origin": [
+            82.73980712890625,
+            195.95977783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        203.77166748046875,
+        515.3758544921875,
+        219.33944702148438
+      ],
+      "text": "um tipo mais filosófico e de inspiração espiritualista e religiosa. Os",
+      "spans": [
+        {
+          "text": "um tipo mais filosófico e de inspiração espiritualista e religiosa. Os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            203.77166748046875,
+            515.3758544921875,
+            219.33944702148438
+          ],
+          "origin": [
+            82.73980712890625,
+            216.0601806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        223.931884765625,
+        515.39501953125,
+        239.49966430664062
+      ],
+      "text": "conceitos adotados na elaboração do modelo e das conclusões, sempre",
+      "spans": [
+        {
+          "text": "conceitos adotados na elaboração do modelo e das conclusões, sempre ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            223.931884765625,
+            515.39501953125,
+            239.49966430664062
+          ],
+          "origin": [
+            82.73980712890625,
+            236.22039794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        244.03228759765625,
+        511.4858703613281,
+        259.6000671386719
+      ],
+      "text": "provisórios, foram e continuarão sendo elaborados a posteriori (pós-",
+      "spans": [
+        {
+          "text": "provisórios, foram e continuarão sendo elaborados ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            244.03228759765625,
+            396.2776794433594,
+            259.6000671386719
+          ],
+          "origin": [
+            82.73980712890625,
+            256.32080078125
+          ]
+        },
+        {
+          "text": "a posteriori",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            402.4808044433594,
+            245.22262573242188,
+            473.34344482421875,
+            259.4717102050781
+          ],
+          "origin": [
+            402.4808044433594,
+            256.32080078125
+          ]
+        },
+        {
+          "text": " (pós-",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            474.3612976074219,
+            244.03228759765625,
+            511.4858703613281,
+            259.6000671386719
+          ],
+          "origin": [
+            474.3612976074219,
+            256.32080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74130249023438,
+        264.19207763671875,
+        515.517822265625,
+        279.7598571777344
+      ],
+      "text": "conceitos) e não a priori (pré-conceitos). Lembre-se de que os preconceitos",
+      "spans": [
+        {
+          "text": "conceitos) e não ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74130249023438,
+            264.19207763671875,
+            177.97010803222656,
+            279.7598571777344
+          ],
+          "origin": [
+            82.74130249023438,
+            276.4805908203125
+          ]
+        },
+        {
+          "text": "a priori",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            179.22219848632812,
+            265.3824157714844,
+            222.39413452148438,
+            279.6315002441406
+          ],
+          "origin": [
+            179.22219848632812,
+            276.4805908203125
+          ]
+        },
+        {
+          "text": " (pré-conceitos). Lembre-se de que os preconceitos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            223.4420928955078,
+            264.19207763671875,
+            515.517822265625,
+            279.7598571777344
+          ],
+          "origin": [
+            223.4420928955078,
+            276.4805908203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        284.29248046875,
+        515.5283813476562,
+        299.8602600097656
+      ],
+      "text": "não são mais do que pré-conceitos prejudiciais, hostis, fixos e imutáveis. O",
+      "spans": [
+        {
+          "text": "não são mais do que pré-conceitos prejudiciais, hostis, fixos e imutáveis. O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            284.29248046875,
+            515.5283813476562,
+            299.8602600097656
+          ],
+          "origin": [
+            82.7410888671875,
+            296.58099365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        304.4522705078125,
+        515.8158569335938,
+        320.0200500488281
+      ],
+      "text": "preconceito se distingue totalmente da crítica. Esta visa apontar e denunciar",
+      "spans": [
+        {
+          "text": "preconceito se distingue totalmente da crítica. Esta visa apontar e denunciar ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            304.4522705078125,
+            515.8158569335938,
+            320.0200500488281
+          ],
+          "origin": [
+            82.7410888671875,
+            316.74078369140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        324.55267333984375,
+        255.4965057373047,
+        340.1204528808594
+      ],
+      "text": "erros e aquele visa prejudicar.",
+      "spans": [
+        {
+          "text": "erros e aquele visa prejudicar. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            324.55267333984375,
+            255.4965057373047,
+            340.1204528808594
+          ],
+          "origin": [
+            82.7410888671875,
+            336.8411865234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24148559570312,
+        356.2928771972656,
+        515.5518188476562,
+        371.86065673828125
+      ],
+      "text": "O leitor deve ter em conta que não sou adepto do racionalismo e que,",
+      "spans": [
+        {
+          "text": "O leitor deve ter em conta que não sou adepto do racionalismo e que, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24148559570312,
+            356.2928771972656,
+            515.5518188476562,
+            371.86065673828125
+          ],
+          "origin": [
+            117.24148559570312,
+            368.5813903808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        376.4526672363281,
+        515.4913940429688,
+        392.02044677734375
+      ],
+      "text": "quando critico a racionalidade feminina, o faço desde o ponto de vista de",
+      "spans": [
+        {
+          "text": "quando critico a racionalidade feminina, o faço desde o ponto de vista de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            376.4526672363281,
+            515.4913940429688,
+            392.02044677734375
+          ],
+          "origin": [
+            82.7410888671875,
+            388.7411804199219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        396.5530700683594,
+        515.4595947265625,
+        412.120849609375
+      ],
+      "text": "quem considera a inteligência emocional e a intuição superiores ao intelecto",
+      "spans": [
+        {
+          "text": "quem considera a inteligência emocional e a intuição superiores ao intelecto ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            396.5530700683594,
+            515.4595947265625,
+            412.120849609375
+          ],
+          "origin": [
+            82.7410888671875,
+            408.8415832519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        416.7132568359375,
+        345.01385498046875,
+        432.2810363769531
+      ],
+      "text": "racional linear e frio, tipicamente masculinos.",
+      "spans": [
+        {
+          "text": "racional linear e frio, tipicamente masculinos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            416.7132568359375,
+            345.01385498046875,
+            432.2810363769531
+          ],
+          "origin": [
+            82.7410888671875,
+            429.00177001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24148559570312,
+        448.5128479003906,
+        519.3154296875,
+        464.08062744140625
+      ],
+      "text": "Este livro é destinado somente a pessoas maduras que mantenham ou",
+      "spans": [
+        {
+          "text": "Este livro é destinado somente a pessoas maduras que mantenham ou  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24148559570312,
+            448.5128479003906,
+            519.3154296875,
+            464.08062744140625
+          ],
+          "origin": [
+            117.24148559570312,
+            460.8013610839844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        468.6132507324219,
+        511.59735107421875,
+        484.1810302734375
+      ],
+      "text": "queriam manter relações estáveis (e, portanto, a pessoas adultas). Destina-",
+      "spans": [
+        {
+          "text": "queriam manter relações estáveis (e, portanto, a pessoas adultas). Destina-",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            468.6132507324219,
+            511.59735107421875,
+            484.1810302734375
+          ],
+          "origin": [
+            82.7410888671875,
+            480.9017639160156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        488.7730407714844,
+        515.4012451171875,
+        504.3408203125
+      ],
+      "text": "se apenas às pessoas que pensam por si mesmas. Se você é daqueles que",
+      "spans": [
+        {
+          "text": "se apenas às pessoas que pensam por si mesmas. Se você é daqueles que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            488.7730407714844,
+            515.4012451171875,
+            504.3408203125
+          ],
+          "origin": [
+            82.7410888671875,
+            501.0615539550781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        508.87347412109375,
+        515.52734375,
+        524.4412841796875
+      ],
+      "text": "andam buscando líderes que lhes digam o que fazer, mestres que reunem",
+      "spans": [
+        {
+          "text": "andam buscando líderes que lhes digam o que fazer, mestres que reunem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            508.87347412109375,
+            515.52734375,
+            524.4412841796875
+          ],
+          "origin": [
+            82.7410888671875,
+            521.1619873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7410888671875,
+        529.0332641601562,
+        515.4060668945312,
+        544.60107421875
+      ],
+      "text": "grupos de fanáticos, estratégias para manipular o próximo etc. jogue este",
+      "spans": [
+        {
+          "text": "grupos de fanáticos, estratégias para manipular o próximo etc. jogue este ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7410888671875,
+            529.0332641601562,
+            515.4060668945312,
+            544.60107421875
+          ],
+          "origin": [
+            82.7410888671875,
+            541.32177734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        549.134033203125,
+        365.0892028808594,
+        564.7018432617188
+      ],
+      "text": "livro no lixo porque a mensagem não é para você.",
+      "spans": [
+        {
+          "text": "livro no lixo porque a mensagem não é para você. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            549.134033203125,
+            365.0892028808594,
+            564.7018432617188
+          ],
+          "origin": [
+            82.74110412597656,
+            561.4225463867188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24150085449219,
+        580.9332275390625,
+        515.4446411132812,
+        596.5010375976562
+      ],
+      "text": "Esta obra NÃO SUGERE manipulação de crenças mas sim mudanças",
+      "spans": [
+        {
+          "text": "Esta obra NÃO SUGERE manipulação de crenças mas sim mudanças ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24150085449219,
+            580.9332275390625,
+            515.4446411132812,
+            596.5010375976562
+          ],
+          "origin": [
+            117.24150085449219,
+            593.2217407226562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        601.0934448242188,
+        515.44140625,
+        616.6612548828125
+      ],
+      "text": "comportamentais reais (não simuladas) no homem que tenham o efeito de",
+      "spans": [
+        {
+          "text": "comportamentais reais (não simuladas) no homem que tenham o efeito de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            601.0934448242188,
+            515.44140625,
+            616.6612548828125
+          ],
+          "origin": [
+            82.74110412597656,
+            613.3819580078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        621.19384765625,
+        515.4695434570312,
+        636.7616577148438
+      ],
+      "text": "alterar as crenças e opiniões da mulher a seu respeito. A mudança no",
+      "spans": [
+        {
+          "text": "alterar as crenças e opiniões da mulher a seu respeito. A mudança no ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            621.19384765625,
+            515.4695434570312,
+            636.7616577148438
+          ],
+          "origin": [
+            82.74110412597656,
+            633.4823608398438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        641.3536376953125,
+        515.4741821289062,
+        656.9214477539062
+      ],
+      "text": "comportamento se origina de mudanças interiores, na alma, e seu efeito",
+      "spans": [
+        {
+          "text": "comportamento se origina de mudanças interiores, na alma, e seu efeito ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            641.3536376953125,
+            515.4741821289062,
+            656.9214477539062
+          ],
+          "origin": [
+            82.74110412597656,
+            653.6421508789062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        661.4540405273438,
+        515.425048828125,
+        677.0218505859375
+      ],
+      "text": "esperado é o de diminuir a incidência de sentimentos negativos e de",
+      "spans": [
+        {
+          "text": "esperado é o de diminuir a incidência de sentimentos negativos e de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            661.4540405273438,
+            515.425048828125,
+            677.0218505859375
+          ],
+          "origin": [
+            82.74110412597656,
+            673.7425537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        681.6142578125,
+        515.4822998046875,
+        697.1820678710938
+      ],
+      "text": "conflitos amorosos entre ambos os sexos, através de uma mudança na",
+      "spans": [
+        {
+          "text": "conflitos amorosos entre ambos os sexos, através de uma mudança na ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            681.6142578125,
+            515.4822998046875,
+            697.1820678710938
+          ],
+          "origin": [
+            82.74110412597656,
+            693.9027709960938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        701.7146606445312,
+        515.5302734375,
+        717.282470703125
+      ],
+      "text": "postura masculina. É este livro, portanto, totalmente voltado para o estado",
+      "spans": [
+        {
+          "text": "postura masculina. É este livro, portanto, totalmente voltado para o estado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            701.7146606445312,
+            515.5302734375,
+            717.282470703125
+          ],
+          "origin": [
+            82.74110412597656,
+            714.003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74110412597656,
+        721.8744506835938,
+        328.5032653808594,
+        737.4422607421875
+      ],
+      "text": "interior do homem e assim precisa ser lido.",
+      "spans": [
+        {
+          "text": "interior do homem e assim precisa ser lido. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74110412597656,
+            721.8744506835938,
+            328.5032653808594,
+            737.4422607421875
+          ],
+          "origin": [
+            82.74110412597656,
+            734.1629638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "11",
+      "spans": [
+        {
+          "text": "11",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

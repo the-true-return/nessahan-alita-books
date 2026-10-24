@@ -1,0 +1,24 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "17",
+  "title": "16. Os testes",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 30,
+  "segments_translated": 30,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "17-0014",
+      "text": "Zarathustra, “Of Old and Young Women,” from the author’s Portuguese; Common: “Let your love be with valour! With your love ye shall assail him who inspireth you with fear!” “Grifo meu” (emphasis mine), but no emphasis is marked in the extracted text; check the PDF."
+    },
+    {
+      "segment": "17-0016",
+      "text": "Lévi, Dogme et rituel de la haute magie, translated from the author’s Portuguese; A. E. Waite’s public-domain version (Transcendental Magic) could be used instead. The bracketed comment is the author’s."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,18 @@
+Como lidar com mulheres (como-lidar-com-mulheres-2008): translation complete, awaiting human review.
+Finished: 2026-10-24 ~00:35 (run 6).
+
+- English PDF: books/Nessahan Alita - How to Deal with Women (2008 Edition).pdf
+  (working copy: output/como-lidar-com-mulheres-2008/como-lidar-com-mulheres-2008-en.pdf)
+- Pages: 207 (original: 249)
+- Segments: 1,531 in 36 chapters (1,518 checked in the PDF; the rest are footnote/separator artifacts handled by build_pdf.py)
+- QA (qa.py --all): 0 errors; WARN in 07, 16, 23, 28 (explained in the progress log)
+- PDF check (check_pdf.py): PASS, 0 errors, 0 warnings
+- Open queries: 107 QUERY + 4 TN (listed in review/como-lidar-com-mulheres-2008/book-qa.md)
+- Glossary terms added as "proposed" over the six runs: artimanha(s), horrorização, vadia(s),
+  domínio (vs. dominação), trouxa(s), desapaixonamento/desapaixonado, alternância, fujona(s),
+  inferno(s) mental(is), inveja do pênis, indefinição, prostituição inconsciente, kundalini,
+  Homem Autêntico, humanóide (15). The book's Glossary appendix has 29 concepts.
+- Tool changes in run 6 (qa.py, check_pdf.py, build_pdf.py) are described in
+  automation/state/como-lidar-com-mulheres-2008-progress.md; Magnetism in Social Relations was
+  rebuilt and re-checked afterward (PASS) and republished with 2 more glossary terms.
+- Before distribution: 00-0014, the author's notice forbidding translation, needs a human decision.

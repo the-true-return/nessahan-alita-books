@@ -96,11 +96,15 @@ def check(slug: str) -> bool:
         return "".join(text), owners
 
     big, big_pages = stream(lambda ln: ln["size"] >= body_size - 0.5)
-    small, small_pages = stream(lambda ln: ln["size"] < body_size - 0.5)
+    # Notes and small body text (quotations, letters) are kept apart: a small
+    # paragraph that crosses a page break would otherwise be split by the notes.
+    notes, notes_pages = stream(lambda ln: ln["size"] <= fn_size + 0.3)
+    small, small_pages = stream(lambda ln: fn_size + 0.3 < ln["size"] < body_size - 0.5)
     everything, _ = stream(lambda ln: True)
 
     # ---- completeness, in order
-    pos_big = pos_small = 0
+    pos_big = 0
+    small_streams = {"notes": [notes, notes_pages, 0], "small": [small, small_pages, 0]}
     seg_count = 0
     note_pages = {}
     for chapter in chapter_ids(slug):
@@ -119,13 +123,21 @@ def check(slug: str) -> bool:
                     errors.append(f"{seg['id']}: text not found in the PDF")
                 continue
             if seg["type"] == "footnote" or style["size"] < body_size - 0.5:
-                found = small.find(target, pos_small)
-                if found < 0:
-                    found = small.find(target)
+                order = ["notes", "small"] if seg["type"] == "footnote" else ["small", "notes"]
+                found = -1
+                for name in order:  # in order first, then anywhere in either stream
+                    text, owners, pos = small_streams[name]
+                    found = text.find(target, pos)
+                    if found < 0:
+                        found = text.find(target)
+                    if found >= 0:
+                        small_streams[name][2] = found + len(target)
+                        break
                 if found < 0:
                     errors.append(f"{seg['id']}: footnote text not found in the PDF")
                     continue
-                note_pages[(chapter, seg["fn"])] = small_pages[found]
+                if seg["type"] == "footnote":
+                    note_pages[(chapter, seg["fn"])] = owners[found]
             else:
                 found = big.find(target, pos_big)
                 if found < 0:

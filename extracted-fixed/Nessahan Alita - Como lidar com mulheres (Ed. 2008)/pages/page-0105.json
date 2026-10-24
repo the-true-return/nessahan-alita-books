@@ -1,0 +1,820 @@
+{
+  "page_number": 105,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        187.01980590820312,
+        109.19652557373047,
+        411.1743469238281,
+        125.3594741821289
+      ],
+      "text": "15. O miserável sentimento da paixão",
+      "spans": [
+        {
+          "text": "15. O miserável sentimento da paixão ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            187.01980590820312,
+            109.19652557373047,
+            411.1743469238281,
+            125.3594741821289
+          ],
+          "origin": [
+            187.01980590820312,
+            121.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24010467529297,
+        140.77081298828125,
+        511.27740478515625,
+        156.33859252929688
+      ],
+      "text": "Comecemos este capítulo com a definição schopenhaueriana do amor:",
+      "spans": [
+        {
+          "text": "Comecemos este capítulo com a definição schopenhaueriana do amor: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24010467529297,
+            140.77081298828125,
+            511.27740478515625,
+            156.33859252929688
+          ],
+          "origin": [
+            117.24010467529297,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        189.4799041748047,
+        170.7716064453125,
+        443.1374206542969,
+        186.33938598632812
+      ],
+      "text": "“O amor é o mal” (SCHOPENHAUER, 2004, p. 33).",
+      "spans": [
+        {
+          "text": "“O amor é o mal” (SCHOPENHAUER, 2004, p. 33).",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            189.4799041748047,
+            172.7992706298828,
+            439.1781311035156,
+            185.7982940673828
+          ],
+          "origin": [
+            189.4799041748047,
+            183.06011962890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23989868164062,
+        200.9512939453125,
+        515.4696044921875,
+        216.51907348632812
+      ],
+      "text": "Obviamente, Schopenhauer está se referindo ao amor romântico,",
+      "spans": [
+        {
+          "text": "Obviamente, Schopenhauer está se referindo ao amor romântico, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23989868164062,
+            200.9512939453125,
+            515.4696044921875,
+            216.51907348632812
+          ],
+          "origin": [
+            117.23989868164062,
+            213.23980712890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        221.111083984375,
+        515.4814453125,
+        236.67886352539062
+      ],
+      "text": "exclusivamente direcionado a uma só mulher, e não ao amor universal.",
+      "spans": [
+        {
+          "text": "exclusivamente direcionado a uma só mulher, e não ao amor universal. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            221.111083984375,
+            515.4814453125,
+            236.67886352539062
+          ],
+          "origin": [
+            82.73989868164062,
+            233.39959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        241.21148681640625,
+        515.4733276367188,
+        256.7792663574219
+      ],
+      "text": "Quando uma crise amorosa é exageradamente intensa, pode desencadar uma",
+      "spans": [
+        {
+          "text": "Quando uma crise amorosa é exageradamente intensa, pode desencadar uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            241.21148681640625,
+            515.4733276367188,
+            256.7792663574219
+          ],
+          "origin": [
+            82.73989868164062,
+            253.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        261.3717041015625,
+        515.623779296875,
+        276.9394836425781
+      ],
+      "text": "crise existencial e espiritual tão profunda que leva o indivíduo a revalorizar",
+      "spans": [
+        {
+          "text": "crise existencial e espiritual tão profunda que leva o indivíduo a revalorizar ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            261.3717041015625,
+            515.623779296875,
+            276.9394836425781
+          ],
+          "origin": [
+            82.73989868164062,
+            273.66021728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        281.47210693359375,
+        515.5000610351562,
+        297.0398864746094
+      ],
+      "text": "toda a sua vida e emergir renovado desta passagem sombria e perigosa",
+      "spans": [
+        {
+          "text": "toda a sua vida e emergir renovado desta passagem sombria e perigosa ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            281.47210693359375,
+            515.5000610351562,
+            297.0398864746094
+          ],
+          "origin": [
+            82.73989868164062,
+            293.7606201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        301.63189697265625,
+        515.439697265625,
+        317.1996765136719
+      ],
+      "text": "(KORNFIELD, 1997 e GROF & GROF, 1989/1997). Infelizmente, o perigo",
+      "spans": [
+        {
+          "text": "(KORNFIELD, 1997 e GROF & GROF, 1989/1997). Infelizmente, o perigo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            301.63189697265625,
+            515.439697265625,
+            317.1996765136719
+          ],
+          "origin": [
+            82.73989868164062,
+            313.92041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        321.7322998046875,
+        515.5604858398438,
+        337.3000793457031
+      ],
+      "text": "de perder-se nesse percurso para sempre também existe e é real. Os crimes",
+      "spans": [
+        {
+          "text": "de perder-se nesse percurso para sempre também existe e é real. Os crimes ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            321.7322998046875,
+            515.5604858398438,
+            337.3000793457031
+          ],
+          "origin": [
+            82.73989868164062,
+            334.02081298828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        341.8924865722656,
+        515.460693359375,
+        357.46026611328125
+      ],
+      "text": "passionais são uma prova deste perigo. O amor passional é o inferno depois",
+      "spans": [
+        {
+          "text": "passionais são uma prova deste perigo. O amor passional é o inferno depois ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            341.8924865722656,
+            515.460693359375,
+            357.46026611328125
+          ],
+          "origin": [
+            82.73988342285156,
+            354.1809997558594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        361.9928894042969,
+        126.22340393066406,
+        377.5606689453125
+      ],
+      "text": "do céu.",
+      "spans": [
+        {
+          "text": "do céu. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            361.9928894042969,
+            126.22340393066406,
+            377.5606689453125
+          ],
+          "origin": [
+            82.7398681640625,
+            374.2814025878906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2398681640625,
+        393.79248046875,
+        515.518798828125,
+        409.3602600097656
+      ],
+      "text": "Aquilo que definimos aqui como amor romântico ou passional (paixão",
+      "spans": [
+        {
+          "text": "Aquilo que definimos aqui como amor romântico ou passional (paixão ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2398681640625,
+            393.79248046875,
+            515.518798828125,
+            409.3602600097656
+          ],
+          "origin": [
+            117.2398681640625,
+            406.08099365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        413.9522705078125,
+        515.4638061523438,
+        429.5200500488281
+      ],
+      "text": "romântica) é o que Erich Frommm (1976) denomina \"amor neurótico\" e",
+      "spans": [
+        {
+          "text": "romântica) é o que Erich Frommm (1976) denomina \"amor neurótico\" e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            413.9522705078125,
+            515.4638061523438,
+            429.5200500488281
+          ],
+          "origin": [
+            82.7398681640625,
+            426.24078369140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        434.112060546875,
+        515.5331420898438,
+        449.6798400878906
+      ],
+      "text": "também \"pseudo-amor\", um dos males que afeta a civilização ocidental",
+      "spans": [
+        {
+          "text": "também \"pseudo-amor\", um dos males que afeta a civilização ocidental ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            434.112060546875,
+            515.5331420898438,
+            449.6798400878906
+          ],
+          "origin": [
+            82.7398681640625,
+            446.40057373046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        454.21246337890625,
+        515.4061889648438,
+        469.7802429199219
+      ],
+      "text": "moderna, ávida pela posse e pelo consumo. Ainda segundo Fromm, o amor",
+      "spans": [
+        {
+          "text": "moderna, ávida pela posse e pelo consumo. Ainda segundo Fromm, o amor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            454.21246337890625,
+            515.4061889648438,
+            469.7802429199219
+          ],
+          "origin": [
+            82.7398681640625,
+            466.5009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        474.37225341796875,
+        515.4588012695312,
+        489.9400329589844
+      ],
+      "text": "neurótico assume várias formas: amor sentimental, amor sádico, amor",
+      "spans": [
+        {
+          "text": "neurótico assume várias formas: amor sentimental, amor sádico, amor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            474.37225341796875,
+            515.4588012695312,
+            489.9400329589844
+          ],
+          "origin": [
+            82.7398681640625,
+            486.6607666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        494.47265625,
+        232.5774688720703,
+        510.0404357910156
+      ],
+      "text": "idólatra e amor narcisista.",
+      "spans": [
+        {
+          "text": "idólatra e amor narcisista. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            494.47265625,
+            232.5774688720703,
+            510.0404357910156
+          ],
+          "origin": [
+            82.7398681640625,
+            506.76116943359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2398681640625,
+        526.2722778320312,
+        515.4807739257812,
+        541.840087890625
+      ],
+      "text": "Concordo com Fromm. A civilização ocidental está gravemente",
+      "spans": [
+        {
+          "text": "Concordo com Fromm. A civilização ocidental está gravemente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2398681640625,
+            526.2722778320312,
+            515.4807739257812,
+            541.840087890625
+          ],
+          "origin": [
+            117.2398681640625,
+            538.560791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        546.4320678710938,
+        515.4269409179688,
+        561.9998779296875
+      ],
+      "text": "doente e uma de suas doenças é o amor romântico (que difere totalmente do",
+      "spans": [
+        {
+          "text": "doente e uma de suas doenças é o amor romântico (que difere totalmente do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            546.4320678710938,
+            515.4269409179688,
+            561.9998779296875
+          ],
+          "origin": [
+            82.7398681640625,
+            558.7205810546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        566.5324096679688,
+        515.4718017578125,
+        582.1002197265625
+      ],
+      "text": "amor verdadeiro e consciente), o qual é obsessivo e possessivo. A forma",
+      "spans": [
+        {
+          "text": "amor verdadeiro e consciente), o qual é obsessivo e possessivo. A forma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            566.5324096679688,
+            515.4718017578125,
+            582.1002197265625
+          ],
+          "origin": [
+            82.7398681640625,
+            578.8209228515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        586.692626953125,
+        515.5796508789062,
+        602.2604370117188
+      ],
+      "text": "masculina de expressão deste amor neurótico são as obsessivas tentativas de",
+      "spans": [
+        {
+          "text": "masculina de expressão deste amor neurótico são as obsessivas tentativas de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            586.692626953125,
+            515.5796508789062,
+            602.2604370117188
+          ],
+          "origin": [
+            82.7398681640625,
+            598.9811401367188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        606.7930297851562,
+        515.4403076171875,
+        622.36083984375
+      ],
+      "text": "controlar, vigiar e proibir o outro, enquanto sua forma feminina de",
+      "spans": [
+        {
+          "text": "controlar, vigiar e proibir o outro, enquanto sua forma feminina de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            606.7930297851562,
+            515.4403076171875,
+            622.36083984375
+          ],
+          "origin": [
+            82.7398681640625,
+            619.08154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        626.9528198242188,
+        515.5042724609375,
+        642.5206298828125
+      ],
+      "text": "expressão corresponde ao obsessivo desejo de induzir a outra pessoa ao",
+      "spans": [
+        {
+          "text": "expressão corresponde ao obsessivo desejo de induzir a outra pessoa ao ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            626.9528198242188,
+            515.5042724609375,
+            642.5206298828125
+          ],
+          "origin": [
+            82.73988342285156,
+            639.2413330078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        647.0532836914062,
+        515.434814453125,
+        662.62109375
+      ],
+      "text": "apaixonamento profundo para tê-la aos pés. Em ambos os casos, verifica-se",
+      "spans": [
+        {
+          "text": "apaixonamento profundo para tê-la aos pés. Em ambos os casos, verifica-se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            647.0532836914062,
+            515.434814453125,
+            662.62109375
+          ],
+          "origin": [
+            82.73988342285156,
+            659.341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        667.2134399414062,
+        515.5086669921875,
+        682.78125
+      ],
+      "text": "a intenção de submeter a outra pessoa para que ela faça o que queremos.",
+      "spans": [
+        {
+          "text": "a intenção de submeter a outra pessoa para que ela faça o que queremos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            667.2134399414062,
+            515.5086669921875,
+            682.78125
+          ],
+          "origin": [
+            82.73988342285156,
+            679.501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        687.3138427734375,
+        515.4551391601562,
+        702.8816528320312
+      ],
+      "text": "Esta é a guerra da paixão e é nesse âmbito que aqui é sugerido o",
+      "spans": [
+        {
+          "text": "Esta é a guerra da paixão e é nesse âmbito que aqui é sugerido o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            687.3138427734375,
+            515.4551391601562,
+            702.8816528320312
+          ],
+          "origin": [
+            82.73988342285156,
+            699.6023559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "105",
+      "spans": [
+        {
+          "text": "105",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

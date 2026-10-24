@@ -1,0 +1,1255 @@
+{
+  "page_number": 67,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.5850830078125,
+        118.65927124023438
+      ],
+      "text": "linguagens ambíguas, aprendendo a nos orientar em meio ao caos que criam,",
+      "spans": [
+        {
+          "text": "linguagens ambíguas, aprendendo a nos orientar em meio ao caos que criam, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.5850830078125,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        413.53936767578125,
+        138.81906127929688
+      ],
+      "text": "ao invés de ficarmos brigando, discutindo e polemizando.",
+      "spans": [
+        {
+          "text": "ao invés de ficarmos brigando, discutindo e polemizando.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            413.53936767578125,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        155.0509033203125,
+        515.4517211914062,
+        170.61868286132812
+      ],
+      "text": "O tempo e esforço gastos com discussões são perdidos pois não",
+      "spans": [
+        {
+          "text": "O tempo e esforço gastos com discussões são perdidos pois não ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            155.0509033203125,
+            515.4517211914062,
+            170.61868286132812
+          ],
+          "origin": [
+            117.23980712890625,
+            167.33941650390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        175.21112060546875,
+        515.521484375,
+        190.77890014648438
+      ],
+      "text": "podemos atingí-las antecipadamente aos fatos. Somente as atingimos com",
+      "spans": [
+        {
+          "text": "podemos atingí-las antecipadamente aos fatos. Somente as atingimos com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            175.21112060546875,
+            515.521484375,
+            190.77890014648438
+          ],
+          "origin": [
+            82.73980712890625,
+            187.4996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        195.3115234375,
+        515.4971313476562,
+        210.87930297851562
+      ],
+      "text": "fatos reais em andamento e jamais com avisos, alertas, súplicas etc. Não",
+      "spans": [
+        {
+          "text": "fatos reais em andamento e jamais com avisos, alertas, súplicas etc. Não ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            195.3115234375,
+            515.4971313476562,
+            210.87930297851562
+          ],
+          "origin": [
+            82.73980712890625,
+            207.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        214.1885223388672,
+        446.1377868652344,
+        231.03952026367188
+      ],
+      "text": "existem impactos emocionais10 a priori mas apenas a posteriori.",
+      "spans": [
+        {
+          "text": "existem impactos emocionais",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            215.4713134765625,
+            245.5251922607422,
+            231.03909301757812
+          ],
+          "origin": [
+            82.73980712890625,
+            227.75982666015625
+          ]
+        },
+        {
+          "text": "10",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            246.4197998046875,
+            214.1885223388672,
+            254.19960021972656,
+            224.54090881347656
+          ],
+          "origin": [
+            246.4197998046875,
+            222.3602294921875
+          ]
+        },
+        {
+          "text": "a priori",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            258.05926513671875,
+            216.66207885742188,
+            300.9617919921875,
+            230.91114807128906
+          ],
+          "origin": [
+            258.05926513671875,
+            227.76025390625
+          ]
+        },
+        {
+          "text": " mas apenas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            301.9197692871094,
+            215.47174072265625,
+            371.8294982910156,
+            231.03952026367188
+          ],
+          "origin": [
+            301.9197692871094,
+            227.76025390625
+          ]
+        },
+        {
+          "text": "a posteriori",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            372.77996826171875,
+            216.66207885742188,
+            438.29644775390625,
+            230.91114807128906
+          ],
+          "origin": [
+            372.77996826171875,
+            227.76025390625
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            439.3201599121094,
+            215.47174072265625,
+            446.1377868652344,
+            231.03952026367188
+          ],
+          "origin": [
+            439.3201599121094,
+            227.76025390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24017333984375,
+        247.2713623046875,
+        515.4542236328125,
+        262.8391418457031
+      ],
+      "text": "O único caso em que a discussão pode ser considerada útil é quando é",
+      "spans": [
+        {
+          "text": "O único caso em que a discussão pode ser considerada útil é quando é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24017333984375,
+            247.2713623046875,
+            515.4542236328125,
+            262.8391418457031
+          ],
+          "origin": [
+            117.24017333984375,
+            259.55987548828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        267.37176513671875,
+        515.46142578125,
+        282.9395446777344
+      ],
+      "text": "tomada como oportunidade para nosso treinamento psicológico. Podemos",
+      "spans": [
+        {
+          "text": "tomada como oportunidade para nosso treinamento psicológico. Podemos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            267.37176513671875,
+            515.46142578125,
+            282.9395446777344
+          ],
+          "origin": [
+            82.74017333984375,
+            279.6602783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        287.53155517578125,
+        515.5563354492188,
+        303.0993347167969
+      ],
+      "text": "desenvolver uma resistência se nos expusermos gradativamente às deletérias",
+      "spans": [
+        {
+          "text": "desenvolver uma resistência se nos expusermos gradativamente às deletérias ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            287.53155517578125,
+            515.5563354492188,
+            303.0993347167969
+          ],
+          "origin": [
+            82.74017333984375,
+            299.820068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        307.6319580078125,
+        515.4468383789062,
+        323.1997375488281
+      ],
+      "text": "influências hipnóticas do formidável e fatal magnetismo feminino. Em uma",
+      "spans": [
+        {
+          "text": "influências hipnóticas do formidável e fatal magnetismo feminino. Em uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            307.6319580078125,
+            515.4468383789062,
+            323.1997375488281
+          ],
+          "origin": [
+            82.74017333984375,
+            319.92047119140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        326.5085754394531,
+        515.4743041992188,
+        343.3595275878906
+      ],
+      "text": "discussão11, a batalha não se dá no plano racional como parece à primeira",
+      "spans": [
+        {
+          "text": "discussão",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            327.791748046875,
+            135.2575225830078,
+            343.3595275878906
+          ],
+          "origin": [
+            82.74017333984375,
+            340.08026123046875
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            136.26046752929688,
+            326.5085754394531,
+            144.04104614257812,
+            336.8609313964844
+          ],
+          "origin": [
+            136.26046752929688,
+            334.6802673339844
+          ]
+        },
+        {
+          "text": ", a batalha não se dá no plano racional como parece à primeira ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0604705810547,
+            327.791748046875,
+            515.4743041992188,
+            343.3595275878906
+          ],
+          "origin": [
+            144.0604705810547,
+            340.08026123046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74017333984375,
+        347.89215087890625,
+        515.4360961914062,
+        363.4599304199219
+      ],
+      "text": "vista e sim no plano emocional. Seja muito mais frio, mais incisivo, mais",
+      "spans": [
+        {
+          "text": "vista e sim no plano emocional. Seja muito mais frio, mais incisivo, mais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74017333984375,
+            347.89215087890625,
+            515.4360961914062,
+            363.4599304199219
+          ],
+          "origin": [
+            82.74017333984375,
+            360.1806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74018859863281,
+        366.7085876464844,
+        515.4750366210938,
+        383.5603332519531
+      ],
+      "text": "direto, mais agressivo12, mais curto e mais grosso do que sua contendora",
+      "spans": [
+        {
+          "text": "direto, mais agressivo",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74018859863281,
+            367.9925537109375,
+            209.4228057861328,
+            383.5603332519531
+          ],
+          "origin": [
+            82.74018859863281,
+            380.28106689453125
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            210.36019897460938,
+            366.7085876464844,
+            218.14077758789062,
+            377.0609436035156
+          ],
+          "origin": [
+            210.36019897460938,
+            374.8802795410156
+          ]
+        },
+        {
+          "text": ", mais curto e mais grosso do que sua contendora ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            218.1602020263672,
+            367.99176025390625,
+            515.4750366210938,
+            383.5595397949219
+          ],
+          "origin": [
+            218.1602020263672,
+            380.2802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        386.8687438964844,
+        515.4248657226562,
+        403.6599426269531
+      ],
+      "text": "para exercer o domínio13 ou será você o dominado. Não discuta: comunique",
+      "spans": [
+        {
+          "text": "para exercer o domínio",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            388.0921630859375,
+            213.02896118164062,
+            403.6599426269531
+          ],
+          "origin": [
+            82.74020385742188,
+            400.38067626953125
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            214.02020263671875,
+            386.8687438964844,
+            221.80078125,
+            397.2210998535156
+          ],
+          "origin": [
+            214.02020263671875,
+            395.0404357910156
+          ]
+        },
+        {
+          "text": " ou será você o dominado. Não discuta: comunique ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            221.82020568847656,
+            388.0917663574219,
+            515.4248657226562,
+            403.6595458984375
+          ],
+          "origin": [
+            221.82020568847656,
+            400.3802795410156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7412109375,
+        406.9687805175781,
+        515.4378051757812,
+        423.8197326660156
+      ],
+      "text": "passando por cima, pisoteando e esmagando toda influência fascinatória14.",
+      "spans": [
+        {
+          "text": "passando por cima, pisoteando e esmagando toda influência fascinatória",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7412109375,
+            408.2515563964844,
+            500.0013122558594,
+            423.8193359375
+          ],
+          "origin": [
+            82.7412109375,
+            420.5400695800781
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            500.8202209472656,
+            406.9687805175781,
+            508.6000061035156,
+            417.3211364746094
+          ],
+          "origin": [
+            500.8202209472656,
+            415.1404724121094
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            508.6202087402344,
+            408.251953125,
+            515.4378051757812,
+            423.8197326660156
+          ],
+          "origin": [
+            508.6202087402344,
+            420.54046630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        428.35235595703125,
+        515.5111083984375,
+        443.9201354980469
+      ],
+      "text": "Encare-a nos olhos. Ao mesmo tempo, seja amável e aceite-a tal como é,",
+      "spans": [
+        {
+          "text": "Encare-a nos olhos. Ao mesmo tempo, seja amável e aceite-a tal como é, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            428.35235595703125,
+            515.5111083984375,
+            443.9201354980469
+          ],
+          "origin": [
+            82.74020385742188,
+            440.640869140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        448.51214599609375,
+        391.6765441894531,
+        464.0799255371094
+      ],
+      "text": "deixando-a à vontade para pensar e fazer o que quiser.",
+      "spans": [
+        {
+          "text": "deixando-a à vontade para pensar e fazer o que quiser. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            448.51214599609375,
+            391.6765441894531,
+            464.0799255371094
+          ],
+          "origin": [
+            82.74020385742188,
+            460.8006591796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24020385742188,
+        480.3117370605469,
+        515.4502563476562,
+        495.8795166015625
+      ],
+      "text": "Para inutilizar os infernos mentais das teimosias e polêmicas basta",
+      "spans": [
+        {
+          "text": "Para inutilizar os infernos mentais das teimosias e polêmicas basta ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24020385742188,
+            480.3117370605469,
+            515.4502563476562,
+            495.8795166015625
+          ],
+          "origin": [
+            117.24020385742188,
+            492.6002502441406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        500.41217041015625,
+        515.3748168945312,
+        515.97998046875
+      ],
+      "text": "não forçar as opiniões de sua parceira. Respeite absolutamente suas",
+      "spans": [
+        {
+          "text": "não forçar as opiniões de sua parceira. Respeite absolutamente suas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            500.41217041015625,
+            515.3748168945312,
+            515.97998046875
+          ],
+          "origin": [
+            82.74020385742188,
+            512.70068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        520.5719604492188,
+        515.4161376953125,
+        536.1397705078125
+      ],
+      "text": "opiniões, visões de mundo, concepções etc \nmesmo quando forem",
+      "spans": [
+        {
+          "text": "opiniões, visões de mundo, concepções etc ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            520.5719604492188,
+            367.2237548828125,
+            536.1397705078125
+          ],
+          "origin": [
+            82.74020385742188,
+            532.8604736328125
+          ]
+        },
+        {
+          "text": "mesmo quando forem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            376.60626220703125,
+            520.5719604492188,
+            515.4161376953125,
+            536.1397705078125
+          ],
+          "origin": [
+            376.60626220703125,
+            532.8604736328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        540.6723022460938,
+        515.3603515625,
+        556.2401123046875
+      ],
+      "text": "equivocadas, falsas, mal intencionadas, absurdas, egoístas e completamente",
+      "spans": [
+        {
+          "text": "equivocadas, falsas, mal intencionadas, absurdas, egoístas e completamente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            540.6723022460938,
+            515.3603515625,
+            556.2401123046875
+          ],
+          "origin": [
+            82.74020385742188,
+            552.9608154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        560.83251953125,
+        515.4955444335938,
+        576.4003295898438
+      ],
+      "text": "prejudiciais para a relação. Entretanto, comunique-lhe por via única e",
+      "spans": [
+        {
+          "text": "prejudiciais para a relação. Entretanto, comunique-lhe por via única e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            560.83251953125,
+            515.4955444335938,
+            576.4003295898438
+          ],
+          "origin": [
+            82.74020385742188,
+            573.1210327148438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        580.9329223632812,
+        515.4857788085938,
+        596.500732421875
+      ],
+      "text": "amavelmente, sem polemizar, o que você enxerga a respeito das mesmas e",
+      "spans": [
+        {
+          "text": "amavelmente, sem polemizar, o que você enxerga a respeito das mesmas e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            580.9329223632812,
+            515.4857788085938,
+            596.500732421875
+          ],
+          "origin": [
+            82.74020385742188,
+            593.221435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74020385742188,
+        601.0927124023438,
+        515.5560302734375,
+        616.6605224609375
+      ],
+      "text": "as conseqüências que possuem. Jamais tente obrigá-la a admitir os próprios",
+      "spans": [
+        {
+          "text": "as conseqüências que possuem. Jamais tente obrigá-la a admitir os próprios ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74020385742188,
+            601.0927124023438,
+            515.5560302734375,
+            616.6605224609375
+          ],
+          "origin": [
+            82.74020385742188,
+            613.3812255859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73854064941406,
+        630.6594848632812,
+        514.7284545898438,
+        737.6797485351562
+      ],
+      "text": "10 Estes impactos não devem ser entendidos como danos e nem muito menos como agressões mas \nsim como sensibilizações que mobilizam sentimentos. \n11 A despeito de ser comum se afirmar o contrário, acredito que isso seja quase universal. As \ndiscussões turvam o entendimento, seja ele racional ou emocional.  \n12 Dentro do limite da boa-educação e da civilidade, obviamente. Não retroceda ao paleolítico. \n13 Refiro-me ao domínio da situação e não da mente ou do corpo alheios. \n14 Em outras palavras: chicoteie a si mesmo com o látego da vontade para domar o animal \ninterior e evitar a possessão por sentimentos e pensamentos negativos. Sobre este pormenor, \nleia-se Nietzsche (1884-1885/1985).",
+      "spans": [
+        {
+          "text": "10",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            641.0159912109375,
+            88.59776306152344,
+            648.7998657226562
+          ],
+          "origin": [
+            82.74000549316406,
+            647.1602172851562
+          ]
+        },
+        {
+          "text": " Estes impactos não devem ser entendidos como danos e nem muito menos como agressões mas ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56031799316406,
+            641.8438720703125,
+            514.7138061523438,
+            653.5197143554688
+          ],
+          "origin": [
+            88.56031799316406,
+            651.0602416992188
+          ]
+        },
+        {
+          "text": "sim como sensibilizações que mobilizam sentimentos. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73931884765625,
+            651.9239501953125,
+            324.1778564453125,
+            663.5997924804688
+          ],
+          "origin": [
+            82.73931884765625,
+            661.1403198242188
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73931884765625,
+            661.1160278320312,
+            88.59707641601562,
+            668.89990234375
+          ],
+          "origin": [
+            82.73931884765625,
+            667.26025390625
+          ]
+        },
+        {
+          "text": " A despeito de ser comum se afirmar o contrário, acredito que isso seja quase universal. As ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55963134765625,
+            662.0036010742188,
+            514.6669311523438,
+            673.679443359375
+          ],
+          "origin": [
+            88.55963134765625,
+            671.219970703125
+          ]
+        },
+        {
+          "text": "discussões turvam o entendimento, seja ele racional ou emocional.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73892974853516,
+            672.0841674804688,
+            384.26068115234375,
+            683.760009765625
+          ],
+          "origin": [
+            82.73892974853516,
+            681.300537109375
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73892974853516,
+            681.2761840820312,
+            88.59668731689453,
+            689.06005859375
+          ],
+          "origin": [
+            82.73892974853516,
+            687.42041015625
+          ]
+        },
+        {
+          "text": " Dentro do limite da boa-educação e da civilidade, obviamente. Não retroceda ao paleolítico. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55924224853516,
+            682.1040649414062,
+            505.08404541015625,
+            693.7799072265625
+          ],
+          "origin": [
+            88.55924224853516,
+            691.3204345703125
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73892974853516,
+            691.3562622070312,
+            88.59668731689453,
+            699.14013671875
+          ],
+          "origin": [
+            82.73892974853516,
+            697.50048828125
+          ]
+        },
+        {
+          "text": " Refiro-me ao domínio da situação e não da mente ou do corpo alheios. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55924224853516,
+            692.1841430664062,
+            407.3495178222656,
+            703.8599853515625
+          ],
+          "origin": [
+            88.55924224853516,
+            701.4005126953125
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73892974853516,
+            701.3761596679688,
+            88.59668731689453,
+            709.1600341796875
+          ],
+          "origin": [
+            82.73892974853516,
+            707.5203857421875
+          ]
+        },
+        {
+          "text": " Em outras palavras: chicoteie a si mesmo com o látego da vontade para domar o animal ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55924224853516,
+            702.2642211914062,
+            514.7284545898438,
+            713.9400634765625
+          ],
+          "origin": [
+            88.55924224853516,
+            711.4805908203125
+          ]
+        },
+        {
+          "text": "interior e evitar a possessão por sentimentos e pensamentos negativos. Sobre este pormenor, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73854064941406,
+            712.3442993164062,
+            514.7103881835938,
+            724.0201416015625
+          ],
+          "origin": [
+            82.73854064941406,
+            721.5606689453125
+          ]
+        },
+        {
+          "text": "leia-se Nietzsche (",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73854064941406,
+            725.18408203125,
+            164.91969299316406,
+            736.8599243164062
+          ],
+          "origin": [
+            82.73854064941406,
+            734.4004516601562
+          ]
+        },
+        {
+          "text": "1884-1885/1985",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            165.8389434814453,
+            722.1119384765625,
+            255.68914794921875,
+            737.6797485351562
+          ],
+          "origin": [
+            165.8389434814453,
+            734.4004516601562
+          ]
+        },
+        {
+          "text": "). ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            256.6190490722656,
+            725.18408203125,
+            265.9473876953125,
+            736.8599243164062
+          ],
+          "origin": [
+            256.6190490722656,
+            734.4004516601562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "67",
+      "spans": [
+        {
+          "text": "67",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

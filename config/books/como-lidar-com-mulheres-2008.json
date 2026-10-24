@@ -2,15 +2,33 @@
   "title_pt": "Como Lidar com Mulheres",
   "series_pt": "O Sofrimento Amoroso do Homem - Volume I",
   "source_pdf": "portuguese-original-pdf/Nessahan Alita - Como lidar com mulheres (Ed. 2008).pdf",
-  "extracted_dir": "extracted/Nessahan Alita - Como lidar com mulheres (Ed. 2008)",
+  "extracted_dir": "extracted-fixed/Nessahan Alita - Como lidar com mulheres (Ed. 2008)",
   "drop_line_patterns": [],
   "soft_hyphenation": false,
   "chapter_starts": null,
   "known_issues": [
-    "BLOQUEANTE: ~645 blocos em Helvetica-Oblique (cartas/anexos, pp. ~204-249) foram extraídos com espaços espúrios dentro das palavras ('co n q u ist ad a'). Reextrair com pymupdf.TEXT_INHIBIT_SPACES antes de segmentar este livro.",
     "Numeração das notas de rodapé reinicia a cada capítulo.",
     "Títulos de capítulo têm o mesmo tamanho do corpo (11.7 pt, negrito) e às vezes ocupam duas linhas.",
-    "Anexos (Entrevista, Correspondências) são texto de terceiros/diálogo: manter a distinção autor x leitores."
+    "Anexos (Entrevista, Correspondências) são texto de terceiros/diálogo: manter a distinção autor x leitores.",
+    "Espaços espúrios nas cartas (Helvetica-Oblique) corrigidos com tools/extract_book.py -> extracted-fixed/ (TEXT_INHIBIT_SPACES)."
   ],
-  "edition": "2008"
+  "edition": "2008",
+  "title_en": "How to Deal with Women",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts/liberation",
+    "font_map": {
+      "Helvetica": "Liberation Sans",
+      "Arial": "Liberation Sans"
+    },
+    "tracking_pt": 1.0,
+    "line_pitch_pt": 20.1,
+    "paragraph_pitch_pt": 32.0,
+    "footnote_size_pt": 8.8,
+    "footnote_pitch_pt": 10.1,
+    "page_number_size_pt": 9.7,
+    "page_number_align": "right",
+    "footnote_rule_pt": 140,
+    "notes": "Medido no PDF original (2026-10-24): A4, margens 83/80 pt, corpo Times 11,7 pt, entrelinha ~20,1 pt, parágrafos 32 pt, recuo 34 pt, espaçamento entre letras ~1 pt, notas 8,8 pt, número de página à direita; cartas em Helvetica-Oblique 9,7 pt."
+  }
 }

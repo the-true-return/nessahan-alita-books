@@ -33,6 +33,14 @@ PT_STOPWORDS = {
     "está", "entre", "sobre", "sem", "mais", "como", "nos", "nas", "aos",
 }
 PT_DIACRITIC_WORD = re.compile(r"\b[a-zà-ÿ]*[ãõçâêôáíóúà][a-zà-ÿ]*\b")
+# Not Portuguese residue: URLs ("epoca.com.br") and the city name São Paulo,
+# which bibliographies repeat (city and publisher names are kept).
+NOT_RESIDUE_RE = re.compile(r"\S+\.(?:com|br|org|net)\S*|\bSão Paulo\b", re.IGNORECASE)
+
+
+def looks_portuguese(text: str) -> bool:
+    words = re.findall(r"[a-zà-ÿ]+", NOT_RESIDUE_RE.sub(" ", text).lower())
+    return any(w in PT_STOPWORDS for w in words) or bool(PT_DIACRITIC_WORD.search(text))
 REF_RE = re.compile(r"\[\^(\d+)\]")
 NUMBER_RE = re.compile(r"\d+")
 
@@ -117,7 +125,8 @@ def check_chapter(slug: str, chapter: str, glossary: list[dict]) -> dict:
             errors.append(f"{sid}: empty translation")
             continue
         pt_plain, en_plain = strip_markup(pt_text), strip_markup(en_text)
-        if en_plain == pt_plain and len(pt_plain.split()) > 3:
+        # A source already in English (e.g. an English book title) may stay identical.
+        if en_plain == pt_plain and len(pt_plain.split()) > 3 and looks_portuguese(pt_plain):
             errors.append(f"{sid}: identical to the source (untranslated?)")
         translated_texts[en_plain].append(sid)
 
@@ -146,7 +155,7 @@ def check_chapter(slug: str, chapter: str, glossary: list[dict]) -> dict:
         # Nothing may stay in Portuguese: residue is an error. KEEP lists
         # foreign (non-Portuguese) words with accents that are allowed.
         allowed = {w.strip().lower() for k in en["keep"] for w in k.split(",")}
-        words = re.findall(r"[a-zà-ÿ]+", en_plain.lower())
+        words = re.findall(r"[a-zà-ÿ]+", NOT_RESIDUE_RE.sub(" ", en_plain).lower())
         pt_hits = [w for w in words if w in PT_STOPWORDS and w not in allowed]
         diacritic = [w for w in PT_DIACRITIC_WORD.findall(en_plain) if w.lower() not in allowed]
         if len(pt_hits) >= 2 or diacritic:

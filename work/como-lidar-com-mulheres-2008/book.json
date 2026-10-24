@@ -1,0 +1,424 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "title": "Como Lidar com Mulheres",
+  "metrics": {
+    "body_size": 11.7,
+    "left": 83,
+    "right": 515,
+    "indent": 117,
+    "line_gap": 4.59,
+    "para_gap": 8.59
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        5
+      ],
+      "segments": 62,
+      "words": 740,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        6,
+        11
+      ],
+      "segments": 25,
+      "words": 1926,
+      "footnotes": 5
+    },
+    {
+      "id": "02",
+      "title": "1. Características do falsamente chamado “sexo frágil”1",
+      "pages": [
+        12,
+        19
+      ],
+      "segments": 93,
+      "words": 1740,
+      "footnotes": 12
+    },
+    {
+      "id": "03",
+      "title": "2. As etapas do trabalho de encantamento de mulheres refratárias e arredias",
+      "pages": [
+        20,
+        24
+      ],
+      "segments": 31,
+      "words": 1730,
+      "footnotes": 12
+    },
+    {
+      "id": "04",
+      "title": "3. Cuidados a tomar quando lidamos com mulheres espertinhas que tentam trapacear no amor",
+      "pages": [
+        25,
+        26
+      ],
+      "segments": 20,
+      "words": 334,
+      "footnotes": 2
+    },
+    {
+      "id": "05",
+      "title": "4. Como sobreviver no difícil jogo das forças magnéticas da sedução que envolvem fêmeas1 trapaceiras2",
+      "pages": [
+        27,
+        32
+      ],
+      "segments": 78,
+      "words": 1273,
+      "footnotes": 11
+    },
+    {
+      "id": "06",
+      "title": "5. Sobre o desejo1 da mulher",
+      "pages": [
+        33,
+        47
+      ],
+      "segments": 73,
+      "words": 5352,
+      "footnotes": 28
+    },
+    {
+      "id": "07",
+      "title": "6. As torturas psicológicas",
+      "pages": [
+        48,
+        55
+      ],
+      "segments": 40,
+      "words": 2344,
+      "footnotes": 15
+    },
+    {
+      "id": "08",
+      "title": "7. A ultrapassagem das defesas emocionais em mulheres fechadas à aproximação e ao contato",
+      "pages": [
+        56,
+        62
+      ],
+      "segments": 31,
+      "words": 1926,
+      "footnotes": 11
+    },
+    {
+      "id": "09",
+      "title": "8. Porque não devemos discutir e nem polemizar",
+      "pages": [
+        63,
+        69
+      ],
+      "segments": 41,
+      "words": 2625,
+      "footnotes": 18
+    },
+    {
+      "id": "10",
+      "title": "9. Sobre a impossibilidade de dominar o \"sexo frágil\"",
+      "pages": [
+        70,
+        78
+      ],
+      "segments": 63,
+      "words": 2827,
+      "footnotes": 25
+    },
+    {
+      "id": "11",
+      "title": "10. A alternância",
+      "pages": [
+        79,
+        84
+      ],
+      "segments": 43,
+      "words": 1823,
+      "footnotes": 15
+    },
+    {
+      "id": "12",
+      "title": "11. Porque elas nos observam",
+      "pages": [
+        85,
+        88
+      ],
+      "segments": 21,
+      "words": 1115,
+      "footnotes": 5
+    },
+    {
+      "id": "13",
+      "title": "12. Como lidar com mulheres que fogem",
+      "pages": [
+        89,
+        95
+      ],
+      "segments": 39,
+      "words": 2137,
+      "footnotes": 7
+    },
+    {
+      "id": "14",
+      "title": "13. A impossibilidade de negociação",
+      "pages": [
+        96,
+        98
+      ],
+      "segments": 13,
+      "words": 707,
+      "footnotes": 3
+    },
+    {
+      "id": "15",
+      "title": "14. Porque é necessário ocultar nossos sentimentos e nossa conduta",
+      "pages": [
+        99,
+        104
+      ],
+      "segments": 31,
+      "words": 2435,
+      "footnotes": 15
+    },
+    {
+      "id": "16",
+      "title": "15. O miserável sentimento da paixão",
+      "pages": [
+        105,
+        115
+      ],
+      "segments": 54,
+      "words": 3419,
+      "footnotes": 7
+    },
+    {
+      "id": "17",
+      "title": "16. Os testes",
+      "pages": [
+        116,
+        120
+      ],
+      "segments": 30,
+      "words": 1680,
+      "footnotes": 8
+    },
+    {
+      "id": "18",
+      "title": "17. O círculo social estúpido",
+      "pages": [
+        121,
+        121
+      ],
+      "segments": 3,
+      "words": 226,
+      "footnotes": 0
+    },
+    {
+      "id": "19",
+      "title": "18. Porque é importante sermos homens decididos",
+      "pages": [
+        122,
+        125
+      ],
+      "segments": 17,
+      "words": 1079,
+      "footnotes": 3
+    },
+    {
+      "id": "20",
+      "title": "19. Como destroçar os joguinhos emocionais",
+      "pages": [
+        126,
+        146
+      ],
+      "segments": 95,
+      "words": 6684,
+      "footnotes": 18
+    },
+    {
+      "id": "21",
+      "title": "20. Sobre o tipo de segurança buscada",
+      "pages": [
+        147,
+        152
+      ],
+      "segments": 19,
+      "words": 1695,
+      "footnotes": 2
+    },
+    {
+      "id": "22",
+      "title": "21. As mentiras",
+      "pages": [
+        153,
+        158
+      ],
+      "segments": 28,
+      "words": 1566,
+      "footnotes": 3
+    },
+    {
+      "id": "23",
+      "title": "22. A infidelidade",
+      "pages": [
+        159,
+        167
+      ],
+      "segments": 44,
+      "words": 2756,
+      "footnotes": 9
+    },
+    {
+      "id": "24",
+      "title": "23. A infantilidade",
+      "pages": [
+        168,
+        171
+      ],
+      "segments": 17,
+      "words": 976,
+      "footnotes": 0
+    },
+    {
+      "id": "25",
+      "title": "24. Observando-as com realismo",
+      "pages": [
+        172,
+        175
+      ],
+      "segments": 19,
+      "words": 997,
+      "footnotes": 1
+    },
+    {
+      "id": "26",
+      "title": "25. Aprisionando-as a nós pelos sentimentos",
+      "pages": [
+        176,
+        184
+      ],
+      "segments": 36,
+      "words": 2622,
+      "footnotes": 1
+    },
+    {
+      "id": "27",
+      "title": "26. A ilusão do amor",
+      "pages": [
+        185,
+        187
+      ],
+      "segments": 12,
+      "words": 713,
+      "footnotes": 1
+    },
+    {
+      "id": "28",
+      "title": "27. Como ser fascinante aos olhos das mulheres",
+      "pages": [
+        188,
+        200
+      ],
+      "segments": 65,
+      "words": 4375,
+      "footnotes": 15
+    },
+    {
+      "id": "29",
+      "title": "28. Ao telefone",
+      "pages": [
+        201,
+        203
+      ],
+      "segments": 14,
+      "words": 753,
+      "footnotes": 1
+    },
+    {
+      "id": "30",
+      "title": "29. Anexos",
+      "pages": [
+        204,
+        204
+      ],
+      "segments": 4,
+      "words": 193,
+      "footnotes": 0
+    },
+    {
+      "id": "31",
+      "title": "Anexo 1. Entrevista com o autor",
+      "pages": [
+        205,
+        214
+      ],
+      "segments": 82,
+      "words": 3035,
+      "footnotes": 19
+    },
+    {
+      "id": "32",
+      "title": "Anexo 2. Correspondências",
+      "pages": [
+        214,
+        236
+      ],
+      "segments": 161,
+      "words": 6542,
+      "footnotes": 15
+    },
+    {
+      "id": "33",
+      "title": "Conclusões",
+      "pages": [
+        237,
+        240
+      ],
+      "segments": 26,
+      "words": 841,
+      "footnotes": 1
+    },
+    {
+      "id": "34",
+      "title": "Referências bibliográficas que fundamentam a teoria filosófico-espiritualista desenvolvida neste livro:",
+      "pages": [
+        241,
+        248
+      ],
+      "segments": 97,
+      "words": 2080,
+      "footnotes": 0
+    },
+    {
+      "id": "35",
+      "title": "Sobre o autor:",
+      "pages": [
+        249,
+        249
+      ],
+      "segments": 4,
+      "words": 228,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 248
+  },
+  "completeness": {
+    "source_chars": 387375,
+    "segment_chars": 387375
+  },
+  "warnings": [
+    "footnote 22 on page 215: matched to the reference 4 pages away (check)",
+    "footnote 23 on page 215: matched to the reference 4 pages away (check)",
+    "footnote 26 on page 224: matched to the reference 2 pages away (check)",
+    "footnote 27 on page 224: matched to the reference 2 pages away (check)",
+    "footnote 28 on page 224: matched to the reference 3 pages away (check)"
+  ]
+}

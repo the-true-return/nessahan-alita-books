@@ -1146,6 +1146,302 @@
       "display_pt": "afinidade simpática",
       "note_en": "The bond of sympathy created by the convergence of desires and attitudes.",
       "in_book_glossary": true
+    },
+    {
+      "term_pt": "artimanha(s)",
+      "match_pt": [
+        "artimanha",
+        "artimanhas"
+      ],
+      "term_en": "wile(s)",
+      "match_en": [
+        "wile",
+        "wiles"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Recorrente em Como Lidar com Mulheres (artimanhas femininas / manipulatórias). Alternativas: 'ploys', 'tricks'."
+    },
+    {
+      "term_pt": "horrorização",
+      "match_pt": [
+        "horrorização"
+      ],
+      "term_en": "horrification",
+      "match_en": [
+        "horrification"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Estratégia que o autor atribui a Eliphas Lévi: impressionar a mulher contrariando suas convicções, de forma inofensiva. Verbo 'horrorizar' -> 'horrify'. Como Lidar com Mulheres, caps. 2 e 5.",
+      "display_en": "horrification",
+      "display_pt": "horrorização",
+      "note_en": "The author’s term, after Eliphas Lévi, for making a strong and harmless impression on a woman by contradicting her convictions about what is beautiful or correct; never a threat or real danger.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "vadia(s)",
+      "match_pt": [
+        "vadia",
+        "vadias"
+      ],
+      "term_en": "tramp(s)",
+      "match_en": [
+        "tramp",
+        "tramps"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "O autor insiste no sentido de 'pessoa desocupada, ociosa' (Como Lidar com Mulheres, cap. 1, nota 2); 'tramp' mantém o duplo sentido (vagabundo / mulher fácil). Alternativas: 'loose woman', 'good-for-nothing'."
+    },
+    {
+      "term_pt": "domínio (vs. dominação)",
+      "match_pt": [
+        "domínio"
+      ],
+      "term_en": "dominance / mastery (vs. domination)",
+      "match_en": [
+        "dominance",
+        "mastery",
+        "command"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "O autor distingue 'domínio' (liderança consentida e protetora) de 'dominação' (coerção). Em Como Lidar com Mulheres, cap. 5, usei 'dominance' e, na nota 25, 'mastery' vs. 'domination'. Decidir se unifica.",
+      "display_en": "dominance (vs. domination)",
+      "display_pt": "domínio (vs. dominação)",
+      "note_en": "The author distinguishes consented, protective leadership in the relationship, which he endorses, from coercive domination of another’s mind or will, which he rejects.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "trouxa(s)",
+      "match_pt": [
+        "trouxa",
+        "trouxas"
+      ],
+      "term_en": "sucker(s)",
+      "match_en": [
+        "sucker",
+        "suckers"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Gíria para o homem ingênuo, explorado pela mulher. Usado em Como Lidar com Mulheres, caps. 5–10. Alternativas: 'patsy', 'chump'."
+    },
+    {
+      "term_pt": "desapaixonamento / desapaixonado",
+      "match_pt": [
+        "desapaixonamento",
+        "desapaixonado",
+        "desapaixonados"
+      ],
+      "term_en": "freedom from passion / free of passion",
+      "match_en": [
+        "freedom from passion",
+        "free of passion",
+        "fallen out of love",
+        "out of love"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Estado do homem que eliminou a paixão (egos) e por isso não é dominado pela mulher. Em Como Lidar com Mulheres, caps. 9–11: 'freedom from passion' / 'free of passion'; 'fallen out of love' quando descreve a mudança de estado (cap. 6). Alternativa: 'dispassion'.",
+      "display_en": "freedom from passion",
+      "display_pt": "desapaixonamento",
+      "note_en": "The state of a man who has eliminated the egos of romantic passion and attachment, which the author presents as the precondition for not being dominated or tormented in love."
+    },
+    {
+      "term_pt": "alternância",
+      "match_pt": [
+        "alternância",
+        "alternâncias"
+      ],
+      "term_en": "alternation(s)",
+      "match_en": [
+        "alternation",
+        "alternations"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Título do cap. 10 de Como Lidar com Mulheres; jogo de oscilar entre frieza e carinho (Lévi: 'alternar e cruzar a ação').",
+      "display_en": "alternation",
+      "display_pt": "alternância",
+      "note_en": "The deliberate oscillation between coldness and affection, attributed by the author to feminine emotional games and recommended to men, following Lévi, as a way of crossing and alternating one’s action."
+    },
+    {
+      "term_pt": "fujona(s)",
+      "match_pt": [
+        "fujona",
+        "fujonas"
+      ],
+      "term_en": "runaway(s)",
+      "match_en": [
+        "runaway",
+        "runaways"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "Cap. 12 de Como Lidar com Mulheres ('Como lidar com mulheres que fogem'): mulher que atrai e foge. Aumentativo coloquial de 'fugir'; 'the runaways' mantém o tom. Alternativas: 'elusive women', 'escape artists'."
+    },
+    {
+      "term_pt": "inferno(s) mental(is)",
+      "match_pt": [
+        "inferno mental",
+        "infernos mentais"
+      ],
+      "term_en": "mental hell(s)",
+      "match_en": [
+        "mental hell",
+        "mental hells",
+        "mental-emotional hell"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "Situações de dúvida e tormento criadas nos joguinhos emocionais (caps. 8, 9, 16, 19 de Como Lidar com Mulheres). 'inferno mental-emocional' (cap. 9) → 'mental-emotional hell'. Relacionado: 'inferninhos emocionais' → 'little emotional hells'."
+    },
+    {
+      "term_pt": "inveja do pênis",
+      "match_pt": [
+        "inveja do pênis"
+      ],
+      "term_en": "penis envy",
+      "match_en": [
+        "penis envy"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "Termo freudiano (Penisneid); forma inglesa consagrada. Caps. 19 e 24 de Como Lidar com Mulheres ('complexo da inveja do pênis' → 'penis envy complex')."
+    },
+    {
+      "term_pt": "indefinição",
+      "match_pt": [
+        "indefinição",
+        "indefinições"
+      ],
+      "term_en": "indefiniteness",
+      "match_en": [
+        "indefiniteness",
+        "vagueness",
+        "undefined"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "Estado de relação não definida mantido pela mulher para preservar a dúvida e a 'permanência' do interesse masculino (caps. 6, 18, 19, 25 de Como Lidar com Mulheres). 'indefiniteness' na maior parte do livro; 'vagueness' no cap. 6.",
+      "display_en": "indefiniteness",
+      "display_pt": "indefinição",
+      "note_en": "The deliberate refusal to define a relationship (friend, lover, girlfriend, wife), kept up to preserve doubt and to prolong the man’s interest and pursuit. The author advises answering it with ultimatums or by turning it back against the woman."
+    },
+    {
+      "term_pt": "prostituição inconsciente",
+      "match_pt": [
+        "prostituição inconsciente"
+      ],
+      "term_en": "unconscious prostitution",
+      "match_en": [
+        "unconscious prostitution"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "como-lidar-com-mulheres-2008"
+      ],
+      "notes": "Cap. 27 de Como Lidar com Mulheres ('Como ser fascinante aos olhos das mulheres'), 3 ocorrências; tendência ancestral atribuída pelo autor às fêmeas, com apoio em Calligaris.",
+      "display_en": "unconscious prostitution",
+      "display_pt": "prostituição inconsciente",
+      "note_en": "The author’s name for what he describes as an ancestral, unacknowledged tendency of females to give themselves to the males with the greatest resources or social standing, drawing on Calligaris’s psychoanalytic account of the prostitution fantasy."
+    },
+    {
+      "term_pt": "kundalini",
+      "match_pt": [
+        "kundalini"
+      ],
+      "term_en": "kundalini",
+      "match_en": [
+        "kundalini"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo sânscrito, já estrangeiro no original; o autor usa no masculino ('o kundalini'), seguindo Samael Aun Weor. 22 ocorrências no Anexo 2 (cartas) de Como Lidar com Mulheres. O reverso, 'kundartiguador', ficou como está (QUERY em 32-0031).",
+      "display_en": "kundalini",
+      "display_pt": "kundalini",
+      "note_en": "The serpentine sexual energy that, in the esoteric tradition the author follows (Samael Aun Weor), rises through the spine when sexual force is aroused and turned inward instead of being spent. Its inverted, descending form is the source of magnetism; overcoming feminine magnetism is a condition for awakening it."
+    },
+    {
+      "term_pt": "Homem Autêntico",
+      "match_pt": [
+        "homem autêntico",
+        "homens autênticos"
+      ],
+      "term_en": "Authentic Man",
+      "match_en": [
+        "authentic man",
+        "authentic men"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Anexo 2 de Como Lidar com Mulheres (4 ocorrências); oposto ao 'humanóide' / 'animal intelectual'. Maiúscula quando o original usa maiúscula. Relacionado a 'Super-Homem' → 'Superman' (32-0046, 32-0101).",
+      "display_en": "Authentic Man",
+      "display_pt": "Homem Autêntico",
+      "note_en": "The true human being, as opposed to the ordinary humanoid: one who has eliminated the ego, resists magnetism in its various forms, and possesses the inner bodies (vehicles) of fire. The author places the Superman one stage beyond him."
+    },
+    {
+      "term_pt": "humanóide",
+      "match_pt": [
+        "humanóide",
+        "humanóides"
+      ],
+      "term_en": "humanoid(s)",
+      "match_en": [
+        "humanoid",
+        "humanoids"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Caps. 25 e Anexo 2 de Como Lidar com Mulheres (9 ocorrências): o ser humano comum, ainda animal ('macaco racional', 'animal intelectual'), em oposição ao Homem Autêntico.",
+      "display_en": "humanoid",
+      "display_pt": "humanóide",
+      "note_en": "The author’s term for the ordinary human being: a rational animal driven by instinct and by the ego, which merely has a human appearance and has not yet become an Authentic Man."
     }
   ]
 }

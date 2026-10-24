@@ -1,0 +1,1299 @@
+{
+  "page_number": 22,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.472412109375,
+        118.65927124023438
+      ],
+      "text": "de suas opiniões, provoque uma discussão mas não termine. Então ofereça",
+      "spans": [
+        {
+          "text": "de suas opiniões, provoque uma discussão mas não termine. Então ofereça ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.472412109375,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        502.19586181640625,
+        138.81906127929688
+      ],
+      "text": "um número de telefone ou e-mail para continuá-la, dando prazo de espera.",
+      "spans": [
+        {
+          "text": "um número de telefone ou e-mail para continuá-la, dando prazo de espera. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            502.19586181640625,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        155.0509033203125,
+        515.5231323242188,
+        170.61868286132812
+      ],
+      "text": "Em \ncasos \nextremos, \né \nnecessário \nimpressioná-la \nmuito,",
+      "spans": [
+        {
+          "text": "Em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            155.0509033203125,
+            138.33448791503906,
+            170.61868286132812
+          ],
+          "origin": [
+            117.23980712890625,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "casos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            153.71670532226562,
+            155.0509033203125,
+            186.76507568359375,
+            170.61868286132812
+          ],
+          "origin": [
+            153.71670532226562,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "extremos, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            202.14715576171875,
+            155.0509033203125,
+            259.5882873535156,
+            170.61868286132812
+          ],
+          "origin": [
+            202.14715576171875,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            274.91094970703125,
+            155.0509033203125,
+            283.99371337890625,
+            170.61868286132812
+          ],
+          "origin": [
+            274.91094970703125,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "necessário ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            299.3163757324219,
+            155.0509033203125,
+            360.6180725097656,
+            170.61868286132812
+          ],
+          "origin": [
+            299.3163757324219,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "impressioná-la ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            375.94073486328125,
+            155.0509033203125,
+            461.2250061035156,
+            170.61868286132812
+          ],
+          "origin": [
+            375.94073486328125,
+            167.33941650390625
+          ]
+        },
+        {
+          "text": "muito, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            476.54766845703125,
+            155.0509033203125,
+            515.5231323242188,
+            170.61868286132812
+          ],
+          "origin": [
+            476.54766845703125,
+            167.33941650390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        173.92832946777344,
+        515.5211181640625,
+        190.77932739257812
+      ],
+      "text": "“horrorizando-a”6 de forma calculada. Não vá “horrorizá-la” de qualquer",
+      "spans": [
+        {
+          "text": "“horrorizando-a”",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            175.21112060546875,
+            177.05087280273438,
+            190.77890014648438
+          ],
+          "origin": [
+            82.73980712890625,
+            187.4996337890625
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            177.96011352539062,
+            173.92832946777344,
+            181.84031677246094,
+            184.2807159423828
+          ],
+          "origin": [
+            177.96011352539062,
+            182.10003662109375
+          ]
+        },
+        {
+          "text": " de forma calculada. Não vá “horrorizá-la” de qualquer ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            181.860107421875,
+            175.2115478515625,
+            515.5211181640625,
+            190.77932739257812
+          ],
+          "origin": [
+            181.860107421875,
+            187.50006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        195.31195068359375,
+        515.524658203125,
+        210.87973022460938
+      ],
+      "text": "modo: impressione-a da forma correta, para que o resultado não seja um",
+      "spans": [
+        {
+          "text": "modo: impressione-a da forma correta, para que o resultado não seja um ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            195.31195068359375,
+            515.524658203125,
+            210.87973022460938
+          ],
+          "origin": [
+            82.73980712890625,
+            207.6004638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        215.47174072265625,
+        515.4371337890625,
+        231.03952026367188
+      ],
+      "text": "desastre. Uma boa forma de marcar-lhe a imaginação para que fique",
+      "spans": [
+        {
+          "text": "desastre. Uma boa forma de marcar-lhe a imaginação para que fique ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            215.47174072265625,
+            515.4371337890625,
+            231.03952026367188
+          ],
+          "origin": [
+            82.73980712890625,
+            227.76025390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        235.5721435546875,
+        515.481201171875,
+        251.13992309570312
+      ],
+      "text": "pensando em você por um bom tempo é assumir-se como machista",
+      "spans": [
+        {
+          "text": "pensando em você por um bom tempo é assumir-se como machista ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            235.5721435546875,
+            515.481201171875,
+            251.13992309570312
+          ],
+          "origin": [
+            82.73980712890625,
+            247.86065673828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        255.73193359375,
+        515.3836059570312,
+        271.2997131347656
+      ],
+      "text": "(esclarecido, consciente, pacífico e protetor, é claro) pois seus rivais",
+      "spans": [
+        {
+          "text": "(esclarecido, consciente, pacífico e protetor, é claro) pois seus rivais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            255.73193359375,
+            515.3836059570312,
+            271.2997131347656
+          ],
+          "origin": [
+            82.73980712890625,
+            268.02044677734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        274.608154296875,
+        515.376953125,
+        291.4001159667969
+      ],
+      "text": "sempre fingirão7 que são feministas para agradar.  O que interessa aqui é",
+      "spans": [
+        {
+          "text": "sempre fingirão",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            275.83233642578125,
+            171.62660217285156,
+            291.4001159667969
+          ],
+          "origin": [
+            82.73980712890625,
+            288.120849609375
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            172.61990356445312,
+            274.608154296875,
+            176.50010681152344,
+            284.96051025390625
+          ],
+          "origin": [
+            172.61990356445312,
+            282.77984619140625
+          ]
+        },
+        {
+          "text": " que são feministas para agradar.  O que interessa aqui é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            176.5198974609375,
+            275.8311767578125,
+            515.376953125,
+            291.3989562988281
+          ],
+          "origin": [
+            176.5198974609375,
+            288.11968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        295.99139404296875,
+        515.4053955078125,
+        311.5591735839844
+      ],
+      "text": "sobressair-se como um cara diferente, seguro, que não teme mostrar suas",
+      "spans": [
+        {
+          "text": "sobressair-se como um cara diferente, seguro, que não teme mostrar suas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            295.99139404296875,
+            515.4053955078125,
+            311.5591735839844
+          ],
+          "origin": [
+            82.73979949951172,
+            308.2799072265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        314.86798095703125,
+        515.4205932617188,
+        331.6595764160156
+      ],
+      "text": "convicções8 e que não precisa de ninguém. A respeito deste pormenor,",
+      "spans": [
+        {
+          "text": "convicções",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            316.091796875,
+            143.38523864746094,
+            331.6595764160156
+          ],
+          "origin": [
+            82.73979949951172,
+            328.38031005859375
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            144.3000030517578,
+            314.86798095703125,
+            148.18020629882812,
+            325.2203369140625
+          ],
+          "origin": [
+            144.3000030517578,
+            323.0396728515625
+          ]
+        },
+        {
+          "text": " e que não precisa de ninguém. A respeito deste pormenor, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            148.1999969482422,
+            316.09136962890625,
+            515.4205932617188,
+            331.6591491699219
+          ],
+          "origin": [
+            148.1999969482422,
+            328.3798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73949432373047,
+        336.25115966796875,
+        266.28314208984375,
+        351.8189392089844
+      ],
+      "text": "Eliphas Lévi nos diz o seguinte:",
+      "spans": [
+        {
+          "text": "Eliphas Lévi nos diz o seguinte: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73949432373047,
+            336.25115966796875,
+            266.28314208984375,
+            351.8189392089844
+          ],
+          "origin": [
+            82.73949432373047,
+            348.5396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23989868164062,
+        368.218994140625,
+        514.9147338867188,
+        381.2180480957031
+      ],
+      "text": "\"Aquele que quer fazer-se amar (atribuímos ao homem somente todas estas",
+      "spans": [
+        {
+          "text": "\"Aquele que quer fazer-se amar (atribuímos ao homem somente todas estas ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23989868164062,
+            368.218994140625,
+            514.9147338867188,
+            381.2180480957031
+          ],
+          "origin": [
+            117.23989868164062,
+            378.4798583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        385.0194091796875,
+        514.9542846679688,
+        398.0184631347656
+      ],
+      "text": "manobras ilegítimas, supondo que uma mulher náo tenha necessidade delas) deve, num",
+      "spans": [
+        {
+          "text": "manobras ilegítimas, supondo que uma mulher náo tenha necessidade delas) deve, num ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            385.0194091796875,
+            514.9542846679688,
+            398.0184631347656
+          ],
+          "origin": [
+            82.73989868164062,
+            395.2802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        401.75921630859375,
+        514.9527587890625,
+        414.7582702636719
+      ],
+      "text": "primeiro momento, insinuar-se e produzir uma impressão qualquer na imaginação da",
+      "spans": [
+        {
+          "text": "primeiro momento, insinuar-se e produzir uma impressão qualquer na imaginação da ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            401.75921630859375,
+            514.9527587890625,
+            414.7582702636719
+          ],
+          "origin": [
+            82.73989868164062,
+            412.02008056640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        418.55963134765625,
+        514.9254760742188,
+        431.5586853027344
+      ],
+      "text": "pessoa que é objeto de sua cobiça. Que lhe cause admiração, assombro, terror [sic] e",
+      "spans": [
+        {
+          "text": "pessoa que é objeto de sua cobiça. Que lhe cause admiração, assombro, terror [sic] e ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            418.55963134765625,
+            514.9254760742188,
+            431.5586853027344
+          ],
+          "origin": [
+            82.73989868164062,
+            428.82049560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        434.54425048828125,
+        514.904296875,
+        448.2984924316406
+      ],
+      "text": "mesmo horror9 se não dispõe de outro recurso. Mas é preciso, por qualquer preço, que",
+      "spans": [
+        {
+          "text": "mesmo horror",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            435.2994384765625,
+            149.2891387939453,
+            448.2984924316406
+          ],
+          "origin": [
+            82.73989868164062,
+            445.560302734375
+          ]
+        },
+        {
+          "text": "9",
+          "font": "Times-Roman",
+          "size": 6.301599979400635,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            150.23989868164062,
+            434.54425048828125,
+            153.3907012939453,
+            442.9505920410156
+          ],
+          "origin": [
+            150.23989868164062,
+            441.1798400878906
+          ]
+        },
+        {
+          "text": " se não dispõe de outro recurso. Mas é preciso, por qualquer preço, que ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            153.41998291015625,
+            435.2990417480469,
+            514.904296875,
+            448.298095703125
+          ],
+          "origin": [
+            153.41998291015625,
+            445.5599060058594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        452.09942626953125,
+        514.9132080078125,
+        465.0984802246094
+      ],
+      "text": "aos olhos dessa pessoa se destaque dos homens comuns e que ocupe, de bom grado ou",
+      "spans": [
+        {
+          "text": "aos olhos dessa pessoa se destaque dos homens comuns e que ocupe, de bom grado ou ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            452.09942626953125,
+            514.9132080078125,
+            465.0984802246094
+          ],
+          "origin": [
+            82.73988342285156,
+            462.36029052734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        468.8392333984375,
+        514.91259765625,
+        481.8382873535156
+      ],
+      "text": "por força, um lugar em suas lembranças, em seus temores ou ainda em seus sonhos. Os",
+      "spans": [
+        {
+          "text": "por força, um lugar em suas lembranças, em seus temores ou ainda em seus sonhos. Os ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            468.8392333984375,
+            514.91259765625,
+            481.8382873535156
+          ],
+          "origin": [
+            82.73988342285156,
+            479.10009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        485.6396484375,
+        514.9315185546875,
+        498.6387023925781
+      ],
+      "text": "Lovelace não são certamente o ideal confessado das Clarices, mas elas pensam",
+      "spans": [
+        {
+          "text": "Lovelace não são certamente o ideal confessado das Clarices, mas elas pensam ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            485.6396484375,
+            514.9315185546875,
+            498.6387023925781
+          ],
+          "origin": [
+            82.7398681640625,
+            495.9005126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        502.37945556640625,
+        515.024169921875,
+        515.3784790039062
+      ],
+      "text": "constantemente neles para censurá-los, para maldizê-los, para se compadecer de suas",
+      "spans": [
+        {
+          "text": "constantemente neles para censurá-los, para maldizê-los, para se compadecer de suas ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            502.37945556640625,
+            515.024169921875,
+            515.3784790039062
+          ],
+          "origin": [
+            82.7398681640625,
+            512.6403198242188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        519.1798706054688,
+        514.9292602539062,
+        532.1788940429688
+      ],
+      "text": "vítimas, para desejar sua conversão e seu arrependimento. Logo desejarão regenerá-los",
+      "spans": [
+        {
+          "text": "vítimas, para desejar sua conversão e seu arrependimento. Logo desejarão regenerá-los ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398681640625,
+            519.1798706054688,
+            514.9292602539062,
+            532.1788940429688
+          ],
+          "origin": [
+            82.7398681640625,
+            529.4407348632812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398681640625,
+        543.419677734375,
+        514.8193359375,
+        737.678466796875
+      ],
+      "text": "6 O primeiro autor que mencionou esta estratégia da “horrorização”, pelo que me lembro, foi \nEliphas Lévi. Várias vezes pensei em substituir este termo, pelas confusões que pode suscitar, \nmas ainda não encontrei em nossa língua um equivalente mais ameno. Seu significado preciso, \naqui, é o de simplesmente contrariar as convicções femininas a respeito do belo ou do correto e \nnunca, jamais, o de ameaçá-la ou expô-la a quaisquer perigos reais ou imaginários. Esta \ncontradição deve ter sempre um resultado final benéfico ou inofensivo à mulher e nunca \nprejudicial. Trata-se de algo semelhante ao que fazem os meninos por instinto para impressionar \nas mulheres na escola quando simulam que irão comer sapos, lagartixas etc. Elas gritam, \ncorrem...e riem. No filme “Conselheiro Amoroso” (TENNANT, 2001), com Will Smith, a \n“horrorização” calculada e inofensiva é descrita pelo termo “choque”, igualmente propenso a \nmás interpretações, e há um exemplo muito interessante a respeito. \n7 E portanto não estarão sendo sinceros e nem verdadeiros. \n8 Sem exagero. \n9 Lévi está apenas descrevendo o processo da sedução/conquista, tal como se dá na vida real, \nindependentemente do perpetrador ter ou não escrúpulos, e não recomendando que se cause \nprejuízos emocionais à pessoa seduzida. Em outras palavras, está afirmando que aquele que vai \nseduzir impressiona o psiquismo da pessoa desejada, de forma boa ou má, inofensiva ou \nprejudicial.",
+      "spans": [
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            553.7755737304688,
+            85.65750885009766,
+            561.5594482421875
+          ],
+          "origin": [
+            82.74000549316406,
+            559.9197998046875
+          ]
+        },
+        {
+          "text": " O primeiro autor que mencionou esta estratégia da “horrorização”, pelo que me lembro, foi ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            554.6034545898438,
+            514.7317504882812,
+            566.279296875
+          ],
+          "origin": [
+            85.68023681640625,
+            563.81982421875
+          ]
+        },
+        {
+          "text": "Eliphas Lévi. Várias vezes pensei em substituir este termo, pelas confusões que pode suscitar, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            564.6839599609375,
+            514.6713256835938,
+            576.3598022460938
+          ],
+          "origin": [
+            82.74039459228516,
+            573.9003295898438
+          ]
+        },
+        {
+          "text": "mas ainda não encontrei em nossa língua um equivalente mais ameno. Seu significado preciso, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            574.7640991210938,
+            514.8193359375,
+            586.43994140625
+          ],
+          "origin": [
+            82.74039459228516,
+            583.98046875
+          ]
+        },
+        {
+          "text": "aqui, é o de simplesmente contrariar as convicções femininas a respeito do belo ou do correto e ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            584.8441772460938,
+            514.6339721679688,
+            596.52001953125
+          ],
+          "origin": [
+            82.74039459228516,
+            594.060546875
+          ]
+        },
+        {
+          "text": "nunca, jamais, o de ameaçá-la ou expô-la a quaisquer perigos reais ou imaginários. Esta ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            594.8636474609375,
+            514.7778930664062,
+            606.5394897460938
+          ],
+          "origin": [
+            82.74039459228516,
+            604.0800170898438
+          ]
+        },
+        {
+          "text": "contradição deve ter sempre um resultado final benéfico ou inofensivo à mulher e nunca ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            604.9441528320312,
+            514.7670288085938,
+            616.6199951171875
+          ],
+          "origin": [
+            82.74038696289062,
+            614.1605224609375
+          ]
+        },
+        {
+          "text": "prejudicial. Trata-se de algo semelhante ao que fazem os meninos por instinto para impressionar ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            615.0242309570312,
+            514.6886596679688,
+            626.7000732421875
+          ],
+          "origin": [
+            82.74038696289062,
+            624.2406005859375
+          ]
+        },
+        {
+          "text": "as mulheres na escola quando simulam que irão comer sapos, lagartixas etc. Elas gritam, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            625.1047973632812,
+            514.7655639648438,
+            636.7806396484375
+          ],
+          "origin": [
+            82.74038696289062,
+            634.3211669921875
+          ]
+        },
+        {
+          "text": "correm...e riem. No filme “Conselheiro Amoroso” (TENNANT, 2001), com Will Smith, a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            635.1246948242188,
+            514.7019653320312,
+            646.800537109375
+          ],
+          "origin": [
+            82.74038696289062,
+            644.341064453125
+          ]
+        },
+        {
+          "text": "“horrorização” calculada e inofensiva é descrita pelo termo “choque”, igualmente propenso a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74037170410156,
+            645.2047729492188,
+            514.6580200195312,
+            656.880615234375
+          ],
+          "origin": [
+            82.74037170410156,
+            654.421142578125
+          ]
+        },
+        {
+          "text": "más interpretações, e há um exemplo muito interessante a respeito. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74037170410156,
+            655.2848510742188,
+            383.2159729003906,
+            666.960693359375
+          ],
+          "origin": [
+            82.74037170410156,
+            664.501220703125
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74037170410156,
+            664.5350952148438,
+            85.65787506103516,
+            672.3189697265625
+          ],
+          "origin": [
+            82.74037170410156,
+            670.6793212890625
+          ]
+        },
+        {
+          "text": " E portanto não estarão sendo sinceros e nem verdadeiros. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68060302734375,
+            665.3629760742188,
+            346.0651550292969,
+            677.038818359375
+          ],
+          "origin": [
+            85.68060302734375,
+            674.579345703125
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74037170410156,
+            674.5549926757812,
+            85.65787506103516,
+            682.3388671875
+          ],
+          "origin": [
+            82.74037170410156,
+            680.69921875
+          ]
+        },
+        {
+          "text": " Sem exagero. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68060302734375,
+            675.3828735351562,
+            150.3155517578125,
+            687.0587158203125
+          ],
+          "origin": [
+            85.68060302734375,
+            684.5992431640625
+          ]
+        },
+        {
+          "text": "9",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74037170410156,
+            684.6350708007812,
+            85.65787506103516,
+            692.4189453125
+          ],
+          "origin": [
+            82.74037170410156,
+            690.779296875
+          ]
+        },
+        {
+          "text": "Lévi está apenas descrevendo o processo da sedução/conquista, tal como se dá na vida real, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            90.18060302734375,
+            685.4629516601562,
+            514.7301025390625,
+            697.1387939453125
+          ],
+          "origin": [
+            90.18060302734375,
+            694.6793212890625
+          ]
+        },
+        {
+          "text": "independentemente do perpetrador ter ou não escrúpulos, e não recomendando que se cause ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74076080322266,
+            695.5430297851562,
+            514.6543579101562,
+            707.2188720703125
+          ],
+          "origin": [
+            82.74076080322266,
+            704.7593994140625
+          ]
+        },
+        {
+          "text": "prejuízos emocionais à pessoa seduzida. Em outras palavras, está afirmando que aquele que vai ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74076080322266,
+            705.62353515625,
+            514.7237548828125,
+            717.2993774414062
+          ],
+          "origin": [
+            82.74076080322266,
+            714.8399047851562
+          ]
+        },
+        {
+          "text": "seduzir impressiona o psiquismo da pessoa desejada, de forma boa ou má, inofensiva ou ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74075317382812,
+            715.6434326171875,
+            514.7219848632812,
+            727.3192749023438
+          ],
+          "origin": [
+            82.74075317382812,
+            724.8598022460938
+          ]
+        },
+        {
+          "text": "prejudicial.",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74075317382812,
+            725.7239379882812,
+            133.05978393554688,
+            737.3997802734375
+          ],
+          "origin": [
+            82.74075317382812,
+            734.9403076171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "22",
+      "spans": [
+        {
+          "text": "22",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T00:38:41",
+  "segments_total": 62,
+  "segments_translated": 62,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Series title follows the glossary proposal \"Man’s Suffering in Love\" (O Sofrimento Amoroso do Homem). Alternatives: \"The Romantic Suffering of Men\", \"Men’s Suffering in Love\"."
+    },
+    {
+      "segment": "00-0003",
+      "text": "Subtitle \"Apontamentos sobre um Perfil Comportamental Feminino nas Relações Amorosas com o Homem\". Alternatives: \"Observations on a Female Behavioral Profile in Love Relationships with Men\", \"Notes on a Feminine Behavioral Profile...\"."
+    },
+    {
+      "segment": "00-0006",
+      "text": "The citation gives the English titles; the Portuguese originals are \"Como Lidar com Mulheres\" and \"O Sofrimento Amoroso do Homem\". Consider adding the English edition’s year once published."
+    },
+    {
+      "segment": "00-0014",
+      "text": "The author’s notice explicitly forbids translation and any change of title or language. Translated faithfully; a human should confirm that this English edition is authorized before publication."
+    },
+    {
+      "segment": "00-0026",
+      "text": "Nietzsche, Thus Spoke Zarathustra, “Of Old and Young Women.” Translated from the author’s Portuguese. Public-domain English translation (Thomas Common): “Thou goest to women? Do not forget thy whip!”"
+    },
+    {
+      "segment": "00-0027",
+      "text": "Translated from the author’s Portuguese (Almeida Bible). Public-domain English alternative (KJV, Eccl. 7:25–26): “I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things... And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.”"
+    }
+  ],
+  "translator_notes": []
+}

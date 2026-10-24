@@ -1,0 +1,1326 @@
+{
+  "page_number": 71,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        101.86809539794922,
+        515.4449462890625,
+        118.65927124023438
+      ],
+      "text": "loucas2. Esta é a razão pela qual tentam nos dominar ao invés de se",
+      "spans": [
+        {
+          "text": "loucas",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            117.4790267944336,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            118.3800048828125,
+            101.86809539794922,
+            122.26020812988281,
+            112.22046661376953
+          ],
+          "origin": [
+            118.3800048828125,
+            110.039794921875
+          ]
+        },
+        {
+          "text": ". Esta é a razão pela qual tentam nos dominar ao invés de se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            122.2800064086914,
+            103.09149169921875,
+            515.4449462890625,
+            118.65927124023438
+          ],
+          "origin": [
+            122.2800064086914,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        238.7021942138672,
+        138.81906127929688
+      ],
+      "text": "submeterem passivamente.",
+      "spans": [
+        {
+          "text": "submeterem passivamente.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            238.7021942138672,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        155.0509033203125,
+        515.4630737304688,
+        170.61868286132812
+      ],
+      "text": "Alguns homens ignorantes, desesperados por não conseguirem exercer",
+      "spans": [
+        {
+          "text": "Alguns homens ignorantes, desesperados por não conseguirem exercer ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            155.0509033203125,
+            515.4630737304688,
+            170.61868286132812
+          ],
+          "origin": [
+            117.23980712890625,
+            167.33941650390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        173.92832946777344,
+        515.5054321289062,
+        190.77932739257812
+      ],
+      "text": "o domínio sobre suas mulheres3, as agridem fisica ou psicologicamente.",
+      "spans": [
+        {
+          "text": "o domínio sobre suas mulheres",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            175.21112060546875,
+            266.669921875,
+            190.77890014648438
+          ],
+          "origin": [
+            82.73980712890625,
+            187.4996337890625
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            267.59979248046875,
+            173.92832946777344,
+            271.47998046875,
+            184.2807159423828
+          ],
+          "origin": [
+            267.59979248046875,
+            182.10003662109375
+          ]
+        },
+        {
+          "text": ", as agridem fisica ou psicologicamente. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            271.4997863769531,
+            175.2115478515625,
+            515.5054321289062,
+            190.77932739257812
+          ],
+          "origin": [
+            271.4997863769531,
+            187.50006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        195.31195068359375,
+        382.3252258300781,
+        210.87973022460938
+      ],
+      "text": "Esta atitude é desnecessária, como veremos a seguir.",
+      "spans": [
+        {
+          "text": "Esta atitude é desnecessária, como veremos a seguir. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            195.31195068359375,
+            382.3252258300781,
+            210.87973022460938
+          ],
+          "origin": [
+            82.73979187011719,
+            207.6004638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        227.111572265625,
+        515.375732421875,
+        242.67935180664062
+      ],
+      "text": "A mulher dispõe de sofisticados mecanismos psicológicos para burlar",
+      "spans": [
+        {
+          "text": "A mulher dispõe de sofisticados mecanismos psicológicos para burlar ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            227.111572265625,
+            515.375732421875,
+            242.67935180664062
+          ],
+          "origin": [
+            117.23979187011719,
+            239.40008544921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        247.2713623046875,
+        515.4304809570312,
+        262.8391418457031
+      ],
+      "text": "qualquer tentativa de dominação. São refratárias à dominação. Resistem",
+      "spans": [
+        {
+          "text": "qualquer tentativa de dominação. São refratárias à dominação. Resistem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            247.2713623046875,
+            515.4304809570312,
+            262.8391418457031
+          ],
+          "origin": [
+            82.73979187011719,
+            259.55987548828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        266.14837646484375,
+        515.4417724609375,
+        282.9395446777344
+      ],
+      "text": "continuamente, \naté \nmesmo \nà \nforça \nbruta4, \nsomente \npodendo \nser",
+      "spans": [
+        {
+          "text": "continuamente, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            267.37176513671875,
+            170.91624450683594,
+            282.9395446777344
+          ],
+          "origin": [
+            82.73979187011719,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "até ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            181.49876403808594,
+            267.37176513671875,
+            200.945556640625,
+            282.9395446777344
+          ],
+          "origin": [
+            181.49876403808594,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "mesmo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            211.58859252929688,
+            267.37176513671875,
+            253.10215759277344,
+            282.9395446777344
+          ],
+          "origin": [
+            211.58859252929688,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "à ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            263.8045959472656,
+            267.37176513671875,
+            272.8943786621094,
+            282.9395446777344
+          ],
+          "origin": [
+            263.8045959472656,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "força ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            283.53741455078125,
+            267.37176513671875,
+            315.2658996582031,
+            282.9395446777344
+          ],
+          "origin": [
+            283.53741455078125,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "bruta",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            325.848388671875,
+            267.37176513671875,
+            353.7933654785156,
+            282.9395446777344
+          ],
+          "origin": [
+            325.848388671875,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            354.71978759765625,
+            266.14837646484375,
+            358.5999755859375,
+            276.500732421875
+          ],
+          "origin": [
+            354.71978759765625,
+            274.320068359375
+          ]
+        },
+        {
+          "text": ", ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            358.6197814941406,
+            267.37176513671875,
+            365.4584045410156,
+            282.9395446777344
+          ],
+          "origin": [
+            358.6197814941406,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "somente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            376.1607971191406,
+            267.37176513671875,
+            424.7290954589844,
+            282.9395446777344
+          ],
+          "origin": [
+            376.1607971191406,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "podendo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            435.37213134765625,
+            267.37176513671875,
+            485.3262939453125,
+            282.9395446777344
+          ],
+          "origin": [
+            435.37213134765625,
+            279.6602783203125
+          ]
+        },
+        {
+          "text": "ser ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            495.96929931640625,
+            267.37176513671875,
+            515.4417724609375,
+            282.9395446777344
+          ],
+          "origin": [
+            495.96929931640625,
+            279.6602783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        287.53155517578125,
+        515.45556640625,
+        303.0993347167969
+      ],
+      "text": "influenciadas realmente pelo domínio de uma força emocional superior à",
+      "spans": [
+        {
+          "text": "influenciadas realmente pelo domínio de uma força emocional superior à ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            287.53155517578125,
+            515.45556640625,
+            303.0993347167969
+          ],
+          "origin": [
+            82.73977661132812,
+            299.820068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        307.6319580078125,
+        249.99317932128906,
+        323.1997375488281
+      ],
+      "text": "sua. Nem tudo está perdido...",
+      "spans": [
+        {
+          "text": "sua. Nem tudo está perdido... ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            307.6319580078125,
+            249.99317932128906,
+            323.1997375488281
+          ],
+          "origin": [
+            82.73977661132812,
+            319.92047119140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24017333984375,
+        339.4315490722656,
+        515.4379272460938,
+        354.99932861328125
+      ],
+      "text": "Há um meio muito eficaz de nos protegermos e ao mesmo tempo",
+      "spans": [
+        {
+          "text": "Há um meio muito eficaz de nos protegermos e ao mesmo tempo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24017333984375,
+            339.4315490722656,
+            515.4379272460938,
+            354.99932861328125
+          ],
+          "origin": [
+            117.24017333984375,
+            351.7200622558594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        359.59173583984375,
+        515.4098510742188,
+        375.1595153808594
+      ],
+      "text": "dominarmos a relação sem ficarmos loucos: consiste em renunciarmos à",
+      "spans": [
+        {
+          "text": "dominarmos a relação sem ficarmos loucos: consiste em renunciarmos à ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            359.59173583984375,
+            515.4098510742188,
+            375.1595153808594
+          ],
+          "origin": [
+            82.73977661132812,
+            371.8802490234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        379.6312255859375,
+        515.512451171875,
+        395.1990051269531
+      ],
+      "text": "tentativa de dominar a fêmea, preferindo dominar nossos próprios",
+      "spans": [
+        {
+          "text": "tentativa de dominar a fêmea, preferindo dominar nossos próprios ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            379.6312255859375,
+            515.512451171875,
+            395.1990051269531
+          ],
+          "origin": [
+            82.73977661132812,
+            391.91973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        399.7914123535156,
+        515.4447021484375,
+        415.35919189453125
+      ],
+      "text": "sentimentos de posse, ciúmes e outras fraquezas por meio da morte de",
+      "spans": [
+        {
+          "text": "sentimentos de posse, ciúmes e outras fraquezas por meio da morte de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            399.7914123535156,
+            515.4447021484375,
+            415.35919189453125
+          ],
+          "origin": [
+            82.73977661132812,
+            412.0799255371094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        419.8918151855469,
+        515.4888916015625,
+        435.4595947265625
+      ],
+      "text": "nossos egos. Isto parece contraditório mas realmente funciona por serem as",
+      "spans": [
+        {
+          "text": "nossos egos. Isto parece contraditório mas realmente funciona por serem as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            419.8918151855469,
+            515.4888916015625,
+            435.4595947265625
+          ],
+          "origin": [
+            82.73977661132812,
+            432.1803283691406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        440.0516052246094,
+        515.5531005859375,
+        455.619384765625
+      ],
+      "text": "mulheres seres contraditórios e ilógicos em essência, ou melhor, seres que",
+      "spans": [
+        {
+          "text": "mulheres seres contraditórios e ilógicos em essência, ou melhor, seres que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            440.0516052246094,
+            515.5531005859375,
+            455.619384765625
+          ],
+          "origin": [
+            82.73977661132812,
+            452.3401184082031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        458.9285888671875,
+        358.4773864746094,
+        475.71978759765625
+      ],
+      "text": "seguem uma lógica contrária à que imaginamos5.",
+      "spans": [
+        {
+          "text": "seguem uma lógica contrária à que imaginamos",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            460.1520080566406,
+            346.932861328125,
+            475.71978759765625
+          ],
+          "origin": [
+            82.73977661132812,
+            472.4405212402344
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            347.759765625,
+            458.9285888671875,
+            351.63995361328125,
+            469.28094482421875
+          ],
+          "origin": [
+            347.759765625,
+            467.10028076171875
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            351.6597595214844,
+            460.1520080566406,
+            358.4773864746094,
+            475.71978759765625
+          ],
+          "origin": [
+            351.6597595214844,
+            472.4405212402344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23976135253906,
+        491.95159912109375,
+        515.4686889648438,
+        507.5193786621094
+      ],
+      "text": "Eliphas Lévi (1855/2001) nos diz que as mulheres nos acorrentam por",
+      "spans": [
+        {
+          "text": "Eliphas Lévi (1855/2001) nos diz que as mulheres nos acorrentam por ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23976135253906,
+            491.95159912109375,
+            515.4686889648438,
+            507.5193786621094
+          ],
+          "origin": [
+            117.23976135253906,
+            504.2401123046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73936462402344,
+        510.82861328125,
+        515.3947143554688,
+        527.6795654296875
+      ],
+      "text": "nossos desejos6. Os desejos de estar junto, de receber sexo, carinho e amor",
+      "spans": [
+        {
+          "text": "nossos desejos",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73936462402344,
+            512.1113891601562,
+            164.6527862548828,
+            527.67919921875
+          ],
+          "origin": [
+            82.73936462402344,
+            524.39990234375
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            165.53936767578125,
+            510.82861328125,
+            169.41957092285156,
+            521.1809692382812
+          ],
+          "origin": [
+            165.53936767578125,
+            519.0003051757812
+          ]
+        },
+        {
+          "text": ". Os desejos de estar junto, de receber sexo, carinho e amor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            169.43936157226562,
+            512.1117553710938,
+            515.3947143554688,
+            527.6795654296875
+          ],
+          "origin": [
+            169.43936157226562,
+            524.4002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73976135253906,
+        532.2122192382812,
+        515.3712768554688,
+        547.780029296875
+      ],
+      "text": "etc. são pontos fracos por onde as fêmeas tomam os machos e os derrubam.",
+      "spans": [
+        {
+          "text": "etc. são pontos fracos por onde as fêmeas tomam os machos e os derrubam. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73976135253906,
+            532.2122192382812,
+            515.3712768554688,
+            547.780029296875
+          ],
+          "origin": [
+            82.73976135253906,
+            544.500732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73976135253906,
+        562.439453125,
+        514.797119140625,
+        737.6781005859375
+      ],
+      "text": "2 Por que são seres de orientação emocional. \n3 Refiro-me à dominação consentida que resulta naturalmente da renúncia à dominação \ncoercitiva. \n4 A velha e conhecida frase de Maquiavel (1513/1977; 1513/2001) retrata esta impossibilidade: \n“A sorte é mulher e,  para dominá-la, é preciso bater-lhe e ferir-lhe.”. Esta não é uma frase \nmisógina e nem violenta,  mas sim uma comparação entre a mulher e a sorte, baseada no fato de \nque a primeira não se deixa dominar. A intenção da comparação, no entanto, é mostrar que a \nsorte somente pode ser dominada quando nela batemos, do mesmo modo como faziam os homens \nignorantes na época de Maquiavel com as mulheres,  movidos pela fúria desesperada. Maquiavel \nnão está recomendando que se bata na mulher mas sim na sorte. Utiliza a mulher em sua frase \napenas para comparação com o intuito de ilustrar que a mulher não se deixa dominar.   \n5 Isso se refere especificamente ao campo amoroso e corresponde apenas ao sentido formal \n(racional) da lógica. Entretanto, os sentimentos também possuem uma outra lógica, distinta da \nlinear racional, que é o fundamento da inteligência emocional e da intuição. \n6 Trata-se da conhecida e já citada frase: “A mulher te acorrenta através de teus desejos. Sê \nsenhor dos teus desejos e acorrentarás a mulher.” (LÉVI, 1855/2001, p. 73)",
+      "spans": [
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            572.7955932617188,
+            85.65750885009766,
+            580.5794677734375
+          ],
+          "origin": [
+            82.74000549316406,
+            578.9398193359375
+          ]
+        },
+        {
+          "text": " Por que são seres de orientação emocional. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            573.6238403320312,
+            282.3795166015625,
+            585.2996826171875
+          ],
+          "origin": [
+            85.68023681640625,
+            582.8402099609375
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            582.8756713867188,
+            85.65750885009766,
+            590.6595458984375
+          ],
+          "origin": [
+            82.74000549316406,
+            589.0198974609375
+          ]
+        },
+        {
+          "text": " Refiro-me à dominação consentida que resulta naturalmente da renúncia à dominação ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            583.7035522460938,
+            514.7022094726562,
+            595.37939453125
+          ],
+          "origin": [
+            85.68023681640625,
+            592.919921875
+          ]
+        },
+        {
+          "text": "coercitiva. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            593.7840576171875,
+            132.39883422851562,
+            605.4598999023438
+          ],
+          "origin": [
+            82.74039459228516,
+            603.0004272460938
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            603.035888671875,
+            85.65789794921875,
+            610.8197631835938
+          ],
+          "origin": [
+            82.74039459228516,
+            609.1801147460938
+          ]
+        },
+        {
+          "text": " A velha e conhecida frase de Maquiavel (1513/1977; 1513/2001) retrata esta impossibilidade: ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68062591552734,
+            603.8637084960938,
+            514.6656494140625,
+            615.53955078125
+          ],
+          "origin": [
+            85.68062591552734,
+            613.080078125
+          ]
+        },
+        {
+          "text": "“A sorte é mulher e,  para dominá-la, é preciso bater-lhe e ferir-lhe.”",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            614.7763671875,
+            408.3417663574219,
+            625.463134765625
+          ],
+          "origin": [
+            82.74078369140625,
+            623.0999755859375
+          ]
+        },
+        {
+          "text": ". Esta não é uma frase ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            409.2607727050781,
+            613.8836059570312,
+            514.7312622070312,
+            625.5594482421875
+          ],
+          "origin": [
+            409.2607727050781,
+            623.0999755859375
+          ]
+        },
+        {
+          "text": "misógina e nem violenta,  mas sim uma comparação entre a mulher e a sorte, baseada no fato de ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            623.9637451171875,
+            514.7293090820312,
+            635.6395874023438
+          ],
+          "origin": [
+            82.74078369140625,
+            633.1801147460938
+          ]
+        },
+        {
+          "text": "que a primeira não se deixa dominar. A intenção da comparação, no entanto, é mostrar que a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            634.0442504882812,
+            514.7918701171875,
+            645.7200927734375
+          ],
+          "origin": [
+            82.74078369140625,
+            643.2606201171875
+          ]
+        },
+        {
+          "text": "sorte somente pode ser dominada quando nela batemos, do mesmo modo como faziam os homens ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            644.1235961914062,
+            514.797119140625,
+            655.7994384765625
+          ],
+          "origin": [
+            82.73979949951172,
+            653.3399658203125
+          ]
+        },
+        {
+          "text": "ignorantes na época de Maquiavel com as mulheres,  movidos pela fúria desesperada. Maquiavel ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            654.1431274414062,
+            514.7435913085938,
+            665.8189697265625
+          ],
+          "origin": [
+            82.74002075195312,
+            663.3594970703125
+          ]
+        },
+        {
+          "text": "não está recomendando que se bata na mulher mas sim na sorte. Utiliza a mulher em sua frase ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            664.2236328125,
+            514.7075805664062,
+            675.8994750976562
+          ],
+          "origin": [
+            82.74002075195312,
+            673.4400024414062
+          ]
+        },
+        {
+          "text": "apenas para comparação com o intuito de ilustrar que a mulher não se deixa dominar.   ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            674.3037109375,
+            470.6026916503906,
+            685.9795532226562
+          ],
+          "origin": [
+            82.74002075195312,
+            683.5200805664062
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            683.5555419921875,
+            85.65752410888672,
+            691.3394165039062
+          ],
+          "origin": [
+            82.74002075195312,
+            689.6997680664062
+          ]
+        },
+        {
+          "text": " Isso se refere especificamente ao campo amoroso e corresponde apenas ao sentido formal ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68025207519531,
+            684.3834228515625,
+            514.7261352539062,
+            696.0592651367188
+          ],
+          "origin": [
+            85.68025207519531,
+            693.5997924804688
+          ]
+        },
+        {
+          "text": "(racional) da lógica. Entretanto, os sentimentos também possuem uma outra lógica, distinta da ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74040985107422,
+            694.4033203125,
+            514.6696166992188,
+            706.0791625976562
+          ],
+          "origin": [
+            82.74040985107422,
+            703.6196899414062
+          ]
+        },
+        {
+          "text": "linear racional, que é o fundamento da inteligência emocional e da intuição. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74040985107422,
+            704.5430908203125,
+            423.99591064453125,
+            716.2189331054688
+          ],
+          "origin": [
+            82.74040985107422,
+            713.7594604492188
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 6.301599979400635,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74040985107422,
+            713.7243041992188,
+            85.8912124633789,
+            722.130615234375
+          ],
+          "origin": [
+            82.74040985107422,
+            720.35986328125
+          ]
+        },
+        {
+          "text": " Trata-se da conhecida e já citada frase: ",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.92048645019531,
+            714.4790649414062,
+            284.4718933105469,
+            727.4780883789062
+          ],
+          "origin": [
+            85.92048645019531,
+            724.7399291992188
+          ]
+        },
+        {
+          "text": "“A mulher te acorrenta através de teus desejos. Sê ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            285.7204895019531,
+            715.5235595703125,
+            514.6963500976562,
+            727.1994018554688
+          ],
+          "origin": [
+            285.7204895019531,
+            724.7399291992188
+          ]
+        },
+        {
+          "text": "senhor dos teus desejos e acorrentarás a mulher.” (LÉVI, 1855/2001, p. 73)",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74049377441406,
+            725.7235717773438,
+            417.53045654296875,
+            737.3994140625
+          ],
+          "origin": [
+            82.74049377441406,
+            734.93994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "71",
+      "spans": [
+        {
+          "text": "71",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

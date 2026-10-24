@@ -9,15 +9,12 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 
 ## Estado atual
 
-- Fase: **piloto**. O livro piloto é *O Magnetismo nas Relações Sociais*
-  (`magnetismo-relacoes-sociais-2008`, capítulos `00` a `16`, ~12 mil palavras),
-  traduzido inteiro antes de qualquer outro livro. **Tradução concluída em
-  2026-10-23; aguardando revisão humana** (`review/magnetismo-relacoes-sociais-2008/book-qa.md`).
+- *O Magnetismo nas Relações Sociais* (`magnetismo-relacoes-sociais-2008`):
+  traduzido, PDF publicado em `books/`; dúvidas em `review/magnetismo-relacoes-sociais-2008/book-qa.md`.
+- *Como lidar com mulheres* (`como-lidar-com-mulheres-2008`): traduzido pelo agente agendado, PDF publicado em `books/`, **aguardando revisão humana** (resumo em `automation/state/como-lidar-com-mulheres-2008.done`; dúvidas em `review/como-lidar-com-mulheres-2008/book-qa.md`).
 - Não traduza outros livros sem pedido explícito.
 - Sempre cite os livros pelo título completo (`title_pt` da config), nunca abreviado.
 - `profano-feminino-2005` foi superado pela edição de 2008; não traduzir sem decisão do usuário.
-- `como-lidar-com-mulheres-2008` tem um problema de extração **bloqueante**
-  (veja `known_issues` na config). Não segmentar nem traduzir antes de corrigir.
 
 ## Diretórios
 

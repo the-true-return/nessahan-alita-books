@@ -1,0 +1,26 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "07",
+  "title": "6. As torturas psicológicas",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 40,
+  "segments_translated": 40,
+  "complete": true,
+  "pending_from": null,
+  "status": "warn",
+  "errors": [],
+  "warnings": [
+    "duplicate translation for different source segments: 07-0015, 07-0020"
+  ],
+  "queries": [
+    {
+      "segment": "07-0007",
+      "text": "Quotation translated from the Portuguese edition of Goleman's \"Emotional Intelligence\" (1995), which was written in English and is under copyright; the original wording differs. A human may wish to check the original passage (or keep this rendering from the author's Portuguese)."
+    },
+    {
+      "segment": "07-0009",
+      "text": "Translated from the Portuguese edition of Alberoni's \"L'erotismo\" (Italian; English edition \"Erotism\")."
+    }
+  ],
+  "translator_notes": []
+}

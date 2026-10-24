@@ -1,0 +1,76 @@
+{
+  "book": "como-lidar-com-mulheres-2008",
+  "chapter": "32",
+  "title": "Anexo 2. Correspondências",
+  "checked_at": "2026-10-24T00:38:42",
+  "segments_total": 161,
+  "segments_translated": 161,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "32-0021",
+      "text": "Original \"10/8/2004\" (Brazilian day/month, i.e., August 10, 2004); converted to the American month/day order. Alternative: keep \"10/8/2004\" as a verbatim e-mail timestamp."
+    },
+    {
+      "segment": "32-0023",
+      "text": "\"a senhorita\" (formal, ironic address to a young woman) rendered \"young lady\" throughout this letter. Alternative: \"Miss\" or \"madam\"."
+    },
+    {
+      "segment": "32-0031",
+      "text": "\"kundartiguador\" (Samael Aun Weor's term for the descending, inverted serpent force) kept as is. Some English editions of Samael Aun Weor use \"Kundabuffer\" (Gurdjieff's term) for the same idea. Here the author also switches from \"a senhorita\" to \"a senhora\", rendered \"madam\"."
+    },
+    {
+      "segment": "32-0049",
+      "text": "\"Caras colegas\" is feminine plural (the letter is addressed to women); English \"colleagues\" does not show the gender. Alternative: \"Dear ladies\". The stray \"[\" in 32-0048 is kept as in the original."
+    },
+    {
+      "segment": "32-0061",
+      "text": "\"Por via unilateral, entretanto e normalmente\" is elliptical; read as \"(indispensable in a woman,) though one-sidedly, and as a rule\". Note fits its reference (falling in love in the woman)."
+    },
+    {
+      "segment": "32-0079",
+      "text": "Note checked: it fits its reference (\"the tactic in question\"). Date \"3/8/2004\" (Brazilian day/month, August 3, 2004) converted to the American \"8/3/2004\"."
+    },
+    {
+      "segment": "32-0082",
+      "text": "Note checked: it fits its reference (\"an inverted orgasm\")."
+    },
+    {
+      "segment": "32-0084",
+      "text": "\"animais não falam o português\" kept literally (\"do not speak Portuguese\"); the joke depends on the original language of the exchange. Alternative: \"do not speak our language\"."
+    },
+    {
+      "segment": "32-0085",
+      "text": "Note checked: it fits its reference (the remark about rape among animals)."
+    },
+    {
+      "segment": "32-0088",
+      "text": "Original \"7/8/2004\" (August 7, 2004, day/month) converted to the American \"8/7/2004\"."
+    },
+    {
+      "segment": "32-0125",
+      "text": "Original \"2/8/2004\" (August 2, 2004, day/month) converted to the American \"8/2/2004\"."
+    },
+    {
+      "segment": "32-0128",
+      "text": "\"O magnetismo e o Ego\" seems to be the title of an earlier message or text in this exchange; translated as “Magnetism and the Ego”."
+    },
+    {
+      "segment": "32-0136",
+      "text": "Original \"1/8/2004\" (August 1, 2004, day/month) converted to the American \"8/1/2004\"."
+    },
+    {
+      "segment": "32-0145",
+      "text": "Wordplay \"ao encontro, e não de encontro\" (going to meet vs. colliding with) rendered \"going along with, and not against\"."
+    },
+    {
+      "segment": "32-0148",
+      "text": "Not a real heading: in the PDF (p. 235) this is a bold sentence (the author's emphasis, per note 33) that continues in 32-0149 with \"sexo.\" Translated as one sentence split across the two segments; build_pdf.py now runs it into the next paragraph in bold (checked on p. 191 of the English PDF)."
+    }
+  ],
+  "translator_notes": []
+}
