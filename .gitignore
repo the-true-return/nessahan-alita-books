@@ -5,3 +5,4 @@ output/*/preview/
 __pycache__/
 automation/logs/
 automation/state/*.lock
+automation/state/runner.lock

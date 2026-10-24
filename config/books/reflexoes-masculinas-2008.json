@@ -13,5 +13,22 @@
     "Muitos subtítulos (13.9 pt negrito); títulos de capítulo em 16.1 pt, exceto o cap. 4 (13.9 pt). Títulos em duas linhas.",
     "Numeração dos capítulos no original é inconsistente: dois capítulos '5.' (pp. 40 e 46) e o '6. Algumas artimanhas femininas infernizantes' não consta do Índice. Preservar como no original e registrar QUERY."
   ],
-  "edition": "2008"
+  "edition": "2008",
+  "title_en": "Masculine Reflections on Woman and Love",
+  "pdf": {
+    "font": "TeX Gyre Bonum",
+    "font_dir": "fonts",
+    "font_map": {
+      "TimesNewRoman": "Liberation Serif"
+    },
+    "tracking_pt": 0.0,
+    "line_pitch_pt": 24.7,
+    "paragraph_pitch_pt": 36.7,
+    "footnote_size_pt": 11.0,
+    "footnote_pitch_pt": 12.6,
+    "page_number_size_pt": 10,
+    "page_number_align": "right",
+    "footnote_rule_pt": 105,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - Reflexões Masculinas (Ed. 2008).pdf (body BookmanOldStyle 13.9 pt)."
+  }
 }

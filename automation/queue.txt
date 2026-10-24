@@ -1,0 +1,9 @@
+# Books translated by the scheduled agent, in this order (one slug per line).
+# A book is finished when automation/state/<slug>.done exists; the runner then
+# commits and pushes it and moves on to the next line.
+reflexoes-masculinas-2008
+guerra-da-paixao-2005
+profano-feminino-2008
+textos-complementares-2008
+textos-complementares-ii-2009
+profano-feminino-2005

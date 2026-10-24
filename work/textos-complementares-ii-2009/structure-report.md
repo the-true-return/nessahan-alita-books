@@ -126,16 +126,4 @@ Source: `extracted/Nessahan Alita - Textos Complementares II (Ed. 2009)`
 
 ## Warnings
 
-- 06-0003 (p. 9): wide gap inside a line: possible table or columns
-- 06-0004 (p. 9): wide gap inside a line: possible table or columns
-- 06-0008 (p. 9): wide gap inside a line: possible table or columns
-- 06-0014 (p. 9): wide gap inside a line: possible table or columns
-- 06-0018 (p. 9): wide gap inside a line: possible table or columns
-- 06-0020 (p. 9): wide gap inside a line: possible table or columns
-- 06-0027 (p. 10): wide gap inside a line: possible table or columns
-- 06-0030 (p. 10): wide gap inside a line: possible table or columns
-- 06-0033 (p. 10): wide gap inside a line: possible table or columns
-- 06-0034 (p. 10): wide gap inside a line: possible table or columns
-- 06-0035 (p. 10): wide gap inside a line: possible table or columns
-- 06-0038 (p. 10): wide gap inside a line: possible table or columns
-- 06-0041 (p. 10): wide gap inside a line: possible table or columns
+- none

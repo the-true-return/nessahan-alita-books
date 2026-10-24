@@ -10,5 +10,43 @@
     "Tabela de duas colunas (Artimanha / Solução) na p. 9: células fundidas em blocos errados; exige tratamento manual.",
     "Seção 'Aforismos' (pp. 38+) com muitos subtítulos curtos."
   ],
-  "edition": "2009"
+  "edition": "2009",
+  "tables": [
+    {
+      "page": 9,
+      "y0": 165,
+      "y1": 600,
+      "columns": [
+        83,
+        345
+      ]
+    },
+    {
+      "page": 10,
+      "y0": 70,
+      "y1": 480,
+      "columns": [
+        83,
+        345
+      ]
+    }
+  ],
+  "title_en": "Supplementary Texts II",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts",
+    "font_map": {
+      "BookmanOldStyle": "TeX Gyre Bonum",
+      "Georgia": "Gelasio"
+    },
+    "tracking_pt": 0.0,
+    "line_pitch_pt": 13.8,
+    "paragraph_pitch_pt": 25.8,
+    "footnote_size_pt": 9.0,
+    "footnote_pitch_pt": 10.3,
+    "page_number_size_pt": 12.0,
+    "page_number_align": "right",
+    "footnote_rule_pt": 144,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - Textos Complementares II (Ed. 2009).pdf (body TimesNewRomanPSMT 12.0 pt)."
+  }
 }

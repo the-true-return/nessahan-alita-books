@@ -25,9 +25,16 @@ Book for this job: **{{SLUG}}** ("{{TITLE_PT}}" → "{{TITLE_EN}}").
   endorsing or commenting.
 - Distinguish the author's text from readers' letters and interview questions
   (those segments are in a different font in the original; just translate them).
-- The structure report lists 5 footnotes in the letters (chapter 32) matched to
-  references a few pages away; when you translate those notes, check that each
-  note fits its reference and add a QUERY if it does not.
+- Read `known_issues` in `config/books/{{SLUG}}.json` and the warnings in
+  `work/{{SLUG}}/structure-report.md` before starting; when you reach a segment
+  they mention (e.g. a footnote matched to a reference pages away), check it
+  and add a QUERY if something does not fit.
+- Segments of type `table_row` hold table cells separated by ` ¦ `: translate
+  each cell and keep exactly the same number of `¦` (a row starting with `¦`
+  continues the previous row).
+- Do not run git: the runner commits and pushes when the book is finished.
+- Other books already finished are listed in `automation/state/*.done`. Reuse
+  their glossary decisions for consistency across the author's work.
 
 ## Work loop (translation phase)
 
@@ -57,9 +64,11 @@ human should look at.
    existing notes) and build again.
 3. `pymupdf-venv/Scripts/python.exe tools/check_pdf.py {{SLUG}}`. Fix real
    problems (in translations first; touch `tools/` only if unavoidable, and then
-   rebuild and re-check `magnetismo-relacoes-sociais-2008` too so it still passes).
-   Look at a few previews in `output/{{SLUG}}/preview/` (title page, a page with
-   footnotes, a letters page, the glossary).
+   rebuild and re-check every already finished book, i.e. `magnetismo-relacoes-sociais-2008`,
+   `como-lidar-com-mulheres-2008` and each slug with a `.done` file, so they
+   all still pass). Look at a few previews in `output/{{SLUG}}/preview/`
+   (title page, a page with footnotes, any table, the glossary) and compare
+   one body page with the original PDF for fidelity.
 4. When the check passes (it publishes the PDF to `books/`), write
    `automation/state/{{SLUG}}.done` with a summary: pages, segments, open
    queries, glossary terms added, and the path of the PDF in `books/`.

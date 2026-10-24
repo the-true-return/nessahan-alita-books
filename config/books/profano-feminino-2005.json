@@ -12,5 +12,20 @@
     "Edição superada pela de 2008 (14 capítulos vs. 17 + seções novas). Recomendado traduzir só a de 2008.",
     "Marca d'água do pdfFactory no rodapé."
   ],
-  "edition": "2005"
+  "edition": "2005",
+  "title_en": "The Profane Feminine",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts",
+    "font_map": {},
+    "tracking_pt": 0.0,
+    "line_pitch_pt": 20.6,
+    "paragraph_pitch_pt": 32.6,
+    "footnote_size_pt": 10.1,
+    "footnote_pitch_pt": 11.5,
+    "page_number_size_pt": 10.1,
+    "page_number_align": "right",
+    "footnote_rule_pt": 105,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - O Profano Feminino (Ed. 2005).pdf (body TimesNewRoman 12.0 pt)."
+  }
 }

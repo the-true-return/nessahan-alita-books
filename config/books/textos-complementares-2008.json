@@ -9,5 +9,22 @@
   "known_issues": [
     "Muitos subtítulos curtos em negrito no tamanho do corpo dentro de cada capítulo."
   ],
-  "edition": "2008"
+  "edition": "2008",
+  "title_en": "Supplementary Texts",
+  "pdf": {
+    "font": "TeX Gyre Bonum",
+    "font_dir": "fonts",
+    "font_map": {
+      "TimesNewRoman": "Liberation Serif"
+    },
+    "tracking_pt": 1.0,
+    "line_pitch_pt": 20.5,
+    "paragraph_pitch_pt": 32.2,
+    "footnote_size_pt": 9.7,
+    "footnote_pitch_pt": 11.2,
+    "page_number_size_pt": 9.7,
+    "page_number_align": "right",
+    "footnote_rule_pt": 140,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - Textos Complementares (Ed. 2008).pdf (body BookmanOldStyle 11.7 pt)."
+  }
 }

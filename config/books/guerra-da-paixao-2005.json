@@ -11,5 +11,20 @@
   "known_issues": [
     "Marca d'água do pdfFactory no rodapé de todas as páginas (removida via drop_line_patterns)."
   ],
-  "edition": "2005"
+  "edition": "2005",
+  "title_en": "The War of Passion",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts",
+    "font_map": {},
+    "tracking_pt": 1.0,
+    "line_pitch_pt": 24.2,
+    "paragraph_pitch_pt": 36.2,
+    "footnote_size_pt": 10.1,
+    "footnote_pitch_pt": 11.5,
+    "page_number_size_pt": 12.0,
+    "page_number_align": "right",
+    "footnote_rule_pt": 105,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - A Guerra da Paixão (Ed. 2005).pdf (body TimesNewRoman 13.9 pt)."
+  }
 }

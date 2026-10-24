@@ -1,7 +1,8 @@
 # Tradução automática (agente agendado)
 
-Um agente local traduz um livro inteiro sozinho, em várias sessões, e continua
-de onde parou quando o limite de uso é liberado.
+Um agente local traduz os livros da fila (`queue.txt`) sozinho, um por vez, em
+várias sessões, e continua de onde parou quando o limite de uso é liberado. Ao
+terminar cada livro (PDF final em `books/`), faz **commit e push** automaticamente.
 
 ## Como funciona
 
@@ -16,15 +17,18 @@ de onde parou quando o limite de uso é liberado.
   a próxima execução continua do primeiro trecho pendente.
 - Se o limite de uso estiver esgotado, a execução falha logo, sem efeito, e a
   da hora seguinte tenta de novo. O limite é liberado periodicamente.
-- Uma trava (`state/<slug>.lock`) impede duas execuções ao mesmo tempo.
-- No fim: glossário em inglês, PDF, verificação, publicação em `books/`,
-  arquivo `state/<slug>.done`, e a tarefa agendada se remove sozinha.
+- Uma trava (`state/runner.lock`) impede duas execuções ao mesmo tempo.
+- No fim de cada livro: glossário em inglês, PDF, verificação, publicação em
+  `books/`, arquivo `state/<slug>.done`, `git commit` + `git push`, e o próximo
+  livro da fila começa. Com a fila vazia, a tarefa agendada se remove sozinha.
+- Push que falhar (rede) é repetido no início de cada execução seguinte.
 - Permissões da sessão automática: ler e editar arquivos do projeto e rodar
   apenas `pymupdf-venv/Scripts/python.exe` e comandos de leitura (`cat`, `ls`, `grep`...).
 
 ## Acompanhar
 
-- Progresso legível: `automation/state/<slug>-progress.md` (uma entrada por execução).
+- Progresso legível: `automation/state/<slug>-progress.md` (uma entrada por sessão).
+- Livros concluídos: `automation/state/<slug>.done`.
 - Progresso por capítulo: `pymupdf-venv\Scripts\python.exe tools\status.py <slug>`
 - Saída completa de cada execução: `automation/logs/`.
 
@@ -39,8 +43,7 @@ Disable-ScheduledTask -TaskName NessahanAlita-Translation
 Enable-ScheduledTask  -TaskName NessahanAlita-Translation
 Unregister-ScheduledTask -TaskName NessahanAlita-Translation -Confirm:$false
 
-# outro livro: passe -Slug (e registre outra tarefa, ou troque o padrão no script)
-powershell -ExecutionPolicy Bypass -File automation\run-translation.ps1 -Slug guerra-da-paixao-2005
+# mudar a ordem ou acrescentar livros: edite automation\queue.txt
 ```
 
 Requisitos: o computador ligado e o usuário logado (a tarefa usa o login do

@@ -48,8 +48,8 @@
       "hash": "deff2c2e"
     },
     {
-      "type": "paragraph",
-      "text": "Artimanha Solução",
+      "type": "table_row",
+      "text": "Artimanha ¦ Solução",
       "pages": [
         9
       ],
@@ -61,17 +61,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0003",
-      "hash": "b389de23"
+      "hash": "d140ba5a"
     },
     {
-      "type": "paragraph",
-      "text": "Desaparecimento súbito Antecipação[^3]",
+      "type": "table_row",
+      "text": "Desaparecimento súbito ¦ Antecipação[^3]",
       "pages": [
         9
       ],
@@ -83,13 +85,15 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0004",
-      "hash": "f1e7bbbd"
+      "hash": "1114fcac"
     },
     {
       "type": "footnote",
@@ -113,8 +117,8 @@
       "hash": "68215cb4"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento[^4]",
+      "type": "table_row",
+      "text": "¦ Encurralamento[^4]",
       "pages": [
         9
       ],
@@ -126,11 +130,15 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0006",
-      "hash": "e560c018"
+      "hash": "4c9d4840"
     },
     {
       "type": "footnote",
@@ -154,8 +162,8 @@
       "hash": "56e87444"
     },
     {
-      "type": "paragraph",
-      "text": "Pedir o número do telefone e não ligar Antecipação",
+      "type": "table_row",
+      "text": "Pedir o número do telefone e não ligar ¦ Antecipação",
       "pages": [
         9
       ],
@@ -167,17 +175,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0008",
-      "hash": "1c1226c3"
+      "hash": "0f4cc183"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento",
+      "type": "table_row",
+      "text": "¦ Encurralamento",
       "pages": [
         9
       ],
@@ -189,15 +199,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0009",
-      "hash": "3e79e897"
+      "hash": "40914c9d"
     },
     {
-      "type": "paragraph",
-      "text": "Insistência inesperada[^5]",
+      "type": "table_row",
+      "text": "¦ Insistência inesperada[^5]",
       "pages": [
         9
       ],
@@ -209,11 +223,15 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0010",
-      "hash": "a4954761"
+      "hash": "06cd7157"
     },
     {
       "type": "footnote",
@@ -237,8 +255,8 @@
       "hash": "771dfbf8"
     },
     {
-      "type": "paragraph",
-      "text": "Fornecer o número do telefone e não atender Antecipação",
+      "type": "table_row",
+      "text": "Fornecer o número do telefone e não atender ¦ Antecipação",
       "pages": [
         9
       ],
@@ -250,15 +268,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0012",
-      "hash": "2c4b5926"
+      "hash": "81ca3638"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento",
+      "type": "table_row",
+      "text": "¦ Encurralamento",
       "pages": [
         9
       ],
@@ -270,15 +292,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0013",
-      "hash": "3e79e897"
+      "hash": "40914c9d"
     },
     {
-      "type": "paragraph",
-      "text": "Adiamento infinito Antecipação",
+      "type": "table_row",
+      "text": "Adiamento infinito ¦ Antecipação",
       "pages": [
         9
       ],
@@ -290,17 +316,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0014",
-      "hash": "b626a1c6"
+      "hash": "0027a297"
     },
     {
-      "type": "paragraph",
-      "text": "Ultimatum[^6]",
+      "type": "table_row",
+      "text": "¦ Ultimatum[^6]",
       "pages": [
         9
       ],
@@ -312,11 +340,15 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0015",
-      "hash": "6edd3df9"
+      "hash": "e2df47bd"
     },
     {
       "type": "footnote",
@@ -340,8 +372,8 @@
       "hash": "54624604"
     },
     {
-      "type": "paragraph",
-      "text": "Insistência inesperada",
+      "type": "table_row",
+      "text": "¦ Insistência inesperada",
       "pages": [
         9
       ],
@@ -353,15 +385,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0017",
-      "hash": "5e18fd6b"
+      "hash": "9d39b439"
     },
     {
-      "type": "paragraph",
-      "text": "Provocar o desejo e fugir Antecipação",
+      "type": "table_row",
+      "text": "Provocar o desejo e fugir ¦ Antecipação",
       "pages": [
         9
       ],
@@ -373,17 +409,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0018",
-      "hash": "8c49f056"
+      "hash": "57c0cde8"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento",
+      "type": "table_row",
+      "text": "¦ Encurralamento",
       "pages": [
         9
       ],
@@ -395,15 +433,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0019",
-      "hash": "3e79e897"
+      "hash": "40914c9d"
     },
     {
-      "type": "paragraph",
-      "text": "Provocar o desejo e frustrar Antecipação",
+      "type": "table_row",
+      "text": "Provocar o desejo e frustrar ¦ Antecipação",
       "pages": [
         9
       ],
@@ -415,17 +457,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0020",
-      "hash": "dd11479f"
+      "hash": "934c2c5b"
     },
     {
-      "type": "paragraph",
-      "text": "Ceticismo[^7]",
+      "type": "table_row",
+      "text": "¦ Ceticismo[^7]",
       "pages": [
         9
       ],
@@ -437,11 +481,15 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0021",
-      "hash": "6204f00f"
+      "hash": "4b86d097"
     },
     {
       "type": "footnote",
@@ -465,8 +513,8 @@
       "hash": "990dc29c"
     },
     {
-      "type": "paragraph",
-      "text": "Desmascaramento[^8]",
+      "type": "table_row",
+      "text": "¦ Desmascaramento[^8]",
       "pages": [
         9
       ],
@@ -478,11 +526,15 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0023",
-      "hash": "5e26718f"
+      "hash": "37ad2d48"
     },
     {
       "type": "footnote",
@@ -506,8 +558,8 @@
       "hash": "f457b775"
     },
     {
-      "type": "paragraph",
-      "text": "Provocar o desejo para acusar de assédio Antecipação",
+      "type": "table_row",
+      "text": "Provocar o desejo para acusar de assédio ¦ Antecipação",
       "pages": [
         9
       ],
@@ -519,15 +571,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0025",
-      "hash": "c293188f"
+      "hash": "f9145ff3"
     },
     {
-      "type": "paragraph",
-      "text": "Desmascaramento",
+      "type": "table_row",
+      "text": "¦ Desmascaramento",
       "pages": [
         10
       ],
@@ -539,15 +595,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0026",
-      "hash": "9ad6ea29"
+      "hash": "cbf22aba"
     },
     {
-      "type": "paragraph",
-      "text": "Simulação de apaixonamento Ceticismo",
+      "type": "table_row",
+      "text": "Simulação de apaixonamento ¦ Ceticismo",
       "pages": [
         10
       ],
@@ -559,17 +619,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0027",
-      "hash": "e3f5adb3"
+      "hash": "5262319d"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento",
+      "type": "table_row",
+      "text": "¦ Encurralamento",
       "pages": [
         10
       ],
@@ -581,15 +643,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0028",
-      "hash": "3e79e897"
+      "hash": "40914c9d"
     },
     {
-      "type": "paragraph",
-      "text": "Desmascaramento",
+      "type": "table_row",
+      "text": "¦ Desmascaramento",
       "pages": [
         10
       ],
@@ -601,15 +667,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0029",
-      "hash": "9ad6ea29"
+      "hash": "cbf22aba"
     },
     {
-      "type": "paragraph",
-      "text": "Dissimulação das intenções reais Ceticismo",
+      "type": "table_row",
+      "text": "Dissimulação das intenções reais ¦ Ceticismo",
       "pages": [
         10
       ],
@@ -621,17 +691,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0030",
-      "hash": "da1bba63"
+      "hash": "c06517cb"
     },
     {
-      "type": "paragraph",
-      "text": "Encurralamento",
+      "type": "table_row",
+      "text": "¦ Encurralamento",
       "pages": [
         10
       ],
@@ -643,15 +715,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0031",
-      "hash": "3e79e897"
+      "hash": "40914c9d"
     },
     {
-      "type": "paragraph",
-      "text": "Desmascaramento",
+      "type": "table_row",
+      "text": "¦ Desmascaramento",
       "pages": [
         10
       ],
@@ -663,15 +739,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0032",
-      "hash": "9ad6ea29"
+      "hash": "cbf22aba"
     },
     {
-      "type": "paragraph",
-      "text": "Provocação de ciúmes Desmascaramento",
+      "type": "table_row",
+      "text": "Provocação de ciúmes ¦ Desmascaramento",
       "pages": [
         10
       ],
@@ -683,17 +763,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0033",
-      "hash": "ae088deb"
+      "hash": "51bc1fe7"
     },
     {
-      "type": "paragraph",
-      "text": "Provocação de raiva Desmascaramento",
+      "type": "table_row",
+      "text": "Provocação de raiva ¦ Desmascaramento",
       "pages": [
         10
       ],
@@ -705,17 +787,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0034",
-      "hash": "7bb79534"
+      "hash": "ffb41289"
     },
     {
-      "type": "paragraph",
-      "text": "Ataques histéricos Silêncio",
+      "type": "table_row",
+      "text": "Ataques histéricos ¦ Silêncio",
       "pages": [
         10
       ],
@@ -727,17 +811,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0035",
-      "hash": "8821aa9e"
+      "hash": "031af98e"
     },
     {
-      "type": "paragraph",
-      "text": "Afastamento",
+      "type": "table_row",
+      "text": "¦ Afastamento",
       "pages": [
         10
       ],
@@ -749,15 +835,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0036",
-      "hash": "89cf93b1"
+      "hash": "9f62517f"
     },
     {
-      "type": "paragraph",
-      "text": "Ruptura",
+      "type": "table_row",
+      "text": "¦ Ruptura",
       "pages": [
         10
       ],
@@ -769,15 +859,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0037",
-      "hash": "e4b175a6"
+      "hash": "66042f2f"
     },
     {
-      "type": "paragraph",
-      "text": "Traições leves Desfrute do possível",
+      "type": "table_row",
+      "text": "Traições leves ¦ Desfrute do possível",
       "pages": [
         10
       ],
@@ -789,17 +883,19 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0038",
-      "hash": "7ea8f4f4"
+      "hash": "48190ca8"
     },
     {
-      "type": "paragraph",
-      "text": "Término do compromisso",
+      "type": "table_row",
+      "text": "¦ Término do compromisso",
       "pages": [
         10
       ],
@@ -811,15 +907,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0039",
-      "hash": "3a5168bd"
+      "hash": "8b645361"
     },
     {
-      "type": "paragraph",
-      "text": "Ruptura",
+      "type": "table_row",
+      "text": "¦ Ruptura",
       "pages": [
         10
       ],
@@ -831,15 +931,19 @@
         "align": "justify",
         "first_line_indent": 259.6,
         "left": 259.6,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
       "warnings": [],
       "id": "06-0040",
-      "hash": "e4b175a6"
+      "hash": "66042f2f"
     },
     {
-      "type": "paragraph",
-      "text": "Traições pesadas Ruptura definitiva",
+      "type": "table_row",
+      "text": "Traições pesadas ¦ Ruptura definitiva",
       "pages": [
         10
       ],
@@ -851,13 +955,15 @@
         "align": "justify",
         "first_line_indent": -1.8,
         "left": -1.8,
-        "color": 0
+        "color": 0,
+        "columns": [
+          83,
+          345
+        ]
       },
-      "warnings": [
-        "wide gap inside a line: possible table or columns"
-      ],
+      "warnings": [],
       "id": "06-0041",
-      "hash": "21e3d9a4"
+      "hash": "6d84bee7"
     },
     {
       "type": "paragraph",

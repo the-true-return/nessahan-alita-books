@@ -110,6 +110,7 @@ def finish_line(spans: list[dict], page_no: int) -> dict:
         "plain": plain,
         "max_gap": max_gap,
         "blocks": sorted({s["block"] for s in spans}),
+        "_spans": spans,
         "nchars": chars,
     }
 
@@ -309,6 +310,45 @@ def is_indented(ln: dict, prev: dict, metrics: dict) -> bool:
     return not (abs(prev["x0"] - ln["x0"]) <= 2 and is_full_width(prev, metrics))
 
 
+CELL_SEP = " ¦ "   # " ¦ " between table cells
+
+
+def mark_tables(lines: list[dict], page_no: int, cfg: dict) -> None:
+    """Lines inside a configured table region become kind "table".
+
+    config: "tables": [{"page": 9, "y0": 165, "y1": 600, "columns": [83, 345]}, ...]"""
+    for region in cfg.get("tables") or []:
+        if region["page"] != page_no:
+            continue
+        for ln in lines:
+            if ln["kind"] in ("body", "heading") and region["y0"] <= ln["y0"] <= region["y1"]:
+                ln["kind"] = "table"
+                ln["_columns"] = region["columns"]
+
+
+def table_row(ln: dict, metrics: dict, cfg: dict) -> dict:
+    """One table row: cells split by column start, joined with CELL_SEP.
+    An empty first cell means the row continues the previous one."""
+    cols = ln["_columns"]
+    cells = [[] for _ in cols]
+    for sp in ln["_spans"]:
+        idx = max(i for i, c in enumerate(cols) if sp["bbox"][0] >= c - 5) if sp["bbox"][0] >= cols[0] - 5 else 0
+        cells[idx].append(sp)
+    texts = []
+    for cell in cells:
+        if not cell:
+            texts.append("")
+            continue
+        cell_line = finish_line(cell, ln["page"])
+        texts.append(render(cell_line["runs"], False, False))
+    seg = make_segment("paragraph", [ln], metrics, cfg)
+    seg["type"] = "table_row"
+    seg["text"] = CELL_SEP.join(texts).strip(" ") if texts[0] else CELL_SEP.lstrip() + CELL_SEP.join(texts[1:])
+    seg["style"]["columns"] = cols
+    seg["warnings"] = []
+    return seg
+
+
 def build_segments(pages_lines, metrics, cfg):
     body_segments = []        # headings and paragraphs, reading order
     footnotes = []            # with "_page" of their first line
@@ -325,6 +365,10 @@ def build_segments(pages_lines, metrics, cfg):
         for ln in lines:
             kind = ln["kind"]
             if kind in ("drop", "page_number"):
+                continue
+            if kind == "table":
+                close()
+                body_segments.append(table_row(ln, metrics, cfg))
                 continue
             if kind == "footnote":
                 ref = ln["runs"][0] if ln["runs"] else None
@@ -507,6 +551,7 @@ def segment_book(slug: str) -> None:
     has_notes = False
     for page, lines in zip(pages, pages_lines):
         has_notes = classify(lines, page, metrics, drop_res, has_notes)
+        mark_tables(lines, page["page_number"], cfg)
         for ln in lines:
             if ln["kind"] in ("drop", "page_number"):
                 dropped[ln["kind"]] += 1

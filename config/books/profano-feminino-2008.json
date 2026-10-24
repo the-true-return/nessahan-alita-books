@@ -9,5 +9,20 @@
   "known_issues": [
     "Seções 'Esclarecimentos adicionais' usam subtítulos em negrito no tamanho do corpo."
   ],
-  "edition": "2008"
+  "edition": "2008",
+  "title_en": "The Profane Feminine",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts",
+    "font_map": {},
+    "tracking_pt": 0.0,
+    "line_pitch_pt": 20.7,
+    "paragraph_pitch_pt": 32.7,
+    "footnote_size_pt": 10.0,
+    "footnote_pitch_pt": 11.5,
+    "page_number_size_pt": 10.0,
+    "page_number_align": "right",
+    "footnote_rule_pt": 144,
+    "notes": "Measured by tools/measure_layout.py from portuguese-original-pdf/Nessahan Alita - O Profano Feminino (Ed. 2008).pdf (body TimesNewRomanPSMT 12.0 pt)."
+  }
 }

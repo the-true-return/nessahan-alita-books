@@ -126,7 +126,7 @@ def preamble(cfg: dict, metrics: dict, page: dict) -> str:
 #show footnote.entry: set text(size: {pdf['footnote_size_pt']}pt)
 #show footnote.entry: set par(leading: {fn_leading:.2f}pt, first-line-indent: 0pt)
 #show heading: it => block(above: {spacing:.2f}pt, below: {spacing:.2f}pt, width: 100%,
-  align(center, par(justify: false, text(size: {size}pt, weight: "bold", hyphenate: false, it.body))))
+  align({metrics.get('heading_align', 'center')}, par(justify: false, text(size: {size}pt, weight: "bold", hyphenate: false, it.body))))
 """
 
 
@@ -159,6 +159,38 @@ def chapter_body(segments, en, layout, metrics, footnotes, used) -> str:
     out = []
     top = metrics.get("top_margin", 71)
     run_in = ""  # emphasized sentence misdetected as a heading, joined to the next paragraph
+    table = []   # pending table_row segments (cells separated by "¦")
+
+    def flush_table():
+        """Rows whose first cell is empty continue the previous row: each group
+        becomes one table row, with its second-column entries stacked."""
+        if not table:
+            return
+        groups = []
+        for seg, text in table:
+            cells = [c.strip() for c in text.split("¦")]
+            if cells[0] or not groups:
+                groups.append([[c] if c else [] for c in cells])
+            else:
+                for k, c in enumerate(cells[1:], 1):
+                    if c:
+                        groups[-1][k].append(c)
+        style = table[0][0]["style"]
+        cols = style.get("columns", [metrics["left"]])
+        widths = [f"{cols[k + 1] - cols[k]:.0f}pt" for k in range(len(cols) - 1)] + ["auto"]
+        font = ""
+        for family, free in FONT_MAP.items():
+            if family.lower() in style.get("font", "").lower():
+                font = f', font: "{free}"'
+        cells = []
+        for group in groups:
+            for parts in group:
+                body = "#linebreak()".join(inline(x, footnotes, used) for x in parts)
+                cells.append(f"[#par(first-line-indent: 0pt, justify: false)"
+                             f"[#text(size: {style['size']}pt{font})[{body}]]]")
+        out.append(f"#table(columns: ({', '.join(widths)}), stroke: 0.5pt, "
+                   f"inset: (x: 5pt, y: 6pt), {', '.join(cells)})")
+        table.clear()
     for i, seg in enumerate(segments):
         if seg["type"] == "footnote":
             continue
@@ -177,6 +209,10 @@ def chapter_body(segments, en, layout, metrics, footnotes, used) -> str:
             # original. Separators such as "*****" are kept.
             print(f"skipped {seg['id']}: stray punctuation ({text!r})")
             continue
+        if seg["type"] == "table_row":
+            table.append((seg, text))
+            continue
+        flush_table()
         if seg["type"] == "heading":
             first_line = layout[seg["id"]]["lines"][0]
             if i == 0 and first_line["bbox"][1] < top + 30:
@@ -184,6 +220,7 @@ def chapter_body(segments, en, layout, metrics, footnotes, used) -> str:
             out.append(f"#heading(level: {1 if i == 0 else 2})[{inline(text, footnotes, used)}]")
         else:
             out.append(paragraph(seg, text, metrics, footnotes, used))
+    flush_table()
     return "\n\n".join(out)
 
 
@@ -232,6 +269,13 @@ def build(slug: str, draft: bool) -> None:
 
     FONT_MAP.clear()
     FONT_MAP.update(cfg["pdf"].get("font_map", {}))
+    # Chapter headings follow the original's predominant alignment.
+    aligns = []
+    for chapter in chapter_ids(slug)[1:]:
+        first = load_json(WORK_DIR / slug / "chapters" / f"{chapter}.json")["segments"][0]
+        if first["type"] == "heading":
+            aligns.append(first["style"]["align"])
+    metrics["heading_align"] = "center" if aligns.count("center") >= len(aligns) / 2 else "left"
     parts = [preamble(cfg, metrics, page)]
     book_text = []
     for chapter in chapter_ids(slug):

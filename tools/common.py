@@ -125,5 +125,5 @@ def chapter_ids(slug: str) -> list[str]:
 
 def strip_markup(text: str) -> str:
     """Plain text: drop <i>/<b> tags, turn [^n] refs into n."""
-    text = re.sub(r"</?[ib]>", "", text)
+    text = re.sub(r"</?[ib]>", "", text).replace("¦", "")  # ¦ = table cell separator
     return re.sub(r"\[\^(\d+)\]", r"\1", text)

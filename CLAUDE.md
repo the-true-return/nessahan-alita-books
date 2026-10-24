@@ -11,7 +11,11 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 
 - *O Magnetismo nas Relações Sociais* (`magnetismo-relacoes-sociais-2008`):
   traduzido, PDF publicado em `books/`; dúvidas em `review/magnetismo-relacoes-sociais-2008/book-qa.md`.
-- *Como lidar com mulheres* (`como-lidar-com-mulheres-2008`): traduzido pelo agente agendado, PDF publicado em `books/`, **aguardando revisão humana** (resumo em `automation/state/como-lidar-com-mulheres-2008.done`; dúvidas em `review/como-lidar-com-mulheres-2008/book-qa.md`).
+- *Como lidar com mulheres* (`como-lidar-com-mulheres-2008`): traduzido pelo agente, PDF em `books/`.
+- Os 6 livros restantes estão **na fila do agente agendado** (`automation/queue.txt`,
+  `automation/README.md`): traduz um por vez e faz commit + push ao terminar cada um.
+  Progresso em `automation/state/<slug>-progress.md`. Numa sessão interativa, não
+  traduza um livro da fila ao mesmo tempo que o agente (veja `automation/state/runner.lock`).
 - Não traduza outros livros sem pedido explícito.
 - Sempre cite os livros pelo título completo (`title_pt` da config), nunca abreviado.
 - `profano-feminino-2005` foi superado pela edição de 2008; não traduzir sem decisão do usuário.

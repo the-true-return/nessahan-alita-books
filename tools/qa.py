@@ -130,6 +130,9 @@ def check_chapter(slug: str, chapter: str, glossary: list[dict]) -> dict:
             errors.append(f"{sid}: identical to the source (untranslated?)")
         translated_texts[en_plain].append(sid)
 
+        if pt_text.count("¦") != en_text.count("¦"):
+            errors.append(f"{sid}: table cell separators (¦) differ: source "
+                          f"{pt_text.count(chr(166))}, translation {en_text.count(chr(166))}")
         # Footnote references must survive exactly.
         if collections.Counter(REF_RE.findall(pt_text)) != collections.Counter(REF_RE.findall(en_text)):
             errors.append(f"{sid}: footnote references differ: source {REF_RE.findall(pt_text)} "
