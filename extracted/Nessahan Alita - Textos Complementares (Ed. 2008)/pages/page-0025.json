@@ -1,0 +1,1002 @@
+{
+  "page_number": 25,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        110.50640869140625,
+        459.6875,
+        126.44022369384766
+      ],
+      "text": "4. O homem não é o único culpado por desejar",
+      "spans": [
+        {
+          "text": "4. O homem não é o único culpado por desejar ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            110.50640869140625,
+            459.6875,
+            126.44022369384766
+          ],
+          "origin": [
+            82.73999786376953,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        146.21823120117188,
+        516.2176513671875,
+        159.89547729492188
+      ],
+      "text": "O homem, via de regra, não tem o poder de controlar o seu",
+      "spans": [
+        {
+          "text": "O homem, via de regra, não tem o poder de controlar o seu ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            146.21823120117188,
+            516.2176513671875,
+            159.89547729492188
+          ],
+          "origin": [
+            117.23999786376953,
+            157.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.73873901367188,
+        516.2396850585938,
+        180.41598510742188
+      ],
+      "text": "desejo. Quando provocado sexualmente, cai fulminado pela",
+      "spans": [
+        {
+          "text": "desejo. Quando provocado sexualmente, cai fulminado pela ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.73873901367188,
+            516.2396850585938,
+            180.41598510742188
+          ],
+          "origin": [
+            82.73997497558594,
+            177.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        187.25924682617188,
+        516.2337646484375,
+        200.93649291992188
+      ],
+      "text": "paixão sexual. Não há opção de escolha: ele deve desejar ou",
+      "spans": [
+        {
+          "text": "paixão sexual. Não há opção de escolha: ele deve desejar ou ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            187.25924682617188,
+            516.2337646484375,
+            200.93649291992188
+          ],
+          "origin": [
+            82.73997497558594,
+            198.24072265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        207.83926391601562,
+        516.2350463867188,
+        221.51651000976562
+      ],
+      "text": "desejar. Não poderá deixar de desejar. Ainda que seu desejo não",
+      "spans": [
+        {
+          "text": "desejar. Não poderá deixar de desejar. Ainda que seu desejo não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            207.83926391601562,
+            516.2350463867188,
+            221.51651000976562
+          ],
+          "origin": [
+            82.73997497558594,
+            218.82073974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        228.35977172851562,
+        516.2164306640625,
+        242.03701782226562
+      ],
+      "text": "possa \nser \nsatisfeito \ne \nele \nse \nresigne \nao \nsofrimento \nda",
+      "spans": [
+        {
+          "text": "possa ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            228.35977172851562,
+            124.0261001586914,
+            242.03701782226562
+          ],
+          "origin": [
+            82.73997497558594,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            133.91409301757812,
+            228.35977172851562,
+            157.8084259033203,
+            242.03701782226562
+          ],
+          "origin": [
+            133.91409301757812,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "satisfeito ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            167.6964111328125,
+            228.35977172851562,
+            232.20114135742188,
+            242.03701782226562
+          ],
+          "origin": [
+            167.6964111328125,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            242.08912658691406,
+            228.35977172851562,
+            252.85470581054688,
+            242.03701782226562
+          ],
+          "origin": [
+            242.08912658691406,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "ele ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            262.6820068359375,
+            228.35977172851562,
+            285.03009033203125,
+            242.03701782226562
+          ],
+          "origin": [
+            262.6820068359375,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            294.857421875,
+            228.35977172851562,
+            312.6542053222656,
+            242.03701782226562
+          ],
+          "origin": [
+            294.857421875,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "resigne ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            322.54217529296875,
+            228.35977172851562,
+            373.9380798339844,
+            242.03701782226562
+          ],
+          "origin": [
+            322.54217529296875,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            383.765380859375,
+            228.35977172851562,
+            402.7291564941406,
+            242.03701782226562
+          ],
+          "origin": [
+            383.765380859375,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "sofrimento ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            412.55645751953125,
+            228.35977172851562,
+            486.6645202636719,
+            242.03701782226562
+          ],
+          "origin": [
+            412.55645751953125,
+            239.34124755859375
+          ]
+        },
+        {
+          "text": "da ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            496.552490234375,
+            228.35977172851562,
+            516.2164306640625,
+            242.03701782226562
+          ],
+          "origin": [
+            496.552490234375,
+            239.34124755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        248.88027954101562,
+        516.091552734375,
+        262.5575256347656
+      ],
+      "text": "insatisfação, este sofrimento é resultado do inevitável desejo.",
+      "spans": [
+        {
+          "text": "insatisfação, este sofrimento é resultado do inevitável desejo. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            248.88027954101562,
+            516.091552734375,
+            262.5575256347656
+          ],
+          "origin": [
+            82.73997497558594,
+            259.86175537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        269.5198669433594,
+        516.26416015625,
+        283.1971130371094
+      ],
+      "text": "Como observou Schopenhauer, não temos o livre arbítrio de",
+      "spans": [
+        {
+          "text": "Como observou Schopenhauer, não temos o livre arbítrio de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            269.5198669433594,
+            516.26416015625,
+            283.1971130371094
+          ],
+          "origin": [
+            82.73997497558594,
+            280.5013427734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        290.0403747558594,
+        516.226806640625,
+        303.7176208496094
+      ],
+      "text": "desejar ou não.  O macho está condenado a desejar a fêmea que",
+      "spans": [
+        {
+          "text": "desejar ou não.  O macho está condenado a desejar a fêmea que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            290.0403747558594,
+            516.226806640625,
+            303.7176208496094
+          ],
+          "origin": [
+            82.73997497558594,
+            301.0218505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        310.5608825683594,
+        516.2024536132812,
+        324.2381286621094
+      ],
+      "text": "o provoca,  ao menos no âmbito da existência comum. As",
+      "spans": [
+        {
+          "text": "o provoca,  ao menos no âmbito da existência comum. As ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            310.5608825683594,
+            516.2024536132812,
+            324.2381286621094
+          ],
+          "origin": [
+            82.73997497558594,
+            321.5423583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        331.14093017578125,
+        516.0530395507812,
+        344.81817626953125
+      ],
+      "text": "exceções ficariam por conta daqueles que transcenderam o",
+      "spans": [
+        {
+          "text": "exceções ficariam por conta daqueles que transcenderam o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            331.14093017578125,
+            516.0530395507812,
+            344.81817626953125
+          ],
+          "origin": [
+            82.73997497558594,
+            342.1224060058594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        351.6614685058594,
+        516.2465209960938,
+        365.3387145996094
+      ],
+      "text": "condicionamento instintivo animal por meio das disciplinas",
+      "spans": [
+        {
+          "text": "condicionamento instintivo animal por meio das disciplinas ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            351.6614685058594,
+            516.2465209960938,
+            365.3387145996094
+          ],
+          "origin": [
+            82.73997497558594,
+            362.6429443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        372.1820068359375,
+        516.2313842773438,
+        385.8592529296875
+      ],
+      "text": "espirituais, daqueles que apresentam certas diferenciações",
+      "spans": [
+        {
+          "text": "espirituais, daqueles que apresentam certas diferenciações ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            372.1820068359375,
+            516.2313842773438,
+            385.8592529296875
+          ],
+          "origin": [
+            82.73997497558594,
+            383.1634826660156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        392.7620544433594,
+        516.2432250976562,
+        406.4393005371094
+      ],
+      "text": "biológicas específicas e também dos casos em que a mulher é",
+      "spans": [
+        {
+          "text": "biológicas específicas e também dos casos em que a mulher é ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            392.7620544433594,
+            516.2432250976562,
+            406.4393005371094
+          ],
+          "origin": [
+            82.73997497558594,
+            403.7435302734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        413.34210205078125,
+        516.2139282226562,
+        427.01934814453125
+      ],
+      "text": "exageradamente contra-atraente. Mas exceções não invalidam",
+      "spans": [
+        {
+          "text": "exageradamente contra-atraente. Mas exceções não invalidam ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            413.34210205078125,
+            516.2139282226562,
+            427.01934814453125
+          ],
+          "origin": [
+            82.73997497558594,
+            424.3235778808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        433.8626403808594,
+        163.624755859375,
+        447.5398864746094
+      ],
+      "text": "uma regra.",
+      "spans": [
+        {
+          "text": "uma regra.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            433.8626403808594,
+            163.624755859375,
+            447.5398864746094
+          ],
+          "origin": [
+            82.73997497558594,
+            444.8441162109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        466.08233642578125,
+        516.3050537109375,
+        479.75958251953125
+      ],
+      "text": "Portanto, a culpa por um homem desejar uma mulher não",
+      "spans": [
+        {
+          "text": "Portanto, a culpa por um homem desejar uma mulher não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            466.08233642578125,
+            516.3050537109375,
+            479.75958251953125
+          ],
+          "origin": [
+            117.23999786376953,
+            477.0638122558594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        486.6028747558594,
+        516.2277221679688,
+        500.2801208496094
+      ],
+      "text": "pode ser imputada somente a ele. Há uma parcela feminina de",
+      "spans": [
+        {
+          "text": "pode ser imputada somente a ele. Há uma parcela feminina de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            486.6028747558594,
+            516.2277221679688,
+            500.2801208496094
+          ],
+          "origin": [
+            82.73997497558594,
+            497.5843505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        507.1829528808594,
+        516.187255859375,
+        520.8601684570312
+      ],
+      "text": "culpa pois a mulher que não quer ser desejada não se mostra",
+      "spans": [
+        {
+          "text": "culpa pois a mulher que não quer ser desejada não se mostra ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            507.1829528808594,
+            516.187255859375,
+            520.8601684570312
+          ],
+          "origin": [
+            82.73997497558594,
+            518.1644287109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        527.7034912109375,
+        516.2337036132812,
+        541.3806762695312
+      ],
+      "text": "atraente. A mulher que se mostra atraente, o faz por querer ser",
+      "spans": [
+        {
+          "text": "atraente. A mulher que se mostra atraente, o faz por querer ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            527.7034912109375,
+            516.2337036132812,
+            541.3806762695312
+          ],
+          "origin": [
+            82.73997497558594,
+            538.6849365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        548.2239990234375,
+        421.21075439453125,
+        561.9011840820312
+      ],
+      "text": "desejada. Mostrar-se atraente é provocar o desejo.",
+      "spans": [
+        {
+          "text": "desejada. Mostrar-se atraente é provocar o desejo. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            548.2239990234375,
+            421.21075439453125,
+            561.9011840820312
+          ],
+          "origin": [
+            82.73995971679688,
+            559.2054443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        580.50439453125,
+        516.2839965820312,
+        594.1815795898438
+      ],
+      "text": "É contraditório que uma pessoa provoque o desejo de outra",
+      "spans": [
+        {
+          "text": "É contraditório que uma pessoa provoque o desejo de outra ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            580.50439453125,
+            516.2839965820312,
+            594.1815795898438
+          ],
+          "origin": [
+            117.23998260498047,
+            591.48583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        601.0249633789062,
+        516.1731567382812,
+        614.7021484375
+      ],
+      "text": "e, ao ser desejada, tente prejudicar quem a deseja com",
+      "spans": [
+        {
+          "text": "e, ao ser desejada, tente prejudicar quem a deseja com ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            601.0249633789062,
+            516.1731567382812,
+            614.7021484375
+          ],
+          "origin": [
+            82.73995971679688,
+            612.0064086914062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        621.60498046875,
+        516.0925903320312,
+        635.2821655273438
+      ],
+      "text": "protestos e acusações. Se temos que proibir os homens de",
+      "spans": [
+        {
+          "text": "protestos e acusações. Se temos que proibir os homens de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            621.60498046875,
+            516.0925903320312,
+            635.2821655273438
+          ],
+          "origin": [
+            82.73995971679688,
+            632.58642578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        642.12548828125,
+        516.1976928710938,
+        655.8026733398438
+      ],
+      "text": "desejar as mulheres, temos também, por uma questão de",
+      "spans": [
+        {
+          "text": "desejar as mulheres, temos também, por uma questão de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            642.12548828125,
+            516.1976928710938,
+            655.8026733398438
+          ],
+          "origin": [
+            82.73995971679688,
+            653.10693359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        662.6460571289062,
+        516.2780151367188,
+        676.3232421875
+      ],
+      "text": "justiça, que proibir as mulheres de se mostrarem atraentes aos",
+      "spans": [
+        {
+          "text": "justiça, que proibir as mulheres de se mostrarem atraentes aos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            662.6460571289062,
+            516.2780151367188,
+            676.3232421875
+          ],
+          "origin": [
+            82.73995971679688,
+            673.6275024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        683.22607421875,
+        516.1812744140625,
+        696.9032592773438
+      ],
+      "text": "homens (é o que se faz, coerentemente, no Islã). Ou então, ao",
+      "spans": [
+        {
+          "text": "homens (é o que se faz, coerentemente, no Islã). Ou então, ao ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            683.22607421875,
+            516.1812744140625,
+            696.9032592773438
+          ],
+          "origin": [
+            82.73995971679688,
+            694.20751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        703.80615234375,
+        417.6923522949219,
+        717.4833374023438
+      ],
+      "text": "contrário, teríamos que permitir ambas as coisas.",
+      "spans": [
+        {
+          "text": "contrário, teríamos que permitir ambas as coisas. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            703.80615234375,
+            417.6923522949219,
+            717.4833374023438
+          ],
+          "origin": [
+            82.73994445800781,
+            714.78759765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "25",
+      "spans": [
+        {
+          "text": "25",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

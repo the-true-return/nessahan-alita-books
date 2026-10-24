@@ -1,0 +1,16 @@
+{
+  "title_pt": "Como Lidar com Mulheres",
+  "series_pt": "O Sofrimento Amoroso do Homem - Volume I",
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - Como lidar com mulheres (Ed. 2008).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - Como lidar com mulheres (Ed. 2008)",
+  "drop_line_patterns": [],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "BLOQUEANTE: ~645 blocos em Helvetica-Oblique (cartas/anexos, pp. ~204-249) foram extraídos com espaços espúrios dentro das palavras ('co n q u ist ad a'). Reextrair com pymupdf.TEXT_INHIBIT_SPACES antes de segmentar este livro.",
+    "Numeração das notas de rodapé reinicia a cada capítulo.",
+    "Títulos de capítulo têm o mesmo tamanho do corpo (11.7 pt, negrito) e às vezes ocupam duas linhas.",
+    "Anexos (Entrevista, Correspondências) são texto de terceiros/diálogo: manter a distinção autor x leitores."
+  ],
+  "edition": "2008"
+}

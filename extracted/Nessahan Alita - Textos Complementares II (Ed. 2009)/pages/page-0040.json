@@ -1,0 +1,855 @@
+{
+  "page_number": 40,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.32771301269531,
+        252.60716247558594,
+        84.6117172241211
+      ],
+      "text": "Sentimentos motivadores",
+      "spans": [
+        {
+          "text": "Sentimentos motivadores ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.32771301269531,
+            252.60716247558594,
+            84.6117172241211
+          ],
+          "origin": [
+            120.54000091552734,
+            82.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        97.00770568847656,
+        513.3189697265625,
+        124.0916976928711
+      ],
+      "text": "São sentimentos que NÃO me motivam a escrever: ódio, raiva, vingança e \nrevolta.",
+      "spans": [
+        {
+          "text": "São sentimentos que NÃO me motivam a escrever: ódio, raiva, vingança e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            97.00770568847656,
+            513.3189697265625,
+            110.29170989990234
+          ],
+          "origin": [
+            120.54000091552734,
+            107.69970703125
+          ]
+        },
+        {
+          "text": "revolta. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            110.80769348144531,
+            124.44241333007812,
+            124.0916976928711
+          ],
+          "origin": [
+            85.08001708984375,
+            121.49969482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        136.60768127441406,
+        513.3876953125,
+        163.69166564941406
+      ],
+      "text": "São sentimentos que me motivam a escrever: indignação, descontentamento e \nrebeldia.",
+      "spans": [
+        {
+          "text": "São sentimentos que me motivam a escrever: indignação, descontentamento e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            136.60768127441406,
+            513.3876953125,
+            149.8916778564453
+          ],
+          "origin": [
+            120.5400161743164,
+            147.2996826171875
+          ]
+        },
+        {
+          "text": "rebeldia. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            150.4076690673828,
+            129.78961181640625,
+            163.69166564941406
+          ],
+          "origin": [
+            85.08001708984375,
+            161.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        176.20765686035156,
+        397.6368713378906,
+        189.4916534423828
+      ],
+      "text": "Os ignorantes não conseguem diferenciar os dois grupos.",
+      "spans": [
+        {
+          "text": "Os ignorantes não conseguem diferenciar os dois grupos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            176.20765686035156,
+            397.6368713378906,
+            189.4916534423828
+          ],
+          "origin": [
+            120.5400161743164,
+            186.899658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        202.1276397705078,
+        228.26162719726562,
+        215.41163635253906
+      ],
+      "text": "Caminho mais curto",
+      "spans": [
+        {
+          "text": "Caminho mais curto ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            202.1276397705078,
+            228.26162719726562,
+            215.41163635253906
+          ],
+          "origin": [
+            120.5400161743164,
+            212.81964111328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        227.80763244628906,
+        513.30029296875,
+        254.89161682128906
+      ],
+      "text": "O meio mais rápido de se desarticular os joguinhos é triturá-los antes que surjam \nou tão logo tenham se iniciado.",
+      "spans": [
+        {
+          "text": "O meio mais rápido de se desarticular os joguinhos é triturá-los antes que surjam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            227.80763244628906,
+            513.30029296875,
+            241.0916290283203
+          ],
+          "origin": [
+            120.5400161743164,
+            238.4996337890625
+          ]
+        },
+        {
+          "text": "ou tão logo tenham se iniciado. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            241.6076202392578,
+            238.06793212890625,
+            254.89161682128906
+          ],
+          "origin": [
+            85.08001708984375,
+            252.29962158203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        267.5276184082031,
+        176.93524169921875,
+        280.8116149902344
+      ],
+      "text": "Sinônimos",
+      "spans": [
+        {
+          "text": "Sinônimos ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            267.5276184082031,
+            176.93524169921875,
+            280.8116149902344
+          ],
+          "origin": [
+            120.5400161743164,
+            278.2196044921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        293.2076110839844,
+        316.4424133300781,
+        306.4916076660156
+      ],
+      "text": "Ambigüidade = joguinho = infernização",
+      "spans": [
+        {
+          "text": "Ambigüidade = joguinho = infernização ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            293.2076110839844,
+            316.4424133300781,
+            306.4916076660156
+          ],
+          "origin": [
+            120.5400161743164,
+            303.89959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        319.1275939941406,
+        196.865966796875,
+        332.4115905761719
+      ],
+      "text": "Maleabilidade",
+      "spans": [
+        {
+          "text": "Maleabilidade ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            319.1275939941406,
+            196.865966796875,
+            332.4115905761719
+          ],
+          "origin": [
+            120.5400161743164,
+            329.819580078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        344.8075866699219,
+        513.30322265625,
+        371.8915710449219
+      ],
+      "text": "Minha filosofia não adota procedimentos fixos. Não serve, portanto, para robôs \nhumanos.",
+      "spans": [
+        {
+          "text": "Minha filosofia não adota procedimentos fixos. Não serve, portanto, para robôs ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            344.8075866699219,
+            513.30322265625,
+            358.0915832519531
+          ],
+          "origin": [
+            120.5400161743164,
+            355.49957275390625
+          ]
+        },
+        {
+          "text": "humanos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            358.6075744628906,
+            134.3808135986328,
+            371.8915710449219
+          ],
+          "origin": [
+            85.08001708984375,
+            369.299560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        384.4075622558594,
+        513.2899169921875,
+        411.4915466308594
+      ],
+      "text": "O excesso de frieza promove o desinteresse da mulher, assim como o excesso de \ncarinho.",
+      "spans": [
+        {
+          "text": "O excesso de frieza promove o desinteresse da mulher, assim como o excesso de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            384.4075622558594,
+            513.2899169921875,
+            397.6915588378906
+          ],
+          "origin": [
+            120.5400161743164,
+            395.09954833984375
+          ]
+        },
+        {
+          "text": "carinho. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            398.2075500488281,
+            127.13522338867188,
+            411.4915466308594
+          ],
+          "origin": [
+            85.08001708984375,
+            408.8995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        424.0075378417969,
+        513.3597412109375,
+        451.0915222167969
+      ],
+      "text": "Aquele que é sempre durão tem tantas chances de perder sua mulher quanto \naquele que é sempre molengão.",
+      "spans": [
+        {
+          "text": "Aquele que é sempre durão tem tantas chances de perder sua mulher quanto ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            424.0075378417969,
+            513.3597412109375,
+            437.2915344238281
+          ],
+          "origin": [
+            120.5400161743164,
+            434.69952392578125
+          ]
+        },
+        {
+          "text": "aquele que é sempre molengão. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            437.8075256347656,
+            239.0039520263672,
+            451.0915222167969
+          ],
+          "origin": [
+            85.08001708984375,
+            448.49951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        463.6675109863281,
+        215.95205688476562,
+        476.9515075683594
+      ],
+      "text": "Caráter da teoria",
+      "spans": [
+        {
+          "text": "Caráter da teoria  ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            463.6675109863281,
+            215.95205688476562,
+            476.9515075683594
+          ],
+          "origin": [
+            120.5400161743164,
+            474.3594970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        489.3475036621094,
+        513.352294921875,
+        530.2314453125
+      ],
+      "text": "Minhas teorias são de cunho filosófico-espiritualista e não de cunho político. \nNão acredito na política. Para mim, a política é resultado do estado interior das \npopulações.",
+      "spans": [
+        {
+          "text": "Minhas teorias são de cunho filosófico-espiritualista e não de cunho político. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            489.3475036621094,
+            513.3093872070312,
+            502.6315002441406
+          ],
+          "origin": [
+            120.5400161743164,
+            500.03948974609375
+          ]
+        },
+        {
+          "text": "Não acredito na política. Para mim, a política é resultado do estado interior das ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            503.1474914550781,
+            513.352294921875,
+            516.4314575195312
+          ],
+          "origin": [
+            85.08001708984375,
+            513.8394775390625
+          ]
+        },
+        {
+          "text": "populações. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            516.9474487304688,
+            145.02841186523438,
+            530.2314453125
+          ],
+          "origin": [
+            85.08001708984375,
+            527.6394653320312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        542.867431640625,
+        200.22366333007812,
+        556.1514282226562
+      ],
+      "text": "Ninfomaníacas",
+      "spans": [
+        {
+          "text": "Ninfomaníacas ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            542.867431640625,
+            200.22366333007812,
+            556.1514282226562
+          ],
+          "origin": [
+            120.5400161743164,
+            553.5594482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        568.5474853515625,
+        513.3263549804688,
+        623.2314453125
+      ],
+      "text": "Mesmo as ninfomaníacas fogem dos assediadores desesperados, o que prova que \nelas também possuem um critério seletivo e que não gostam do sexo pelo sexo, mas o \nprocuram por outros motivos. Os motivos de suas condutas promíscuas não são genito-\nsexuais.",
+      "spans": [
+        {
+          "text": "Mesmo as ninfomaníacas fogem dos assediadores desesperados, o que prova que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            568.5474853515625,
+            513.3263549804688,
+            581.8314819335938
+          ],
+          "origin": [
+            120.5400161743164,
+            579.239501953125
+          ]
+        },
+        {
+          "text": "elas também possuem um critério seletivo e que não gostam do sexo pelo sexo, mas o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            582.3474731445312,
+            513.3028564453125,
+            595.6314697265625
+          ],
+          "origin": [
+            85.08001708984375,
+            593.0394897460938
+          ]
+        },
+        {
+          "text": "procuram por outros motivos. Os motivos de suas condutas promíscuas não são genito-",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            596.1474609375,
+            510.3041076660156,
+            609.4314575195312
+          ],
+          "origin": [
+            85.08000183105469,
+            606.8394775390625
+          ]
+        },
+        {
+          "text": "sexuais. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            609.9474487304688,
+            126.4752197265625,
+            623.2314453125
+          ],
+          "origin": [
+            85.08001708984375,
+            620.6394653320312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        635.867431640625,
+        221.22488403320312,
+        649.1514282226562
+      ],
+      "text": "Animalidade ainda",
+      "spans": [
+        {
+          "text": "Animalidade ainda ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            635.867431640625,
+            221.22488403320312,
+            649.1514282226562
+          ],
+          "origin": [
+            120.5400161743164,
+            646.5594482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        661.5474853515625,
+        513.3656616210938,
+        688.6314697265625
+      ],
+      "text": "O perfil masculino atraente ainda pertence ao nível da atração animal, da qual \nnecessitamos nos libertar.",
+      "spans": [
+        {
+          "text": "O perfil masculino atraente ainda pertence ao nível da atração animal, da qual ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            661.5474853515625,
+            513.3656616210938,
+            674.8314819335938
+          ],
+          "origin": [
+            120.5400161743164,
+            672.239501953125
+          ]
+        },
+        {
+          "text": "necessitamos nos libertar. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            675.3474731445312,
+            211.7184600830078,
+            688.6314697265625
+          ],
+          "origin": [
+            85.08001708984375,
+            686.0394897460938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        701.2674560546875,
+        188.2200164794922,
+        714.5514526367188
+      ],
+      "text": "Bola de neve",
+      "spans": [
+        {
+          "text": "Bola de neve ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            701.2674560546875,
+            188.2200164794922,
+            714.5514526367188
+          ],
+          "origin": [
+            120.5400161743164,
+            711.95947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        726.9474487304688,
+        513.3496704101562,
+        767.8314819335938
+      ],
+      "text": "A conquista de uma mulher altamente desejável, linda e voluptuosa influencia o \npsiquismo do homem, tornando-o confiante. É por isso que quanto mais mulheres \nbonitas se tenha, tanto mais mulheres se atrairá e que, quanto mais cafajeste se seja,",
+      "spans": [
+        {
+          "text": "A conquista de uma mulher altamente desejável, linda e voluptuosa influencia o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            726.9474487304688,
+            513.281005859375,
+            740.2314453125
+          ],
+          "origin": [
+            120.5400161743164,
+            737.6394653320312
+          ]
+        },
+        {
+          "text": "psiquismo do homem, tornando-o confiante. É por isso que quanto mais mulheres ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            740.7474365234375,
+            513.3496704101562,
+            754.0314331054688
+          ],
+          "origin": [
+            85.08001708984375,
+            751.439453125
+          ]
+        },
+        {
+          "text": "bonitas se tenha, tanto mais mulheres se atrairá e que, quanto mais cafajeste se seja, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            754.5474853515625,
+            513.336669921875,
+            767.8314819335938
+          ],
+          "origin": [
+            85.08001708984375,
+            765.239501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "40",
+      "spans": [
+        {
+          "text": "40",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

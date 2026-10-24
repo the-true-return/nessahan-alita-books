@@ -1,0 +1,932 @@
+{
+  "page_number": 34,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        71.20771789550781,
+        513.3696899414062,
+        139.69166564941406
+      ],
+      "text": "pensamentos relacionados e nos apartando de situações que costumam nos levar ao \nfundo poço. Antes que os momentos indesejáveis retornem, isto é, antes que os desejos \ne paixões contra os quais estamos lutando nos importunem novamente, temos que trilhar \noutros caminhos que nos conduzam a direções diferentes e evitar os mesmos caminhos \nviciados, pelos quais sempre terminamos atolados até o pescoço.",
+      "spans": [
+        {
+          "text": "pensamentos relacionados e nos apartando de situações que costumam nos levar ao ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20771789550781,
+            513.3696899414062,
+            84.4917221069336
+          ],
+          "origin": [
+            85.08000183105469,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "fundo poço. Antes que os momentos indesejáveis retornem, isto é, antes que os desejos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            85.00770568847656,
+            513.2884521484375,
+            98.29170989990234
+          ],
+          "origin": [
+            85.07998657226562,
+            95.69970703125
+          ]
+        },
+        {
+          "text": "e paixões contra os quais estamos lutando nos importunem novamente, temos que trilhar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            98.80769348144531,
+            513.3368530273438,
+            112.0916976928711
+          ],
+          "origin": [
+            85.07998657226562,
+            109.49969482421875
+          ]
+        },
+        {
+          "text": "outros caminhos que nos conduzam a direções diferentes e evitar os mesmos caminhos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            112.60768127441406,
+            513.3128662109375,
+            125.89168548583984
+          ],
+          "origin": [
+            85.07998657226562,
+            123.2996826171875
+          ]
+        },
+        {
+          "text": "viciados, pelos quais sempre terminamos atolados até o pescoço. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            126.40766906738281,
+            398.7060852050781,
+            139.69166564941406
+          ],
+          "origin": [
+            85.07998657226562,
+            137.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        152.20765686035156,
+        513.3592529296875,
+        248.2915802001953
+      ],
+      "text": "Os momentos de arrefecimento costumam suceder à satisfação dos desejos (o \nque não significa que devamos nos entregar à satisfação para provocá-los). São \nmomentos em que chega realmente a parecer que não seremos mais atormentados pelos \nindesejáveis impulsos novamente e que estamos definitivamente satisfeitos, para \nsempre. Entretanto, o equívoco de tal idéia não demora por se revelar: após um lapso de \ntempo, curto ou longo, a insatisfação retorna e o desejo pressiona novamente por \nsatisfação. Aqui há um ponto importante a ser considerado.",
+      "spans": [
+        {
+          "text": "Os momentos de arrefecimento costumam suceder à satisfação dos desejos (o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            152.20765686035156,
+            513.3428344726562,
+            165.4916534423828
+          ],
+          "origin": [
+            120.53998565673828,
+            162.899658203125
+          ]
+        },
+        {
+          "text": "que não significa que devamos nos entregar à satisfação para provocá-los). São ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            166.0076446533203,
+            513.34326171875,
+            179.29164123535156
+          ],
+          "origin": [
+            85.07997131347656,
+            176.69964599609375
+          ]
+        },
+        {
+          "text": "momentos em que chega realmente a parecer que não seremos mais atormentados pelos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            179.80763244628906,
+            513.2269287109375,
+            193.0916290283203
+          ],
+          "origin": [
+            85.07998657226562,
+            190.4996337890625
+          ]
+        },
+        {
+          "text": "indesejáveis impulsos novamente e que estamos definitivamente satisfeitos, para ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            193.6076202392578,
+            513.33837890625,
+            206.89161682128906
+          ],
+          "origin": [
+            85.07998657226562,
+            204.29962158203125
+          ]
+        },
+        {
+          "text": "sempre. Entretanto, o equívoco de tal idéia não demora por se revelar: após um lapso de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            207.40760803222656,
+            513.3592529296875,
+            220.6916046142578
+          ],
+          "origin": [
+            85.07998657226562,
+            218.099609375
+          ]
+        },
+        {
+          "text": "tempo, curto ou longo, a insatisfação retorna e o desejo pressiona novamente por ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            221.2075958251953,
+            513.2972412109375,
+            234.49159240722656
+          ],
+          "origin": [
+            85.07998657226562,
+            231.89959716796875
+          ]
+        },
+        {
+          "text": "satisfação. Aqui há um ponto importante a ser considerado. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            235.00758361816406,
+            372.64202880859375,
+            248.2915802001953
+          ],
+          "origin": [
+            85.07998657226562,
+            245.6995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        260.8075866699219,
+        513.432861328125,
+        453.431640625
+      ],
+      "text": "Acontece que o retorno do desejo não se dá de forma abrupta. Antes de sermos \nsacudidos novamente pelo impulso propriamente dito, surgem pequenas reminiscências, \npequenas recordações, pensamentos ou atos que marcam o início da manifestação que \nlogo se repetirá. Tais reminiscências sutis e quase imperceptíveis não são difíceis de \ndesintegrar por não terem ainda tomado força. Se nos mantivermos vigilantes contra as \nmesmas muito antes que apareçam, antecipando-nos à manifestação, podemos detectá-\nlas no exato momento em que principiam a brotar e reagir imediatamente. De que \nmaneira devemos reagir? Rompendo a identificação e orando pela desintegração \ndaquele impulso, o qual ainda é sutil nesse nível de manifestação14. O fato da \nmanifestação ser ainda débil facilita imensamente a dissolução, motivo pelo qual é \nsumamente importante não permitir que a mesma se fortifique e cresça, o que se verifica \nrapidamente após poucos segundos de negligência. Basta que permitamos que um \nsimples pensamento delituoso se instale para que logo não consigamos nos livrar dos \nseus resultados nefastos.",
+      "spans": [
+        {
+          "text": "Acontece que o retorno do desejo não se dá de forma abrupta. Antes de sermos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            260.8075866699219,
+            513.355712890625,
+            274.0915832519531
+          ],
+          "origin": [
+            120.53999328613281,
+            271.49957275390625
+          ]
+        },
+        {
+          "text": "sacudidos novamente pelo impulso propriamente dito, surgem pequenas reminiscências, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            274.6075744628906,
+            513.432861328125,
+            287.8915710449219
+          ],
+          "origin": [
+            85.08001708984375,
+            285.299560546875
+          ]
+        },
+        {
+          "text": "pequenas recordações, pensamentos ou atos que marcam o início da manifestação que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            288.4075622558594,
+            513.3963623046875,
+            301.6915588378906
+          ],
+          "origin": [
+            85.08003234863281,
+            299.09954833984375
+          ]
+        },
+        {
+          "text": "logo se repetirá. Tais reminiscências sutis e quase imperceptíveis não são difíceis de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            302.2075500488281,
+            513.2716674804688,
+            315.4915466308594
+          ],
+          "origin": [
+            85.08003234863281,
+            312.8995361328125
+          ]
+        },
+        {
+          "text": "desintegrar por não terem ainda tomado força. Se nos mantivermos vigilantes contra as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            316.0075378417969,
+            513.308349609375,
+            329.2915344238281
+          ],
+          "origin": [
+            85.08001708984375,
+            326.69952392578125
+          ]
+        },
+        {
+          "text": "mesmas muito antes que apareçam, antecipando-nos à manifestação, podemos detectá-",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            329.8075256347656,
+            510.3409423828125,
+            343.0915222167969
+          ],
+          "origin": [
+            85.08003234863281,
+            340.49951171875
+          ]
+        },
+        {
+          "text": "las no exato momento em que principiam a brotar e reagir imediatamente. De que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            343.5475158691406,
+            513.362548828125,
+            356.8315124511719
+          ],
+          "origin": [
+            85.08003234863281,
+            354.239501953125
+          ]
+        },
+        {
+          "text": "maneira devemos reagir? Rompendo a identificação e orando pela desintegração ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            357.3475036621094,
+            513.3914794921875,
+            370.6315002441406
+          ],
+          "origin": [
+            85.08004760742188,
+            368.03948974609375
+          ]
+        },
+        {
+          "text": "daquele impulso, o qual ainda é sutil nesse nível de manifestação",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            371.1474914550781,
+            438.35540771484375,
+            384.4314880371094
+          ],
+          "origin": [
+            85.08004760742188,
+            381.8394775390625
+          ]
+        },
+        {
+          "text": "14",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            438.7799987792969,
+            369.20953369140625,
+            446.7903137207031,
+            378.04339599609375
+          ],
+          "origin": [
+            438.7799987792969,
+            376.3197021484375
+          ]
+        },
+        {
+          "text": ". O fato da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            447.3599853515625,
+            371.147705078125,
+            513.271240234375,
+            384.43170166015625
+          ],
+          "origin": [
+            447.3599853515625,
+            381.8396911621094
+          ]
+        },
+        {
+          "text": "manifestação ser ainda débil facilita imensamente a dissolução, motivo pelo qual é ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            384.94769287109375,
+            513.419189453125,
+            398.231689453125
+          ],
+          "origin": [
+            85.07998657226562,
+            395.6396789550781
+          ]
+        },
+        {
+          "text": "sumamente importante não permitir que a mesma se fortifique e cresça, o que se verifica ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            398.7476806640625,
+            513.3299560546875,
+            412.03167724609375
+          ],
+          "origin": [
+            85.07998657226562,
+            409.4396667480469
+          ]
+        },
+        {
+          "text": "rapidamente após poucos segundos de negligência. Basta que permitamos que um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            412.54766845703125,
+            513.3279418945312,
+            425.8316650390625
+          ],
+          "origin": [
+            85.07998657226562,
+            423.2396545410156
+          ]
+        },
+        {
+          "text": "simples pensamento delituoso se instale para que logo não consigamos nos livrar dos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            426.34765625,
+            513.30712890625,
+            439.63165283203125
+          ],
+          "origin": [
+            85.07998657226562,
+            437.0396423339844
+          ]
+        },
+        {
+          "text": "seus resultados nefastos.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            440.14764404296875,
+            208.75559997558594,
+            453.431640625
+          ],
+          "origin": [
+            85.07998657226562,
+            450.8396301269531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        465.9476318359375,
+        513.3292846679688,
+        562.0315551757812
+      ],
+      "text": "Pelo caminho acima descrito, podemos libertar nossa alma dos desejos sexuais \nperigosos, das paixões amorosas violentas, dos ciúmes destrutivos, da ira, do trágico \nódio e de todos os impulsos negativos e prejudiciais que fazem adoecer a nós ou ao \npróximo. Sem libertar a alma dos impulsos animais, não é possível transcender os \ninfernos da relação amorosa e nem tampouco outros infernos psicológicos correlatos. \nQuem não emancipa sua alma fica preso aos sofrimentos internos, entre os quais o \nsofrimento amoroso.",
+      "spans": [
+        {
+          "text": "Pelo caminho acima descrito, podemos libertar nossa alma dos desejos sexuais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            465.9476318359375,
+            513.26171875,
+            479.23162841796875
+          ],
+          "origin": [
+            120.53998565673828,
+            476.6396179199219
+          ]
+        },
+        {
+          "text": "perigosos, das paixões amorosas violentas, dos ciúmes destrutivos, da ira, do trágico ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            479.74761962890625,
+            513.3148193359375,
+            493.0316162109375
+          ],
+          "origin": [
+            85.07998657226562,
+            490.4396057128906
+          ]
+        },
+        {
+          "text": "ódio e de todos os impulsos negativos e prejudiciais que fazem adoecer a nós ou ao ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            493.547607421875,
+            513.3265380859375,
+            506.83160400390625
+          ],
+          "origin": [
+            85.07998657226562,
+            504.2395935058594
+          ]
+        },
+        {
+          "text": "próximo. Sem libertar a alma dos impulsos animais, não é possível transcender os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            507.3475646972656,
+            513.2596435546875,
+            520.6315307617188
+          ],
+          "origin": [
+            85.07998657226562,
+            518.03955078125
+          ]
+        },
+        {
+          "text": "infernos da relação amorosa e nem tampouco outros infernos psicológicos correlatos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            521.1475830078125,
+            513.3292846679688,
+            534.4315795898438
+          ],
+          "origin": [
+            85.07998657226562,
+            531.839599609375
+          ]
+        },
+        {
+          "text": "Quem não emancipa sua alma fica preso aos sofrimentos internos, entre os quais o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            534.947509765625,
+            513.31689453125,
+            548.2315063476562
+          ],
+          "origin": [
+            85.07998657226562,
+            545.6395263671875
+          ]
+        },
+        {
+          "text": "sofrimento amoroso. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            548.74755859375,
+            187.3944091796875,
+            562.0315551757812
+          ],
+          "origin": [
+            85.07998657226562,
+            559.4395751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53998565673828,
+        574.6675415039062,
+        246.84475708007812,
+        587.9515380859375
+      ],
+      "text": "A mente é um problema",
+      "spans": [
+        {
+          "text": "A mente é um problema ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            574.6675415039062,
+            246.84475708007812,
+            587.9515380859375
+          ],
+          "origin": [
+            120.53998565673828,
+            585.3595581054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        600.3475341796875,
+        513.3724365234375,
+        668.83154296875
+      ],
+      "text": "A mente é a grande inimiga do ser humano. Sofremos porque pensamos. As \npaixões se fortificam e nos dominam porque pensamos.  Pensar, lembrar e imaginar são \nformas de fortificar o desejo. O desejo tem a mente como fundamento. Se não \nlembramos, não desejamos. Desejamos porque pensamos. Por isso a quietude da mente \né nossa preocupação contínua e principal.",
+      "spans": [
+        {
+          "text": "A mente é a grande inimiga do ser humano. Sofremos porque pensamos. As ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            600.3475341796875,
+            513.3115234375,
+            613.6315307617188
+          ],
+          "origin": [
+            120.53998565673828,
+            611.03955078125
+          ]
+        },
+        {
+          "text": "paixões se fortificam e nos dominam porque pensamos.  Pensar, lembrar e imaginar são ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            614.1475219726562,
+            513.3402099609375,
+            627.4315185546875
+          ],
+          "origin": [
+            85.07997131347656,
+            624.8395385742188
+          ]
+        },
+        {
+          "text": "formas de fortificar o desejo. O desejo tem a mente como fundamento. Se não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            627.947509765625,
+            513.302490234375,
+            641.2315063476562
+          ],
+          "origin": [
+            85.07997131347656,
+            638.6395263671875
+          ]
+        },
+        {
+          "text": "lembramos, não desejamos. Desejamos porque pensamos. Por isso a quietude da mente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            641.74755859375,
+            513.3724365234375,
+            655.0315551757812
+          ],
+          "origin": [
+            85.07998657226562,
+            652.4395751953125
+          ]
+        },
+        {
+          "text": "é nossa preocupação contínua e principal. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            655.5475463867188,
+            288.12225341796875,
+            668.83154296875
+          ],
+          "origin": [
+            85.07998657226562,
+            666.2395629882812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        681.3475341796875,
+        513.479736328125,
+        736.0315551757812
+      ],
+      "text": "Mas há pensamentos insistentes que voltam, voltam e voltam, trazendo seus \ndesejos consigo. A minha explicação para isso é a seguinte: tais pensamentos são o \nproduto secundário de pensamentos primários ocultos. Em outras palavras: pensamentos \nque não enxergamos ou não damos importância (por parecerem inofensivos) abrem",
+      "spans": [
+        {
+          "text": "Mas há pensamentos insistentes que voltam, voltam e voltam, trazendo seus ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            681.3475341796875,
+            513.3236083984375,
+            694.6315307617188
+          ],
+          "origin": [
+            120.53998565673828,
+            692.03955078125
+          ]
+        },
+        {
+          "text": "desejos consigo. A minha explicação para isso é a seguinte: tais pensamentos são o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            695.1475830078125,
+            513.386474609375,
+            708.4315795898438
+          ],
+          "origin": [
+            85.07998657226562,
+            705.839599609375
+          ]
+        },
+        {
+          "text": "produto secundário de pensamentos primários ocultos. Em outras palavras: pensamentos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            708.9475708007812,
+            513.479736328125,
+            722.2315673828125
+          ],
+          "origin": [
+            85.07997131347656,
+            719.6395874023438
+          ]
+        },
+        {
+          "text": "que não enxergamos ou não damos importância (por parecerem inofensivos) abrem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            722.74755859375,
+            513.3070068359375,
+            736.0315551757812
+          ],
+          "origin": [
+            85.07997131347656,
+            733.4395751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        747.2275390625,
+        381.80426025390625,
+        770.78369140625
+      ],
+      "text": "14 Recomendo fortemente ao leitor que aprofunde este tema na literatura gnóstica.",
+      "spans": [
+        {
+          "text": "14",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            759.4736938476562,
+            91.08000183105469,
+            766.11572265625
+          ],
+          "origin": [
+            85.08000183105469,
+            764.8197021484375
+          ]
+        },
+        {
+          "text": " Recomendo fortemente ao leitor que aprofunde este tema na literatura gnóstica. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            91.08000183105469,
+            760.8207397460938,
+            381.80426025390625,
+            770.78369140625
+          ],
+          "origin": [
+            91.08000183105469,
+            768.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "34",
+      "spans": [
+        {
+          "text": "34",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "page_number": 84,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20771789550781,
+        513.304443359375,
+        84.4917221069336
+      ],
+      "text": "enfurecem, me ofendem e me insultam com palavrões ao invés de argumentarem com",
+      "spans": [
+        {
+          "text": "enfurecem, me ofendem e me insultam com palavrões ao invés de argumentarem com ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20771789550781,
+            513.304443359375,
+            84.4917221069336
+          ],
+          "origin": [
+            85.08000183105469,
+            81.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        91.90773010253906,
+        119.70001983642578,
+        105.19173431396484
+      ],
+      "text": "calma.",
+      "spans": [
+        {
+          "text": "calma. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            91.90773010253906,
+            119.70001983642578,
+            105.19173431396484
+          ],
+          "origin": [
+            85.08001708984375,
+            102.5997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        702.4318237304688,
+        512.864990234375,
+        736.5040283203125
+      ],
+      "text": "41 “Ultimatum” é o ato de comunicar uma última decisão radical, irrevogável e definitiva no sentido de \ntentar trazer a mulher de volta para nós antes de a abandonarmos definitivamente.",
+      "spans": [
+        {
+          "text": "41",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            712.5460205078125,
+            91.55999755859375,
+            719.7193603515625
+          ],
+          "origin": [
+            85.08000183105469,
+            718.3197021484375
+          ]
+        },
+        {
+          "text": " “Ultimatum” é o ato de comunicar uma última decisão radical, irrevogável e definitiva no sentido de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            91.55999755859375,
+            713.8919067382812,
+            498.7289733886719,
+            724.9840087890625
+          ],
+          "origin": [
+            91.55999755859375,
+            722.8197021484375
+          ]
+        },
+        {
+          "text": "tentar trazer a mulher de volta para nós antes de a abandonarmos definitivamente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08006286621094,
+            725.4119262695312,
+            414.499755859375,
+            736.5040283203125
+          ],
+          "origin": [
+            85.08006286621094,
+            734.3397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "84",
+      "spans": [
+        {
+          "text": "84",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

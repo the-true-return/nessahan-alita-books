@@ -1,0 +1,733 @@
+{
+  "page_number": 61,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        110.50640869140625,
+        370.4364013671875,
+        126.44022369384766
+      ],
+      "text": "18. Sobre os níveis de aproximação",
+      "spans": [
+        {
+          "text": "18. Sobre os níveis de aproximação ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            110.50640869140625,
+            370.4364013671875,
+            126.44022369384766
+          ],
+          "origin": [
+            82.73999786376953,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        146.21823120117188,
+        516.2991943359375,
+        159.89547729492188
+      ],
+      "text": "Tentarei suprir agora um importante aspecto que acredito",
+      "spans": [
+        {
+          "text": "Tentarei suprir agora um importante aspecto que acredito ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            146.21823120117188,
+            516.2991943359375,
+            159.89547729492188
+          ],
+          "origin": [
+            117.23999786376953,
+            157.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.73873901367188,
+        278.3980407714844,
+        180.41598510742188
+      ],
+      "text": "ter negligenciado nos livros.",
+      "spans": [
+        {
+          "text": "ter negligenciado nos livros.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.73873901367188,
+            278.3980407714844,
+            180.41598510742188
+          ],
+          "origin": [
+            82.73997497558594,
+            177.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        198.95846557617188,
+        516.1801147460938,
+        212.63571166992188
+      ],
+      "text": "Os princípios estratégicos desenvolvidos nos meus textos",
+      "spans": [
+        {
+          "text": "Os princípios estratégicos desenvolvidos nos meus textos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            198.95846557617188,
+            516.1801147460938,
+            212.63571166992188
+          ],
+          "origin": [
+            117.23999786376953,
+            209.93994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        219.47897338867188,
+        516.1812133789062,
+        233.15621948242188
+      ],
+      "text": "algumas vezes se mostraram contraditórios e, pelo que andei",
+      "spans": [
+        {
+          "text": "algumas vezes se mostraram contraditórios e, pelo que andei ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            219.47897338867188,
+            516.1812133789062,
+            233.15621948242188
+          ],
+          "origin": [
+            82.73997497558594,
+            230.46044921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        240.05899047851562,
+        516.1974487304688,
+        253.73623657226562
+      ],
+      "text": "observando, deixaram alguns leitores confusos. Isso porque os",
+      "spans": [
+        {
+          "text": "observando, deixaram alguns leitores confusos. Isso porque os ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            240.05899047851562,
+            516.1974487304688,
+            253.73623657226562
+          ],
+          "origin": [
+            82.73997497558594,
+            251.04046630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        260.5794982910156,
+        516.2443237304688,
+        274.2567443847656
+      ],
+      "text": "textos careceram de maiores esclarecimentos a respeito dos",
+      "spans": [
+        {
+          "text": "textos careceram de maiores esclarecimentos a respeito dos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            260.5794982910156,
+            516.2443237304688,
+            274.2567443847656
+          ],
+          "origin": [
+            82.73995971679688,
+            271.56097412109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        281.1595153808594,
+        516.2103271484375,
+        294.8367614746094
+      ],
+      "text": "níveis de aproximação nos quais cada uma das “táticas de",
+      "spans": [
+        {
+          "text": "níveis de aproximação nos quais cada uma das “táticas de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            281.1595153808594,
+            516.2103271484375,
+            294.8367614746094
+          ],
+          "origin": [
+            82.73995971679688,
+            292.1409912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        301.7395324707031,
+        516.1836547851562,
+        315.4167785644531
+      ],
+      "text": "guerra” são funcionais. Tentarei aprofundar este ponto e",
+      "spans": [
+        {
+          "text": "guerra” são funcionais. Tentarei aprofundar este ponto e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            301.7395324707031,
+            516.1836547851562,
+            315.4167785644531
+          ],
+          "origin": [
+            82.73995971679688,
+            312.72100830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        322.26007080078125,
+        240.67942810058594,
+        335.93731689453125
+      ],
+      "text": "resolver este problema.",
+      "spans": [
+        {
+          "text": "resolver este problema. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            322.26007080078125,
+            240.67942810058594,
+            335.93731689453125
+          ],
+          "origin": [
+            82.73995971679688,
+            333.2415466308594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        354.4797668457031,
+        516.2490234375,
+        368.1570129394531
+      ],
+      "text": "Antes de mais nada, convém lembrar que, por ser o",
+      "spans": [
+        {
+          "text": "Antes de mais nada, convém lembrar que, por ser o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            354.4797668457031,
+            516.2490234375,
+            368.1570129394531
+          ],
+          "origin": [
+            117.23998260498047,
+            365.46124267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        375.00030517578125,
+        516.2197265625,
+        388.67755126953125
+      ],
+      "text": "comportamento feminino não-lógico, a contradição é inerente à",
+      "spans": [
+        {
+          "text": "comportamento feminino não-lógico, a contradição é inerente à ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            375.00030517578125,
+            516.2197265625,
+            388.67755126953125
+          ],
+          "origin": [
+            82.73995971679688,
+            385.9817810058594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        395.5208435058594,
+        516.3052368164062,
+        409.1980895996094
+      ],
+      "text": "guerra da paixão e que as táticas, por tal motivo, devem ser",
+      "spans": [
+        {
+          "text": "guerra da paixão e que as táticas, por tal motivo, devem ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            395.5208435058594,
+            516.3052368164062,
+            409.1980895996094
+          ],
+          "origin": [
+            82.73995971679688,
+            406.5023193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        416.10089111328125,
+        516.3223266601562,
+        429.77813720703125
+      ],
+      "text": "igualmente contraditórias, opostas e antagônicas entre si",
+      "spans": [
+        {
+          "text": "igualmente contraditórias, opostas e antagônicas entre si ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            416.10089111328125,
+            516.3223266601562,
+            429.77813720703125
+          ],
+          "origin": [
+            82.73995971679688,
+            427.0823669433594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        436.6809387207031,
+        143.97010803222656,
+        450.3581848144531
+      ],
+      "text": "mesmas.",
+      "spans": [
+        {
+          "text": "mesmas. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            436.6809387207031,
+            143.97010803222656,
+            450.3581848144531
+          ],
+          "origin": [
+            82.73995971679688,
+            447.66241455078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        468.900634765625,
+        516.2930297851562,
+        482.577880859375
+      ],
+      "text": "Uma tática que é altamente eficaz em um nível, poderá ser",
+      "spans": [
+        {
+          "text": "Uma tática que é altamente eficaz em um nível, poderá ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            468.900634765625,
+            516.2930297851562,
+            482.577880859375
+          ],
+          "origin": [
+            117.23998260498047,
+            479.8821105957031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        489.4211730957031,
+        447.6224060058594,
+        503.0984191894531
+      ],
+      "text": "inútil ou prejudicial em outro. Vejamos mais de perto.",
+      "spans": [
+        {
+          "text": "inútil ou prejudicial em outro. Vejamos mais de perto. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            489.4211730957031,
+            447.6224060058594,
+            503.0984191894531
+          ],
+          "origin": [
+            82.73995971679688,
+            500.40264892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        521.640869140625,
+        516.1813354492188,
+        535.3180541992188
+      ],
+      "text": "No terreno da lida amorosa com as mulheres, pude",
+      "spans": [
+        {
+          "text": "No terreno da lida amorosa com as mulheres, pude ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            521.640869140625,
+            516.1813354492188,
+            535.3180541992188
+          ],
+          "origin": [
+            117.23998260498047,
+            532.622314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        542.1614379882812,
+        516.2747802734375,
+        555.838623046875
+      ],
+      "text": "constatar a existência dos seguintes níveis, em ordem crescente",
+      "spans": [
+        {
+          "text": "constatar a existência dos seguintes níveis, em ordem crescente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            542.1614379882812,
+            516.2747802734375,
+            555.838623046875
+          ],
+          "origin": [
+            82.73995971679688,
+            553.1428833007812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        562.741455078125,
+        298.0024108886719,
+        576.4186401367188
+      ],
+      "text": "de estreitamento da intimidade:",
+      "spans": [
+        {
+          "text": "de estreitamento da intimidade: ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            562.741455078125,
+            298.0024108886719,
+            576.4186401367188
+          ],
+          "origin": [
+            82.73995971679688,
+            573.722900390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        594.9016723632812,
+        460.1465148925781,
+        608.578857421875
+      ],
+      "text": "1. Primeiro nível: ela não percebe a sua existência;",
+      "spans": [
+        {
+          "text": "1. Primeiro nível: ela não percebe a sua existência; ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            594.9016723632812,
+            460.1465148925781,
+            608.578857421875
+          ],
+          "origin": [
+            117.23998260498047,
+            605.8831176757812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        627.1820678710938,
+        404.5484619140625,
+        640.8592529296875
+      ],
+      "text": "2. Segundo nível: o contato é estabelecido;",
+      "spans": [
+        {
+          "text": "2. Segundo nível: o contato é estabelecido; ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            627.1820678710938,
+            404.5484619140625,
+            640.8592529296875
+          ],
+          "origin": [
+            117.23998260498047,
+            638.1635131835938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        659.4017333984375,
+        416.2614440917969,
+        673.0789184570312
+      ],
+      "text": "3. Terceiro nível: sua intenção é explicitada;",
+      "spans": [
+        {
+          "text": "3. Terceiro nível: sua intenção é explicitada; ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            659.4017333984375,
+            416.2614440917969,
+            673.0789184570312
+          ],
+          "origin": [
+            117.23998260498047,
+            670.3831787109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        691.6214599609375,
+        473.8553161621094,
+        705.2986450195312
+      ],
+      "text": "4. Quarto nível: o contato físico íntimo é conseguido.",
+      "spans": [
+        {
+          "text": "4. Quarto nível: o contato físico íntimo é conseguido. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            691.6214599609375,
+            473.8553161621094,
+            705.2986450195312
+          ],
+          "origin": [
+            117.23998260498047,
+            702.6029052734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "61",
+      "spans": [
+        {
+          "text": "61",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

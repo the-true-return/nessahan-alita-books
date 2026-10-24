@@ -1,0 +1,1136 @@
+{
+  "page_number": 80,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        103.09149169921875,
+        515.425537109375,
+        118.65927124023438
+      ],
+      "text": "Exemplo: quando uma mulher tece um comentário elogioso sobre",
+      "spans": [
+        {
+          "text": "Exemplo: quando uma mulher tece um comentário elogioso sobre ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            103.09149169921875,
+            515.425537109375,
+            118.65927124023438
+          ],
+          "origin": [
+            117.23980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4550170898438,
+        138.81906127929688
+      ],
+      "text": "outro homem na frente do marido ou namorado, ou fica conversando com",
+      "spans": [
+        {
+          "text": "outro homem na frente do marido ou namorado, ou fica conversando com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4550170898438,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        515.5213012695312,
+        158.97927856445312
+      ],
+      "text": "algum imbecil com cara de bonzinho por uma hora em uma festa, em geral",
+      "spans": [
+        {
+          "text": "algum imbecil com cara de bonzinho por uma hora em uma festa, em geral ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            515.5213012695312,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        162.2884979248047,
+        515.4489135742188,
+        179.07968139648438
+      ],
+      "text": "espera que o esposo reaja com ciúmes e sofra, dando-lhe satisfação4. Se o",
+      "spans": [
+        {
+          "text": "espera que o esposo reaja com ciúmes e sofra, dando-lhe satisfação",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.51190185546875,
+            472.85455322265625,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73980712890625,
+            175.8004150390625
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            473.8197937011719,
+            162.2884979248047,
+            477.6999816894531,
+            172.64088439941406
+          ],
+          "origin": [
+            473.8197937011719,
+            170.460205078125
+          ]
+        },
+        {
+          "text": ". Se o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            477.71978759765625,
+            163.51153564453125,
+            515.4489135742188,
+            179.07931518554688
+          ],
+          "origin": [
+            477.71978759765625,
+            175.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        183.67132568359375,
+        515.4240112304688,
+        199.23910522460938
+      ],
+      "text": "marido, ao contrário, forçar (com atitudes reais) uma aproximação dela com",
+      "spans": [
+        {
+          "text": "marido, ao contrário, forçar (com atitudes reais) uma aproximação dela com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            183.67132568359375,
+            515.4240112304688,
+            199.23910522460938
+          ],
+          "origin": [
+            82.73977661132812,
+            195.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        203.771728515625,
+        245.5027313232422,
+        219.33950805664062
+      ],
+      "text": "o cara, terá duas vantagens:",
+      "spans": [
+        {
+          "text": "o cara, terá duas vantagens:  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            203.771728515625,
+            245.5027313232422,
+            219.33950805664062
+          ],
+          "origin": [
+            82.73977661132812,
+            216.06024169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23977661132812,
+        234.34788513183594,
+        515.3985595703125,
+        251.34877014160156
+      ],
+      "text": "1) ficará sabendo se a mulher é fiel ou é realmente a “vadia5” que",
+      "spans": [
+        {
+          "text": "1)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23977661132812,
+            235.5709228515625,
+            127.9656753540039,
+            251.13870239257812
+          ],
+          "origin": [
+            117.23977661132812,
+            247.85943603515625
+          ]
+        },
+        {
+          "text": "ficará sabendo se a mulher é fiel ou é realmente a “vadia",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.76004028320312,
+            235.5709228515625,
+            475.7701110839844,
+            251.13870239257812
+          ],
+          "origin": [
+            134.76004028320312,
+            247.85943603515625
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            476.6400451660156,
+            234.34788513183594,
+            480.5202331542969,
+            244.7002716064453
+          ],
+          "origin": [
+            476.6400451660156,
+            242.51959228515625
+          ]
+        },
+        {
+          "text": "” que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            480.5998229980469,
+            235.5712890625,
+            515.3985595703125,
+            251.13906860351562
+          ],
+          "origin": [
+            480.5998229980469,
+            247.85980224609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        134.75881958007812,
+        255.7310791015625,
+        515.468994140625,
+        271.2988586425781
+      ],
+      "text": "está demonstrando ser, já que fica dando bola para outro macho e",
+      "spans": [
+        {
+          "text": "está demonstrando ser, já que fica dando bola para outro macho e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.75881958007812,
+            255.7310791015625,
+            515.468994140625,
+            271.2988586425781
+          ],
+          "origin": [
+            134.75881958007812,
+            268.01959228515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        134.75881958007812,
+        274.60809326171875,
+        255.27862548828125,
+        291.3992614746094
+      ],
+      "text": "não admite tal fato6;",
+      "spans": [
+        {
+          "text": "não admite tal fato",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.75881958007812,
+            275.83148193359375,
+            239.42579650878906,
+            291.3992614746094
+          ],
+          "origin": [
+            134.75881958007812,
+            288.1199951171875
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            240.3598175048828,
+            274.60809326171875,
+            244.24002075195312,
+            284.96044921875
+          ],
+          "origin": [
+            240.3598175048828,
+            282.77978515625
+          ]
+        },
+        {
+          "text": ";  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            244.2598114013672,
+            275.83111572265625,
+            255.27862548828125,
+            291.3988952636719
+          ],
+          "origin": [
+            244.2598114013672,
+            288.11962890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23981475830078,
+        307.3739929199219,
+        271.291015625,
+        323.4085693359375
+      ],
+      "text": "2) a deixará desorientada.",
+      "spans": [
+        {
+          "text": "2)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23981475830078,
+            307.6307373046875,
+            127.96571350097656,
+            323.1985168457031
+          ],
+          "origin": [
+            117.23981475830078,
+            319.91925048828125
+          ]
+        },
+        {
+          "text": "a deixará desorientada.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.7601776123047,
+            307.6307373046875,
+            271.291015625,
+            323.1985168457031
+          ],
+          "origin": [
+            134.7601776123047,
+            319.91925048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.18048095703125,
+        339.4303283691406,
+        515.3989868164062,
+        354.99810791015625
+      ],
+      "text": "Eis, portanto, mais um bom motivo para eliminarmos os ciúmes. Os",
+      "spans": [
+        {
+          "text": "Eis, portanto, mais um bom motivo para eliminarmos os ciúmes. Os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.18048095703125,
+            339.4303283691406,
+            515.3989868164062,
+            354.99810791015625
+          ],
+          "origin": [
+            117.18048095703125,
+            351.7188415527344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        359.59051513671875,
+        515.516845703125,
+        375.1582946777344
+      ],
+      "text": "ciúmes, conseqüência nefasta do apaixonamento, são uma importante",
+      "spans": [
+        {
+          "text": "ciúmes, conseqüência nefasta do apaixonamento, são uma importante ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            359.59051513671875,
+            515.516845703125,
+            375.1582946777344
+          ],
+          "origin": [
+            82.73988342285156,
+            371.8790283203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        379.6300048828125,
+        515.3955078125,
+        395.1977844238281
+      ],
+      "text": "ferramenta nos jogos de alternância que elas fazem para nos torturar e",
+      "spans": [
+        {
+          "text": "ferramenta nos jogos de alternância que elas fazem para nos torturar e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            379.6300048828125,
+            515.3955078125,
+            395.1977844238281
+          ],
+          "origin": [
+            82.73988342285156,
+            391.91851806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73988342285156,
+        399.7901916503906,
+        164.83253479003906,
+        415.35797119140625
+      ],
+      "text": "deixar loucos.",
+      "spans": [
+        {
+          "text": "deixar loucos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73988342285156,
+            399.7901916503906,
+            164.83253479003906,
+            415.35797119140625
+          ],
+          "origin": [
+            82.73988342285156,
+            412.0787048339844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.18048095703125,
+        431.58978271484375,
+        515.3985595703125,
+        447.1575622558594
+      ],
+      "text": "A mulher espertinha não quer assumir a responsabilidade por suas",
+      "spans": [
+        {
+          "text": "A mulher espertinha não quer assumir a responsabilidade por suas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.18048095703125,
+            431.58978271484375,
+            515.3985595703125,
+            447.1575622558594
+          ],
+          "origin": [
+            117.18048095703125,
+            443.8782958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73948669433594,
+        451.690185546875,
+        515.4766845703125,
+        467.2579650878906
+      ],
+      "text": "atitudes. Quer \"compromisso sério\" mas não quer deixar os “amiguinhos”,",
+      "spans": [
+        {
+          "text": "atitudes. Quer \"compromisso sério\" mas não quer deixar os “amiguinhos”, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73948669433594,
+            451.690185546875,
+            515.4766845703125,
+            467.2579650878906
+          ],
+          "origin": [
+            82.73948669433594,
+            463.97869873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73948669433594,
+        470.5687561035156,
+        515.4487915039062,
+        487.4197082519531
+      ],
+      "text": "quer ter amigos homens mas não quer ser tratada como “vadia7”, quer andar",
+      "spans": [
+        {
+          "text": "quer ter amigos homens mas não quer ser tratada como “vadia",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73948669433594,
+            471.8503723144531,
+            433.5575256347656,
+            487.41815185546875
+          ],
+          "origin": [
+            82.73948669433594,
+            484.1388854980469
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            434.51947021484375,
+            470.5687561035156,
+            438.399658203125,
+            480.9211120605469
+          ],
+          "origin": [
+            434.51947021484375,
+            478.7404479980469
+          ]
+        },
+        {
+          "text": "”, quer andar ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            438.4194641113281,
+            471.8519287109375,
+            515.4487915039062,
+            487.4197082519531
+          ],
+          "origin": [
+            438.4194641113281,
+            484.14044189453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73947143554688,
+        491.95233154296875,
+        515.4459838867188,
+        507.5201110839844
+      ],
+      "text": "com amigas mal casadas ou de conduta duvidosa etc. Portanto, temos que",
+      "spans": [
+        {
+          "text": "com amigas mal casadas ou de conduta duvidosa etc. Portanto, temos que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73947143554688,
+            491.95233154296875,
+            515.4459838867188,
+            507.5201110839844
+          ],
+          "origin": [
+            82.73947143554688,
+            504.2408447265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73947143554688,
+        512.1124877929688,
+        515.4889526367188,
+        527.6802978515625
+      ],
+      "text": "desenvolver mecanismos para forçá-las a assumirem as conseqüências do",
+      "spans": [
+        {
+          "text": "desenvolver mecanismos para forçá-las a assumirem as conseqüências do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73947143554688,
+            512.1124877929688,
+            515.4889526367188,
+            527.6802978515625
+          ],
+          "origin": [
+            82.73947143554688,
+            524.4010009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73947143554688,
+        532.2129516601562,
+        515.4591064453125,
+        547.78076171875
+      ],
+      "text": "que fazem. Obviamente, não temos nada contra as prostitutas ou congêneres",
+      "spans": [
+        {
+          "text": "que fazem. Obviamente, não temos nada contra as prostitutas ou congêneres ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73947143554688,
+            532.2129516601562,
+            515.4591064453125,
+            547.78076171875
+          ],
+          "origin": [
+            82.73947143554688,
+            544.50146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73947143554688,
+        552.3727416992188,
+        515.372802734375,
+        567.9405517578125
+      ],
+      "text": "(e até lhes damos um valor especial!!!!) mas sim contra as atitudes de",
+      "spans": [
+        {
+          "text": "(e até lhes damos um valor especial!!!!) mas sim contra as atitudes de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73947143554688,
+            552.3727416992188,
+            515.372802734375,
+            567.9405517578125
+          ],
+          "origin": [
+            82.73947143554688,
+            564.6612548828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73945617675781,
+        572.4730834960938,
+        515.5086669921875,
+        588.0408935546875
+      ],
+      "text": "outras mulheres que agem de má fé e jogam com nossos sentimentos,",
+      "spans": [
+        {
+          "text": "outras mulheres que agem de má fé e jogam com nossos sentimentos, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73945617675781,
+            572.4730834960938,
+            515.5086669921875,
+            588.0408935546875
+          ],
+          "origin": [
+            82.73945617675781,
+            584.7615966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73945617675781,
+        592.6329345703125,
+        515.5474853515625,
+        608.2007446289062
+      ],
+      "text": "simulando fidelidade de sentimentos sem dá-la, deixando que criemos",
+      "spans": [
+        {
+          "text": "simulando fidelidade de sentimentos sem dá-la, deixando que criemos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73945617675781,
+            592.6329345703125,
+            515.5474853515625,
+            608.2007446289062
+          ],
+          "origin": [
+            82.73945617675781,
+            604.9214477539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73945617675781,
+        612.7333374023438,
+        515.381591796875,
+        628.3011474609375
+      ],
+      "text": "expectativas falsas. São essas que não merecem piedade. O problema",
+      "spans": [
+        {
+          "text": "expectativas falsas. São essas que não merecem piedade. O problema ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73945617675781,
+            612.7333374023438,
+            515.381591796875,
+            628.3011474609375
+          ],
+          "origin": [
+            82.73945617675781,
+            625.0218505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        633.9593505859375,
+        514.7487182617188,
+        737.3994750976562
+      ],
+      "text": "4 A satisfação proveniente do ciúme se deve à constatação de que o marido sofre pelo \nsentimento de apego e de que ainda sente pela mulher o amor emocional da paixão romântica. \n5 No sentido dado pelos dicionários Michaelis (1995) e Aurélio (FERREIRA, 1995). \n6 Em geral, a espertinha nega totalmente qualquer possibilidade de envolvimento com o \n\"babaca\" ao qual dedica sua atenção exclusiva mas, no fundo, conhece muito bem as \nimplicações decorrentes do ato de se conceder muita atenção a um macho heterossexual adulto \nsexualmente ativo. Embora simule e alegue desconhecimento, ela não ignora que, se ficar nua, \nele saltará sobre ela. \n7 No sentido dado pelos dicionários Michaelis (1995) e Aurélio (FERREIRA, 1995).",
+      "spans": [
+        {
+          "text": "4",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            644.3757934570312,
+            85.65750885009766,
+            652.15966796875
+          ],
+          "origin": [
+            82.74000549316406,
+            650.52001953125
+          ]
+        },
+        {
+          "text": " A satisfação proveniente do ciúme se deve à constatação de que o marido sofre pelo ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            645.20361328125,
+            514.66650390625,
+            656.8794555664062
+          ],
+          "origin": [
+            85.68023681640625,
+            654.4199829101562
+          ]
+        },
+        {
+          "text": "sentimento de apego e de que ainda sente pela mulher o amor emocional da paixão romântica. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            655.2841186523438,
+            501.6522521972656,
+            666.9599609375
+          ],
+          "origin": [
+            82.74039459228516,
+            664.50048828125
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            664.5359497070312,
+            85.65789794921875,
+            672.31982421875
+          ],
+          "origin": [
+            82.74039459228516,
+            670.68017578125
+          ]
+        },
+        {
+          "text": " No sentido dado pelos dicionários Michaelis (1995) e Aurélio (FERREIRA, 1995). ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68062591552734,
+            665.3638305664062,
+            457.635498046875,
+            677.0396728515625
+          ],
+          "origin": [
+            85.68062591552734,
+            674.5802001953125
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            674.5558471679688,
+            85.65789794921875,
+            682.3397216796875
+          ],
+          "origin": [
+            82.74039459228516,
+            680.7000732421875
+          ]
+        },
+        {
+          "text": " Em geral, a espertinha nega totalmente qualquer possibilidade de envolvimento com o ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68062591552734,
+            675.3837280273438,
+            514.7487182617188,
+            687.0595703125
+          ],
+          "origin": [
+            85.68062591552734,
+            684.60009765625
+          ]
+        },
+        {
+          "text": "\"babaca\" ao qual dedica sua atenção exclusiva mas, no fundo, conhece muito bem as ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            685.4642333984375,
+            514.7113647460938,
+            697.1400756835938
+          ],
+          "origin": [
+            82.74078369140625,
+            694.6806030273438
+          ]
+        },
+        {
+          "text": "implicações decorrentes do ato de se conceder muita atenção a um macho heterossexual adulto ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            695.5443115234375,
+            514.7159423828125,
+            707.2201538085938
+          ],
+          "origin": [
+            82.74078369140625,
+            704.7606811523438
+          ]
+        },
+        {
+          "text": "sexualmente ativo. Embora simule e alegue desconhecimento, ela não ignora que, se ficar nua, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            705.6244506835938,
+            514.696044921875,
+            717.30029296875
+          ],
+          "origin": [
+            82.74078369140625,
+            714.8408203125
+          ]
+        },
+        {
+          "text": "ele saltará sobre ela. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            715.6439208984375,
+            177.3359375,
+            727.3197631835938
+          ],
+          "origin": [
+            82.74078369140625,
+            724.8602905273438
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74078369140625,
+            724.895751953125,
+            85.65828704833984,
+            732.6796264648438
+          ],
+          "origin": [
+            82.74078369140625,
+            731.0399780273438
+          ]
+        },
+        {
+          "text": " No sentido dado pelos dicionários Michaelis (1995) e Aurélio (FERREIRA, 1995). ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68101501464844,
+            725.7236328125,
+            457.63592529296875,
+            737.3994750976562
+          ],
+          "origin": [
+            85.68101501464844,
+            734.9400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "80",
+      "spans": [
+        {
+          "text": "80",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

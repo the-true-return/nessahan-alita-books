@@ -1,0 +1,961 @@
+{
+  "page_number": 70,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        110.50640869140625,
+        317.5420837402344,
+        126.44022369384766
+      ],
+      "text": "21. Amor passional e luxúria",
+      "spans": [
+        {
+          "text": "21. Amor passional e luxúria ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            110.50640869140625,
+            317.5420837402344,
+            126.44022369384766
+          ],
+          "origin": [
+            82.73999786376953,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        146.21823120117188,
+        516.2057495117188,
+        159.89547729492188
+      ],
+      "text": "Dizem que a paixão é algo lindo e que faz muito bem.",
+      "spans": [
+        {
+          "text": "Dizem que a paixão é algo lindo e que faz muito bem. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            146.21823120117188,
+            516.2057495117188,
+            159.89547729492188
+          ],
+          "origin": [
+            117.23999786376953,
+            157.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.73873901367188,
+        516.1532592773438,
+        180.41598510742188
+      ],
+      "text": "Incentiva-se em todos os lugares a luxúria. Por toda parte se",
+      "spans": [
+        {
+          "text": "Incentiva-se em todos os lugares a luxúria. Por toda parte se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.73873901367188,
+            516.1532592773438,
+            180.41598510742188
+          ],
+          "origin": [
+            82.73997497558594,
+            177.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        187.25924682617188,
+        282.7637634277344,
+        200.93649291992188
+      ],
+      "text": "diz, como observou Alberoni:",
+      "spans": [
+        {
+          "text": "diz, como observou Alberoni:  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            187.25924682617188,
+            282.7637634277344,
+            200.93649291992188
+          ],
+          "origin": [
+            82.73997497558594,
+            198.24072265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        231.23956298828125,
+        219.47897338867188,
+        367.6490173339844,
+        233.15621948242188
+      ],
+      "text": "“Seduza a todo(a)s.”",
+      "spans": [
+        {
+          "text": "“Seduza a todo(a)s.” ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            231.23956298828125,
+            219.47897338867188,
+            367.6490173339844,
+            233.15621948242188
+          ],
+          "origin": [
+            231.23956298828125,
+            230.46044921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        251.69869995117188,
+        516.2559204101562,
+        265.3759460449219
+      ],
+      "text": "Esta é uma doença de nossa civilização: o culto à luxúria e",
+      "spans": [
+        {
+          "text": "Esta é uma doença de nossa civilização: o culto à luxúria e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            251.69869995117188,
+            516.2559204101562,
+            265.3759460449219
+          ],
+          "origin": [
+            117.23999786376953,
+            262.68017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        272.2192077636719,
+        516.1498413085938,
+        285.8964538574219
+      ],
+      "text": "ao sentimentalismo. Chega-se ao ponto de acreditar que o",
+      "spans": [
+        {
+          "text": "ao sentimentalismo. Chega-se ao ponto de acreditar que o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            272.2192077636719,
+            516.1498413085938,
+            285.8964538574219
+          ],
+          "origin": [
+            82.73997497558594,
+            283.20068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        292.8587951660156,
+        516.23291015625,
+        306.5360412597656
+      ],
+      "text": "sentimentalismo \né \na \nmais \nsublime \nespiritualidade, \nnão",
+      "spans": [
+        {
+          "text": "sentimentalismo ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            292.8587951660156,
+            195.43017578125,
+            306.5360412597656
+          ],
+          "origin": [
+            82.73997497558594,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "é ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            207.41758728027344,
+            292.8587951660156,
+            218.21701049804688,
+            306.5360412597656
+          ],
+          "origin": [
+            207.41758728027344,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            230.26510620117188,
+            292.8587951660156,
+            241.7647247314453,
+            306.5360412597656
+          ],
+          "origin": [
+            230.26510620117188,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "mais ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            253.75213623046875,
+            292.8587951660156,
+            288.7353515625,
+            306.5360412597656
+          ],
+          "origin": [
+            253.75213623046875,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "sublime ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.7227783203125,
+            292.8587951660156,
+            356.6326599121094,
+            306.5360412597656
+          ],
+          "origin": [
+            300.7227783203125,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "espiritualidade, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            368.6200866699219,
+            292.8587951660156,
+            476.6937561035156,
+            306.5360412597656
+          ],
+          "origin": [
+            368.6200866699219,
+            303.84027099609375
+          ]
+        },
+        {
+          "text": "não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            488.6811828613281,
+            292.8587951660156,
+            516.23291015625,
+            306.5360412597656
+          ],
+          "origin": [
+            488.6811828613281,
+            303.84027099609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        313.3793029785156,
+        516.3084106445312,
+        327.0565490722656
+      ],
+      "text": "atentando-se ao fato de que há sentimentos horríveis e",
+      "spans": [
+        {
+          "text": "atentando-se ao fato de que há sentimentos horríveis e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            313.3793029785156,
+            516.3084106445312,
+            327.0565490722656
+          ],
+          "origin": [
+            82.73997497558594,
+            324.36077880859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        333.89984130859375,
+        516.1859130859375,
+        347.57708740234375
+      ],
+      "text": "destrutivos que se articulam em sucessão bipolar com o",
+      "spans": [
+        {
+          "text": "destrutivos que se articulam em sucessão bipolar com o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            333.89984130859375,
+            516.1859130859375,
+            347.57708740234375
+          ],
+          "origin": [
+            82.73997497558594,
+            344.8813171386719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        354.4798889160156,
+        279.2499084472656,
+        368.1571350097656
+      ],
+      "text": "passionalismo “benevolente”.",
+      "spans": [
+        {
+          "text": "passionalismo “benevolente”. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            354.4798889160156,
+            279.2499084472656,
+            368.1571350097656
+          ],
+          "origin": [
+            82.73997497558594,
+            365.46136474609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        386.64007568359375,
+        516.143798828125,
+        400.31732177734375
+      ],
+      "text": "A paixão romântica é sentida no coração. A impulso",
+      "spans": [
+        {
+          "text": "A paixão romântica é sentida no coração. A impulso ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            386.64007568359375,
+            516.143798828125,
+            400.31732177734375
+          ],
+          "origin": [
+            117.23999786376953,
+            397.6215515136719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        407.2201232910156,
+        516.3084716796875,
+        420.8973693847656
+      ],
+      "text": "luxurioso é sentido no órgão sexual. Não obstante, ambos",
+      "spans": [
+        {
+          "text": "luxurioso é sentido no órgão sexual. Não obstante, ambos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            407.2201232910156,
+            516.3084716796875,
+            420.8973693847656
+          ],
+          "origin": [
+            82.73997497558594,
+            418.20159912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        427.74066162109375,
+        516.3016967773438,
+        441.41790771484375
+      ],
+      "text": "possuem uma origem mental, estão na cabeça. Fundamentam-se",
+      "spans": [
+        {
+          "text": "possuem uma origem mental, estão na cabeça. Fundamentam-se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            427.74066162109375,
+            516.3016967773438,
+            441.41790771484375
+          ],
+          "origin": [
+            82.73997497558594,
+            438.7221374511719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        448.3207092285156,
+        516.1707763671875,
+        461.9979553222656
+      ],
+      "text": "em formas mentais, pensamentos, lembranças, imaginações",
+      "spans": [
+        {
+          "text": "em formas mentais, pensamentos, lembranças, imaginações ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            448.3207092285156,
+            516.1707763671875,
+            461.9979553222656
+          ],
+          "origin": [
+            82.73997497558594,
+            459.30218505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        468.9007568359375,
+        516.19287109375,
+        482.5780029296875
+      ],
+      "text": "mecânicas morbosas e românticas. É por isso que a reflexão",
+      "spans": [
+        {
+          "text": "mecânicas morbosas e românticas. É por isso que a reflexão ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            468.9007568359375,
+            516.19287109375,
+            482.5780029296875
+          ],
+          "origin": [
+            82.73995971679688,
+            479.8822326660156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        489.4212951660156,
+        516.206787109375,
+        503.0985412597656
+      ],
+      "text": "filosófica liberta o homem e ensina-o a viver: a luxúria e o",
+      "spans": [
+        {
+          "text": "filosófica liberta o homem e ensina-o a viver: a luxúria e o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            489.4212951660156,
+            516.206787109375,
+            503.0985412597656
+          ],
+          "origin": [
+            82.73995971679688,
+            500.40277099609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        509.9418640136719,
+        516.2883911132812,
+        523.6190795898438
+      ],
+      "text": "passionalismo romântico estão na mente e é dali que devem ser",
+      "spans": [
+        {
+          "text": "passionalismo romântico estão na mente e é dali que devem ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            509.9418640136719,
+            516.2883911132812,
+            523.6190795898438
+          ],
+          "origin": [
+            82.73997497558594,
+            520.92333984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        530.5219116210938,
+        516.174072265625,
+        544.1990966796875
+      ],
+      "text": "primeiramente \nextirpados. \nSão \nvisões \nequivocadas,",
+      "spans": [
+        {
+          "text": "primeiramente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            530.5219116210938,
+            182.50799560546875,
+            544.1990966796875
+          ],
+          "origin": [
+            82.73997497558594,
+            541.5033569335938
+          ]
+        },
+        {
+          "text": "extirpados. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            206.37547302246094,
+            530.5219116210938,
+            284.10235595703125,
+            544.1990966796875
+          ],
+          "origin": [
+            206.37547302246094,
+            541.5033569335938
+          ]
+        },
+        {
+          "text": "São ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            307.9803161621094,
+            530.5219116210938,
+            335.7175598144531,
+            544.1990966796875
+          ],
+          "origin": [
+            307.9803161621094,
+            541.5033569335938
+          ]
+        },
+        {
+          "text": "visões ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            359.58502197265625,
+            530.5219116210938,
+            403.4350280761719,
+            544.1990966796875
+          ],
+          "origin": [
+            359.58502197265625,
+            541.5033569335938
+          ]
+        },
+        {
+          "text": "equivocadas, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            427.302490234375,
+            530.5219116210938,
+            516.174072265625,
+            544.1990966796875
+          ],
+          "origin": [
+            427.302490234375,
+            541.5033569335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        551.04248046875,
+        516.079833984375,
+        564.7196655273438
+      ],
+      "text": "entendimentos distorcidos, percepções subjetivas e errôneas.",
+      "spans": [
+        {
+          "text": "entendimentos distorcidos, percepções subjetivas e errôneas. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            551.04248046875,
+            516.079833984375,
+            564.7196655273438
+          ],
+          "origin": [
+            82.73997497558594,
+            562.02392578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        571.56298828125,
+        516.1975708007812,
+        585.2401733398438
+      ],
+      "text": "Aquele que tenta vencer suas fraquezas sem limpar a mente,",
+      "spans": [
+        {
+          "text": "Aquele que tenta vencer suas fraquezas sem limpar a mente, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            571.56298828125,
+            516.1975708007812,
+            585.2401733398438
+          ],
+          "origin": [
+            82.73997497558594,
+            582.54443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        592.2025146484375,
+        516.1940307617188,
+        605.8796997070312
+      ],
+      "text": "ficará cada vez pior, cairá cada vez mais fundo. O caminho é",
+      "spans": [
+        {
+          "text": "ficará cada vez pior, cairá cada vez mais fundo. O caminho é ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            592.2025146484375,
+            516.1940307617188,
+            605.8796997070312
+          ],
+          "origin": [
+            82.73997497558594,
+            603.1839599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        612.7230834960938,
+        516.1788940429688,
+        626.4002685546875
+      ],
+      "text": "compreender a realidade e isso se consegue primeiramente por",
+      "spans": [
+        {
+          "text": "compreender a realidade e isso se consegue primeiramente por ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            612.7230834960938,
+            516.1788940429688,
+            626.4002685546875
+          ],
+          "origin": [
+            82.73997497558594,
+            623.7045288085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        633.2435913085938,
+        516.27685546875,
+        646.9207763671875
+      ],
+      "text": "meio da educação mental para o pensar correto, silencioso e",
+      "spans": [
+        {
+          "text": "meio da educação mental para o pensar correto, silencioso e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            633.2435913085938,
+            516.27685546875,
+            646.9207763671875
+          ],
+          "origin": [
+            82.73997497558594,
+            644.2250366210938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        653.8236083984375,
+        516.3189697265625,
+        667.5007934570312
+      ],
+      "text": "concentrado. Somente este pensar possibilita a auto-análise,",
+      "spans": [
+        {
+          "text": "concentrado. Somente este pensar possibilita a auto-análise, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            653.8236083984375,
+            516.3189697265625,
+            667.5007934570312
+          ],
+          "origin": [
+            82.73997497558594,
+            664.8050537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        674.3441772460938,
+        488.4814147949219,
+        688.0213623046875
+      ],
+      "text": "auto-reflexão e a auto-observação ensinadas por Eric From.",
+      "spans": [
+        {
+          "text": "auto-reflexão e a auto-observação ensinadas por Eric From.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            674.3441772460938,
+            488.4814147949219,
+            688.0213623046875
+          ],
+          "origin": [
+            82.73997497558594,
+            685.3256225585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "70",
+      "spans": [
+        {
+          "text": "70",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

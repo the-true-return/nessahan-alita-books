@@ -1,0 +1,289 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "title": "Textos Complementares II",
+  "metrics": {
+    "body_size": 12.0,
+    "left": 85,
+    "right": 513,
+    "indent": 121,
+    "line_gap": 0.52,
+    "para_gap": 4.52
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        2
+      ],
+      "segments": 29,
+      "words": 131,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        3,
+        3
+      ],
+      "segments": 7,
+      "words": 125,
+      "footnotes": 0
+    },
+    {
+      "id": "02",
+      "title": "1. Correto entendimento do “sexo selvagem”",
+      "pages": [
+        4,
+        4
+      ],
+      "segments": 6,
+      "words": 393,
+      "footnotes": 0
+    },
+    {
+      "id": "03",
+      "title": "2. Sobre a magia sexual",
+      "pages": [
+        5,
+        5
+      ],
+      "segments": 8,
+      "words": 298,
+      "footnotes": 0
+    },
+    {
+      "id": "04",
+      "title": "3. Ejaculação precoce e retardada",
+      "pages": [
+        6,
+        7
+      ],
+      "segments": 14,
+      "words": 948,
+      "footnotes": 2
+    },
+    {
+      "id": "05",
+      "title": "4. Correto entendimento da teoria",
+      "pages": [
+        8,
+        8
+      ],
+      "segments": 4,
+      "words": 270,
+      "footnotes": 0
+    },
+    {
+      "id": "06",
+      "title": "5. Principais artimanhas e as soluções correspondentes",
+      "pages": [
+        9,
+        10
+      ],
+      "segments": 43,
+      "words": 398,
+      "footnotes": 6
+    },
+    {
+      "id": "07",
+      "title": "6. Dois caminhos possíveis",
+      "pages": [
+        11,
+        12
+      ],
+      "segments": 13,
+      "words": 666,
+      "footnotes": 0
+    },
+    {
+      "id": "08",
+      "title": "7. Um tipo de mulher que merece confiança",
+      "pages": [
+        13,
+        15
+      ],
+      "segments": 46,
+      "words": 533,
+      "footnotes": 0
+    },
+    {
+      "id": "09",
+      "title": "8. Uma guerra por um prêmio",
+      "pages": [
+        16,
+        17
+      ],
+      "segments": 14,
+      "words": 842,
+      "footnotes": 1
+    },
+    {
+      "id": "10",
+      "title": "9. Desarticulação antecipada",
+      "pages": [
+        18,
+        18
+      ],
+      "segments": 9,
+      "words": 396,
+      "footnotes": 0
+    },
+    {
+      "id": "11",
+      "title": "10. Lidando com os sinais contraditórios",
+      "pages": [
+        19,
+        19
+      ],
+      "segments": 5,
+      "words": 536,
+      "footnotes": 0
+    },
+    {
+      "id": "12",
+      "title": "11. Dois referenciais",
+      "pages": [
+        20,
+        21
+      ],
+      "segments": 8,
+      "words": 583,
+      "footnotes": 1
+    },
+    {
+      "id": "13",
+      "title": "12. Dor de amor",
+      "pages": [
+        22,
+        22
+      ],
+      "segments": 6,
+      "words": 342,
+      "footnotes": 0
+    },
+    {
+      "id": "14",
+      "title": "13. A mescla de pólos opostos simultâneos",
+      "pages": [
+        23,
+        24
+      ],
+      "segments": 9,
+      "words": 725,
+      "footnotes": 1
+    },
+    {
+      "id": "15",
+      "title": "14. Amor inimigo",
+      "pages": [
+        25,
+        26
+      ],
+      "segments": 14,
+      "words": 875,
+      "footnotes": 1
+    },
+    {
+      "id": "16",
+      "title": "15. Sobre galanteios e atração",
+      "pages": [
+        27,
+        27
+      ],
+      "segments": 5,
+      "words": 300,
+      "footnotes": 0
+    },
+    {
+      "id": "17",
+      "title": "16. Algumas (in)definições e (in)certezas a serem estabelecidas",
+      "pages": [
+        28,
+        28
+      ],
+      "segments": 7,
+      "words": 318,
+      "footnotes": 0
+    },
+    {
+      "id": "18",
+      "title": "17. Guerra de mentes",
+      "pages": [
+        29,
+        29
+      ],
+      "segments": 7,
+      "words": 268,
+      "footnotes": 0
+    },
+    {
+      "id": "19",
+      "title": "18. A dedicação do cafajeste",
+      "pages": [
+        30,
+        30
+      ],
+      "segments": 9,
+      "words": 262,
+      "footnotes": 0
+    },
+    {
+      "id": "20",
+      "title": "19. Libertando a alma",
+      "pages": [
+        31,
+        35
+      ],
+      "segments": 45,
+      "words": 2341,
+      "footnotes": 2
+    },
+    {
+      "id": "21",
+      "title": "20. Indo além",
+      "pages": [
+        36,
+        37
+      ],
+      "segments": 15,
+      "words": 889,
+      "footnotes": 0
+    },
+    {
+      "id": "22",
+      "title": "Aforismos",
+      "pages": [
+        38,
+        46
+      ],
+      "segments": 114,
+      "words": 2795,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 46
+  },
+  "completeness": {
+    "source_chars": 80572,
+    "segment_chars": 80572
+  },
+  "warnings": [
+    "06-0003 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0004 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0008 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0014 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0018 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0020 (p. 9): wide gap inside a line: possible table or columns",
+    "06-0027 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0030 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0033 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0034 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0035 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0038 (p. 10): wide gap inside a line: possible table or columns",
+    "06-0041 (p. 10): wide gap inside a line: possible table or columns"
+  ]
+}

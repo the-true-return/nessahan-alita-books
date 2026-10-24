@@ -1,0 +1,796 @@
+{
+  "page_number": 25,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        198.72000122070312,
+        78.31273651123047,
+        412.0195007324219,
+        96.11329650878906
+      ],
+      "text": "5. A atração pela crueldade",
+      "spans": [
+        {
+          "text": "5. A atração pela crueldade",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            198.72000122070312,
+            78.31273651123047,
+            412.0195007324219,
+            96.11329650878906
+          ],
+          "origin": [
+            198.72000122070312,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        539.115478515625,
+        133.08673095703125
+      ],
+      "text": "Infelizmente, há mulheres masoquistas que demonstram apreciar",
+      "spans": [
+        {
+          "text": "Infelizmente, há mulheres masoquistas que demonstram apreciar",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            539.115478515625,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        539.0400390625,
+        157.08673095703125
+      ],
+      "text": "homens que lhes fazem sentir medo pois raciocinam mais ou menos o",
+      "spans": [
+        {
+          "text": "homens que lhes fazem sentir medo pois raciocinam mais ou menos o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            539.0400390625,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        539.0104370117188,
+        181.32672119140625
+      ],
+      "text": "seguinte: \"Se eu sinto medo deste homem, outras pessoas também",
+      "spans": [
+        {
+          "text": "seguinte: ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            134.760009765625,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        },
+        {
+          "text": "\"Se eu sinto medo deste homem, outras pessoas também",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            140.16000366210938,
+            165.9172821044922,
+            539.0104370117188,
+            181.32672119140625
+          ],
+          "origin": [
+            140.16000366210938,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        189.9172821044922,
+        539.0401000976562,
+        205.32672119140625
+      ],
+      "text": "sentirão e eu estarei segura. Além disso, outras mulheres o desejarão",
+      "spans": [
+        {
+          "text": "sentirão e eu estarei segura. Além disso, outras mulheres o desejarão",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            189.9172821044922,
+            539.0401000976562,
+            205.32672119140625
+          ],
+          "origin": [
+            72.0,
+            202.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        214.1572723388672,
+        268.4064025878906,
+        229.56671142578125
+      ],
+      "text": "e ficarão com inveja de mim.\"",
+      "spans": [
+        {
+          "text": "e ficarão com inveja de mim.\"",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            214.1572723388672,
+            268.4064025878906,
+            229.56671142578125
+          ],
+          "origin": [
+            72.0,
+            226.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        250.3972625732422,
+        538.9348754882812,
+        265.80670166015625
+      ],
+      "text": "Essas mulheres se sentem seguras na companhia de homens",
+      "spans": [
+        {
+          "text": "Essas mulheres se sentem seguras na companhia de homens",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            250.3972625732422,
+            538.9348754882812,
+            265.80670166015625
+          ],
+          "origin": [
+            108.0,
+            262.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        274.39727783203125,
+        538.9657592773438,
+        289.80670166015625
+      ],
+      "text": "cruéis. Chegam a \"domesticá-los\" por meio do sexo e do carinho até",
+      "spans": [
+        {
+          "text": "cruéis. Chegam a \"domesticá-los\" por meio do sexo e do carinho até",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            274.39727783203125,
+            538.9657592773438,
+            289.80670166015625
+          ],
+          "origin": [
+            72.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        298.63726806640625,
+        538.9201049804688,
+        314.04669189453125
+      ],
+      "text": "que se tornem submissos a ponto de serem manejados à vontade,",
+      "spans": [
+        {
+          "text": "que se tornem submissos a ponto de serem manejados à vontade,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            298.63726806640625,
+            538.9201049804688,
+            314.04669189453125
+          ],
+          "origin": [
+            72.0,
+            311.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        322.87725830078125,
+        538.9351196289062,
+        338.28668212890625
+      ],
+      "text": "quando então, paradoxalmente, são destinados à função de escravos",
+      "spans": [
+        {
+          "text": "quando então, paradoxalmente, são destinados à função de escravos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            322.87725830078125,
+            538.9351196289062,
+            338.28668212890625
+          ],
+          "origin": [
+            72.0,
+            335.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        346.87725830078125,
+        538.98046875,
+        362.28668212890625
+      ],
+      "text": "emocionais que provêem e protegem. Cláudia Pacheco analisa este",
+      "spans": [
+        {
+          "text": "emocionais que provêem e protegem. Cláudia Pacheco analisa este",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            346.87725830078125,
+            538.98046875,
+            362.28668212890625
+          ],
+          "origin": [
+            72.0,
+            359.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        371.11724853515625,
+        538.9962768554688,
+        386.52667236328125
+      ],
+      "text": "ponto. Caso a tentativa de \"domesticá-los\" falhe, a insistência se",
+      "spans": [
+        {
+          "text": "ponto. Caso a tentativa de \"domesticá-los\" falhe, a insistência se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            371.11724853515625,
+            538.9962768554688,
+            386.52667236328125
+          ],
+          "origin": [
+            72.0,
+            383.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        395.11724853515625,
+        539.1155395507812,
+        410.52667236328125
+      ],
+      "text": "prolonga indefinidamente sob o disfarce de amor e é acompanhada por",
+      "spans": [
+        {
+          "text": "prolonga indefinidamente sob o disfarce de amor e é acompanhada por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            395.11724853515625,
+            539.1155395507812,
+            410.52667236328125
+          ],
+          "origin": [
+            72.0,
+            407.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        419.35723876953125,
+        538.9656982421875,
+        434.76666259765625
+      ],
+      "text": "lamentações. Por outro lado, essas mulheres masoquistas sentem-se",
+      "spans": [
+        {
+          "text": "lamentações. Por outro lado, essas mulheres masoquistas sentem-se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            419.35723876953125,
+            538.9656982421875,
+            434.76666259765625
+          ],
+          "origin": [
+            72.0,
+            431.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        443.59722900390625,
+        538.9201049804688,
+        459.00665283203125
+      ],
+      "text": "incompletas quando seus companheiros são bondosos. O teste das",
+      "spans": [
+        {
+          "text": "incompletas quando seus companheiros são bondosos. O teste das",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            443.59722900390625,
+            538.9201049804688,
+            459.00665283203125
+          ],
+          "origin": [
+            72.0,
+            455.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        467.59722900390625,
+        538.9656982421875,
+        483.00665283203125
+      ],
+      "text": "capacidades reprodutoras, protetoras e provedoras é contínuo, se",
+      "spans": [
+        {
+          "text": "capacidades reprodutoras, protetoras e provedoras é contínuo, se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            467.59722900390625,
+            538.9656982421875,
+            483.00665283203125
+          ],
+          "origin": [
+            72.0,
+            479.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        491.83721923828125,
+        538.9349365234375,
+        507.24664306640625
+      ],
+      "text": "repete periodicamente pelo tempo em que durar a relação, nunca nos",
+      "spans": [
+        {
+          "text": "repete periodicamente pelo tempo em que durar a relação, nunca nos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            491.83721923828125,
+            538.9349365234375,
+            507.24664306640625
+          ],
+          "origin": [
+            72.0,
+            504.23992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        515.8372192382812,
+        253.07998657226562,
+        531.2466430664062
+      ],
+      "text": "deixando descansar em paz.",
+      "spans": [
+        {
+          "text": "deixando descansar em paz.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            515.8372192382812,
+            253.07998657226562,
+            531.2466430664062
+          ],
+          "origin": [
+            72.0,
+            528.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        552.0772094726562,
+        538.9647216796875,
+        567.4866333007812
+      ],
+      "text": "Cada categoria de macho cumpre uma função específica na vida",
+      "spans": [
+        {
+          "text": "Cada categoria de macho cumpre uma função específica na vida",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            552.0772094726562,
+            538.9647216796875,
+            567.4866333007812
+          ],
+          "origin": [
+            108.0,
+            564.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        576.3172607421875,
+        538.9349365234375,
+        591.7266845703125
+      ],
+      "text": "de algumas mulheres: os bondosos servem como escravos emocionais",
+      "spans": [
+        {
+          "text": "de algumas mulheres: os bondosos servem como escravos emocionais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            576.3172607421875,
+            538.9349365234375,
+            591.7266845703125
+          ],
+          "origin": [
+            72.0,
+            588.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        600.3172607421875,
+        538.93505859375,
+        615.7266845703125
+      ],
+      "text": "para dar amor sem recebê-lo em troca; os trabalhadores e os ricos",
+      "spans": [
+        {
+          "text": "para dar amor sem recebê-lo em troca; os trabalhadores e os ricos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            600.3172607421875,
+            538.93505859375,
+            615.7266845703125
+          ],
+          "origin": [
+            72.0,
+            612.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        624.5572509765625,
+        539.0401611328125,
+        639.9666748046875
+      ],
+      "text": "servem para dar-lhes dinheiro e sustentá-las recebendo chifres como",
+      "spans": [
+        {
+          "text": "servem para dar-lhes dinheiro e sustentá-las recebendo chifres como",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            624.5572509765625,
+            539.0401611328125,
+            639.9666748046875
+          ],
+          "origin": [
+            72.0,
+            636.9599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        648.7972412109375,
+        538.9349365234375,
+        664.2066650390625
+      ],
+      "text": "pagamento; os malvados e cruéis servem para protegê-las; os",
+      "spans": [
+        {
+          "text": "pagamento; os malvados e cruéis servem para protegê-las; os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            648.7972412109375,
+            538.9349365234375,
+            664.2066650390625
+          ],
+          "origin": [
+            72.0,
+            661.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        672.7972412109375,
+        538.8457641601562,
+        688.2066650390625
+      ],
+      "text": "cafajestes, pervertidos, depravados e mulherengos servem para dar-",
+      "spans": [
+        {
+          "text": "cafajestes, pervertidos, depravados e mulherengos servem para dar-",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            672.7972412109375,
+            538.8457641601562,
+            688.2066650390625
+          ],
+          "origin": [
+            72.0,
+            685.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "25",
+      "spans": [
+        {
+          "text": "25",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

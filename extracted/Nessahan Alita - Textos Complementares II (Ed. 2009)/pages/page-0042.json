@@ -1,0 +1,844 @@
+{
+  "page_number": 42,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.32771301269531,
+        203.52597045898438,
+        84.6117172241211
+      ],
+      "text": "A terrível arma",
+      "spans": [
+        {
+          "text": "A terrível arma ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.32771301269531,
+            203.52597045898438,
+            84.6117172241211
+          ],
+          "origin": [
+            120.54000091552734,
+            82.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        97.00770568847656,
+        513.3585205078125,
+        193.0916290283203
+      ],
+      "text": "Uma perigosa arma, utilizada na guerra da paixão, consiste em simular \nsubmissão passional à outra pessoa, deixando-a crer que está no controle total da \nsituação, até o ponto em que a mesma se torne esnobe, para, em seguida, puxar-lhe \nrepentinamente o tapete passando ao extremo comportamental oposto. Somente então \nela se dará conta de que havia se apaixonado sem o perceber! Esta é uma arma perigosa \nnas mãos de pessoas mal intencionadas e a descrevo aqui somente para que as pessoas \nboas possam se defender.",
+      "spans": [
+        {
+          "text": "Uma perigosa arma, utilizada na guerra da paixão, consiste em simular ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            97.00770568847656,
+            513.33642578125,
+            110.29170989990234
+          ],
+          "origin": [
+            120.54000091552734,
+            107.69970703125
+          ]
+        },
+        {
+          "text": "submissão passional à outra pessoa, deixando-a crer que está no controle total da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            110.80769348144531,
+            513.3485107421875,
+            124.0916976928711
+          ],
+          "origin": [
+            85.07998657226562,
+            121.49969482421875
+          ]
+        },
+        {
+          "text": "situação, até o ponto em que a mesma se torne esnobe, para, em seguida, puxar-lhe ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            124.60768127441406,
+            513.2708129882812,
+            137.8916778564453
+          ],
+          "origin": [
+            85.07998657226562,
+            135.2996826171875
+          ]
+        },
+        {
+          "text": "repentinamente o tapete passando ao extremo comportamental oposto. Somente então ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            138.4076690673828,
+            513.302490234375,
+            151.69166564941406
+          ],
+          "origin": [
+            85.07998657226562,
+            149.09967041015625
+          ]
+        },
+        {
+          "text": "ela se dará conta de que havia se apaixonado sem o perceber! Esta é uma arma perigosa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            152.20765686035156,
+            513.3308715820312,
+            165.4916534423828
+          ],
+          "origin": [
+            85.07998657226562,
+            162.899658203125
+          ]
+        },
+        {
+          "text": "nas mãos de pessoas mal intencionadas e a descrevo aqui somente para que as pessoas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            166.0076446533203,
+            513.3585205078125,
+            179.29164123535156
+          ],
+          "origin": [
+            85.07998657226562,
+            176.69964599609375
+          ]
+        },
+        {
+          "text": "boas possam se defender. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            179.80763244628906,
+            210.04800415039062,
+            193.0916290283203
+          ],
+          "origin": [
+            85.07998657226562,
+            190.4996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53998565673828,
+        205.7276153564453,
+        237.23753356933594,
+        219.01161193847656
+      ],
+      "text": "Ativar os sentimentos",
+      "spans": [
+        {
+          "text": "Ativar os sentimentos  ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            205.7276153564453,
+            237.23753356933594,
+            219.01161193847656
+          ],
+          "origin": [
+            120.53998565673828,
+            216.41961669921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        231.40760803222656,
+        513.3597412109375,
+        286.0915832519531
+      ],
+      "text": "Aos sinais de masculinidade presentes no comportamento, adicionemos, à \nconquista, a habilidade para ativar os sentimentos da mulher, entrando em empatia e \nencantando. Aquele que utilizá-la com má intenção, será um cafajeste. Aquele que o \nfizer com sinceridade e altruísmo, será um grande homem.",
+      "spans": [
+        {
+          "text": "Aos sinais de masculinidade presentes no comportamento, adicionemos, à ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            231.40760803222656,
+            513.333984375,
+            244.6916046142578
+          ],
+          "origin": [
+            120.53998565673828,
+            242.099609375
+          ]
+        },
+        {
+          "text": "conquista, a habilidade para ativar os sentimentos da mulher, entrando em empatia e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            245.2075958251953,
+            513.3074951171875,
+            258.4916076660156
+          ],
+          "origin": [
+            85.07998657226562,
+            255.89959716796875
+          ]
+        },
+        {
+          "text": "encantando. Aquele que utilizá-la com má intenção, será um cafajeste. Aquele que o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            259.0075988769531,
+            513.3597412109375,
+            272.2915954589844
+          ],
+          "origin": [
+            85.0799560546875,
+            269.6995849609375
+          ]
+        },
+        {
+          "text": "fizer com sinceridade e altruísmo, será um grande homem. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            272.8075866699219,
+            369.28802490234375,
+            286.0915832519531
+          ],
+          "origin": [
+            85.0799560546875,
+            283.49957275390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53995513916016,
+        298.7275695800781,
+        223.5743865966797,
+        312.0115661621094
+      ],
+      "text": "Criticar por querer",
+      "spans": [
+        {
+          "text": "Criticar por querer ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            298.7275695800781,
+            223.5743865966797,
+            312.0115661621094
+          ],
+          "origin": [
+            120.53995513916016,
+            309.4195556640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        324.4075622558594,
+        513.3259887695312,
+        365.2915344238281
+      ],
+      "text": "Ninguém se rebelaria contra as artimanhas femininas e nem perderia o tempo \ntecendo meios de desarticulá-las se não gostasse do que as mulheres possuem de \nmelhor. Ninguém combateria o lado obscuro se não quisesse se unir ao lado luminoso.",
+      "spans": [
+        {
+          "text": "Ninguém se rebelaria contra as artimanhas femininas e nem perderia o tempo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            324.4075622558594,
+            513.3116455078125,
+            337.6915588378906
+          ],
+          "origin": [
+            120.53995513916016,
+            335.09954833984375
+          ]
+        },
+        {
+          "text": "tecendo meios de desarticulá-las se não gostasse do que as mulheres possuem de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            338.2075500488281,
+            513.3259887695312,
+            351.4915466308594
+          ],
+          "origin": [
+            85.0799560546875,
+            348.8995361328125
+          ]
+        },
+        {
+          "text": "melhor. Ninguém combateria o lado obscuro se não quisesse se unir ao lado luminoso. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            352.0075378417969,
+            502.790771484375,
+            365.2915344238281
+          ],
+          "origin": [
+            85.0799560546875,
+            362.69952392578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        377.8075256347656,
+        513.3427734375,
+        404.8315124511719
+      ],
+      "text": "Somente se tornam descontentes com as mulheres aqueles que gostariam de \nreceber delas o que há de melhor e que lhes é recusado.",
+      "spans": [
+        {
+          "text": "Somente se tornam descontentes com as mulheres aqueles que gostariam de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            377.8075256347656,
+            513.3427734375,
+            391.0915222167969
+          ],
+          "origin": [
+            120.53995513916016,
+            388.49951171875
+          ]
+        },
+        {
+          "text": "receber delas o que há de melhor e que lhes é recusado.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            391.5475158691406,
+            357.0094299316406,
+            404.8315124511719
+          ],
+          "origin": [
+            85.0799560546875,
+            402.239501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        417.3475036621094,
+        513.3115234375,
+        472.0314636230469
+      ],
+      "text": "Um misógino, pela própria definição da palavra, é alguém que sente aversão \npelas mulheres. Portanto, por uma simples questão de lógica, um misógino não poderia \njamais ser um homem heterossexual. O simples fato de ser misógino faria de um \nhomem uma pessoa não-heterossexual.",
+      "spans": [
+        {
+          "text": "Um misógino, pela própria definição da palavra, é alguém que sente aversão ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            417.3475036621094,
+            513.240234375,
+            430.6315002441406
+          ],
+          "origin": [
+            120.53995513916016,
+            428.03948974609375
+          ]
+        },
+        {
+          "text": "pelas mulheres. Portanto, por uma simples questão de lógica, um misógino não poderia ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            431.1474914550781,
+            513.3115234375,
+            444.4314880371094
+          ],
+          "origin": [
+            85.0799560546875,
+            441.8394775390625
+          ]
+        },
+        {
+          "text": "jamais ser um homem heterossexual. O simples fato de ser misógino faria de um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            444.9474792480469,
+            513.2935791015625,
+            458.2314758300781
+          ],
+          "origin": [
+            85.0799560546875,
+            455.63946533203125
+          ]
+        },
+        {
+          "text": "homem uma pessoa não-heterossexual. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            458.7474670410156,
+            275.440673828125,
+            472.0314636230469
+          ],
+          "origin": [
+            85.0799560546875,
+            469.439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53995513916016,
+        484.66748046875,
+        267.8255310058594,
+        497.95147705078125
+      ],
+      "text": "O princípio da continuidade",
+      "spans": [
+        {
+          "text": "O princípio da continuidade ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            484.66748046875,
+            267.8255310058594,
+            497.95147705078125
+          ],
+          "origin": [
+            120.53995513916016,
+            495.3594665527344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07991027832031,
+        510.3474426269531,
+        513.4393920898438,
+        620.2313842773438
+      ],
+      "text": "Nunca é demais lembrar: um dos princípios básicos que as regem é o da \nmanutenção da continuidade do interesse masculino. Elas querem que nos entreguemos, \nmas não querem se entregar. Querem que entreguemos o coração, os sentimentos, a \nalma e o sexo, mas não querem fazer o mesmo. Buscam a entrega unilateral de nossa \nparte. Querem que lhes demos aquilo que nos recusam. Resistem como podem à \nentrega, acendem nossas esperanças e procuram mantê-las vivas a todo custo. Algumas \nchegam até mesmo ao ponto de achar que temos a obrigação de elogiá-las, enaltecê-las \ne adorá-las, ficando furiosas com os rebeldes que não o fazem.",
+      "spans": [
+        {
+          "text": "Nunca é demais lembrar: um dos princípios básicos que as regem é o da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            510.3474426269531,
+            513.2767333984375,
+            523.6314086914062
+          ],
+          "origin": [
+            120.53995513916016,
+            521.0394287109375
+          ]
+        },
+        {
+          "text": "manutenção da continuidade do interesse masculino. Elas querem que nos entreguemos, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            524.1474609375,
+            513.2412109375,
+            537.4314575195312
+          ],
+          "origin": [
+            85.07994079589844,
+            534.8394775390625
+          ]
+        },
+        {
+          "text": "mas não querem se entregar. Querem que entreguemos o coração, os sentimentos, a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            537.9473876953125,
+            513.22802734375,
+            551.2313842773438
+          ],
+          "origin": [
+            85.07994079589844,
+            548.639404296875
+          ]
+        },
+        {
+          "text": "alma e o sexo, mas não querem fazer o mesmo. Buscam a entrega unilateral de nossa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            551.7474365234375,
+            513.4393920898438,
+            565.0314331054688
+          ],
+          "origin": [
+            85.07994079589844,
+            562.439453125
+          ]
+        },
+        {
+          "text": "parte. Querem que lhes demos aquilo que nos recusam. Resistem como podem à ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            565.54736328125,
+            513.322021484375,
+            578.8313598632812
+          ],
+          "origin": [
+            85.07994079589844,
+            576.2393798828125
+          ]
+        },
+        {
+          "text": "entrega, acendem nossas esperanças e procuram mantê-las vivas a todo custo. Algumas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            579.347412109375,
+            513.2830810546875,
+            592.6314086914062
+          ],
+          "origin": [
+            85.07992553710938,
+            590.0394287109375
+          ]
+        },
+        {
+          "text": "chegam até mesmo ao ponto de achar que temos a obrigação de elogiá-las, enaltecê-las ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            593.1473999023438,
+            513.3468627929688,
+            606.431396484375
+          ],
+          "origin": [
+            85.07992553710938,
+            603.8394165039062
+          ]
+        },
+        {
+          "text": "e adorá-las, ficando furiosas com os rebeldes que não o fazem. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07991027832031,
+            606.9473876953125,
+            388.6607360839844,
+            620.2313842773438
+          ],
+          "origin": [
+            85.07991027832031,
+            617.639404296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        632.7474365234375,
+        513.839599609375,
+        687.431396484375
+      ],
+      "text": "É pelo desejo da continuidade que elas se vestem e agem de forma provocante. É \ntambém por tal princípio que desenvolveram formas muito elaboradas de dissimulação, \nas quais lhes permitem alimentar nossas esperanças e provocar nossos desejos com total \nsegurança, sem que lhes possa ser imputada responsabilidade.",
+      "spans": [
+        {
+          "text": "É pelo desejo da continuidade que elas se vestem e agem de forma provocante. É ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53990173339844,
+            632.7474365234375,
+            513.839599609375,
+            646.0314331054688
+          ],
+          "origin": [
+            120.53990173339844,
+            643.439453125
+          ]
+        },
+        {
+          "text": "também por tal princípio que desenvolveram formas muito elaboradas de dissimulação, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07990264892578,
+            646.5474243164062,
+            513.3362426757812,
+            659.8314208984375
+          ],
+          "origin": [
+            85.07990264892578,
+            657.2394409179688
+          ]
+        },
+        {
+          "text": "as quais lhes permitem alimentar nossas esperanças e provocar nossos desejos com total ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            660.347412109375,
+            513.3192138671875,
+            673.6314086914062
+          ],
+          "origin": [
+            85.07989501953125,
+            671.0394287109375
+          ]
+        },
+        {
+          "text": "segurança, sem que lhes possa ser imputada responsabilidade.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            674.1473999023438,
+            391.00555419921875,
+            687.431396484375
+          ],
+          "origin": [
+            85.07989501953125,
+            684.8394165039062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07987976074219,
+        699.9473876953125,
+        513.3169555664062,
+        740.8314208984375
+      ],
+      "text": "A espertinha quer que você entregue o seu coração, os seus sentimentos, o seu \nsexo e a sua alma, enquanto ela se recusa a fazer o mesmo, pois busca a entrega \nunilateral e o domínio.",
+      "spans": [
+        {
+          "text": "A espertinha quer que você entregue o seu coração, os seus sentimentos, o seu ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53988647460938,
+            699.9473876953125,
+            513.2747802734375,
+            713.2313842773438
+          ],
+          "origin": [
+            120.53988647460938,
+            710.639404296875
+          ]
+        },
+        {
+          "text": "sexo e a sua alma, enquanto ela se recusa a fazer o mesmo, pois busca a entrega ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07988739013672,
+            713.7474365234375,
+            513.3169555664062,
+            727.0314331054688
+          ],
+          "origin": [
+            85.07988739013672,
+            724.439453125
+          ]
+        },
+        {
+          "text": "unilateral e o domínio.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07987976074219,
+            727.5474243164062,
+            199.75424194335938,
+            740.8314208984375
+          ],
+          "origin": [
+            85.07987976074219,
+            738.2394409179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "42",
+      "spans": [
+        {
+          "text": "42",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

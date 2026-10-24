@@ -1,0 +1,209 @@
+{
+  "page_number": 248,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        394.2529296875,
+        118.65927124023438
+      ],
+      "text": "Ivana Bentes, trads.). Rio de Janeiro: Espaço e Tempo.",
+      "spans": [
+        {
+          "text": "Ivana Bentes, trads.). Rio de Janeiro: Espaço e Tempo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            394.2529296875,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        128.23101806640625,
+        515.424072265625,
+        157.17929077148438
+      ],
+      "text": "SHANON, Rev. Lawrence (aug, 1992). The Predatory female: A field guide \nto dating and the marriage-divorce industry. Banner Books. 2and edition.",
+      "spans": [
+        {
+          "text": "SHANON, Rev. Lawrence (aug, 1992). The Predatory female: A field guide ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            128.23101806640625,
+            515.424072265625,
+            143.79879760742188
+          ],
+          "origin": [
+            82.73980712890625,
+            140.51953125
+          ]
+        },
+        {
+          "text": "to dating and the marriage-divorce industry. Banner Books. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            141.61151123046875,
+            426.58197021484375,
+            157.17929077148438
+          ],
+          "origin": [
+            82.73979949951172,
+            153.9000244140625
+          ]
+        },
+        {
+          "text": "a",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            427.6199951171875,
+            140.3884735107422,
+            431.06561279296875,
+            150.74085998535156
+          ],
+          "origin": [
+            427.6199951171875,
+            148.5601806640625
+          ]
+        },
+        {
+          "text": "nd edition. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            432.00006103515625,
+            141.61151123046875,
+            495.6077575683594,
+            157.17929077148438
+          ],
+          "origin": [
+            432.00006103515625,
+            153.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        166.75103759765625,
+        515.459228515625,
+        209.13986206054688
+      ],
+      "text": "VILAR, Esther (1974). O Sexo Polígamo: O Direito do Homem a Duas \nMulheres (Das Polygame Geschlecht: Das Recht des Mannes auf Zwei \nFrauen). Rio de Janeiro: Editorial Nórdica, Ltda.",
+      "spans": [
+        {
+          "text": "VILAR, Esther (1974). O Sexo Polígamo: O Direito do Homem a Duas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74005126953125,
+            166.75103759765625,
+            515.401611328125,
+            182.31881713867188
+          ],
+          "origin": [
+            82.74005126953125,
+            179.03955078125
+          ]
+        },
+        {
+          "text": "Mulheres (Das Polygame Geschlecht: Das Recht des Mannes auf Zwei ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            180.1314697265625,
+            515.459228515625,
+            195.69924926757812
+          ],
+          "origin": [
+            82.73979949951172,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "Frauen). Rio de Janeiro: Editorial Nórdica, Ltda. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            193.57208251953125,
+            360.548828125,
+            209.13986206054688
+          ],
+          "origin": [
+            82.73999786376953,
+            205.860595703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "248",
+      "spans": [
+        {
+          "text": "248",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

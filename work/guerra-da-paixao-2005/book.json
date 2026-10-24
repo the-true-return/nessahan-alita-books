@@ -1,0 +1,232 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "title": "A Guerra da Paixão",
+  "metrics": {
+    "body_size": 13.9,
+    "left": 72,
+    "right": 539,
+    "indent": 108,
+    "line_gap": 8.83,
+    "para_gap": 14.13
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        3
+      ],
+      "segments": 38,
+      "words": 441,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        4,
+        8
+      ],
+      "segments": 15,
+      "words": 1081,
+      "footnotes": 6
+    },
+    {
+      "id": "02",
+      "title": "1. A ilogicidade",
+      "pages": [
+        9,
+        13
+      ],
+      "segments": 14,
+      "words": 1145,
+      "footnotes": 3
+    },
+    {
+      "id": "03",
+      "title": "2. As simulações de desentendimento",
+      "pages": [
+        14,
+        15
+      ],
+      "segments": 7,
+      "words": 440,
+      "footnotes": 1
+    },
+    {
+      "id": "04",
+      "title": "3. A transferência das decisões",
+      "pages": [
+        16,
+        17
+      ],
+      "segments": 4,
+      "words": 441,
+      "footnotes": 0
+    },
+    {
+      "id": "05",
+      "title": "4. O inferno psicológico principal",
+      "pages": [
+        18,
+        24
+      ],
+      "segments": 17,
+      "words": 1689,
+      "footnotes": 0
+    },
+    {
+      "id": "06",
+      "title": "5. A atração pela crueldade",
+      "pages": [
+        25,
+        29
+      ],
+      "segments": 15,
+      "words": 1098,
+      "footnotes": 2
+    },
+    {
+      "id": "07",
+      "title": "6. A frustração das expectativas",
+      "pages": [
+        30,
+        33
+      ],
+      "segments": 14,
+      "words": 842,
+      "footnotes": 1
+    },
+    {
+      "id": "08",
+      "title": "7. Como não se apaixonar",
+      "pages": [
+        34,
+        39
+      ],
+      "segments": 26,
+      "words": 1350,
+      "footnotes": 5
+    },
+    {
+      "id": "09",
+      "title": "8. Decisões que \"encurralam\"",
+      "pages": [
+        40,
+        48
+      ],
+      "segments": 35,
+      "words": 2064,
+      "footnotes": 8
+    },
+    {
+      "id": "10",
+      "title": "9. A importância de não nos polarizarmos",
+      "pages": [
+        49,
+        51
+      ],
+      "segments": 12,
+      "words": 563,
+      "footnotes": 3
+    },
+    {
+      "id": "11",
+      "title": "10. As provocações irritantes",
+      "pages": [
+        52,
+        60
+      ],
+      "segments": 29,
+      "words": 1986,
+      "footnotes": 6
+    },
+    {
+      "id": "12",
+      "title": "11. Os vícios e fraquezas femininos",
+      "pages": [
+        61,
+        71
+      ],
+      "segments": 33,
+      "words": 2456,
+      "footnotes": 4
+    },
+    {
+      "id": "13",
+      "title": "12. O perfil masculino ideal",
+      "pages": [
+        72,
+        83
+      ],
+      "segments": 32,
+      "words": 2900,
+      "footnotes": 1
+    },
+    {
+      "id": "14",
+      "title": "13. Uma violenta guerra de nervos",
+      "pages": [
+        84,
+        88
+      ],
+      "segments": 21,
+      "words": 1223,
+      "footnotes": 0
+    },
+    {
+      "id": "15",
+      "title": "14. Levando-as a se revelarem",
+      "pages": [
+        89,
+        95
+      ],
+      "segments": 20,
+      "words": 1641,
+      "footnotes": 2
+    },
+    {
+      "id": "16",
+      "title": "15. A busca pela continuidade as leva à insinuação",
+      "pages": [
+        96,
+        99
+      ],
+      "segments": 10,
+      "words": 783,
+      "footnotes": 0
+    },
+    {
+      "id": "17",
+      "title": "16. Uma forma de reverter a continuidade",
+      "pages": [
+        100,
+        101
+      ],
+      "segments": 3,
+      "words": 263,
+      "footnotes": 0
+    },
+    {
+      "id": "18",
+      "title": "Conclusões",
+      "pages": [
+        102,
+        103
+      ],
+      "segments": 6,
+      "words": 442,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 103,
+    "drop": 103
+  },
+  "completeness": {
+    "source_chars": 121978,
+    "segment_chars": 121978
+  },
+  "warnings": []
+}

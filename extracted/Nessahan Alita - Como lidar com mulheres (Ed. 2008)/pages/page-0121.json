@@ -1,0 +1,811 @@
+{
+  "page_number": 121,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        213.6597900390625,
+        109.19652557373047,
+        384.5345764160156,
+        125.3594741821289
+      ],
+      "text": "17. O círculo social estúpido",
+      "spans": [
+        {
+          "text": "17. O círculo social estúpido ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            213.6597900390625,
+            109.19652557373047,
+            384.5345764160156,
+            125.3594741821289
+          ],
+          "origin": [
+            213.6597900390625,
+            121.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2398910522461,
+        140.77081298828125,
+        515.4291381835938,
+        156.33859252929688
+      ],
+      "text": "Há um caminho muito eficiente para reconquistarmos uma antiga",
+      "spans": [
+        {
+          "text": "Há um caminho muito eficiente para reconquistarmos uma antiga ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2398910522461,
+            140.77081298828125,
+            515.4291381835938,
+            156.33859252929688
+          ],
+          "origin": [
+            117.2398910522461,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        160.8712158203125,
+        515.4852905273438,
+        176.43899536132812
+      ],
+      "text": "namorada, uma ex-esposa ou simplesmente uma fêmea que nos interessa:",
+      "spans": [
+        {
+          "text": "namorada, uma ex-esposa ou simplesmente uma fêmea que nos interessa: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            160.8712158203125,
+            515.4852905273438,
+            176.43899536132812
+          ],
+          "origin": [
+            82.7398910522461,
+            173.15972900390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        181.03143310546875,
+        515.4405517578125,
+        196.59921264648438
+      ],
+      "text": "consiste em nos aproximarmos do maior número possível de pessoas que a",
+      "spans": [
+        {
+          "text": "consiste em nos aproximarmos do maior número possível de pessoas que a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            181.03143310546875,
+            515.4405517578125,
+            196.59921264648438
+          ],
+          "origin": [
+            82.7398910522461,
+            193.3199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        201.1318359375,
+        515.486328125,
+        216.69961547851562
+      ],
+      "text": "mesma admira e gosta e que fazem parte daquele círculo estúpido de",
+      "spans": [
+        {
+          "text": "mesma admira e gosta e que fazem parte daquele círculo estúpido de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            201.1318359375,
+            515.486328125,
+            216.69961547851562
+          ],
+          "origin": [
+            82.7398910522461,
+            213.42034912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        221.2916259765625,
+        515.487548828125,
+        236.85940551757812
+      ],
+      "text": "amizades que tanto nos irritam. Se você conseguir um lugar destacado",
+      "spans": [
+        {
+          "text": "amizades que tanto nos irritam. Se você conseguir um lugar destacado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            221.2916259765625,
+            515.487548828125,
+            236.85940551757812
+          ],
+          "origin": [
+            82.7398910522461,
+            233.58013916015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        241.39202880859375,
+        515.4913940429688,
+        256.9598083496094
+      ],
+      "text": "naquele \ncírculo \namistoso \ne, \nao \nmesmo \ntempo, \nmostrar-se \nmeio",
+      "spans": [
+        {
+          "text": "naquele ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            241.39202880859375,
+            128.7777099609375,
+            256.9598083496094
+          ],
+          "origin": [
+            82.7398910522461,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "círculo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            139.83973693847656,
+            241.39202880859375,
+            182.17147827148438,
+            256.9598083496094
+          ],
+          "origin": [
+            139.83973693847656,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "amistoso ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            193.23350524902344,
+            241.39202880859375,
+            245.4566650390625,
+            256.9598083496094
+          ],
+          "origin": [
+            193.23350524902344,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "e, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            256.5186767578125,
+            241.39202880859375,
+            269.5354309082031,
+            256.9598083496094
+          ],
+          "origin": [
+            256.5186767578125,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            280.6579895019531,
+            241.39202880859375,
+            296.5981750488281,
+            256.9598083496094
+          ],
+          "origin": [
+            280.6579895019531,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "mesmo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            307.6601867675781,
+            241.39202880859375,
+            349.1224060058594,
+            256.9598083496094
+          ],
+          "origin": [
+            307.6601867675781,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "tempo, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            360.2451477050781,
+            241.39202880859375,
+            401.1911926269531,
+            256.9598083496094
+          ],
+          "origin": [
+            360.2451477050781,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "mostrar-se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            412.3733215332031,
+            241.39202880859375,
+            474.1678161621094,
+            256.9598083496094
+          ],
+          "origin": [
+            412.3733215332031,
+            253.6805419921875
+          ]
+        },
+        {
+          "text": "meio ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            485.2905578613281,
+            241.39202880859375,
+            515.4913940429688,
+            256.9598083496094
+          ],
+          "origin": [
+            485.2905578613281,
+            253.6805419921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        261.55181884765625,
+        515.474609375,
+        277.1195983886719
+      ],
+      "text": "desinteressado especificamente pela mulher que quer reconquistar, esta virá",
+      "spans": [
+        {
+          "text": "desinteressado especificamente pela mulher que quer reconquistar, esta virá ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            261.55181884765625,
+            515.474609375,
+            277.1195983886719
+          ],
+          "origin": [
+            82.7398910522461,
+            273.84033203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        281.6522216796875,
+        163.19058227539062,
+        297.2200012207031
+      ],
+      "text": "atrás de você.",
+      "spans": [
+        {
+          "text": "atrás de você. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            281.6522216796875,
+            163.19058227539062,
+            297.2200012207031
+          ],
+          "origin": [
+            82.7398910522461,
+            293.94073486328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2398910522461,
+        313.45184326171875,
+        515.447265625,
+        329.0196228027344
+      ],
+      "text": "A mulher normalmente tem um círculo idiota de amigos e parentes",
+      "spans": [
+        {
+          "text": "A mulher normalmente tem um círculo idiota de amigos e parentes ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2398910522461,
+            313.45184326171875,
+            515.447265625,
+            329.0196228027344
+          ],
+          "origin": [
+            117.2398910522461,
+            325.7403564453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        333.6120300292969,
+        515.5346069335938,
+        349.1798095703125
+      ],
+      "text": "que roubam sua atenção e a afastam de nós. Em geral, ficamos com uma",
+      "spans": [
+        {
+          "text": "que roubam sua atenção e a afastam de nós. Em geral, ficamos com uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            333.6120300292969,
+            515.5346069335938,
+            349.1798095703125
+          ],
+          "origin": [
+            82.7398910522461,
+            345.9005432128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        353.7124328613281,
+        515.3328247070312,
+        369.28021240234375
+      ],
+      "text": "justa raiva porque estas pessoas roubam seu tempo e, muitas vezes, elas até",
+      "spans": [
+        {
+          "text": "justa raiva porque estas pessoas roubam seu tempo e, muitas vezes, elas até ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            353.7124328613281,
+            515.3328247070312,
+            369.28021240234375
+          ],
+          "origin": [
+            82.7398910522461,
+            366.0009460449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7398910522461,
+        373.8128356933594,
+        515.3602905273438,
+        389.380615234375
+      ],
+      "text": "podem acabar dando o sexo para algum imbecil dali, camuflando tudo na",
+      "spans": [
+        {
+          "text": "podem acabar dando o sexo para algum imbecil dali, camuflando tudo na ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7398910522461,
+            373.8128356933594,
+            515.3602905273438,
+            389.380615234375
+          ],
+          "origin": [
+            82.7398910522461,
+            386.1013488769531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        393.9132385253906,
+        515.3931274414062,
+        409.48101806640625
+      ],
+      "text": "amizade. Entretanto, se pularmos dentro deste círculo, ao invés de",
+      "spans": [
+        {
+          "text": "amizade. Entretanto, se pularmos dentro deste círculo, ao invés de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            393.9132385253906,
+            515.3931274414062,
+            409.48101806640625
+          ],
+          "origin": [
+            82.73989868164062,
+            406.2017517089844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        414.0730285644531,
+        515.4036865234375,
+        429.64080810546875
+      ],
+      "text": "fugirmos, e cativarmos essas pessoas, principalmente as mais magnéticas,",
+      "spans": [
+        {
+          "text": "fugirmos, e cativarmos essas pessoas, principalmente as mais magnéticas, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            414.0730285644531,
+            515.4036865234375,
+            429.64080810546875
+          ],
+          "origin": [
+            82.73989868164062,
+            426.3615417480469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        434.1734313964844,
+        515.4248657226562,
+        449.7412109375
+      ],
+      "text": "teremos duas vantagens: 1) a mulher irá nos admirar; 2) se ela,",
+      "spans": [
+        {
+          "text": "teremos duas vantagens: 1) a mulher irá nos admirar; 2) se ela, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            434.1734313964844,
+            515.4248657226562,
+            449.7412109375
+          ],
+          "origin": [
+            82.73989868164062,
+            446.4619445800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        454.3332214355469,
+        515.3427124023438,
+        469.9010009765625
+      ],
+      "text": "infelizmente, já houver se envolvido com algum \"amiguinho sem maldade\"",
+      "spans": [
+        {
+          "text": "infelizmente, já houver se envolvido com algum \"amiguinho sem maldade\" ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            454.3332214355469,
+            515.3427124023438,
+            469.9010009765625
+          ],
+          "origin": [
+            82.73989868164062,
+            466.6217346191406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        474.4336242675781,
+        515.4729614257812,
+        490.00140380859375
+      ],
+      "text": "suspeito dali, poderemos conquistar alguma amiga, de preferência a mais",
+      "spans": [
+        {
+          "text": "suspeito dali, poderemos conquistar alguma amiga, de preferência a mais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            474.4336242675781,
+            515.4729614257812,
+            490.00140380859375
+          ],
+          "origin": [
+            82.73989868164062,
+            486.7221374511719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        494.5934143066406,
+        515.4115600585938,
+        510.16119384765625
+      ],
+      "text": "chegada, e isto será um bom castigo que irá doer bastante... Então, nos",
+      "spans": [
+        {
+          "text": "chegada, e isto será um bom castigo que irá doer bastante... Então, nos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            494.5934143066406,
+            515.4115600585938,
+            510.16119384765625
+          ],
+          "origin": [
+            82.73989868164062,
+            506.8819274902344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        514.7532348632812,
+        515.4644775390625,
+        530.321044921875
+      ],
+      "text": "sentiremos vingados e poderemos rir da cara da espertinha. Teremos",
+      "spans": [
+        {
+          "text": "sentiremos vingados e poderemos rir da cara da espertinha. Teremos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            514.7532348632812,
+            515.4644775390625,
+            530.321044921875
+          ],
+          "origin": [
+            82.73989868164062,
+            527.041748046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        534.8535766601562,
+        515.5648193359375,
+        550.42138671875
+      ],
+      "text": "implodido a bolha que lhe dava acolhimento, removido seus pontos de apoio",
+      "spans": [
+        {
+          "text": "implodido a bolha que lhe dava acolhimento, removido seus pontos de apoio ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            534.8535766601562,
+            515.5648193359375,
+            550.42138671875
+          ],
+          "origin": [
+            82.73989868164062,
+            547.14208984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73989868164062,
+        555.0137939453125,
+        442.3125,
+        570.5816040039062
+      ],
+      "text": "emocional e ainda por cima recebido um prêmio bem merecido!",
+      "spans": [
+        {
+          "text": "emocional e ainda por cima recebido um prêmio bem merecido! ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73989868164062,
+            555.0137939453125,
+            442.3125,
+            570.5816040039062
+          ],
+          "origin": [
+            82.73989868164062,
+            567.3023071289062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "121",
+      "spans": [
+        {
+          "text": "121",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

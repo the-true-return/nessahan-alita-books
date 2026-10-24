@@ -1,0 +1,3313 @@
+{
+  "09-0001": {
+    "type": "heading",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          203.0,
+          77.5,
+          395.9,
+          93.0
+        ],
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 14.0,
+        "flags": 20,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      }
+    ]
+  },
+  "09-0002": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          120.5,
+          113.3,
+          513.4,
+          126.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          134.0,
+          513.4,
+          147.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          154.7,
+          513.5,
+          168.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          175.4,
+          513.4,
+          188.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          196.1,
+          513.4,
+          209.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          216.8,
+          513.4,
+          230.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          237.5,
+          513.4,
+          250.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          258.2,
+          155.4,
+          271.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      }
+    ]
+  },
+  "09-0003": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          120.5,
+          290.9,
+          513.4,
+          304.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          311.6,
+          513.4,
+          324.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          332.3,
+          513.3,
+          345.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          353.0,
+          513.4,
+          366.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          373.7,
+          513.5,
+          387.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          394.4,
+          513.5,
+          407.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          415.1,
+          513.4,
+          428.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          435.8,
+          513.4,
+          449.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          456.5,
+          513.4,
+          469.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          477.2,
+          386.9,
+          490.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      }
+    ]
+  },
+  "09-0004": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          120.5,
+          509.9,
+          513.4,
+          523.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          530.6,
+          506.9,
+          543.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      }
+    ]
+  },
+  "09-0005": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          120.5,
+          563.3,
+          513.4,
+          576.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          584.0,
+          351.3,
+          597.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      }
+    ]
+  },
+  "09-0006": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 32,
+        "bbox": [
+          120.5,
+          616.7,
+          513.4,
+          630.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          637.4,
+          513.4,
+          650.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          658.1,
+          513.4,
+          671.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          678.8,
+          513.4,
+          692.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          699.5,
+          513.5,
+          712.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          27
+        ]
+      },
+      {
+        "page": 32,
+        "bbox": [
+          85.1,
+          720.2,
+          513.3,
+          733.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          91.9,
+          147.4,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      }
+    ]
+  },
+  "09-0007": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 33,
+        "bbox": [
+          120.5,
+          124.6,
+          513.4,
+          137.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          145.3,
+          513.3,
+          158.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          166.0,
+          513.4,
+          179.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          186.7,
+          227.5,
+          200.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      }
+    ]
+  },
+  "09-0008": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 33,
+        "bbox": [
+          120.5,
+          219.4,
+          513.4,
+          232.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          240.1,
+          513.4,
+          253.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          260.8,
+          513.4,
+          274.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          281.5,
+          513.4,
+          294.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          302.2,
+          513.3,
+          315.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          322.9,
+          513.4,
+          336.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          343.5,
+          513.4,
+          356.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          364.2,
+          513.4,
+          377.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          384.9,
+          513.4,
+          398.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          405.6,
+          513.4,
+          418.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          426.3,
+          513.3,
+          439.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          447.0,
+          513.4,
+          460.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          467.7,
+          513.4,
+          481.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          488.4,
+          513.4,
+          501.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          509.1,
+          513.4,
+          522.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          529.8,
+          364.4,
+          543.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      }
+    ]
+  },
+  "09-0009": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 33,
+        "bbox": [
+          120.5,
+          562.5,
+          513.4,
+          575.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          583.2,
+          513.4,
+          596.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          603.9,
+          130.8,
+          617.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      }
+    ]
+  },
+  "09-0010": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 33,
+        "bbox": [
+          120.5,
+          636.6,
+          513.4,
+          649.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          657.3,
+          513.3,
+          670.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          678.0,
+          513.3,
+          691.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          27
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          698.7,
+          513.4,
+          712.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          719.4,
+          513.4,
+          732.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          29
+        ]
+      },
+      {
+        "page": 33,
+        "bbox": [
+          85.1,
+          740.1,
+          513.4,
+          753.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          30
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          91.9,
+          513.5,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          112.6,
+          342.6,
+          125.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      }
+    ]
+  },
+  "09-0011": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          145.3,
+          513.4,
+          158.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          166.0,
+          513.4,
+          179.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          186.7,
+          249.1,
+          200.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      }
+    ]
+  },
+  "09-0012": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          219.4,
+          513.4,
+          232.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          240.1,
+          513.4,
+          253.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          260.8,
+          513.4,
+          274.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          281.5,
+          513.4,
+          294.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          302.2,
+          513.3,
+          315.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          322.9,
+          513.4,
+          336.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          343.5,
+          513.4,
+          356.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          364.2,
+          513.4,
+          377.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          384.9,
+          513.3,
+          398.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          405.6,
+          513.4,
+          418.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          426.3,
+          513.3,
+          439.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          447.0,
+          341.3,
+          460.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      }
+    ]
+  },
+  "09-0013": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          479.7,
+          513.3,
+          493.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 34,
+        "bbox": [
+          85.1,
+          500.4,
+          342.3,
+          513.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      }
+    ]
+  },
+  "09-0014": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          533.1,
+          496.2,
+          546.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      }
+    ]
+  },
+  "09-0015": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          565.8,
+          199.9,
+          579.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      }
+    ]
+  },
+  "09-0016": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          598.5,
+          236.2,
+          611.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      }
+    ]
+  },
+  "09-0017": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          631.2,
+          253.3,
+          644.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      }
+    ]
+  },
+  "09-0018": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          663.9,
+          206.5,
+          677.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      }
+    ]
+  },
+  "09-0019": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          696.6,
+          304.5,
+          709.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      }
+    ]
+  },
+  "09-0020": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 34,
+        "bbox": [
+          120.5,
+          729.3,
+          319.9,
+          742.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      }
+    ]
+  },
+  "09-0021": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 35,
+        "bbox": [
+          120.5,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          91.9,
+          513.3,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          112.6,
+          513.4,
+          125.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          133.3,
+          513.3,
+          146.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          154.0,
+          513.4,
+          167.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          174.7,
+          513.4,
+          188.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          195.4,
+          513.6,
+          208.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          216.1,
+          513.4,
+          229.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          236.8,
+          513.4,
+          250.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          257.5,
+          513.4,
+          270.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          278.2,
+          513.4,
+          291.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          298.9,
+          513.4,
+          312.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          319.5,
+          513.4,
+          332.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          340.2,
+          513.4,
+          353.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          360.9,
+          513.3,
+          374.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          381.6,
+          152.1,
+          394.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      }
+    ]
+  },
+  "09-0022": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 35,
+        "bbox": [
+          120.5,
+          414.3,
+          513.4,
+          427.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          435.0,
+          513.4,
+          448.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          455.7,
+          513.4,
+          469.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          476.4,
+          513.4,
+          489.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          497.1,
+          513.5,
+          510.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          517.8,
+          513.4,
+          531.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          538.7,
+          513.4,
+          552.0
+        ],
+        "font": "TimesNewRomanPS-ItalicMT",
+        "size": 12.0,
+        "flags": 6,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          559.2,
+          513.4,
+          572.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          579.9,
+          513.4,
+          593.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          600.6,
+          513.4,
+          613.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          621.3,
+          513.4,
+          634.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          642.0,
+          513.3,
+          655.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          27
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          662.7,
+          513.4,
+          676.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          683.4,
+          218.3,
+          696.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          29
+        ]
+      }
+    ]
+  },
+  "09-0023": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 35,
+        "bbox": [
+          120.5,
+          716.1,
+          513.4,
+          729.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          30
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          736.8,
+          513.4,
+          750.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          31
+        ]
+      },
+      {
+        "page": 35,
+        "bbox": [
+          85.1,
+          757.5,
+          513.4,
+          770.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          32
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          91.9,
+          513.4,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          112.6,
+          513.4,
+          125.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          133.3,
+          513.5,
+          146.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          154.0,
+          513.4,
+          167.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          174.7,
+          513.4,
+          188.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          195.4,
+          513.4,
+          208.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          216.1,
+          513.5,
+          229.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          236.8,
+          513.4,
+          250.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          257.5,
+          513.3,
+          270.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          278.2,
+          425.0,
+          291.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      }
+    ]
+  },
+  "09-0024": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 36,
+        "bbox": [
+          120.5,
+          310.9,
+          513.4,
+          324.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          331.5,
+          513.4,
+          344.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          352.2,
+          513.4,
+          365.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          372.9,
+          513.4,
+          386.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          393.6,
+          513.4,
+          406.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          414.3,
+          388.9,
+          427.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      }
+    ]
+  },
+  "09-0025": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 36,
+        "bbox": [
+          120.5,
+          447.0,
+          513.3,
+          460.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          467.7,
+          513.3,
+          481.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          488.4,
+          513.3,
+          501.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          509.1,
+          513.4,
+          522.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          529.8,
+          513.4,
+          543.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          550.5,
+          513.4,
+          563.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          571.2,
+          360.4,
+          584.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      }
+    ]
+  },
+  "09-0026": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 36,
+        "bbox": [
+          120.5,
+          603.9,
+          513.4,
+          617.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          624.6,
+          513.3,
+          637.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          645.3,
+          513.4,
+          658.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          666.0,
+          513.4,
+          679.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          27
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          686.7,
+          513.4,
+          700.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          707.4,
+          513.4,
+          720.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          29
+        ]
+      },
+      {
+        "page": 36,
+        "bbox": [
+          85.1,
+          728.1,
+          471.4,
+          741.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          30
+        ]
+      }
+    ]
+  },
+  "09-0027": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 37,
+        "bbox": [
+          120.5,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          91.9,
+          513.4,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          112.6,
+          513.4,
+          125.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          133.3,
+          513.4,
+          146.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          154.0,
+          513.4,
+          167.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          174.7,
+          513.2,
+          188.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      }
+    ]
+  },
+  "09-0028": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 37,
+        "bbox": [
+          120.5,
+          207.4,
+          513.3,
+          220.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          228.1,
+          513.4,
+          241.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          248.8,
+          513.5,
+          262.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          269.5,
+          513.4,
+          282.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          290.2,
+          513.4,
+          303.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          310.9,
+          513.4,
+          324.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          331.5,
+          513.4,
+          344.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          352.2,
+          513.4,
+          365.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          372.9,
+          510.4,
+          386.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          393.6,
+          513.5,
+          406.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          414.3,
+          513.4,
+          427.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          435.0,
+          513.3,
+          448.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          455.7,
+          513.4,
+          469.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          476.4,
+          513.4,
+          489.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          497.1,
+          513.4,
+          510.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          517.8,
+          513.5,
+          531.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          538.5,
+          513.4,
+          551.8
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          559.2,
+          513.3,
+          572.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          579.9,
+          364.8,
+          593.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      }
+    ]
+  },
+  "09-0029": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 37,
+        "bbox": [
+          120.5,
+          612.6,
+          513.4,
+          625.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          633.3,
+          513.4,
+          646.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          654.0,
+          513.6,
+          667.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          27
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          674.7,
+          513.4,
+          688.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          695.4,
+          513.5,
+          708.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          29
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          716.1,
+          513.4,
+          729.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          30
+        ]
+      },
+      {
+        "page": 37,
+        "bbox": [
+          85.1,
+          736.8,
+          513.3,
+          750.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          31
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          71.2,
+          513.4,
+          84.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          91.9,
+          417.0,
+          105.2
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      }
+    ]
+  },
+  "09-0030": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          120.5,
+          124.6,
+          513.4,
+          137.9
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          145.3,
+          513.4,
+          158.6
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          166.0,
+          513.4,
+          179.3
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          186.7,
+          210.3,
+          200.0
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      }
+    ]
+  },
+  "09-0031": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          120.5,
+          219.4,
+          513.4,
+          232.7
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          240.1,
+          513.4,
+          253.4
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 38,
+        "bbox": [
+          85.1,
+          260.8,
+          141.1,
+          274.1
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      }
+    ]
+  },
+  "09-0032": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          212.8,
+          293.6,
+          385.6,
+          306.9
+        ],
+        "font": "TimesNewRomanPS-ItalicMT",
+        "size": 12.0,
+        "flags": 6,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      }
+    ]
+  },
+  "09-0033": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          216.7,
+          326.3,
+          381.7,
+          339.6
+        ],
+        "font": "TimesNewRomanPS-ItalicMT",
+        "size": 12.0,
+        "flags": 6,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      }
+    ]
+  },
+  "09-0034": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          165.2,
+          359.0,
+          433.2,
+          372.3
+        ],
+        "font": "TimesNewRomanPS-ItalicMT",
+        "size": 12.0,
+        "flags": 6,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      }
+    ]
+  },
+  "09-0035": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 38,
+        "bbox": [
+          120.5,
+          406.2,
+          443.5,
+          419.5
+        ],
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      }
+    ]
+  }
+}

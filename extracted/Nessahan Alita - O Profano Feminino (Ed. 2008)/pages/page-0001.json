@@ -1,0 +1,582 @@
+{
+  "page_number": 1,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        107.22000122070312,
+        105.36276245117188,
+        492.3511657714844,
+        124.74079895019531
+      ],
+      "text": "O SOFRIMENTO AMOROSO DO HOMEM - VOLUME II",
+      "spans": [
+        {
+          "text": "O",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            107.22000122070312,
+            105.36276245117188,
+            120.8388900756836,
+            124.74079895019531
+          ],
+          "origin": [
+            107.22000122070312,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "S",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            124.37999725341797,
+            105.36276245117188,
+            134.11277770996094,
+            124.74079895019531
+          ],
+          "origin": [
+            124.37999725341797,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "OFRIMENTO ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 14.120599746704102,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            134.16000366210938,
+            108.37826538085938,
+            226.19947814941406,
+            124.009765625
+          ],
+          "origin": [
+            134.16000366210938,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "A",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            226.1999969482422,
+            105.36276245117188,
+            238.83860778808594,
+            124.74079895019531
+          ],
+          "origin": [
+            226.1999969482422,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "MOROSO DO ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 14.120599746704102,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            238.86000061035156,
+            108.37826538085938,
+            331.39935302734375,
+            124.009765625
+          ],
+          "origin": [
+            238.86000061035156,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "H",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            331.32000732421875,
+            105.36276245117188,
+            344.93890380859375,
+            124.74079895019531
+          ],
+          "origin": [
+            331.32000732421875,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "OMEM ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 14.120599746704102,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            344.8800048828125,
+            108.37826538085938,
+            395.45721435546875,
+            124.009765625
+          ],
+          "origin": [
+            344.8800048828125,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "-",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            395.5199890136719,
+            105.36276245117188,
+            401.3491516113281,
+            124.74079895019531
+          ],
+          "origin": [
+            395.5199890136719,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "V",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            404.82000732421875,
+            105.36276245117188,
+            417.4586181640625,
+            124.74079895019531
+          ],
+          "origin": [
+            404.82000732421875,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "OLUME ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 14.120599746704102,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            417.4800109863281,
+            108.37826538085938,
+            474.25897216796875,
+            124.009765625
+          ],
+          "origin": [
+            417.4800109863281,
+            120.959716796875
+          ]
+        },
+        {
+          "text": "II ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 17.5049991607666,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            474.29998779296875,
+            105.36276245117188,
+            492.3511657714844,
+            124.74079895019531
+          ],
+          "origin": [
+            474.29998779296875,
+            120.959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.45999908447266,
+        125.46200561523438,
+        491.57623291015625,
+        185.16482543945312
+      ],
+      "text": "O Profano Feminino   \nConsiderações sobre uma Face da Mulher que Ninguém quer",
+      "spans": [
+        {
+          "text": "O Profano Feminino   ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 19.430400848388672,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            212.22000122070312,
+            145.76722717285156,
+            397.4305419921875,
+            167.27667236328125
+          ],
+          "origin": [
+            212.22000122070312,
+            163.0797119140625
+          ]
+        },
+        {
+          "text": "Considerações sobre uma Face da Mulher que Ninguém quer ",
+          "font": "TimesNewRomanPSMT",
+          "size": 15.579400062561035,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.45999908447266,
+            167.91844177246094,
+            491.57623291015625,
+            185.16482543945312
+          ],
+          "origin": [
+            107.45999908447266,
+            181.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        273.4211120605469,
+        185.85813903808594,
+        325.6385498046875,
+        203.10452270507812
+      ],
+      "text": "Encarar",
+      "spans": [
+        {
+          "text": "Encarar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 15.579400062561035,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            273.4211120605469,
+            185.85813903808594,
+            325.6385498046875,
+            203.10452270507812
+          ],
+          "origin": [
+            273.4211120605469,
+            199.7393798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        256.3203125,
+        203.36569213867188,
+        341.46380615234375,
+        227.48599243164062
+      ],
+      "text": "Por Nessahan Alita",
+      "spans": [
+        {
+          "text": "Por Nessahan Alita ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            256.3203125,
+            215.66555786132812,
+            341.46380615234375,
+            227.48599243164062
+          ],
+          "origin": [
+            256.3203125,
+            225.1795654296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        247.97999572753906,
+        227.96542358398438,
+        350.06103515625,
+        253.38040161132812
+      ],
+      "text": "Dados para citação:",
+      "spans": [
+        {
+          "text": "Dados para citação: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            247.97999572753906,
+            240.4617156982422,
+            350.06103515625,
+            253.38040161132812
+          ],
+          "origin": [
+            247.97999572753906,
+            250.85968017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        253.63743591308594,
+        515.4607543945312,
+        318.0604553222656
+      ],
+      "text": "ALITA, Nessahan (2005). O Profano Feminino: Considerações sobre uma Face da Mulher \nque Ninguém Quer Encarar. In: O Sofrimento Amoroso do Homem - Vol. II. Edição virtual \nindependente de 2008.",
+      "spans": [
+        {
+          "text": "ALITA, Nessahan (2005). O Profano Feminino: Considerações sobre uma Face da Mulher ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            264.8817443847656,
+            515.3878173828125,
+            277.8004455566406
+          ],
+          "origin": [
+            82.73999786376953,
+            275.27972412109375
+          ]
+        },
+        {
+          "text": "que Ninguém Quer Encarar. In: O Sofrimento Amoroso do Homem - Vol. II. Edição virtual ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            278.3217468261719,
+            515.4607543945312,
+            291.2408142089844
+          ],
+          "origin": [
+            82.73999786376953,
+            288.7200927734375
+          ]
+        },
+        {
+          "text": "independente de 2008. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            291.7013854980469,
+            191.0557098388672,
+            304.6200866699219
+          ],
+          "origin": [
+            82.73941040039062,
+            302.099365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        275.5196533203125,
+        318.7023010253906,
+        322.53228759765625,
+        331.6210021972656
+      ],
+      "text": "Resumo:",
+      "spans": [
+        {
+          "text": "Resumo: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            275.5196533203125,
+            318.7023010253906,
+            322.53228759765625,
+            331.6210021972656
+          ],
+          "origin": [
+            275.5196533203125,
+            329.10028076171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73943328857422,
+        332.08197021484375,
+        515.4525756835938,
+        398.5811462402344
+      ],
+      "text": "As mulheres possuem um lado sagrado e um lado profano. O lado profano consiste \nna aplicação da inteligência emocional para fins egoístas no campo amoroso, visando \nreceber dos homens o máximo de amor e retribuir o mínimo necessário e possível.",
+      "spans": [
+        {
+          "text": "As mulheres possuem um lado sagrado e um lado profano. O lado profano consiste ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23945617675781,
+            345.402099609375,
+            515.4525756835938,
+            358.32080078125
+          ],
+          "origin": [
+            117.23945617675781,
+            355.8000793457031
+          ]
+        },
+        {
+          "text": "na aplicação da inteligência emocional para fins egoístas no campo amoroso, visando ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73943328857422,
+            358.8424377441406,
+            515.3976440429688,
+            371.7611389160156
+          ],
+          "origin": [
+            82.73943328857422,
+            369.24041748046875
+          ]
+        },
+        {
+          "text": "receber dos homens o máximo de amor e retribuir o mínimo necessário e possível. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73943328857422,
+            372.28277587890625,
+            470.0830383300781,
+            385.20147705078125
+          ],
+          "origin": [
+            82.73943328857422,
+            382.6807556152344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        257.75909423828125,
+        399.2229919433594,
+        340.4271545410156,
+        412.1416931152344
+      ],
+      "text": "Palavras-chave:",
+      "spans": [
+        {
+          "text": "Palavras-chave: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            257.75909423828125,
+            399.2229919433594,
+            340.4271545410156,
+            412.1416931152344
+          ],
+          "origin": [
+            257.75909423828125,
+            409.6209716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        105.41891479492188,
+        412.663330078125,
+        492.76043701171875,
+        438.84149169921875
+      ],
+      "text": "relacionamentos amorosos - agressão emocional - questão de gênero - sexualidade",
+      "spans": [
+        {
+          "text": "relacionamentos amorosos - agressão emocional - questão de gênero - sexualidade ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            105.41891479492188,
+            425.92279052734375,
+            492.76043701171875,
+            438.84149169921875
+          ],
+          "origin": [
+            105.41891479492188,
+            436.3207702636719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.473876953125,
+        770.8849487304688
+      ],
+      "text": "1",
+      "spans": [
+        {
+          "text": "1",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            507.6016845703125,
+            760.097900390625,
+            512.473876953125,
+            770.8849487304688
+          ],
+          "origin": [
+            507.6016845703125,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

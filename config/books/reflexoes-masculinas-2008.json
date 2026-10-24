@@ -1,0 +1,17 @@
+{
+  "title_pt": "Reflexões Masculinas sobre a Mulher e o Amor",
+  "series_pt": "O Sofrimento Amoroso do Homem - Volume IV",
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - Reflexões Masculinas (Ed. 2008).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - Reflexões Masculinas (Ed. 2008)",
+  "drop_line_patterns": [
+    "pdfFactory"
+  ],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Marca d'água do pdfFactory no rodapé.",
+    "Muitos subtítulos (13.9 pt negrito); títulos de capítulo em 16.1 pt, exceto o cap. 4 (13.9 pt). Títulos em duas linhas.",
+    "Numeração dos capítulos no original é inconsistente: dois capítulos '5.' (pp. 40 e 46) e o '6. Algumas artimanhas femininas infernizantes' não consta do Índice. Preservar como no original e registrar QUERY."
+  ],
+  "edition": "2008"
+}

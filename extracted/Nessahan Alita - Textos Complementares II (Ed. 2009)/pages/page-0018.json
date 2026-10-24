@@ -1,0 +1,774 @@
+{
+  "page_number": 18,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        295.4997253417969,
+        92.95938110351562
+      ],
+      "text": "9. Desarticulação antecipada",
+      "spans": [
+        {
+          "text": "9. Desarticulação antecipada ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            295.4997253417969,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        105.28767395019531,
+        513.346923828125,
+        146.17164611816406
+      ],
+      "text": "Imaginemos um caso hipotético. Suponhamos que você se depara casualmente \ncom uma mulher que muito te agrada. Ela lhe parece perfeita e você realmente gostou \nmuito dela!",
+      "spans": [
+        {
+          "text": "Imaginemos um caso hipotético. Suponhamos que você se depara casualmente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.322509765625,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "com uma mulher que muito te agrada. Ela lhe parece perfeita e você realmente gostou ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            119.08766174316406,
+            513.346923828125,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08001708984375,
+            129.7796630859375
+          ]
+        },
+        {
+          "text": "muito dela! ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            132.8876495361328,
+            143.12403869628906,
+            146.17164611816406
+          ],
+          "origin": [
+            85.08001708984375,
+            143.57965087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        158.68763732910156,
+        513.3451538085938,
+        213.37159729003906
+      ],
+      "text": "Então você pede um número de telefone e ela te fornece com toda amabilidade. \nTudo indica que as coisas estão indo muito bem: sorrisos, olhares, conversas \nmaravilhosas! Suas esperanças crescem! Você liga para ela no dia combinado e \nentão...ela não atende, deixa o telefone desligado ou algo assim!",
+      "spans": [
+        {
+          "text": "Então você pede um número de telefone e ela te fornece com toda amabilidade. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            158.68763732910156,
+            513.3451538085938,
+            171.9716339111328
+          ],
+          "origin": [
+            120.5400161743164,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "Tudo indica que as coisas estão indo muito bem: sorrisos, olhares, conversas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            172.4876251220703,
+            513.3021240234375,
+            185.77162170410156
+          ],
+          "origin": [
+            85.08001708984375,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "maravilhosas! Suas esperanças crescem! Você liga para ela no dia combinado e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            186.28761291503906,
+            513.3297119140625,
+            199.5716094970703
+          ],
+          "origin": [
+            85.08001708984375,
+            196.9796142578125
+          ]
+        },
+        {
+          "text": "então...ela não atende, deixa o telefone desligado ou algo assim!  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            200.0876007080078,
+            399.20892333984375,
+            213.37159729003906
+          ],
+          "origin": [
+            85.08001708984375,
+            210.77960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        225.88758850097656,
+        513.393798828125,
+        266.7715759277344
+      ],
+      "text": "Ou então suponhamos que você consiga marcar um encontro e ela corresponda \ntotalmente. Cheia de pretenso entusiasmo, ela concorda em vê-lo em tal data. Mas, no \ndia do encontro, ela simplesmente não aparece.",
+      "spans": [
+        {
+          "text": "Ou então suponhamos que você consiga marcar um encontro e ela corresponda ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            225.88758850097656,
+            513.393798828125,
+            239.1715850830078
+          ],
+          "origin": [
+            120.5400161743164,
+            236.57958984375
+          ]
+        },
+        {
+          "text": "totalmente. Cheia de pretenso entusiasmo, ela concorda em vê-lo em tal data. Mas, no ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            239.6875762939453,
+            513.2525634765625,
+            252.97157287597656
+          ],
+          "origin": [
+            85.08001708984375,
+            250.37957763671875
+          ]
+        },
+        {
+          "text": "dia do encontro, ela simplesmente não aparece. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            253.48756408691406,
+            314.72412109375,
+            266.7715759277344
+          ],
+          "origin": [
+            85.08001708984375,
+            264.1795654296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        279.2875671386719,
+        513.4251708984375,
+        306.3715515136719
+      ],
+      "text": "Em ambos os casos, você foi vítima de uma trapaça amorosa. Coisas assim já te \naconteceram? Com certeza que sim, pois tal comportamento é uma regra e é previsível.",
+      "spans": [
+        {
+          "text": "Em ambos os casos, você foi vítima de uma trapaça amorosa. Coisas assim já te ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            279.2875671386719,
+            513.4251708984375,
+            292.5715637207031
+          ],
+          "origin": [
+            120.5400161743164,
+            289.97955322265625
+          ]
+        },
+        {
+          "text": "aconteceram? Com certeza que sim, pois tal comportamento é uma regra e é previsível. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            293.0875549316406,
+            507.033935546875,
+            306.3715515136719
+          ],
+          "origin": [
+            85.08001708984375,
+            303.779541015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        318.8875427246094,
+        513.3758544921875,
+        359.7715148925781
+      ],
+      "text": "Quais  foram os seus erros? Primeiro: acreditou nela. Segundo: entusiasmou-se. \nTerceiro: não criou uma situação encurralante definitiva, que a obrigasse a mostrar a \nverdadeira cara.",
+      "spans": [
+        {
+          "text": "Quais  foram os seus erros? Primeiro: acreditou nela. Segundo: entusiasmou-se. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            318.8875427246094,
+            513.357666015625,
+            332.1715393066406
+          ],
+          "origin": [
+            120.5400161743164,
+            329.57952880859375
+          ]
+        },
+        {
+          "text": "Terceiro: não criou uma situação encurralante definitiva, que a obrigasse a mostrar a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            332.6875305175781,
+            513.3758544921875,
+            345.9715270996094
+          ],
+          "origin": [
+            85.08001708984375,
+            343.3795166015625
+          ]
+        },
+        {
+          "text": "verdadeira cara.                                                       ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            346.4875183105469,
+            326.7000427246094,
+            359.7715148925781
+          ],
+          "origin": [
+            85.08001708984375,
+            357.17950439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        372.2875061035156,
+        513.3424072265625,
+        440.7714538574219
+      ],
+      "text": "Frustrar compromissos amorosos, amavelmente assumidos, é uma regra adotada \npor muitas mulheres e as situações encurralantes são as condições que criamos para que \nsuas verdadeiras intenções se revelem. Como se trata de uma tendência dominante, a \nfrustração é algo previsível e esperado, sendo muito mais fácil antecipá-la para prevenir \ndo que remediar.",
+      "spans": [
+        {
+          "text": "Frustrar compromissos amorosos, amavelmente assumidos, é uma regra adotada ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            372.2875061035156,
+            513.3338623046875,
+            385.5715026855469
+          ],
+          "origin": [
+            120.5400161743164,
+            382.9794921875
+          ]
+        },
+        {
+          "text": "por muitas mulheres e as situações encurralantes são as condições que criamos para que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            386.0874938964844,
+            513.3328857421875,
+            399.3714904785156
+          ],
+          "origin": [
+            85.08001708984375,
+            396.77947998046875
+          ]
+        },
+        {
+          "text": "suas verdadeiras intenções se revelem. Como se trata de uma tendência dominante, a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            399.8874816894531,
+            513.3126831054688,
+            413.1714782714844
+          ],
+          "origin": [
+            85.08001708984375,
+            410.5794677734375
+          ]
+        },
+        {
+          "text": "frustração é algo previsível e esperado, sendo muito mais fácil antecipá-la para prevenir ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            413.6874694824219,
+            513.3424072265625,
+            426.9714660644531
+          ],
+          "origin": [
+            85.08001708984375,
+            424.37945556640625
+          ]
+        },
+        {
+          "text": "do que remediar.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            427.4874572753906,
+            172.0655975341797,
+            440.7714538574219
+          ],
+          "origin": [
+            85.08000183105469,
+            438.179443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        453.2874450683594,
+        513.4244384765625,
+        507.9714050292969
+      ],
+      "text": "Como a trapaça e a frustração são as regras, sempre que marcarmos um \ncompromisso amoroso com uma mulher (telefonema, encontro, passeio etc.), é \nindispensável “prendê-la” por meio de situações encurralantes que definam a situação \nantes que a espertinha tente frustrar-nos.",
+      "spans": [
+        {
+          "text": "Como a trapaça e a frustração são as regras, sempre que marcarmos um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            453.2874450683594,
+            513.4244384765625,
+            466.5714416503906
+          ],
+          "origin": [
+            120.54000091552734,
+            463.97943115234375
+          ]
+        },
+        {
+          "text": "compromisso amoroso com uma mulher (telefonema, encontro, passeio etc.), é ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            467.0874328613281,
+            513.2659912109375,
+            480.3714294433594
+          ],
+          "origin": [
+            85.08000183105469,
+            477.7794189453125
+          ]
+        },
+        {
+          "text": "indispensável “prendê-la” por meio de situações encurralantes que definam a situação ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            480.8874206542969,
+            513.31640625,
+            494.1714172363281
+          ],
+          "origin": [
+            85.08001708984375,
+            491.57940673828125
+          ]
+        },
+        {
+          "text": "antes que a espertinha tente frustrar-nos.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            494.6874084472656,
+            284.9664001464844,
+            507.9714050292969
+          ],
+          "origin": [
+            85.08001708984375,
+            505.37939453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        520.4873657226562,
+        513.3837890625,
+        685.5113525390625
+      ],
+      "text": "Como as trapaças são uma regra, não devem constituir surpresa e, a bem da \nverdade, tratam-se somente de algo esperado e previsível. Logo, o meio mais sensato de \ncombatê-las é pela via profilática: desarticulá-las antes que se iniciem. O momento mais \npropício para desarticulá-las é aquele em que tudo está maravilhosamente bem (o \nmomento em que nossas esperanças começam a crescer). Nada de entusiasmo! O \nmomento em que ela acena com um futuro (próximo ou distante) maravilhoso, é o \nmomento de exigir garantias de sinceridade, honestidade, coerência e transparência. É \ntambém o momento de comunicar regras claras que evitem a indefinição, o \ndesaparecimento súbito e outras infernizações. Costuma dar resultado exigir \nantecipadamente o cumprimento dos compromissos assumidos. O que importa é sair na \nfrente e chegar antes, não deixando que a trapaça aconteça, ou seja, abortá-la antes do \nnascimento.",
+      "spans": [
+        {
+          "text": "Como as trapaças são uma regra, não devem constituir surpresa e, a bem da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54002380371094,
+            520.4873657226562,
+            513.304931640625,
+            533.7713623046875
+          ],
+          "origin": [
+            120.54002380371094,
+            531.1793823242188
+          ]
+        },
+        {
+          "text": "verdade, tratam-se somente de algo esperado e previsível. Logo, o meio mais sensato de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            534.287353515625,
+            513.3397216796875,
+            547.5713500976562
+          ],
+          "origin": [
+            85.08001708984375,
+            544.9793701171875
+          ]
+        },
+        {
+          "text": "combatê-las é pela via profilática: desarticulá-las antes que se iniciem. O momento mais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            548.0873413085938,
+            513.3341064453125,
+            561.371337890625
+          ],
+          "origin": [
+            85.08001708984375,
+            558.7793579101562
+          ]
+        },
+        {
+          "text": "propício para desarticulá-las é aquele em que tudo está maravilhosamente bem (o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            561.8873291015625,
+            513.2476806640625,
+            575.1713256835938
+          ],
+          "origin": [
+            85.08001708984375,
+            572.579345703125
+          ]
+        },
+        {
+          "text": "momento em que nossas esperanças começam a crescer). Nada de entusiasmo! O ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            575.6873168945312,
+            513.3425903320312,
+            588.9713134765625
+          ],
+          "origin": [
+            85.08000183105469,
+            586.3793334960938
+          ]
+        },
+        {
+          "text": "momento em que ela acena com um futuro (próximo ou distante) maravilhoso, é o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            589.4873046875,
+            513.3837890625,
+            602.7713012695312
+          ],
+          "origin": [
+            85.08000183105469,
+            600.1793212890625
+          ]
+        },
+        {
+          "text": "momento de exigir garantias de sinceridade, honestidade, coerência e transparência. É ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            603.287353515625,
+            513.3662109375,
+            616.5713500976562
+          ],
+          "origin": [
+            85.08001708984375,
+            613.9793701171875
+          ]
+        },
+        {
+          "text": "também o momento de comunicar regras claras que evitem a indefinição, o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            617.0873413085938,
+            513.3598022460938,
+            630.371337890625
+          ],
+          "origin": [
+            85.08001708984375,
+            627.7793579101562
+          ]
+        },
+        {
+          "text": "desaparecimento súbito e outras infernizações. Costuma dar resultado exigir ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            630.8873291015625,
+            513.3372802734375,
+            644.1713256835938
+          ],
+          "origin": [
+            85.08001708984375,
+            641.579345703125
+          ]
+        },
+        {
+          "text": "antecipadamente o cumprimento dos compromissos assumidos. O que importa é sair na ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            644.6873779296875,
+            513.2979125976562,
+            657.9713745117188
+          ],
+          "origin": [
+            85.08001708984375,
+            655.37939453125
+          ]
+        },
+        {
+          "text": "frente e chegar antes, não deixando que a trapaça aconteça, ou seja, abortá-la antes do ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            658.4273681640625,
+            513.372802734375,
+            671.7113647460938
+          ],
+          "origin": [
+            85.08001708984375,
+            669.119384765625
+          ]
+        },
+        {
+          "text": "nascimento.                                                ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            672.2273559570312,
+            286.6703796386719,
+            685.5113525390625
+          ],
+          "origin": [
+            85.08001708984375,
+            682.9193725585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "18",
+      "spans": [
+        {
+          "text": "18",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

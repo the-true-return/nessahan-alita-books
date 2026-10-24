@@ -1,0 +1,755 @@
+{
+  "page_number": 61,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        70.90128326416016,
+        316.7808532714844,
+        87.21552276611328
+      ],
+      "text": "A contradição preserva o desejo",
+      "spans": [
+        {
+          "text": "A contradição preserva o desejo",
+          "font": "BookmanOldStyle,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            70.90128326416016,
+            316.7808532714844,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        108.2754898071289,
+        526.6943969726562,
+        123.93549346923828
+      ],
+      "text": "O interesse masculino é preservado pela conduta feminina",
+      "spans": [
+        {
+          "text": "O interesse masculino é preservado pela conduta feminina",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            108.2754898071289,
+            526.6943969726562,
+            123.93549346923828
+          ],
+          "origin": [
+            120.47999572753906,
+            120.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        132.75547790527344,
+        526.7233276367188,
+        148.41546630859375
+      ],
+      "text": "contraditória porque esta não permite que o desejo se satisfaça",
+      "spans": [
+        {
+          "text": "contraditória porque esta não permite que o desejo se satisfaça",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            132.75547790527344,
+            526.7233276367188,
+            148.41546630859375
+          ],
+          "origin": [
+            84.95999145507812,
+            145.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        157.47544860839844,
+        526.6943969726562,
+        173.13543701171875
+      ],
+      "text": "e, ao mesmo tempo, o impede de ser direcionado a uma fêmea",
+      "spans": [
+        {
+          "text": "e, ao mesmo tempo, o impede de ser direcionado a uma fêmea",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            157.47544860839844,
+            526.6943969726562,
+            173.13543701171875
+          ],
+          "origin": [
+            84.95999145507812,
+            169.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        182.19541931152344,
+        517.0559692382812,
+        197.85540771484375
+      ],
+      "text": "rival.  A conduta contraditória prende o desejo a quem a adota.",
+      "spans": [
+        {
+          "text": "rival.  A conduta contraditória prende o desejo a quem a adota.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            182.19541931152344,
+            517.0559692382812,
+            197.85540771484375
+          ],
+          "origin": [
+            84.95999145507812,
+            194.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        218.67539978027344,
+        526.8096313476562,
+        234.33538818359375
+      ],
+      "text": "Podemos inverter o jogo da perseguição adotando posturas",
+      "spans": [
+        {
+          "text": "Podemos inverter o jogo da perseguição adotando posturas",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            218.67539978027344,
+            526.8096313476562,
+            234.33538818359375
+          ],
+          "origin": [
+            120.47999572753906,
+            231.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        243.39537048339844,
+        526.8096923828125,
+        259.05535888671875
+      ],
+      "text": "contraditórias, ao invés das comuns condutas masculinas",
+      "spans": [
+        {
+          "text": "contraditórias, ao invés das comuns condutas masculinas",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            243.39537048339844,
+            526.8096923828125,
+            259.05535888671875
+          ],
+          "origin": [
+            84.95999145507812,
+            255.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        268.1153564453125,
+        154.22398376464844,
+        283.7753601074219
+      ],
+      "text": "coerentes.",
+      "spans": [
+        {
+          "text": "coerentes.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            268.1153564453125,
+            154.22398376464844,
+            283.7753601074219
+          ],
+          "origin": [
+            84.95999145507812,
+            280.5598449707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        304.1811218261719,
+        358.78082275390625,
+        320.495361328125
+      ],
+      "text": "A conduta coerente extingue o desejo",
+      "spans": [
+        {
+          "text": "A conduta coerente extingue o desejo",
+          "font": "BookmanOldStyle,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            304.1811218261719,
+            358.78082275390625,
+            320.495361328125
+          ],
+          "origin": [
+            84.95999145507812,
+            317.27984619140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        341.31536865234375,
+        526.8192138671875,
+        356.9753723144531
+      ],
+      "text": "Quando a mulher age de forma absolutamente coerente e",
+      "spans": [
+        {
+          "text": "Quando a mulher age de forma absolutamente coerente e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            341.31536865234375,
+            526.8192138671875,
+            356.9753723144531
+          ],
+          "origin": [
+            120.47999572753906,
+            353.7598571777344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        366.0353698730469,
+        526.79052734375,
+        381.69537353515625
+      ],
+      "text": "definida, manifestando apenas interesse ou desinteresse, de",
+      "spans": [
+        {
+          "text": "definida, manifestando apenas interesse ou desinteresse, de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            366.0353698730469,
+            526.79052734375,
+            381.69537353515625
+          ],
+          "origin": [
+            84.95999145507812,
+            378.4798583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        390.75537109375,
+        526.6560668945312,
+        406.4153747558594
+      ],
+      "text": "forma clara, explícita e totalmente inequívoca, podem acontecer",
+      "spans": [
+        {
+          "text": "forma clara, explícita e totalmente inequívoca, podem acontecer",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            390.75537109375,
+            526.6560668945312,
+            406.4153747558594
+          ],
+          "origin": [
+            84.95999145507812,
+            403.1998596191406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        415.2353820800781,
+        244.19517517089844,
+        430.8953857421875
+      ],
+      "text": "uma entre duas coisas:",
+      "spans": [
+        {
+          "text": "uma entre duas coisas:",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            415.2353820800781,
+            244.19517517089844,
+            430.8953857421875
+          ],
+          "origin": [
+            84.95999145507812,
+            427.67987060546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        451.8022766113281,
+        526.8672485351562,
+        467.6153869628906
+      ],
+      "text": "1) \nNo caso da mulher estar interessada, as investidas do",
+      "spans": [
+        {
+          "text": "1)",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            451.95538330078125,
+            133.28639221191406,
+            467.6153869628906
+          ],
+          "origin": [
+            120.47999572753906,
+            464.3998718261719
+          ]
+        },
+        {
+          "text": "No caso da mulher estar interessada, as investidas do",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.0,
+            451.95538330078125,
+            526.8672485351562,
+            467.6153869628906
+          ],
+          "origin": [
+            156.0,
+            464.3998718261719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        476.6753845214844,
+        526.8577270507812,
+        492.33538818359375
+      ],
+      "text": "homem serão aceitas, seu desejo será satisfeito e o interesse",
+      "spans": [
+        {
+          "text": "homem serão aceitas, seu desejo será satisfeito e o interesse",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            476.6753845214844,
+            526.8577270507812,
+            492.33538818359375
+          ],
+          "origin": [
+            84.95999908447266,
+            489.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        501.3953552246094,
+        384.8255920410156,
+        517.0553588867188
+      ],
+      "text": "masculino será momentaneamente perdido;",
+      "spans": [
+        {
+          "text": "masculino será momentaneamente perdido;",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            501.3953552246094,
+            384.8255920410156,
+            517.0553588867188
+          ],
+          "origin": [
+            84.95999908447266,
+            513.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        537.7222900390625,
+        526.7904663085938,
+        553.535400390625
+      ],
+      "text": "2) \nNo caso da mulher não estar interessada, as",
+      "spans": [
+        {
+          "text": "2)",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            537.8754272460938,
+            133.28639221191406,
+            553.535400390625
+          ],
+          "origin": [
+            120.47999572753906,
+            550.3198852539062
+          ]
+        },
+        {
+          "text": "No caso da mulher não estar interessada, as",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.0,
+            537.8754272460938,
+            526.7904663085938,
+            553.535400390625
+          ],
+          "origin": [
+            156.0,
+            550.3198852539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        562.5953979492188,
+        526.9152221679688,
+        578.25537109375
+      ],
+      "text": "investidas do homem serão rejeitadas claramente, não restarão",
+      "spans": [
+        {
+          "text": "investidas do homem serão rejeitadas claramente, não restarão",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            562.5953979492188,
+            526.9152221679688,
+            578.25537109375
+          ],
+          "origin": [
+            84.95999908447266,
+            575.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        587.3154296875,
+        526.6943969726562,
+        602.9754028320312
+      ],
+      "text": "dúvidas, ele não perderá mais seu tempo feito um trouxa e irá",
+      "spans": [
+        {
+          "text": "dúvidas, ele não perderá mais seu tempo feito um trouxa e irá",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            587.3154296875,
+            526.6943969726562,
+            602.9754028320312
+          ],
+          "origin": [
+            84.95999908447266,
+            599.7598876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        611.79541015625,
+        186.1343994140625,
+        627.4553833007812
+      ],
+      "text": "atrás de outra.",
+      "spans": [
+        {
+          "text": "atrás de outra.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            611.79541015625,
+            186.1343994140625,
+            627.4553833007812
+          ],
+          "origin": [
+            84.95999908447266,
+            624.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        648.515380859375,
+        526.684814453125,
+        664.1753540039062
+      ],
+      "text": "Em ambos os casos, a continuidade dos desejos será",
+      "spans": [
+        {
+          "text": "Em ambos os casos, a continuidade dos desejos será",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            648.515380859375,
+            526.684814453125,
+            664.1753540039062
+          ],
+          "origin": [
+            120.47999572753906,
+            660.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        673.2354125976562,
+        526.67529296875,
+        688.8953857421875
+      ],
+      "text": "perdida. É por isso que as espertinhas evitam a conduta",
+      "spans": [
+        {
+          "text": "perdida. É por isso que as espertinhas evitam a conduta",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            673.2354125976562,
+            526.67529296875,
+            688.8953857421875
+          ],
+          "origin": [
+            84.95999145507812,
+            685.6798706054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        697.9554443359375,
+        526.8193359375,
+        713.6154174804688
+      ],
+      "text": "definida a todo custo. E é por isso também que somos nós que",
+      "spans": [
+        {
+          "text": "definida a todo custo. E é por isso também que somos nós que",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            697.9554443359375,
+            526.8193359375,
+            713.6154174804688
+          ],
+          "origin": [
+            84.95999145507812,
+            710.39990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.139892578125,
+            239.9760284423828,
+            782.5438842773438
+          ],
+          "origin": [
+            17.99999237060547,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

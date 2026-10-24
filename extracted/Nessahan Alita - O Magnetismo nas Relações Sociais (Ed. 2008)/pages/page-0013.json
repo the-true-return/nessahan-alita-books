@@ -1,0 +1,1092 @@
+{
+  "page_number": 13,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20802307128906,
+        526.015380859375,
+        84.49202728271484
+      ],
+      "text": "passional e não se isole da corrente magnética que concentrou e começou a",
+      "spans": [
+        {
+          "text": "passional e não se isole da corrente magnética que concentrou e começou a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20802307128906,
+            526.015380859375,
+            84.49202728271484
+          ],
+          "origin": [
+            85.08000183105469,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        91.90803527832031,
+        526.0343627929688,
+        105.1920394897461
+      ],
+      "text": "movimentar. O isolamento se consegue pela recordação de si e pela morte",
+      "spans": [
+        {
+          "text": "movimentar. O isolamento se consegue pela recordação de si e pela morte",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            91.90803527832031,
+            526.0343627929688,
+            105.1920394897461
+          ],
+          "origin": [
+            85.08000183105469,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        110.66984558105469,
+        145.8000030517578,
+        125.89205169677734
+      ],
+      "text": "dos egos1.",
+      "spans": [
+        {
+          "text": "dos egos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            112.60804748535156,
+            133.81199645996094,
+            125.89205169677734
+          ],
+          "origin": [
+            85.07998657226562,
+            123.300048828125
+          ]
+        },
+        {
+          "text": "1",
+          "font": "TimesNewRoman",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            134.75999450683594,
+            110.66984558105469,
+            138.75,
+            119.50370788574219
+          ],
+          "origin": [
+            134.75999450683594,
+            117.780029296875
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.77999877929688,
+            112.60792541503906,
+            145.8000030517578,
+            125.89192962646484
+          ],
+          "origin": [
+            138.77999877929688,
+            123.2999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        145.30799865722656,
+        525.9070434570312,
+        158.5919952392578
+      ],
+      "text": "Quanto \nmais \nmortos \nestivermos \npsiquicamente, \ntanto \nmenos",
+      "spans": [
+        {
+          "text": "Quanto ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            145.30799865722656,
+            164.8175811767578,
+            158.5919952392578
+          ],
+          "origin": [
+            120.54000091552734,
+            156.0
+          ]
+        },
+        {
+          "text": "mais ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            176.0675811767578,
+            145.30799865722656,
+            205.76036071777344,
+            158.5919952392578
+          ],
+          "origin": [
+            176.0675811767578,
+            156.0
+          ]
+        },
+        {
+          "text": "mortos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            217.01036071777344,
+            145.30799865722656,
+            259.3895568847656,
+            158.5919952392578
+          ],
+          "origin": [
+            217.01036071777344,
+            156.0
+          ]
+        },
+        {
+          "text": "estivermos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            270.6395568847656,
+            145.30799865722656,
+            335.5283203125,
+            158.5919952392578
+          ],
+          "origin": [
+            270.6395568847656,
+            156.0
+          ]
+        },
+        {
+          "text": "psiquicamente, ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            346.7783203125,
+            145.30799865722656,
+            436.1134338378906,
+            158.5919952392578
+          ],
+          "origin": [
+            346.7783203125,
+            156.0
+          ]
+        },
+        {
+          "text": "tanto ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            447.3634338378906,
+            145.30799865722656,
+            479.3674011230469,
+            158.5919952392578
+          ],
+          "origin": [
+            447.3634338378906,
+            156.0
+          ]
+        },
+        {
+          "text": "menos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            490.6174011230469,
+            145.30799865722656,
+            525.9070434570312,
+            158.5919952392578
+          ],
+          "origin": [
+            490.6174011230469,
+            156.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        166.0080108642578,
+        526.0298461914062,
+        179.29200744628906
+      ],
+      "text": "condicionados estaremos e tanto maior será nossa capacidade de nos",
+      "spans": [
+        {
+          "text": "condicionados estaremos e tanto maior será nossa capacidade de nos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            166.0080108642578,
+            526.0298461914062,
+            179.29200744628906
+          ],
+          "origin": [
+            85.08000183105469,
+            176.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        186.70802307128906,
+        471.34906005859375,
+        199.9920196533203
+      ],
+      "text": "comportarmos de maneira a simpatizar ou antipatizar com o outro.",
+      "spans": [
+        {
+          "text": "comportarmos de maneira a simpatizar ou antipatizar com o outro. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            186.70802307128906,
+            471.34906005859375,
+            199.9920196533203
+          ],
+          "origin": [
+            85.08001708984375,
+            197.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        219.40797424316406,
+        525.9309692382812,
+        232.6919708251953
+      ],
+      "text": "A \ndissolução \ndos \negos \nerradica \nos \ncondicionamentos",
+      "spans": [
+        {
+          "text": "A ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            219.40797424316406,
+            133.18319702148438,
+            232.6919708251953
+          ],
+          "origin": [
+            120.54000091552734,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "dissolução ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            151.4832000732422,
+            219.40797424316406,
+            215.0352325439453,
+            232.6919708251953
+          ],
+          "origin": [
+            151.4832000732422,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "dos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            233.33523559570312,
+            219.40797424316406,
+            255.99124145507812,
+            232.6919708251953
+          ],
+          "origin": [
+            233.33523559570312,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "egos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            274.2912292480469,
+            219.40797424316406,
+            303.2591857910156,
+            232.6919708251953
+          ],
+          "origin": [
+            274.2912292480469,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "erradica ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            321.5591735839844,
+            219.40797424316406,
+            371.27508544921875,
+            232.6919708251953
+          ],
+          "origin": [
+            321.5591735839844,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "os ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            389.5750732421875,
+            219.40797424316406,
+            405.2518615722656,
+            232.6919708251953
+          ],
+          "origin": [
+            389.5750732421875,
+            230.0999755859375
+          ]
+        },
+        {
+          "text": "condicionamentos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            423.5518493652344,
+            219.40797424316406,
+            525.9309692382812,
+            232.6919708251953
+          ],
+          "origin": [
+            423.5518493652344,
+            230.0999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        240.1079864501953,
+        525.987548828125,
+        253.39198303222656
+      ],
+      "text": "comportamentais, nos proporcionando liberdade interna para agirmos tanto",
+      "spans": [
+        {
+          "text": "comportamentais, nos proporcionando liberdade interna para agirmos tanto",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            240.1079864501953,
+            525.987548828125,
+            253.39198303222656
+          ],
+          "origin": [
+            85.08000183105469,
+            250.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        260.8080139160156,
+        526.0244750976562,
+        274.0920104980469
+      ],
+      "text": "de uma maneira como da maneira oposta, de acordo com as necessidades",
+      "spans": [
+        {
+          "text": "de uma maneira como da maneira oposta, de acordo com as necessidades",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            260.8080139160156,
+            526.0244750976562,
+            274.0920104980469
+          ],
+          "origin": [
+            85.07998657226562,
+            271.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        281.5080261230469,
+        526.0704345703125,
+        294.7920227050781
+      ],
+      "text": "circunstanciais. Ao invés de vítimas, nos convertemos em senhores das",
+      "spans": [
+        {
+          "text": "circunstanciais. Ao invés de vítimas, nos convertemos em senhores das",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            281.5080261230469,
+            526.0704345703125,
+            294.7920227050781
+          ],
+          "origin": [
+            85.07998657226562,
+            292.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        302.2080383300781,
+        170.12396240234375,
+        315.4920349121094
+      ],
+      "text": "circunstâncias.",
+      "spans": [
+        {
+          "text": "circunstâncias.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            302.2080383300781,
+            170.12396240234375,
+            315.4920349121094
+          ],
+          "origin": [
+            85.07997131347656,
+            312.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        334.8480224609375,
+        525.9349365234375,
+        348.13201904296875
+      ],
+      "text": "Para dominar o fluxo dos acontecimentos é necessário, antes de tudo,",
+      "spans": [
+        {
+          "text": "Para dominar o fluxo dos acontecimentos é necessário, antes de tudo,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            334.8480224609375,
+            525.9349365234375,
+            348.13201904296875
+          ],
+          "origin": [
+            120.54000091552734,
+            345.5400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        355.54803466796875,
+        525.9241943359375,
+        368.83203125
+      ],
+      "text": "não possuirmos condicionamentos comportamentais. Os condicionamentos",
+      "spans": [
+        {
+          "text": "não possuirmos condicionamentos comportamentais. Os condicionamentos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            355.54803466796875,
+            525.9241943359375,
+            368.83203125
+          ],
+          "origin": [
+            85.07998657226562,
+            366.2400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        376.248046875,
+        526.0174560546875,
+        389.53204345703125
+      ],
+      "text": "comportamentais são fraquezas por onde somos manipulados pelas",
+      "spans": [
+        {
+          "text": "comportamentais são fraquezas por onde somos manipulados pelas",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            376.248046875,
+            526.0174560546875,
+            389.53204345703125
+          ],
+          "origin": [
+            85.0799560546875,
+            386.9400329589844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        396.94805908203125,
+        170.1239471435547,
+        410.2320556640625
+      ],
+      "text": "circunstâncias.",
+      "spans": [
+        {
+          "text": "circunstâncias.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            396.94805908203125,
+            170.1239471435547,
+            410.2320556640625
+          ],
+          "origin": [
+            85.0799560546875,
+            407.6400451660156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        429.64801025390625,
+        525.90576171875,
+        442.9320068359375
+      ],
+      "text": "Aquele que se entrega a uma paixão não pode dominá-la pois está",
+      "spans": [
+        {
+          "text": "Aquele que se entrega a uma paixão não pode dominá-la pois está",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            429.64801025390625,
+            525.90576171875,
+            442.9320068359375
+          ],
+          "origin": [
+            120.54000091552734,
+            440.3399963378906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        450.3480224609375,
+        526.0606689453125,
+        463.63201904296875
+      ],
+      "text": "dominado. O simples aparecimento de um velhaco que o tome através desta",
+      "spans": [
+        {
+          "text": "dominado. O simples aparecimento de um velhaco que o tome através desta",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            450.3480224609375,
+            526.0606689453125,
+            463.63201904296875
+          ],
+          "origin": [
+            85.08001708984375,
+            461.0400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        471.04803466796875,
+        270.1152648925781,
+        484.33203125
+      ],
+      "text": "paixão o converterá em escravo.",
+      "spans": [
+        {
+          "text": "paixão o converterá em escravo.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            471.04803466796875,
+            270.1152648925781,
+            484.33203125
+          ],
+          "origin": [
+            85.08001708984375,
+            481.7400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        503.7479553222656,
+        525.9840087890625,
+        517.0319213867188
+      ],
+      "text": "Aquele que estiver imune ao magnetismo, ou seja, à fascinação e,",
+      "spans": [
+        {
+          "text": "Aquele que estiver imune ao magnetismo, ou seja, à fascinação e,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            503.7479553222656,
+            525.9840087890625,
+            517.0319213867188
+          ],
+          "origin": [
+            120.54000091552734,
+            514.43994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        524.4478759765625,
+        525.9960327148438,
+        537.7318725585938
+      ],
+      "text": "consequentemente, sem o condicionamento comportamental correspondente,",
+      "spans": [
+        {
+          "text": "consequentemente, sem o condicionamento comportamental correspondente,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            524.4478759765625,
+            525.9960327148438,
+            537.7318725585938
+          ],
+          "origin": [
+            85.08001708984375,
+            535.139892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        545.1478881835938,
+        526.0103149414062,
+        558.431884765625
+      ],
+      "text": "pode influenciar algumas paixões do próximo por meio de outras paixões",
+      "spans": [
+        {
+          "text": "pode influenciar algumas paixões do próximo por meio de outras paixões",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            545.1478881835938,
+            526.0103149414062,
+            558.431884765625
+          ],
+          "origin": [
+            85.08001708984375,
+            555.8399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        565.847900390625,
+        526.0490112304688,
+        579.1318969726562
+      ],
+      "text": "que o mesmo possua pois os fluxos libidinais de cada pessoa são múltiplos",
+      "spans": [
+        {
+          "text": "que o mesmo possua pois os fluxos libidinais de cada pessoa são múltiplos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            565.847900390625,
+            526.0490112304688,
+            579.1318969726562
+          ],
+          "origin": [
+            85.08001708984375,
+            576.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        586.5479125976562,
+        526.1055297851562,
+        599.8319091796875
+      ],
+      "text": "e conflitantes. Deste modo, podemos fazer com que uma pessoa que nos",
+      "spans": [
+        {
+          "text": "e conflitantes. Deste modo, podemos fazer com que uma pessoa que nos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            586.5479125976562,
+            526.1055297851562,
+            599.8319091796875
+          ],
+          "origin": [
+            85.08003234863281,
+            597.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        607.2479248046875,
+        526.0440063476562,
+        620.5319213867188
+      ],
+      "text": "odeia passe a nos amar ou decepcionar alguém que nos admira. Toda ação,",
+      "spans": [
+        {
+          "text": "odeia passe a nos amar ou decepcionar alguém que nos admira. Toda ação,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            607.2479248046875,
+            526.0440063476562,
+            620.5319213867188
+          ],
+          "origin": [
+            85.08003234863281,
+            617.93994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        627.9478759765625,
+        525.9652099609375,
+        641.2318725585938
+      ],
+      "text": "atitude ou comportamento exerce em efeito sobre os sentimentos de quem a",
+      "spans": [
+        {
+          "text": "atitude ou comportamento exerce em efeito sobre os sentimentos de quem a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            627.9478759765625,
+            525.9652099609375,
+            641.2318725585938
+          ],
+          "origin": [
+            85.08004760742188,
+            638.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        648.6478881835938,
+        193.33204650878906,
+        661.931884765625
+      ],
+      "text": "sofre ou presencia.",
+      "spans": [
+        {
+          "text": "sofre ou presencia.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            648.6478881835938,
+            193.33204650878906,
+            661.931884765625
+          ],
+          "origin": [
+            85.08004760742188,
+            659.3399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07949829101562,
+        684.7080078125,
+        518.6610717773438,
+        720.9641723632812
+      ],
+      "text": "1 Refiro-me a manipulações sadias, utilizadas em legítima defesa, que não violentam o livre-arbítrio alheio e\nnão atendem a fins egoístas.",
+      "spans": [
+        {
+          "text": "1",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            697.0662841796875,
+            88.31999969482422,
+            704.2396240234375
+          ],
+          "origin": [
+            85.08000183105469,
+            702.8399658203125
+          ]
+        },
+        {
+          "text": " Refiro-me a manipulações sadias, utilizadas em legítima defesa, que não violentam o livre-arbítrio alheio e",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.31999969482422,
+            698.4121704101562,
+            518.6610717773438,
+            709.5042724609375
+          ],
+          "origin": [
+            88.31999969482422,
+            707.3399658203125
+          ]
+        },
+        {
+          "text": "não atendem a fins egoístas.",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07949829101562,
+            709.8720703125,
+            197.5750274658203,
+            720.9641723632812
+          ],
+          "origin": [
+            85.07949829101562,
+            718.7998657226562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "13",
+      "spans": [
+        {
+          "text": "13",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

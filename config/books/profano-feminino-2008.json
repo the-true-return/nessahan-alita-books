@@ -1,0 +1,13 @@
+{
+  "title_pt": "O Profano Feminino",
+  "series_pt": "O Sofrimento Amoroso do Homem - Volume II",
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - O Profano Feminino (Ed. 2008).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - O Profano Feminino (Ed. 2008)",
+  "drop_line_patterns": [],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Seções 'Esclarecimentos adicionais' usam subtítulos em negrito no tamanho do corpo."
+  ],
+  "edition": "2008"
+}

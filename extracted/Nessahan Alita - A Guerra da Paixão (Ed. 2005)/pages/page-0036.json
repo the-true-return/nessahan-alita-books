@@ -1,0 +1,971 @@
+{
+  "page_number": 36,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.920166015625,
+        87.48676300048828
+      ],
+      "text": "nós e que somente virá ao nosso encontro quando não o quisermos,",
+      "spans": [
+        {
+          "text": "nós e que somente virá ao nosso encontro quando não o quisermos,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.920166015625,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        93.8741455078125,
+        538.9805297851562,
+        111.48676300048828
+      ],
+      "text": "quando o rejeitarmos17. Não há como enganá-lo, simulando indiferença",
+      "spans": [
+        {
+          "text": "quando o rejeitarmos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            209.4149169921875,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "17",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            210.72000122070312,
+            93.8741455078125,
+            219.83999633789062,
+            103.96997833251953
+          ],
+          "origin": [
+            210.72000122070312,
+            102.00006103515625
+          ]
+        },
+        {
+          "text": ". Não há como enganá-lo, simulando indiferença",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            219.83999633789062,
+            96.07732391357422,
+            538.9805297851562,
+            111.48676300048828
+          ],
+          "origin": [
+            219.83999633789062,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        539.115478515625,
+        135.72674560546875
+      ],
+      "text": "porque o inconsciente expressa o teor real de nossos sentimentos por",
+      "spans": [
+        {
+          "text": "porque o inconsciente expressa o teor real de nossos sentimentos por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            539.115478515625,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        189.94509887695312,
+        159.72674560546875
+      ],
+      "text": "vias subliminares.",
+      "spans": [
+        {
+          "text": "vias subliminares.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            189.94509887695312,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        180.5572967529297,
+        539.3099365234375,
+        195.96673583984375
+      ],
+      "text": "A paixão é um conjunto de defeitos que trazemos na alma, em",
+      "spans": [
+        {
+          "text": "A paixão é um conjunto de defeitos que trazemos na alma, em",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            180.5572967529297,
+            539.3099365234375,
+            195.96673583984375
+          ],
+          "origin": [
+            108.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        538.9805297851562,
+        220.20672607421875
+      ],
+      "text": "nossa \npsique. \nPara \nser \nsuperada, \nnecessita \nser \npreviamente",
+      "spans": [
+        {
+          "text": "nossa ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            111.4800033569336,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "psique. ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            124.55999755859375,
+            204.7972869873047,
+            174.83999633789062,
+            220.20672607421875
+          ],
+          "origin": [
+            124.55999755859375,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "Para ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            188.16000366210938,
+            204.7972869873047,
+            220.1999969482422,
+            220.20672607421875
+          ],
+          "origin": [
+            188.16000366210938,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "ser ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            233.27999877929688,
+            204.7972869873047,
+            255.95999145507812,
+            220.20672607421875
+          ],
+          "origin": [
+            233.27999877929688,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "superada, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            269.0400085449219,
+            204.7972869873047,
+            334.9200744628906,
+            220.20672607421875
+          ],
+          "origin": [
+            269.0400085449219,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "necessita ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            348.24005126953125,
+            204.7972869873047,
+            410.7601013183594,
+            220.20672607421875
+          ],
+          "origin": [
+            348.24005126953125,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "ser ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            423.840087890625,
+            204.7972869873047,
+            446.7601013183594,
+            220.20672607421875
+          ],
+          "origin": [
+            423.840087890625,
+            217.20001220703125
+          ]
+        },
+        {
+          "text": "previamente",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            460.080078125,
+            204.7972869873047,
+            538.9805297851562,
+            220.20672607421875
+          ],
+          "origin": [
+            460.080078125,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        326.0400390625,
+        244.20672607421875
+      ],
+      "text": "compreendida mediante a auto-análise.",
+      "spans": [
+        {
+          "text": "compreendida mediante a auto-análise.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            326.0400390625,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        265.03729248046875,
+        538.9805908203125,
+        280.44671630859375
+      ],
+      "text": "A análise da paixão se realiza coletando o maior número de",
+      "spans": [
+        {
+          "text": "A análise da paixão se realiza coletando o maior número de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            265.03729248046875,
+            538.9805908203125,
+            280.44671630859375
+          ],
+          "origin": [
+            108.0,
+            277.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        289.27728271484375,
+        538.9658203125,
+        304.68670654296875
+      ],
+      "text": "informações sobre os sentimentos, pensamentos e ações que a",
+      "spans": [
+        {
+          "text": "informações sobre os sentimentos, pensamentos e ações que a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            289.27728271484375,
+            538.9658203125,
+            304.68670654296875
+          ],
+          "origin": [
+            72.0,
+            301.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        313.27728271484375,
+        539.0399780273438,
+        328.68670654296875
+      ],
+      "text": "envolvem. Não é teórica e sim prática. Teorizar sobre um elemento",
+      "spans": [
+        {
+          "text": "envolvem. Não é teórica e sim prática. Teorizar sobre um elemento",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            313.27728271484375,
+            539.0399780273438,
+            328.68670654296875
+          ],
+          "origin": [
+            72.0,
+            325.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        337.51727294921875,
+        539.0400390625,
+        352.92669677734375
+      ],
+      "text": "psicológico é afastar-se da compreensão do mesmo inventando",
+      "spans": [
+        {
+          "text": "psicológico é afastar-se da compreensão do mesmo inventando",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            337.51727294921875,
+            539.0400390625,
+            352.92669677734375
+          ],
+          "origin": [
+            72.0,
+            349.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        361.51727294921875,
+        539.0252685546875,
+        376.92669677734375
+      ],
+      "text": "hipotéticas idéias sobre suas características. As informações são",
+      "spans": [
+        {
+          "text": "hipotéticas idéias sobre suas características. As informações são",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            361.51727294921875,
+            539.0252685546875,
+            376.92669677734375
+          ],
+          "origin": [
+            72.0,
+            373.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        385.75726318359375,
+        539.2950439453125,
+        401.16668701171875
+      ],
+      "text": "coletadas primeiramente por meio da auto-observação nos instantes em",
+      "spans": [
+        {
+          "text": "coletadas primeiramente por meio da auto-observação nos instantes em",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            385.75726318359375,
+            539.2950439453125,
+            401.16668701171875
+          ],
+          "origin": [
+            72.0,
+            398.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        409.99725341796875,
+        538.98046875,
+        425.40667724609375
+      ],
+      "text": "que a paixão se manifesta, ou seja, é um auto-estudo in loco. Nenhuma",
+      "spans": [
+        {
+          "text": "que a paixão se manifesta, ou seja, é um auto-estudo ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            409.99725341796875,
+            422.28009033203125,
+            425.40667724609375
+          ],
+          "origin": [
+            72.0,
+            422.39996337890625
+          ]
+        },
+        {
+          "text": "in loco",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            423.6000061035156,
+            409.99725341796875,
+            468.4800109863281,
+            425.40667724609375
+          ],
+          "origin": [
+            423.6000061035156,
+            422.39996337890625
+          ]
+        },
+        {
+          "text": ". Nenhuma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            469.44000244140625,
+            409.99725341796875,
+            538.98046875,
+            425.40667724609375
+          ],
+          "origin": [
+            469.44000244140625,
+            422.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        433.99725341796875,
+        538.9201049804688,
+        449.40667724609375
+      ],
+      "text": "teorização deve ser admitida. Todos os detalhes dos movimentos,",
+      "spans": [
+        {
+          "text": "teorização deve ser admitida. Todos os detalhes dos movimentos,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            433.99725341796875,
+            538.9201049804688,
+            449.40667724609375
+          ],
+          "origin": [
+            72.0,
+            446.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        458.23724365234375,
+        538.9050903320312,
+        473.64666748046875
+      ],
+      "text": "pensamentos, sentimentos são importantes e precisam ser captados.",
+      "spans": [
+        {
+          "text": "pensamentos, sentimentos são importantes e precisam ser captados.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            458.23724365234375,
+            538.9050903320312,
+            473.64666748046875
+          ],
+          "origin": [
+            72.0,
+            470.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.8604736328125,
+        497.64666748046875
+      ],
+      "text": "Em casos graves, pode-se complementar o trabalho com uma auto-",
+      "spans": [
+        {
+          "text": "Em casos graves, pode-se complementar o trabalho com uma auto-",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            538.8604736328125,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        538.9348754882812,
+        521.8866577148438
+      ],
+      "text": "análise posterior à manifestação mas baseada exclusivamente em fatos",
+      "spans": [
+        {
+          "text": "análise posterior à manifestação mas baseada exclusivamente em fatos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            538.9348754882812,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.7172241210938,
+        538.9052124023438,
+        546.1266479492188
+      ],
+      "text": "observados e recordados, sem teorizações ou hipotetizações. As",
+      "spans": [
+        {
+          "text": "observados e recordados, sem teorizações ou hipotetizações. As",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.7172241210938,
+            538.9052124023438,
+            546.1266479492188
+          ],
+          "origin": [
+            72.0,
+            543.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        554.7172241210938,
+        538.9805297851562,
+        570.1266479492188
+      ],
+      "text": "informações sobre a paixão estão presentes no momento de sua",
+      "spans": [
+        {
+          "text": "informações sobre a paixão estão presentes no momento de sua",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            554.7172241210938,
+            538.9805297851562,
+            570.1266479492188
+          ],
+          "origin": [
+            72.0,
+            567.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        578.957275390625,
+        480.8401184082031,
+        594.36669921875
+      ],
+      "text": "manifestação e podem ser capturadas se estivermos vigilantes.",
+      "spans": [
+        {
+          "text": "manifestação e podem ser capturadas se estivermos vigilantes.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            578.957275390625,
+            480.8401184082031,
+            594.36669921875
+          ],
+          "origin": [
+            72.0,
+            591.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        646.458740234375,
+        243.2433319091797,
+        657.6173095703125
+      ],
+      "text": "amor insano, passional e fatal dos homens.",
+      "spans": [
+        {
+          "text": "amor insano, passional e fatal dos homens.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            646.458740234375,
+            243.2433319091797,
+            657.6173095703125
+          ],
+          "origin": [
+            72.0,
+            655.4400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        666.706298828125,
+        540.162353515625,
+        690.7373046875
+      ],
+      "text": "17 Algo idêntico ocorre com a mulher: o amor do homem somente vem quando ela não o quer. Esta fatalidade\nimpede as pessoas de serem felizes no amor passional, já que as impele em direção àquelas que não as amam.",
+      "spans": [
+        {
+          "text": "17",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            666.706298828125,
+            78.5999984741211,
+            673.879638671875
+          ],
+          "origin": [
+            72.0,
+            672.47998046875
+          ]
+        },
+        {
+          "text": " Algo idêntico ocorre com a mulher: o amor do homem somente vem quando ela não o quer. Esta fatalidade",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            78.72000122070312,
+            668.0587158203125,
+            540.162353515625,
+            679.21728515625
+          ],
+          "origin": [
+            78.72000122070312,
+            677.0399780273438
+          ]
+        },
+        {
+          "text": "impede as pessoas de serem felizes no amor passional, já que as impele em direção àquelas que não as amam.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            679.5787353515625,
+            510.5936279296875,
+            690.7373046875
+          ],
+          "origin": [
+            72.0,
+            688.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "36",
+      "spans": [
+        {
+          "text": "36",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "page_number": 16,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        145.55999755859375,
+        77.32801818847656,
+        465.6214599609375,
+        90.61202239990234
+      ],
+      "text": "4. A manipulação e a instrumentalização das crenças",
+      "spans": [
+        {
+          "text": "4. A manipulação e a instrumentalização das crenças",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            145.55999755859375,
+            77.32801818847656,
+            465.6214599609375,
+            90.61202239990234
+          ],
+          "origin": [
+            145.55999755859375,
+            88.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        109.90797424316406,
+        526.0560302734375,
+        123.19197845458984
+      ],
+      "text": "Um dos requisitos para provocar a paixão é ocultar esta intenção para",
+      "spans": [
+        {
+          "text": "Um dos requisitos para provocar a paixão é ocultar esta intenção para",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            109.90797424316406,
+            526.0560302734375,
+            123.19197845458984
+          ],
+          "origin": [
+            120.54000091552734,
+            120.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        130.6079864501953,
+        526.069580078125,
+        143.89198303222656
+      ],
+      "text": "que o ego da vítima não reaja à manipulação de sua mente. Caso esta",
+      "spans": [
+        {
+          "text": "que o ego da vítima não reaja à manipulação de sua mente. Caso esta",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            130.6079864501953,
+            526.069580078125,
+            143.89198303222656
+          ],
+          "origin": [
+            85.07998657226562,
+            141.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        151.30799865722656,
+        526.0603637695312,
+        164.5919952392578
+      ],
+      "text": "chegue a tomar consciência das reais intenções do criminoso, reagirá com",
+      "spans": [
+        {
+          "text": "chegue a tomar consciência das reais intenções do criminoso, reagirá com",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            151.30799865722656,
+            526.0603637695312,
+            164.5919952392578
+          ],
+          "origin": [
+            85.07998657226562,
+            162.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        172.0080108642578,
+        526.0283813476562,
+        185.29200744628906
+      ],
+      "text": "indignação ao fato de estar sendo manipulada e usada, compreenderá que os",
+      "spans": [
+        {
+          "text": "indignação ao fato de estar sendo manipulada e usada, compreenderá que os",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            172.0080108642578,
+            526.0283813476562,
+            185.29200744628906
+          ],
+          "origin": [
+            85.07998657226562,
+            182.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        192.70802307128906,
+        525.9506225585938,
+        205.9920196533203
+      ],
+      "text": "atos falsos e fingidos do manipulador têm como único objetivo o controle",
+      "spans": [
+        {
+          "text": "atos falsos e fingidos do manipulador têm como único objetivo o controle",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            192.70802307128906,
+            525.9506225585938,
+            205.9920196533203
+          ],
+          "origin": [
+            85.07998657226562,
+            203.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        213.4080352783203,
+        217.42323303222656,
+        226.69203186035156
+      ],
+      "text": "do seu comportamento.",
+      "spans": [
+        {
+          "text": "do seu comportamento.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            213.4080352783203,
+            217.42323303222656,
+            226.69203186035156
+          ],
+          "origin": [
+            85.08000183105469,
+            224.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        246.1079864501953,
+        526.0127563476562,
+        259.3919982910156
+      ],
+      "text": "O charlatão hábil faz a vítima crer que domina a situação e que o está",
+      "spans": [
+        {
+          "text": "O charlatão hábil faz a vítima crer que domina a situação e que o está",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            246.1079864501953,
+            526.0127563476562,
+            259.3919982910156
+          ],
+          "origin": [
+            120.54000091552734,
+            256.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        266.8080139160156,
+        525.9647827148438,
+        280.0920104980469
+      ],
+      "text": "enganando. A crença da vítima em sua autonomia é fundamental para evitar",
+      "spans": [
+        {
+          "text": "enganando. A crença da vítima em sua autonomia é fundamental para evitar",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            266.8080139160156,
+            525.9647827148438,
+            280.0920104980469
+          ],
+          "origin": [
+            85.08001708984375,
+            277.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        287.5080261230469,
+        192.45236206054688,
+        300.7920227050781
+      ],
+      "text": "reações contrárias.",
+      "spans": [
+        {
+          "text": "reações contrárias.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            287.5080261230469,
+            192.45236206054688,
+            300.7920227050781
+          ],
+          "origin": [
+            85.08001708984375,
+            298.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        320.2080078125,
+        526.0126953125,
+        333.49200439453125
+      ],
+      "text": "Os padrões individuais ou coletivos de reações mecânicas obedecem",
+      "spans": [
+        {
+          "text": "Os padrões individuais ou coletivos de reações mecânicas obedecem",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            320.2080078125,
+            526.0126953125,
+            333.49200439453125
+          ],
+          "origin": [
+            120.54000091552734,
+            330.8999938964844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        340.8479919433594,
+        525.9442749023438,
+        354.1319885253906
+      ],
+      "text": "às crenças. Manipular crenças é manipular significados atribuídos e, por",
+      "spans": [
+        {
+          "text": "às crenças. Manipular crenças é manipular significados atribuídos e, por",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            340.8479919433594,
+            525.9442749023438,
+            354.1319885253906
+          ],
+          "origin": [
+            85.08001708984375,
+            351.53997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        361.5480041503906,
+        526.1493530273438,
+        374.8320007324219
+      ],
+      "text": "extensão inequívoca, as reações correspondentes. Os significados se fazem",
+      "spans": [
+        {
+          "text": "extensão inequívoca, as reações correspondentes. Os significados se fazem",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            361.5480041503906,
+            526.1493530273438,
+            374.8320007324219
+          ],
+          "origin": [
+            85.08001708984375,
+            372.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        382.2480163574219,
+        525.9169921875,
+        395.5320129394531
+      ],
+      "text": "e alteram através de atitudes. O manipulador será tanto mais perigoso",
+      "spans": [
+        {
+          "text": "e alteram através de atitudes. O manipulador será tanto mais perigoso",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            382.2480163574219,
+            525.9169921875,
+            395.5320129394531
+          ],
+          "origin": [
+            85.08003234863281,
+            392.94000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        402.9480285644531,
+        526.0330200195312,
+        416.2320251464844
+      ],
+      "text": "quanto maior for sua liberdade interna, ou seja, sua capacidade de tomar",
+      "spans": [
+        {
+          "text": "quanto maior for sua liberdade interna, ou seja, sua capacidade de tomar",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            402.9480285644531,
+            526.0330200195312,
+            416.2320251464844
+          ],
+          "origin": [
+            85.08003234863281,
+            413.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        423.6480407714844,
+        389.0950927734375,
+        436.9320373535156
+      ],
+      "text": "atitudes antagônicas dentro de uma mesma situação.",
+      "spans": [
+        {
+          "text": "atitudes antagônicas dentro de uma mesma situação. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            423.6480407714844,
+            389.0950927734375,
+            436.9320373535156
+          ],
+          "origin": [
+            85.08004760742188,
+            434.34002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        456.3480224609375,
+        525.9482421875,
+        469.63201904296875
+      ],
+      "text": "Por ser capaz de assumir o comportamento que quiser, o espertalhão",
+      "spans": [
+        {
+          "text": "Por ser capaz de assumir o comportamento que quiser, o espertalhão",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            456.3480224609375,
+            525.9482421875,
+            469.63201904296875
+          ],
+          "origin": [
+            120.54000091552734,
+            467.0400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        477.04803466796875,
+        526.074951171875,
+        490.33203125
+      ],
+      "text": "induz crenças a seu bel prazer. Atua como santo para que creiam que é",
+      "spans": [
+        {
+          "text": "induz crenças a seu bel prazer. Atua como santo para que creiam que é",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            477.04803466796875,
+            526.074951171875,
+            490.33203125
+          ],
+          "origin": [
+            85.08000183105469,
+            487.7400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        497.748046875,
+        526.0101318359375,
+        511.03204345703125
+      ],
+      "text": "honesto ou como cafajeste para que creiam que é desonesto. Atua como",
+      "spans": [
+        {
+          "text": "honesto ou como cafajeste para que creiam que é desonesto. Atua como",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            497.748046875,
+            526.0101318359375,
+            511.03204345703125
+          ],
+          "origin": [
+            85.08001708984375,
+            508.4400329589844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        518.447998046875,
+        526.099365234375,
+        531.7319946289062
+      ],
+      "text": "tímido para que creiam que é covarde ou como arrogante para que creiam",
+      "spans": [
+        {
+          "text": "tímido para que creiam que é covarde ou como arrogante para que creiam",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            518.447998046875,
+            526.099365234375,
+            531.7319946289062
+          ],
+          "origin": [
+            85.08001708984375,
+            529.1400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        539.1480102539062,
+        178.74966430664062,
+        552.4320068359375
+      ],
+      "text": "que é poderoso.",
+      "spans": [
+        {
+          "text": "que é poderoso. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            539.1480102539062,
+            178.74966430664062,
+            552.4320068359375
+          ],
+          "origin": [
+            85.08004760742188,
+            549.8400268554688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        571.847900390625,
+        525.9962158203125,
+        585.1318969726562
+      ],
+      "text": "A força magnética habilmente instrumentalizada em manipulações da",
+      "spans": [
+        {
+          "text": "A força magnética habilmente instrumentalizada em manipulações da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            571.847900390625,
+            525.9962158203125,
+            585.1318969726562
+          ],
+          "origin": [
+            120.54000091552734,
+            582.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        592.5478515625,
+        525.9431762695312,
+        605.8318481445312
+      ],
+      "text": "mente alheia é hipnótica. Um estado hipnótico induzido é um estado de",
+      "spans": [
+        {
+          "text": "mente alheia é hipnótica. Um estado hipnótico induzido é um estado de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            592.5478515625,
+            525.9431762695312,
+            605.8318481445312
+          ],
+          "origin": [
+            85.07998657226562,
+            603.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        613.2478637695312,
+        525.9623413085938,
+        626.5318603515625
+      ],
+      "text": "crença. Se o hipnotizado for levado a crer que é um cão, latirá. Se for",
+      "spans": [
+        {
+          "text": "crença. Se o hipnotizado for levado a crer que é um cão, latirá. Se for",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            613.2478637695312,
+            525.9623413085938,
+            626.5318603515625
+          ],
+          "origin": [
+            85.0799560546875,
+            623.9398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        633.9478759765625,
+        525.9755249023438,
+        647.2318725585938
+      ],
+      "text": "levado a crer que seu amigo vai matá-lo, tentará se defender travando uma",
+      "spans": [
+        {
+          "text": "levado a crer que seu amigo vai matá-lo, tentará se defender travando uma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            633.9478759765625,
+            525.9755249023438,
+            647.2318725585938
+          ],
+          "origin": [
+            85.0799560546875,
+            644.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        654.6478881835938,
+        211.11962890625,
+        667.931884765625
+      ],
+      "text": "luta de vida ou morte.",
+      "spans": [
+        {
+          "text": "luta de vida ou morte.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            654.6478881835938,
+            211.11962890625,
+            667.931884765625
+          ],
+          "origin": [
+            85.0799560546875,
+            665.3399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "16",
+      "spans": [
+        {
+          "text": "16",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

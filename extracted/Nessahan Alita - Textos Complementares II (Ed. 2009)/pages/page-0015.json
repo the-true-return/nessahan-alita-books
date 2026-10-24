@@ -1,0 +1,117 @@
+{
+  "page_number": 15,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20771789550781,
+        513.3307495117188,
+        125.89168548583984
+      ],
+      "text": "Entretanto, como tudo na vida, é dual, possui duas naturezas: uma superior e outra \ninferior. O aspecto inferior é aquele que nos inferniza e o aspecto superior é aquele que \nnos dá alívio. Devido a esta duplicidade, não é nada fácil para nós lidarmos com as \nmulheres.",
+      "spans": [
+        {
+          "text": "Entretanto, como tudo na vida, é dual, possui duas naturezas: uma superior e outra ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20771789550781,
+            513.3169555664062,
+            84.4917221069336
+          ],
+          "origin": [
+            85.08000183105469,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "inferior. O aspecto inferior é aquele que nos inferniza e o aspecto superior é aquele que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            85.00770568847656,
+            513.3307495117188,
+            98.29170989990234
+          ],
+          "origin": [
+            85.08000183105469,
+            95.69970703125
+          ]
+        },
+        {
+          "text": "nos dá alívio. Devido a esta duplicidade, não é nada fácil para nós lidarmos com as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            98.80769348144531,
+            513.300048828125,
+            112.0916976928711
+          ],
+          "origin": [
+            85.08000183105469,
+            109.49969482421875
+          ]
+        },
+        {
+          "text": "mulheres. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            112.60768127441406,
+            135.12600708007812,
+            125.89168548583984
+          ],
+          "origin": [
+            85.08000183105469,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "15",
+      "spans": [
+        {
+          "text": "15",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

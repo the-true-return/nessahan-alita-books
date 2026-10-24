@@ -1,0 +1,1225 @@
+{
+  "page_number": 77,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.539794921875,
+        71.1124038696289,
+        512.883056640625,
+        82.20454406738281
+      ],
+      "text": "C. Doutrina segundo a qual o ser é independente do conhecimento atual que podem adquirir [a",
+      "spans": [
+        {
+          "text": "C. Doutrina segundo a qual o ser é independente do conhecimento ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.539794921875,
+            71.1124038696289,
+            395.237060546875,
+            82.20454406738281
+          ],
+          "origin": [
+            120.539794921875,
+            80.04022216796875
+          ]
+        },
+        {
+          "text": "atual",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            395.87939453125,
+            71.1124038696289,
+            416.5466613769531,
+            82.20454406738281
+          ],
+          "origin": [
+            395.87939453125,
+            80.04022216796875
+          ]
+        },
+        {
+          "text": " que podem adquirir [a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            416.51959228515625,
+            71.1124038696289,
+            512.883056640625,
+            82.20454406738281
+          ],
+          "origin": [
+            416.51959228515625,
+            80.04022216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        88.33280181884766,
+        512.8980102539062,
+        99.42494201660156
+      ],
+      "text": "respeito] dele os sujeitos conscientes; esse (ser) não é equivalente a percipi (ser percebido), mesmo no",
+      "spans": [
+        {
+          "text": "respeito] dele os sujeitos conscientes; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            88.33280181884766,
+            241.78277587890625,
+            99.42494201660156
+          ],
+          "origin": [
+            85.08001708984375,
+            97.2606201171875
+          ]
+        },
+        {
+          "text": "esse ",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            242.75975036621094,
+            88.33280181884766,
+            261.946044921875,
+            99.42494201660156
+          ],
+          "origin": [
+            242.75975036621094,
+            97.2606201171875
+          ]
+        },
+        {
+          "text": "(ser) não é equivalente a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            263.04022216796875,
+            88.33280181884766,
+            367.518798828125,
+            99.42494201660156
+          ],
+          "origin": [
+            263.04022216796875,
+            97.2606201171875
+          ]
+        },
+        {
+          "text": "percipi",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            368.519775390625,
+            88.33280181884766,
+            396.9284973144531,
+            99.42494201660156
+          ],
+          "origin": [
+            368.519775390625,
+            97.2606201171875
+          ]
+        },
+        {
+          "text": " (ser percebido), mesmo no ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            396.8994140625,
+            88.33280181884766,
+            512.8980102539062,
+            99.42494201660156
+          ],
+          "origin": [
+            396.8994140625,
+            97.2606201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07901000976562,
+        105.6122817993164,
+        295.1592712402344,
+        116.70442199707031
+      ],
+      "text": "sentido mais amplo que se possa dar a esta palavra.",
+      "spans": [
+        {
+          "text": "sentido mais amplo que se possa dar a esta palavra.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07901000976562,
+            105.6122817993164,
+            295.1592712402344,
+            116.70442199707031
+          ],
+          "origin": [
+            85.07901000976562,
+            114.54010009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53878784179688,
+        134.83261108398438,
+        512.9191284179688,
+        145.9247589111328
+      ],
+      "text": "D. Doutrina segundo a qual o ser é, em natureza, uma coisa distinta do pensamento, e não pode",
+      "spans": [
+        {
+          "text": "D. Doutrina segundo a qual o ser é, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53878784179688,
+            134.83261108398438,
+            267.9400939941406,
+            145.9247589111328
+          ],
+          "origin": [
+            120.53878784179688,
+            143.76043701171875
+          ]
+        },
+        {
+          "text": "em natureza",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            268.43902587890625,
+            134.83261108398438,
+            318.1001892089844,
+            145.9247589111328
+          ],
+          "origin": [
+            268.43902587890625,
+            143.76043701171875
+          ]
+        },
+        {
+          "text": ", uma coisa distinta do pensamento, e não pode ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            318.11920166015625,
+            134.83261108398438,
+            512.9191284179688,
+            145.9247589111328
+          ],
+          "origin": [
+            318.11920166015625,
+            143.76043701171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07904052734375,
+        152.11209106445312,
+        447.7632141113281,
+        163.20423889160156
+      ],
+      "text": "ser sacado do pensamento, nem expressar-se de maneira exaustiva em termos lógicos. (...)",
+      "spans": [
+        {
+          "text": "ser sacado do pensamento, nem expressar-se de maneira exaustiva em termos lógicos. (...) ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07904052734375,
+            152.11209106445312,
+            447.7632141113281,
+            163.20423889160156
+          ],
+          "origin": [
+            85.07904052734375,
+            161.0399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.538818359375,
+        181.33242797851562,
+        512.9500732421875,
+        192.42457580566406
+      ],
+      "text": "Mais radicalmente ainda, doutrina segundo a qual o real se opõe ao inteligível e implica uma",
+      "spans": [
+        {
+          "text": "Mais radicalmente ainda, doutrina segundo a qual o real se opõe ao inteligível e implica uma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.538818359375,
+            181.33242797851562,
+            512.9500732421875,
+            192.42457580566406
+          ],
+          "origin": [
+            120.538818359375,
+            190.26025390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07904052734375,
+        196.84767150878906,
+        445.1400146484375,
+        210.1316680908203
+      ],
+      "text": "parte [maior e infinita] de ‘irracionalidade’.” (LALANDE, 1967, p. 859, tradução minha)",
+      "spans": [
+        {
+          "text": "parte [maior e infinita] de ‘irracionalidade’.” (LALANDE, 1967, p. 859, tradução minha)",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07904052734375,
+            198.61294555664062,
+            442.32080078125,
+            209.70509338378906
+          ],
+          "origin": [
+            85.07904052734375,
+            207.540771484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        227.83187866210938,
+        512.8960571289062,
+        238.9240264892578
+      ],
+      "text": "“O idealismo materialista...não representa mais que a superfície das coisas; a verdadeira filosofia",
+      "spans": [
+        {
+          "text": "“O idealismo materialista...não representa mais que a superfície das coisas; a verdadeira filosofia ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            227.83187866210938,
+            512.8960571289062,
+            238.9240264892578
+          ],
+          "origin": [
+            120.54000091552734,
+            236.75970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08021545410156,
+        245.11135864257812,
+        512.9537963867188,
+        256.2034912109375
+      ],
+      "text": "da natureza é um realismo espiritualista, a cujos olhos todo ser é uma força, e toda força um pensamento",
+      "spans": [
+        {
+          "text": "da natureza é um realismo espiritualista, a cujos olhos todo ser é uma força, e toda força um pensamento ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08021545410156,
+            245.11135864257812,
+            512.9537963867188,
+            256.2034912109375
+          ],
+          "origin": [
+            85.08021545410156,
+            254.0391845703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08021545410156,
+        262.3317565917969,
+        512.8630981445312,
+        273.42388916015625
+      ],
+      "text": "que tende a uma consciência cada vez mais completa de si mesmo.” (J. Lachelier, Du Fundament de",
+      "spans": [
+        {
+          "text": "que tende a uma consciência cada vez mais completa de si mesmo.” (J. Lachelier, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08021545410156,
+            262.3317565917969,
+            433.837158203125,
+            273.42388916015625
+          ],
+          "origin": [
+            85.08021545410156,
+            271.25958251953125
+          ]
+        },
+        {
+          "text": "Du Fundament de ",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            435.1800537109375,
+            262.3317565917969,
+            512.8630981445312,
+            273.42388916015625
+          ],
+          "origin": [
+            435.1800537109375,
+            271.25958251953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08023071289062,
+        279.6122741699219,
+        392.6940002441406,
+        290.70440673828125
+      ],
+      "text": "l’Induction, ad finem, citado por LALANDE, 1967, p. 859, tradução minha)",
+      "spans": [
+        {
+          "text": "l’Induction",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 10.020000457763672,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            85.08023071289062,
+            279.6122741699219,
+            129.54901123046875,
+            290.70440673828125
+          ],
+          "origin": [
+            85.08023071289062,
+            288.54010009765625
+          ]
+        },
+        {
+          "text": ", ad finem, citado por LALANDE, 1967, p. 859, tradução minha) ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            129.53997802734375,
+            279.6122741699219,
+            392.6940002441406,
+            290.70440673828125
+          ],
+          "origin": [
+            129.53997802734375,
+            288.54010009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        308.9277038574219,
+        513.396240234375,
+        322.2117004394531
+      ],
+      "text": "Ao considerar que o ser se diferencia do pensamento e não pode ser expresso em",
+      "spans": [
+        {
+          "text": "Ao considerar que o ser se diferencia do pensamento e não pode ser expresso em ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            308.9277038574219,
+            513.396240234375,
+            322.2117004394531
+          ],
+          "origin": [
+            120.54000091552734,
+            319.61968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        329.6277160644531,
+        513.3837280273438,
+        342.9117126464844
+      ],
+      "text": "termos lógicos, o realismo se aproxima do irracionalismo, pois considera que o real não",
+      "spans": [
+        {
+          "text": "termos lógicos, o realismo se aproxima do irracionalismo, pois considera que o real não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            329.6277160644531,
+            513.3837280273438,
+            342.9117126464844
+          ],
+          "origin": [
+            85.0799560546875,
+            340.3197021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        350.3277282714844,
+        513.3851928710938,
+        363.6117248535156
+      ],
+      "text": "pode ser atingido pelo intelecto e que o ser, em essência, não pode ser pensado. Meu",
+      "spans": [
+        {
+          "text": "pode ser atingido pelo intelecto e que o ser, em essência, não pode ser pensado. Meu ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            350.3277282714844,
+            513.3851928710938,
+            363.6117248535156
+          ],
+          "origin": [
+            85.07998657226562,
+            361.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        371.0277404785156,
+        513.3671875,
+        384.3117370605469
+      ],
+      "text": "ponto de vista é o de que, se o real implica em irracionalidade, temos que buscar meios",
+      "spans": [
+        {
+          "text": "ponto de vista é o de que, se o real implica em irracionalidade, temos que buscar meios ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            371.0277404785156,
+            513.3671875,
+            384.3117370605469
+          ],
+          "origin": [
+            85.07998657226562,
+            381.7197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        391.7277526855469,
+        513.3624267578125,
+        405.0117492675781
+      ],
+      "text": "não-racionais (irracionais) de cognição para alcançá-lo. Em outras palavras, temos que",
+      "spans": [
+        {
+          "text": "não-racionais (irracionais) de cognição para alcançá-lo. Em outras palavras, temos que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            391.7277526855469,
+            513.3624267578125,
+            405.0117492675781
+          ],
+          "origin": [
+            85.07998657226562,
+            402.41973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        412.4277648925781,
+        340.2238464355469,
+        425.7117614746094
+      ],
+      "text": "transcender a lógica formal e os raciocínios comuns.",
+      "spans": [
+        {
+          "text": "transcender a lógica formal e os raciocínios comuns. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            412.4277648925781,
+            340.2238464355469,
+            425.7117614746094
+          ],
+          "origin": [
+            85.07998657226562,
+            423.1197509765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53998565673828,
+        445.1277770996094,
+        513.3720703125,
+        458.4117736816406
+      ],
+      "text": "O mundo material que nos chega aos sentidos não é o que nos parece. Os",
+      "spans": [
+        {
+          "text": "O mundo material que nos chega aos sentidos não é o que nos parece. Os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            445.1277770996094,
+            513.3720703125,
+            458.4117736816406
+          ],
+          "origin": [
+            120.53998565673828,
+            455.81976318359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        465.8277893066406,
+        513.3744506835938,
+        479.1117858886719
+      ],
+      "text": "sentidos enganam. Uma pedra não é como a percebemos porque contém muito mais do",
+      "spans": [
+        {
+          "text": "sentidos enganam. Uma pedra não é como a percebemos porque contém muito mais do ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            465.8277893066406,
+            513.3744506835938,
+            479.1117858886719
+          ],
+          "origin": [
+            85.07998657226562,
+            476.519775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        486.5278015136719,
+        513.386474609375,
+        499.8117980957031
+      ],
+      "text": "que o nosso pobre aparelho sensorial é capaz de captar. O mundo é, como disse",
+      "spans": [
+        {
+          "text": "que o nosso pobre aparelho sensorial é capaz de captar. O mundo é, como disse ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            486.5278015136719,
+            513.386474609375,
+            499.8117980957031
+          ],
+          "origin": [
+            85.08001708984375,
+            497.21978759765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        507.2278137207031,
+        513.3457641601562,
+        520.5117797851562
+      ],
+      "text": "Schopenhauer, vontade e representação: vontade porque os desejos determinam a",
+      "spans": [
+        {
+          "text": "Schopenhauer, vontade e representação: vontade porque os desejos determinam a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            507.2278137207031,
+            513.3457641601562,
+            520.5117797851562
+          ],
+          "origin": [
+            85.08001708984375,
+            517.9197998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        527.9277954101562,
+        513.3442993164062,
+        541.2117919921875
+      ],
+      "text": "qualidade do que percebemos e representação porque percebemos apenas imagens",
+      "spans": [
+        {
+          "text": "qualidade do que percebemos e representação porque percebemos apenas imagens ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            527.9277954101562,
+            513.3442993164062,
+            541.2117919921875
+          ],
+          "origin": [
+            85.08004760742188,
+            538.6198120117188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        548.6278076171875,
+        132.129638671875,
+        561.9118041992188
+      ],
+      "text": "internas.",
+      "spans": [
+        {
+          "text": "internas.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            548.6278076171875,
+            132.129638671875,
+            561.9118041992188
+          ],
+          "origin": [
+            85.08004760742188,
+            559.31982421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54004669189453,
+        581.3278198242188,
+        522.3215942382812,
+        594.61181640625
+      ],
+      "text": "O \nque \npercebemos \nsão \nlimitadas \nrepresentações \ninternas \nde",
+      "spans": [
+        {
+          "text": "O ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            581.3278198242188,
+            132.23764038085938,
+            594.61181640625
+          ],
+          "origin": [
+            120.54004669189453,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            147.29763793945312,
+            581.3278198242188,
+            167.65203857421875,
+            594.61181640625
+          ],
+          "origin": [
+            147.29763793945312,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "percebemos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            182.7120361328125,
+            581.3278198242188,
+            243.14404296875,
+            594.61181640625
+          ],
+          "origin": [
+            182.7120361328125,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "são ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            258.20404052734375,
+            581.3278198242188,
+            277.149658203125,
+            594.61181640625
+          ],
+          "origin": [
+            258.20404052734375,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "limitadas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            292.2096862792969,
+            581.3278198242188,
+            339.2377624511719,
+            594.61181640625
+          ],
+          "origin": [
+            292.2096862792969,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "representações ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            354.2977600097656,
+            581.3278198242188,
+            427.93682861328125,
+            594.61181640625
+          ],
+          "origin": [
+            354.2977600097656,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "internas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            442.996826171875,
+            581.3278198242188,
+            484.02239990234375,
+            594.61181640625
+          ],
+          "origin": [
+            442.996826171875,
+            592.0198364257812
+          ]
+        },
+        {
+          "text": "de    ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            499.02239990234375,
+            581.3278198242188,
+            522.3215942382812,
+            594.61181640625
+          ],
+          "origin": [
+            499.02239990234375,
+            592.0198364257812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        602.02783203125,
+        513.378173828125,
+        615.3118286132812
+      ],
+      "text": "“algo” externo que ultrapassa os sentidos e a razão. Nossos julgamentos e conclusões",
+      "spans": [
+        {
+          "text": "“algo” externo que ultrapassa os sentidos e a razão. Nossos julgamentos e conclusões ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            602.02783203125,
+            513.378173828125,
+            615.3118286132812
+          ],
+          "origin": [
+            85.08004760742188,
+            612.7198486328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        622.727783203125,
+        513.42724609375,
+        636.0117797851562
+      ],
+      "text": "são projeções de nossas vontades (desejos): o belo, o feio, o alto, o baixo, o certo, o",
+      "spans": [
+        {
+          "text": "são projeções de nossas vontades (desejos): o belo, o feio, o alto, o baixo, o certo, o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            622.727783203125,
+            513.42724609375,
+            636.0117797851562
+          ],
+          "origin": [
+            85.08004760742188,
+            633.4197998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        643.4277954101562,
+        513.4203491210938,
+        656.7117919921875
+      ],
+      "text": "errado etc. são definidos conforme os nossos desejos. O que percebemos exteriormente",
+      "spans": [
+        {
+          "text": "errado etc. são definidos conforme os nossos desejos. O que percebemos exteriormente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            643.4277954101562,
+            513.4203491210938,
+            656.7117919921875
+          ],
+          "origin": [
+            85.08004760742188,
+            654.1198120117188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        664.1278076171875,
+        513.4276123046875,
+        677.4118041992188
+      ],
+      "text": "é projeção de estados interiores, os quais correspondem ao mundo das idéias (idéias são",
+      "spans": [
+        {
+          "text": "é projeção de estados interiores, os quais correspondem ao mundo das idéias (idéias são ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            664.1278076171875,
+            513.4276123046875,
+            677.4118041992188
+          ],
+          "origin": [
+            85.08004760742188,
+            674.81982421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08006286621094,
+        684.8277587890625,
+        196.08245849609375,
+        698.1117553710938
+      ],
+      "text": "fenômenos interiores).",
+      "spans": [
+        {
+          "text": "fenômenos interiores). ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08006286621094,
+            684.8277587890625,
+            196.08245849609375,
+            698.1117553710938
+          ],
+          "origin": [
+            85.08006286621094,
+            695.519775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400619506836,
+        717.5277709960938,
+        513.3480224609375,
+        730.811767578125
+      ],
+      "text": "Desde o ponto de vista do realismo, considero, por exemplo, que as pessoas",
+      "spans": [
+        {
+          "text": "Desde o ponto de vista do realismo, considero, por exemplo, que as pessoas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400619506836,
+            717.5277709960938,
+            513.3480224609375,
+            730.811767578125
+          ],
+          "origin": [
+            120.5400619506836,
+            728.2197875976562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        738.227783203125,
+        513.385498046875,
+        751.5117797851562
+      ],
+      "text": "belas não são belas em si mesmas e que a beleza está nos olhos de quem a vê, podendo",
+      "spans": [
+        {
+          "text": "belas não são belas em si mesmas e que a beleza está nos olhos de quem a vê, podendo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            738.227783203125,
+            513.385498046875,
+            751.5117797851562
+          ],
+          "origin": [
+            85.080078125,
+            748.9197998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "77",
+      "spans": [
+        {
+          "text": "77",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

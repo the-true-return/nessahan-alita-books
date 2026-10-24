@@ -1,0 +1,576 @@
+{
+  "21-0001": {
+    "type": "heading",
+    "lines": [
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          110.5,
+          315.3,
+          126.4
+        ],
+        "font": "BookmanOldStyle-Bold",
+        "size": 13.6,
+        "flags": 20,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      }
+    ]
+  },
+  "21-0002": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 68,
+        "bbox": [
+          117.2,
+          146.2,
+          516.3,
+          159.9
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          166.7,
+          516.2,
+          180.4
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          187.3,
+          516.2,
+          200.9
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          207.8,
+          133.8,
+          221.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      }
+    ]
+  },
+  "21-0003": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 68,
+        "bbox": [
+          117.2,
+          240.1,
+          516.3,
+          253.7
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          260.6,
+          516.1,
+          274.3
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          281.2,
+          516.2,
+          294.8
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          7
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          301.7,
+          516.1,
+          315.4
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          8
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          322.3,
+          516.1,
+          335.9
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          9
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          342.8,
+          516.2,
+          356.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          10
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          363.3,
+          516.2,
+          377.0
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          383.9,
+          511.7,
+          397.6
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          12
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          404.4,
+          516.2,
+          418.1
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          13
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          425.0,
+          516.3,
+          438.7
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          14
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          445.6,
+          419.5,
+          459.2
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          15
+        ]
+      }
+    ]
+  },
+  "21-0004": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 68,
+        "bbox": [
+          117.2,
+          477.8,
+          516.1,
+          491.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          498.3,
+          516.2,
+          512.0
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          518.8,
+          516.4,
+          532.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          18
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          539.4,
+          516.2,
+          553.1
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          559.9,
+          516.2,
+          573.6
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          20
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          580.5,
+          293.7,
+          594.2
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          21
+        ]
+      }
+    ]
+  },
+  "21-0005": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 68,
+        "bbox": [
+          117.2,
+          612.7,
+          516.2,
+          626.4
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          22
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          633.2,
+          516.3,
+          646.9
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          23
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          653.8,
+          516.2,
+          667.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          24
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          674.3,
+          516.3,
+          688.0
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "page": 68,
+        "bbox": [
+          82.7,
+          694.9,
+          171.6,
+          708.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          26
+        ]
+      }
+    ]
+  },
+  "21-0006": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 69,
+        "bbox": [
+          117.2,
+          104.7,
+          516.2,
+          118.4
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          125.3,
+          516.2,
+          139.0
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          145.8,
+          516.2,
+          159.5
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          166.3,
+          516.1,
+          180.0
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          3
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          186.9,
+          516.2,
+          200.6
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          4
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          207.5,
+          516.2,
+          221.2
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          5
+        ]
+      },
+      {
+        "page": 69,
+        "bbox": [
+          82.7,
+          228.0,
+          352.8,
+          241.7
+        ],
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          6
+        ]
+      }
+    ]
+  }
+}

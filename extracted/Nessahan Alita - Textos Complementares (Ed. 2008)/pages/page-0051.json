@@ -1,0 +1,182 @@
+{
+  "page_number": 51,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        104.6982192993164,
+        516.25830078125,
+        118.37545776367188
+      ],
+      "text": "imensa entre o amor verdadeiro e o amor romântico. O primeiro",
+      "spans": [
+        {
+          "text": "imensa entre o amor verdadeiro e o amor romântico. O primeiro ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            104.6982192993164,
+            516.25830078125,
+            118.37545776367188
+          ],
+          "origin": [
+            82.73999786376953,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        125.27823638916016,
+        516.2793579101562,
+        138.95547485351562
+      ],
+      "text": "é uma postura resultante da vontade e o segundo uma",
+      "spans": [
+        {
+          "text": "é uma postura resultante da vontade e o segundo uma ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            125.27823638916016,
+            516.2793579101562,
+            138.95547485351562
+          ],
+          "origin": [
+            82.73999786376953,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        145.79873657226562,
+        516.2197875976562,
+        159.47598266601562
+      ],
+      "text": "possessão emotiva e exaltada resultante do desejo. Entenda-me",
+      "spans": [
+        {
+          "text": "possessão emotiva e exaltada resultante do desejo. Entenda-me ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            145.79873657226562,
+            516.2197875976562,
+            159.47598266601562
+          ],
+          "origin": [
+            82.73999786376953,
+            156.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        166.31924438476562,
+        516.1976928710938,
+        179.99649047851562
+      ],
+      "text": "bem: não é que devamos ser frios, o que devemos é dar guarida",
+      "spans": [
+        {
+          "text": "bem: não é que devamos ser frios, o que devemos é dar guarida ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            166.31924438476562,
+            516.1976928710938,
+            179.99649047851562
+          ],
+          "origin": [
+            82.73999786376953,
+            177.30072021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        186.89926147460938,
+        322.9634094238281,
+        200.57650756835938
+      ],
+      "text": "a emoções sublimes dentro de nós.",
+      "spans": [
+        {
+          "text": "a emoções sublimes dentro de nós.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            186.89926147460938,
+            322.9634094238281,
+            200.57650756835938
+          ],
+          "origin": [
+            82.739990234375,
+            197.8807373046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "51",
+      "spans": [
+        {
+          "text": "51",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

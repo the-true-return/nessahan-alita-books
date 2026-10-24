@@ -1,0 +1,965 @@
+{
+  "page_number": 74,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.539794921875,
+        71.1124038696289,
+        512.9091796875,
+        82.20454406738281
+      ],
+      "text": "“Querer é, antes de mais nada, querer  viver; mas a vida nunca se apresenta como algo completo",
+      "spans": [
+        {
+          "text": "“Querer é, antes de mais nada, querer  viver; mas a vida nunca se apresenta como algo completo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.539794921875,
+            71.1124038696289,
+            512.9091796875,
+            82.20454406738281
+          ],
+          "origin": [
+            120.539794921875,
+            80.04022216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        88.33280181884766,
+        512.8800048828125,
+        99.42494201660156
+      ],
+      "text": "e definitivo. Daí Schopenhauer concluir que o querer-viver é a raiz de todos os males, de todo o",
+      "spans": [
+        {
+          "text": "e definitivo. Daí Schopenhauer concluir que o querer-viver é a raiz de todos os males, de todo o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            88.33280181884766,
+            512.8800048828125,
+            99.42494201660156
+          ],
+          "origin": [
+            85.08001708984375,
+            97.2606201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        105.6122817993164,
+        513.0353393554688,
+        116.70442199707031
+      ],
+      "text": "sofrimento. Querer perpétuo que nunca é satisfeito, a vontade, a cada grau de realização, multiplica os",
+      "spans": [
+        {
+          "text": "sofrimento. Querer perpétuo que nunca é satisfeito, a vontade, a cada grau de realização, multiplica os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            105.6122817993164,
+            513.0353393554688,
+            116.70442199707031
+          ],
+          "origin": [
+            85.08001708984375,
+            114.54010009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        122.83267974853516,
+        512.9902954101562,
+        133.92481994628906
+      ],
+      "text": "desejos e, conseqüentemente, as dores; cada satisfação acarreta um desejo maior, que é fonte de dores",
+      "spans": [
+        {
+          "text": "desejos e, conseqüentemente, as dores; cada satisfação acarreta um desejo maior, que é fonte de dores ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            122.83267974853516,
+            512.9902954101562,
+            133.92481994628906
+          ],
+          "origin": [
+            85.08001708984375,
+            131.760498046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        140.11215209960938,
+        512.9232177734375,
+        151.2042999267578
+      ],
+      "text": "maiores. A dor é, portanto, o estado natural do homem e o fim ao qual tende a natureza. Tal é o profundo",
+      "spans": [
+        {
+          "text": "maiores. A dor é, portanto, o estado natural do homem e o fim ao qual tende a natureza. Tal é o profundo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            140.11215209960938,
+            512.9232177734375,
+            151.2042999267578
+          ],
+          "origin": [
+            85.08001708984375,
+            149.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        157.33255004882812,
+        512.8960571289062,
+        168.42469787597656
+      ],
+      "text": "pessimismo de Schopenhauer, para quem todos os preceitos de moral se resumem num só: ‘Destruir, em",
+      "spans": [
+        {
+          "text": "pessimismo de Schopenhauer, para quem todos os preceitos de moral se resumem num só: ‘Destruir, em ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            157.33255004882812,
+            512.8960571289062,
+            168.42469787597656
+          ],
+          "origin": [
+            85.08001708984375,
+            166.2603759765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        174.61203002929688,
+        346.89056396484375,
+        185.7041778564453
+      ],
+      "text": "nós, por todos os meios, a vontade de viver [morte psicológica].’",
+      "spans": [
+        {
+          "text": "nós, por todos os meios, a vontade de viver [morte psicológica].’ ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            174.61203002929688,
+            346.89056396484375,
+            185.7041778564453
+          ],
+          "origin": [
+            85.08000183105469,
+            183.53985595703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53977966308594,
+        203.83236694335938,
+        512.9050903320312,
+        214.9245147705078
+      ],
+      "text": "Para isso, no entanto, os meios físicos [suicídio, destruição do corpo físico] não são eficazes.",
+      "spans": [
+        {
+          "text": "Para isso, no entanto, os meios físicos [suicídio, destruição do corpo físico] não são eficazes. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53977966308594,
+            203.83236694335938,
+            512.9050903320312,
+            214.9245147705078
+          ],
+          "origin": [
+            120.53977966308594,
+            212.76019287109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        221.11184692382812,
+        512.9332275390625,
+        232.20399475097656
+      ],
+      "text": "Segundo o filósofo, o homem pode se libertar dessa servidão através de um caminho que compreende três",
+      "spans": [
+        {
+          "text": "Segundo o filósofo, o homem pode se libertar dessa servidão através de um caminho que compreende três ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            221.11184692382812,
+            512.9332275390625,
+            232.20399475097656
+          ],
+          "origin": [
+            85.07998657226562,
+            230.0396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        238.33224487304688,
+        512.8389282226562,
+        249.4243927001953
+      ],
+      "text": "etapas: a da arte (...), a da piedade (...) e a do ascetismo, finalmente que consiste na negação de todos os",
+      "spans": [
+        {
+          "text": "etapas: a da arte (...), a da piedade (...) e a do ascetismo, finalmente que consiste na negação de todos os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            238.33224487304688,
+            512.8389282226562,
+            249.4243927001953
+          ],
+          "origin": [
+            85.07998657226562,
+            247.26007080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0789794921875,
+        255.61276245117188,
+        512.8369140625,
+        266.70489501953125
+      ],
+      "text": "desejos, na negação da vontade de viver, na total imersão no nada” (GRANDE ENCICLOPÉIDA",
+      "spans": [
+        {
+          "text": "desejos, na negação da vontade de viver, na total imersão no nada” (GRANDE ENCICLOPÉIDA ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0789794921875,
+            255.61276245117188,
+            512.8369140625,
+            266.70489501953125
+          ],
+          "origin": [
+            85.0789794921875,
+            264.54058837890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07899475097656,
+        272.8331604003906,
+        323.27734375,
+        283.92529296875
+      ],
+      "text": "LAROUSSE CULTURAL, vol. 21, 1995 e 1998, p. 5290).",
+      "spans": [
+        {
+          "text": "LAROUSSE CULTURAL, vol. 21, 1995 e 1998, p. 5290). ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07899475097656,
+            272.8331604003906,
+            323.27734375,
+            283.92529296875
+          ],
+          "origin": [
+            85.07899475097656,
+            281.760986328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        302.2077331542969,
+        513.3721923828125,
+        315.4917297363281
+      ],
+      "text": "Não é a morte por meios físicos e nem, muito menos, o suicídio o que interessa",
+      "spans": [
+        {
+          "text": "Não é a morte por meios físicos e nem, muito menos, o suicídio o que interessa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            302.2077331542969,
+            513.3721923828125,
+            315.4917297363281
+          ],
+          "origin": [
+            120.54000091552734,
+            312.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        322.9077453613281,
+        513.434326171875,
+        336.1917419433594
+      ],
+      "text": "para Schopenhauer e os pessimistas. O que se almeja é a morte psicológica, o vazio",
+      "spans": [
+        {
+          "text": "para Schopenhauer e os pessimistas. O que se almeja é a morte psicológica, o vazio ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            322.9077453613281,
+            513.434326171875,
+            336.1917419433594
+          ],
+          "origin": [
+            85.07998657226562,
+            333.5997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        343.5477600097656,
+        513.3438720703125,
+        356.8317565917969
+      ],
+      "text": "interior, a total ausência de desejos, a morte dos apetites e das paixões. Nada disso",
+      "spans": [
+        {
+          "text": "interior, a total ausência de desejos, a morte dos apetites e das paixões. Nada disso ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            343.5477600097656,
+            513.3438720703125,
+            356.8317565917969
+          ],
+          "origin": [
+            85.07998657226562,
+            354.23974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        364.2477722167969,
+        513.406982421875,
+        377.5317687988281
+      ],
+      "text": "conduzirá à depressão e à tristeza mas sim a um estado de alma em que se experimenta",
+      "spans": [
+        {
+          "text": "conduzirá à depressão e à tristeza mas sim a um estado de alma em que se experimenta ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            364.2477722167969,
+            513.406982421875,
+            377.5317687988281
+          ],
+          "origin": [
+            85.07998657226562,
+            374.93975830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        384.9477844238281,
+        513.4977416992188,
+        398.2317810058594
+      ],
+      "text": "a liberdade e a paz. Quanto mais intensa é uma paixão, tanto maior é o sofrimento que a",
+      "spans": [
+        {
+          "text": "a liberdade e a paz. Quanto mais intensa é uma paixão, tanto maior é o sofrimento que a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            384.9477844238281,
+            513.4977416992188,
+            398.2317810058594
+          ],
+          "origin": [
+            85.07998657226562,
+            395.6397705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        405.6477966308594,
+        513.3648681640625,
+        418.9317932128906
+      ],
+      "text": "acompanha e tanto mais necessária e urgente se faz a sua morte. Devemos mudar a nós",
+      "spans": [
+        {
+          "text": "acompanha e tanto mais necessária e urgente se faz a sua morte. Devemos mudar a nós ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            405.6477966308594,
+            513.3648681640625,
+            418.9317932128906
+          ],
+          "origin": [
+            85.0799560546875,
+            416.33978271484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        426.3478088378906,
+        513.3756103515625,
+        439.6318054199219
+      ],
+      "text": "mesmos e não ao mundo e nem às pessoas,  já que isso é impossível. As tentativas de",
+      "spans": [
+        {
+          "text": "mesmos e não ao mundo e nem às pessoas,  já que isso é impossível. As tentativas de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            426.3478088378906,
+            513.3756103515625,
+            439.6318054199219
+          ],
+          "origin": [
+            85.0799560546875,
+            437.039794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        447.0478210449219,
+        513.4105224609375,
+        460.3318176269531
+      ],
+      "text": "exterminar o mal exteriormente resultam em efeitos colaterais cada vez maiores e",
+      "spans": [
+        {
+          "text": "exterminar o mal exteriormente resultam em efeitos colaterais cada vez maiores e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            447.0478210449219,
+            513.4105224609375,
+            460.3318176269531
+          ],
+          "origin": [
+            85.07998657226562,
+            457.73980712890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        467.7478332519531,
+        513.3865966796875,
+        481.0318298339844
+      ],
+      "text": "piores, o que pode ser comprovado ao se observar o mal nos fatos atuais e a gênese",
+      "spans": [
+        {
+          "text": "piores, o que pode ser comprovado ao se observar o mal nos fatos atuais e a gênese ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            467.7478332519531,
+            513.3865966796875,
+            481.0318298339844
+          ],
+          "origin": [
+            85.0799560546875,
+            478.4398193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        488.4478454589844,
+        513.3525390625,
+        501.7318420410156
+      ],
+      "text": "histórica dos mesmos. Um filósofo antigo (Sêneca, se não me engano) afirmou que a",
+      "spans": [
+        {
+          "text": "histórica dos mesmos. Um filósofo antigo (Sêneca, se não me engano) afirmou que a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            488.4478454589844,
+            513.3525390625,
+            501.7318420410156
+          ],
+          "origin": [
+            85.0799560546875,
+            499.13983154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        509.1478576660156,
+        513.39990234375,
+        522.4318237304688
+      ],
+      "text": "esperança é um mal. Concordo com ele em certa medida: a esperança relacionada com o",
+      "spans": [
+        {
+          "text": "esperança é um mal. Concordo com ele em certa medida: a esperança relacionada com o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            509.1478576660156,
+            513.39990234375,
+            522.4318237304688
+          ],
+          "origin": [
+            85.0799560546875,
+            519.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        529.8478393554688,
+        513.3601684570312,
+        543.1318359375
+      ],
+      "text": "impossível é uma esperança absurda. Quando perdemos esta esperança, nos",
+      "spans": [
+        {
+          "text": "impossível é uma esperança absurda. Quando perdemos esta esperança, nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            529.8478393554688,
+            513.3601684570312,
+            543.1318359375
+          ],
+          "origin": [
+            85.07992553710938,
+            540.5398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        550.5478515625,
+        331.94384765625,
+        563.8318481445312
+      ],
+      "text": "relacionamos mais proximamente com a realidade.",
+      "spans": [
+        {
+          "text": "relacionamos mais proximamente com a realidade. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            550.5478515625,
+            331.94384765625,
+            563.8318481445312
+          ],
+          "origin": [
+            85.07992553710938,
+            561.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53992462158203,
+        583.2478637695312,
+        513.3311767578125,
+        596.5318603515625
+      ],
+      "text": "Entre os filósofos, Schopenhauer está entre aqueles em que mais me inspiro. Sua",
+      "spans": [
+        {
+          "text": "Entre os filósofos, Schopenhauer está entre aqueles em que mais me inspiro. Sua ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53992462158203,
+            583.2478637695312,
+            513.3311767578125,
+            596.5318603515625
+          ],
+          "origin": [
+            120.53992462158203,
+            593.9398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07991027832031,
+        603.9478759765625,
+        513.3511352539062,
+        617.2318725585938
+      ],
+      "text": "doutrina pessimista e irracionalista, em certos aspectos muito próxima da concepção",
+      "spans": [
+        {
+          "text": "doutrina pessimista e irracionalista, em certos aspectos muito próxima da concepção ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07991027832031,
+            603.9478759765625,
+            513.3511352539062,
+            617.2318725585938
+          ],
+          "origin": [
+            85.07991027832031,
+            614.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07991027832031,
+        624.6478271484375,
+        513.405517578125,
+        637.9318237304688
+      ],
+      "text": "gnóstica contemporânea, foi a que mais contribuiu para minhas reflexões experienciais e",
+      "spans": [
+        {
+          "text": "gnóstica contemporânea, foi a que mais contribuiu para minhas reflexões experienciais e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07991027832031,
+            624.6478271484375,
+            513.405517578125,
+            637.9318237304688
+          ],
+          "origin": [
+            85.07991027832031,
+            635.33984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        645.3478393554688,
+        513.3837280273438,
+        658.6318359375
+      ],
+      "text": "conclusões teóricas. Discordo de Schopenhauer em apenas alguns pontos. Uma",
+      "spans": [
+        {
+          "text": "conclusões teóricas. Discordo de Schopenhauer em apenas alguns pontos. Uma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            645.3478393554688,
+            513.3837280273438,
+            658.6318359375
+          ],
+          "origin": [
+            85.07992553710938,
+            656.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        666.0478515625,
+        513.3859252929688,
+        679.3318481445312
+      ],
+      "text": "considerável parte do que escrevi pode ser entendido como modestas tentativas de",
+      "spans": [
+        {
+          "text": "considerável parte do que escrevi pode ser entendido como modestas tentativas de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            666.0478515625,
+            513.3859252929688,
+            679.3318481445312
+          ],
+          "origin": [
+            85.07989501953125,
+            676.7398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07991027832031,
+        686.747802734375,
+        334.11602783203125,
+        700.0317993164062
+      ],
+      "text": "contribuir para a continuidade do que ele começou.",
+      "spans": [
+        {
+          "text": "contribuir para a continuidade do que ele começou. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07991027832031,
+            686.747802734375,
+            334.11602783203125,
+            700.0317993164062
+          ],
+          "origin": [
+            85.07991027832031,
+            697.4398193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        719.7235107421875,
+        286.3442077636719,
+        735.1993408203125
+      ],
+      "text": "O irracionalismo filosófico",
+      "spans": [
+        {
+          "text": " O irracionalismo filosófico ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            719.7235107421875,
+            286.3442077636719,
+            735.1993408203125
+          ],
+          "origin": [
+            120.54000091552734,
+            732.1796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "74",
+      "spans": [
+        {
+          "text": "74",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

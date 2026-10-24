@@ -1,0 +1,859 @@
+{
+  "page_number": 16,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        304.42730712890625,
+        92.95938110351562
+      ],
+      "text": "8. Uma guerra por um prêmio",
+      "spans": [
+        {
+          "text": "8. Uma guerra por um prêmio ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            304.42730712890625,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        105.28767395019531,
+        513.3631591796875,
+        146.17164611816406
+      ],
+      "text": "É uma tendência comum, na guerra da paixão, que o sentimento de triunfo \npertença àquele que conseguiu o que almejava desde o início. Não é a única forma \nexistente de vitória, mas é uma das formas possíveis.",
+      "spans": [
+        {
+          "text": "É uma tendência comum, na guerra da paixão, que o sentimento de triunfo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.3631591796875,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "pertença àquele que conseguiu o que almejava desde o início. Não é a única forma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            119.08766174316406,
+            513.33642578125,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08000183105469,
+            129.7796630859375
+          ]
+        },
+        {
+          "text": "existente de vitória, mas é uma das formas possíveis. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            132.8876495361328,
+            342.0384521484375,
+            146.17164611816406
+          ],
+          "origin": [
+            85.08000183105469,
+            143.57965087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        158.68763732910156,
+        513.371337890625,
+        296.1715393066406
+      ],
+      "text": "Neste caso, o homem almeja satisfazer seu impulso através do ato sexual e a \nmulher almeja satisfazer seu desejo de preservação do interesse masculino (desejo de \ncontinuidade). O homem somente se sentirá satisfeito se completar o ato e a mulher \nsomente se sentirá (temporariamente!) satisfeita enquanto receber constantes \ndemonstrações de interesse por parte do homem. Após a satisfação, o homem requer um \ntempo para que seu interesse pela mulher se renove. Portanto, podemos dizer que o \nerotismo masculino é  descontínuo (alterna-se em um ciclo de interesse-desinteresse) \nenquanto o erotismo feminino é contínuo, pois a mulher nunca deixa de querer ser \ndesejada, seu desejo de ser objeto de interesse do homem nunca arrefece. O autor que \nme chamou a atenção para este pormenor foi Francesco Alberoni.",
+      "spans": [
+        {
+          "text": "Neste caso, o homem almeja satisfazer seu impulso através do ato sexual e a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            158.68763732910156,
+            513.3060913085938,
+            171.9716339111328
+          ],
+          "origin": [
+            120.54000091552734,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "mulher almeja satisfazer seu desejo de preservação do interesse masculino (desejo de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            172.4876251220703,
+            513.3168334960938,
+            185.77162170410156
+          ],
+          "origin": [
+            85.08001708984375,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "continuidade). O homem somente se sentirá satisfeito se completar o ato e a mulher ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            186.28761291503906,
+            513.320556640625,
+            199.5716094970703
+          ],
+          "origin": [
+            85.08001708984375,
+            196.9796142578125
+          ]
+        },
+        {
+          "text": "somente se sentirá (temporariamente!) satisfeita enquanto receber constantes ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            200.0876007080078,
+            513.3236694335938,
+            213.37159729003906
+          ],
+          "origin": [
+            85.08003234863281,
+            210.77960205078125
+          ]
+        },
+        {
+          "text": "demonstrações de interesse por parte do homem. Após a satisfação, o homem requer um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            213.88758850097656,
+            513.371337890625,
+            227.1715850830078
+          ],
+          "origin": [
+            85.08003234863281,
+            224.57958984375
+          ]
+        },
+        {
+          "text": "tempo para que seu interesse pela mulher se renove. Portanto, podemos dizer que o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            227.6875762939453,
+            513.36279296875,
+            240.97157287597656
+          ],
+          "origin": [
+            85.08003234863281,
+            238.37957763671875
+          ]
+        },
+        {
+          "text": "erotismo masculino é  descontínuo (alterna-se em um ciclo de interesse-desinteresse) ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            241.48756408691406,
+            513.2639770507812,
+            254.7715606689453
+          ],
+          "origin": [
+            85.08001708984375,
+            252.1795654296875
+          ]
+        },
+        {
+          "text": "enquanto o erotismo feminino é contínuo, pois a mulher nunca deixa de querer ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            255.2875518798828,
+            513.289306640625,
+            268.5715637207031
+          ],
+          "origin": [
+            85.08001708984375,
+            265.97955322265625
+          ]
+        },
+        {
+          "text": "desejada, seu desejo de ser objeto de interesse do homem nunca arrefece. O autor que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            269.0875549316406,
+            513.3316040039062,
+            282.3715515136719
+          ],
+          "origin": [
+            85.08001708984375,
+            279.779541015625
+          ]
+        },
+        {
+          "text": "me chamou a atenção para este pormenor foi Francesco Alberoni. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            282.8875427246094,
+            403.2818908691406,
+            296.1715393066406
+          ],
+          "origin": [
+            85.08001708984375,
+            293.57952880859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        308.6875305175781,
+        513.415283203125,
+        363.3714904785156
+      ],
+      "text": "Para além de Alberoni, entretanto, vejo uma incompatibilidade entre as metas \nmasculina e feminina: ambas são mutuamente excludentes. É desta incompatibilidade \nque surge a guerra da paixão, as quais são batalhas do amor em que os homens bons e \nsinceros costumam perder.",
+      "spans": [
+        {
+          "text": "Para além de Alberoni, entretanto, vejo uma incompatibilidade entre as metas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            308.6875305175781,
+            513.415283203125,
+            321.9715270996094
+          ],
+          "origin": [
+            120.5400161743164,
+            319.3795166015625
+          ]
+        },
+        {
+          "text": "masculina e feminina: ambas são mutuamente excludentes. É desta incompatibilidade ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            322.4875183105469,
+            513.3424072265625,
+            335.7715148925781
+          ],
+          "origin": [
+            85.08001708984375,
+            333.17950439453125
+          ]
+        },
+        {
+          "text": "que surge a guerra da paixão, as quais são batalhas do amor em que os homens bons e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            336.2875061035156,
+            513.3530883789062,
+            349.5715026855469
+          ],
+          "origin": [
+            85.08001708984375,
+            346.9794921875
+          ]
+        },
+        {
+          "text": "sinceros costumam perder.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            350.0874938964844,
+            219.42967224121094,
+            363.3714904785156
+          ],
+          "origin": [
+            85.08001708984375,
+            360.77947998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        375.8874816894531,
+        513.367431640625,
+        458.1714172363281
+      ],
+      "text": "Não é possível que as duas partes saiam vitoriosas: se uma ganhar, a outra \nperderá. Sob o ponto de vista em que estou abordando este conflito emocional agora, o \nato de entregar-se sexualmente é visto pela mulher como uma derrota, daí as inúmeras \nexigências compensatórias. Por outro lado, o mesmo acontecimento é visto pelo homem \ncomo uma vitória, daí suas insistências, às vezes insanas, em conseguir o  “prêmio \nfinal”.",
+      "spans": [
+        {
+          "text": "Não é possível que as duas partes saiam vitoriosas: se uma ganhar, a outra ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            375.8874816894531,
+            513.2797241210938,
+            389.1714782714844
+          ],
+          "origin": [
+            120.5400161743164,
+            386.5794677734375
+          ]
+        },
+        {
+          "text": "perderá. Sob o ponto de vista em que estou abordando este conflito emocional agora, o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            389.6874694824219,
+            513.3544921875,
+            402.9714660644531
+          ],
+          "origin": [
+            85.08001708984375,
+            400.37945556640625
+          ]
+        },
+        {
+          "text": "ato de entregar-se sexualmente é visto pela mulher como uma derrota, daí as inúmeras ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            403.4874572753906,
+            513.2860107421875,
+            416.7714538574219
+          ],
+          "origin": [
+            85.08000183105469,
+            414.179443359375
+          ]
+        },
+        {
+          "text": "exigências compensatórias. Por outro lado, o mesmo acontecimento é visto pelo homem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            417.2874450683594,
+            513.3482666015625,
+            430.5714416503906
+          ],
+          "origin": [
+            85.07998657226562,
+            427.97943115234375
+          ]
+        },
+        {
+          "text": "como uma vitória, daí suas insistências, às vezes insanas, em conseguir o  “prêmio ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            431.0874328613281,
+            513.367431640625,
+            444.3714294433594
+          ],
+          "origin": [
+            85.07998657226562,
+            441.7794189453125
+          ]
+        },
+        {
+          "text": "final”.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            444.8874206542969,
+            121.44597625732422,
+            458.1714172363281
+          ],
+          "origin": [
+            85.07997131347656,
+            455.57940673828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        470.6874084472656,
+        513.5208129882812,
+        539.1713256835938
+      ],
+      "text": "Ela se sentirá no triunfo enquanto for capaz de resistir-lhe, enquanto não der \naquilo que ele tanto quer e for capaz de manter acesa a chama de tal desejo. Se sentirá \nderrotada se o satisfizer, porque neste caso o desejo terminará. Mas também se sentirá \nderrotada se cair no extremo oposto, agindo de forma coerente ao ponto dos sentimentos \nmasculinos se resolverem até que toda sombra de interesse acabe, pela desistência total.",
+      "spans": [
+        {
+          "text": "Ela se sentirá no triunfo enquanto for capaz de resistir-lhe, enquanto não der ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997039794922,
+            470.6874084472656,
+            513.28564453125,
+            483.9714050292969
+          ],
+          "origin": [
+            120.53997039794922,
+            481.37939453125
+          ]
+        },
+        {
+          "text": "aquilo que ele tanto quer e for capaz de manter acesa a chama de tal desejo. Se sentirá ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            484.4873962402344,
+            513.4371337890625,
+            497.7713928222656
+          ],
+          "origin": [
+            85.07998657226562,
+            495.17938232421875
+          ]
+        },
+        {
+          "text": "derrotada se o satisfizer, porque neste caso o desejo terminará. Mas também se sentirá ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            498.2873840332031,
+            513.35302734375,
+            511.5713806152344
+          ],
+          "origin": [
+            85.07998657226562,
+            508.9793701171875
+          ]
+        },
+        {
+          "text": "derrotada se cair no extremo oposto, agindo de forma coerente ao ponto dos sentimentos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            512.0873413085938,
+            513.5208129882812,
+            525.371337890625
+          ],
+          "origin": [
+            85.07997131347656,
+            522.7793579101562
+          ]
+        },
+        {
+          "text": "masculinos se resolverem até que toda sombra de interesse acabe, pela desistência total.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            525.8873291015625,
+            512.313720703125,
+            539.1713256835938
+          ],
+          "origin": [
+            85.0799560546875,
+            536.579345703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        551.6873168945312,
+        513.278076171875,
+        592.5712890625
+      ],
+      "text": "No curso desta guerra, ambos querem ganhar, ninguém quer perder. Mas os \nrecursos utilizados não são, nem de longe, necessariamente honestos. As armas são os \njoguinhos infernais e malditos. E as mulheres são aquelas que mais os dominam.",
+      "spans": [
+        {
+          "text": "No curso desta guerra, ambos querem ganhar, ninguém quer perder. Mas os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53996276855469,
+            551.6873168945312,
+            513.24560546875,
+            564.9713134765625
+          ],
+          "origin": [
+            120.53996276855469,
+            562.3793334960938
+          ]
+        },
+        {
+          "text": "recursos utilizados não são, nem de longe, necessariamente honestos. As armas são os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07996368408203,
+            565.4873046875,
+            513.278076171875,
+            578.7713012695312
+          ],
+          "origin": [
+            85.07996368408203,
+            576.1793212890625
+          ]
+        },
+        {
+          "text": "joguinhos infernais e malditos. E as mulheres são aquelas que mais os dominam. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            579.2872924804688,
+            475.2284851074219,
+            592.5712890625
+          ],
+          "origin": [
+            85.0799560546875,
+            589.9793090820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799789428711,
+        605.0872802734375,
+        513.4873046875,
+        659.7113037109375
+      ],
+      "text": "O sofrimento que advém da paixão é o sofrimento da derrota. Sofremos porque \nnão ganhamos, porque nos sentimos derrotados, nos sentimos por baixo. Quando saimos \nvitoriosos, o sofrimento é transferido à outra parte. Mas há uma maneira melhor, não tão \nvil, de escaparmos desse sofrimento: vencer a paixão dentro de nós.",
+      "spans": [
+        {
+          "text": "O sofrimento que advém da paixão é o sofrimento da derrota. Sofremos porque ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997802734375,
+            605.0872802734375,
+            513.3524169921875,
+            618.3712768554688
+          ],
+          "origin": [
+            120.53997802734375,
+            615.779296875
+          ]
+        },
+        {
+          "text": "não ganhamos, porque nos sentimos derrotados, nos sentimos por baixo. Quando saimos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799789428711,
+            618.8873291015625,
+            513.4873046875,
+            632.1713256835938
+          ],
+          "origin": [
+            85.0799789428711,
+            629.579345703125
+          ]
+        },
+        {
+          "text": "vitoriosos, o sofrimento é transferido à outra parte. Mas há uma maneira melhor, não tão ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            632.6873168945312,
+            513.3025512695312,
+            645.9713134765625
+          ],
+          "origin": [
+            85.07998657226562,
+            643.3793334960938
+          ]
+        },
+        {
+          "text": "vil, de escaparmos desse sofrimento: vencer a paixão dentro de nós. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            646.4273071289062,
+            413.4214172363281,
+            659.7113037109375
+          ],
+          "origin": [
+            85.07998657226562,
+            657.1193237304688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        672.227294921875,
+        513.3392333984375,
+        754.5113525390625
+      ],
+      "text": "A vagina é uma espécie de prêmio. Se o homem for vitorioso, o prêmio será seu. \nSe a mulher for vitoriosa, o prêmio continuará com ela. A guerra é para decidir quem \nficará com o troféu. O homem sábio e experiente não luta desesperadamente pelo troféu. \nSabe que, se o fizer, estará caindo diretamente na armadilha, mergulhando de cabeça na \nderrota. Ao invés disso, desarticula as artimanhas e acaba com as possibilidades de \nconflito. O homem experiente transcende a guerra da paixão, a deixa para trás.",
+      "spans": [
+        {
+          "text": "A vagina é uma espécie de prêmio. Se o homem for vitorioso, o prêmio será seu. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            672.227294921875,
+            513.3392333984375,
+            685.5112915039062
+          ],
+          "origin": [
+            120.53998565673828,
+            682.9193115234375
+          ]
+        },
+        {
+          "text": "Se a mulher for vitoriosa, o prêmio continuará com ela. A guerra é para decidir quem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            686.02734375,
+            513.2935791015625,
+            699.3113403320312
+          ],
+          "origin": [
+            85.07998657226562,
+            696.7193603515625
+          ]
+        },
+        {
+          "text": "ficará com o troféu. O homem sábio e experiente não luta desesperadamente pelo troféu. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            699.8273315429688,
+            513.3128662109375,
+            713.111328125
+          ],
+          "origin": [
+            85.07998657226562,
+            710.5193481445312
+          ]
+        },
+        {
+          "text": "Sabe que, se o fizer, estará caindo diretamente na armadilha, mergulhando de cabeça na ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            713.6273193359375,
+            513.3050537109375,
+            726.9113159179688
+          ],
+          "origin": [
+            85.07998657226562,
+            724.3193359375
+          ]
+        },
+        {
+          "text": "derrota. Ao invés disso, desarticula as artimanhas e acaba com as possibilidades de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            727.4273681640625,
+            513.2772827148438,
+            740.7113647460938
+          ],
+          "origin": [
+            85.07997131347656,
+            738.119384765625
+          ]
+        },
+        {
+          "text": "conflito. O homem experiente transcende a guerra da paixão, a deixa para trás. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            741.2273559570312,
+            464.93408203125,
+            754.5113525390625
+          ],
+          "origin": [
+            85.07997131347656,
+            751.9193725585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "16",
+      "spans": [
+        {
+          "text": "16",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

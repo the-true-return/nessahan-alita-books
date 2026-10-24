@@ -1,0 +1,71 @@
+{
+  "book": "magnetismo-relacoes-sociais-2008",
+  "chapter": "15",
+  "title": "Referência:",
+  "pages": [
+    53,
+    53
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Referência:",
+      "pages": [
+        53
+      ],
+      "style": {
+        "font": "TimesNewRoman,Bold",
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 185.8,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "15-0001",
+      "hash": "c82e947f"
+    },
+    {
+      "type": "paragraph",
+      "text": "LÉVI, Eliphas (2001). Dogma e Ritual de Alta Magia (Edson Bini, trad.).",
+      "pages": [
+        53
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "15-0002",
+      "hash": "84f34a67"
+    },
+    {
+      "type": "paragraph",
+      "text": "São Paulo: Madras. (Originalmente publicado em 1855). 5ª edição.",
+      "pages": [
+        53
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "15-0003",
+      "hash": "6ffa22d0"
+    }
+  ]
+}

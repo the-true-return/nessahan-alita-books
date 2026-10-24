@@ -1,0 +1,898 @@
+{
+  "page_number": 31,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9805297851562,
+        87.48676300048828
+      ],
+      "text": "no comportamento. Espere sempre o pior, mantendo-se vigilante. Parta",
+      "spans": [
+        {
+          "text": "no comportamento. Espere sempre o pior, mantendo-se vigilante. Parta",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9805297851562,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        539.0400390625,
+        111.48676300048828
+      ],
+      "text": "sempre do princípio de que há, por trás do comportamento",
+      "spans": [
+        {
+          "text": "sempre do princípio de que há, por trás do comportamento",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            539.0400390625,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.9201049804688,
+        135.72674560546875
+      ],
+      "text": "aparentemente promissor, amigável, carinhoso, amável e sedutor,",
+      "spans": [
+        {
+          "text": "aparentemente promissor, amigável, carinhoso, amável e sedutor,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.9201049804688,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        311.1451416015625,
+        159.72674560546875
+      ],
+      "text": "intenções de frustrá-lo enganando-o.",
+      "spans": [
+        {
+          "text": "intenções de frustrá-lo enganando-o.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            311.1451416015625,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        180.5572967529297,
+        538.980712890625,
+        195.96673583984375
+      ],
+      "text": "Não permita que seu nível de expectativa se eleve. Não se",
+      "spans": [
+        {
+          "text": "Não permita que seu nível de expectativa se eleve. Não se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            180.5572967529297,
+            538.980712890625,
+            195.96673583984375
+          ],
+          "origin": [
+            108.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        538.9805908203125,
+        220.20672607421875
+      ],
+      "text": "fascine pelas oportunidades maravilhosas que vislumbra. Mantenha-se",
+      "spans": [
+        {
+          "text": "fascine pelas oportunidades maravilhosas que vislumbra. Mantenha-se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            538.9805908203125,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        539.0402221679688,
+        244.20672607421875
+      ],
+      "text": "em nível de expectativa zero. Não espere nada e ao mesmo tempo",
+      "spans": [
+        {
+          "text": "em nível de expectativa zero. Não espere nada e ao mesmo tempo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            539.0402221679688,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        539.0401000976562,
+        268.44671630859375
+      ],
+      "text": "espere tudo. Seja realista ao extremo. Não permita que as ilusões o",
+      "spans": [
+        {
+          "text": "espere tudo. Seja realista ao extremo. Não permita que as ilusões o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            539.0401000976562,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        380.98516845703125,
+        292.68670654296875
+      ],
+      "text": "arrebatem da realidade. Enxergue-a tal como é.",
+      "spans": [
+        {
+          "text": "arrebatem da realidade. Enxergue-a tal como é.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            380.98516845703125,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        313.27728271484375,
+        539.280029296875,
+        328.68670654296875
+      ],
+      "text": "Podemos combater as falsas promessas em dois momentos ou",
+      "spans": [
+        {
+          "text": "Podemos combater as falsas promessas em dois momentos ou",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            313.27728271484375,
+            539.280029296875,
+            328.68670654296875
+          ],
+          "origin": [
+            108.0,
+            325.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        337.51727294921875,
+        538.9954833984375,
+        352.92669677734375
+      ],
+      "text": "instâncias: no momento em que estão se desenvolvendo e depois que já",
+      "spans": [
+        {
+          "text": "instâncias: no momento em que estão se desenvolvendo e depois que já",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            337.51727294921875,
+            538.9954833984375,
+            352.92669677734375
+          ],
+          "origin": [
+            72.0,
+            349.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        361.51727294921875,
+        170.52001953125,
+        376.92669677734375
+      ],
+      "text": "nos frustraram.",
+      "spans": [
+        {
+          "text": "nos frustraram.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            361.51727294921875,
+            170.52001953125,
+            376.92669677734375
+          ],
+          "origin": [
+            72.0,
+            373.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        397.75726318359375,
+        538.9805908203125,
+        413.16668701171875
+      ],
+      "text": "Se \nestiver \nvigilante, \nvocê \npoderá \ncombater \na \nartimanha",
+      "spans": [
+        {
+          "text": "Se ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            397.75726318359375,
+            127.31999969482422,
+            413.16668701171875
+          ],
+          "origin": [
+            108.0,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "estiver ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.47999572753906,
+            397.75726318359375,
+            186.1199951171875,
+            413.16668701171875
+          ],
+          "origin": [
+            138.47999572753906,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "vigilante, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            197.52000427246094,
+            397.75726318359375,
+            263.1600036621094,
+            413.16668701171875
+          ],
+          "origin": [
+            197.52000427246094,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "você ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            274.55999755859375,
+            397.75726318359375,
+            308.280029296875,
+            413.16668701171875
+          ],
+          "origin": [
+            274.55999755859375,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "poderá ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            319.44000244140625,
+            397.75726318359375,
+            366.8400573730469,
+            413.16668701171875
+          ],
+          "origin": [
+            319.44000244140625,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "combater ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            378.24005126953125,
+            397.75726318359375,
+            441.7200927734375,
+            413.16668701171875
+          ],
+          "origin": [
+            378.24005126953125,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            453.1200866699219,
+            397.75726318359375,
+            463.80010986328125,
+            413.16668701171875
+          ],
+          "origin": [
+            453.1200866699219,
+            410.15997314453125
+          ]
+        },
+        {
+          "text": "artimanha",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            475.2001037597656,
+            397.75726318359375,
+            538.9805908203125,
+            413.16668701171875
+          ],
+          "origin": [
+            475.2001037597656,
+            410.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        421.99725341796875,
+        539.0400390625,
+        437.40667724609375
+      ],
+      "text": "frustrando a mulher espertinha antes que ela o frustre. O momento",
+      "spans": [
+        {
+          "text": "frustrando a mulher espertinha antes que ela o frustre. O momento",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            421.99725341796875,
+            539.0400390625,
+            437.40667724609375
+          ],
+          "origin": [
+            72.0,
+            434.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        445.99725341796875,
+        538.920166015625,
+        461.40667724609375
+      ],
+      "text": "ideal para isso é aquele em que a promessa está se desenvolvendo,",
+      "spans": [
+        {
+          "text": "ideal para isso é aquele em que a promessa está se desenvolvendo,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            445.99725341796875,
+            538.920166015625,
+            461.40667724609375
+          ],
+          "origin": [
+            72.0,
+            458.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        470.23724365234375,
+        538.9805908203125,
+        485.64666748046875
+      ],
+      "text": "sendo feita. Para frustrá-la, basta comunicar que você a estará",
+      "spans": [
+        {
+          "text": "sendo feita. Para frustrá-la, basta comunicar que você a estará",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            470.23724365234375,
+            538.9805908203125,
+            485.64666748046875
+          ],
+          "origin": [
+            72.0,
+            482.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        494.23724365234375,
+        539.0400390625,
+        509.64666748046875
+      ],
+      "text": "observando para ver se realmente cumprirá o que está dizendo. No",
+      "spans": [
+        {
+          "text": "observando para ver se realmente cumprirá o que está dizendo. No",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            494.23724365234375,
+            539.0400390625,
+            509.64666748046875
+          ],
+          "origin": [
+            72.0,
+            506.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        518.4772338867188,
+        538.9805297851562,
+        533.8866577148438
+      ],
+      "text": "caso de reincidência de uma mesma promessa frustrante, informe na",
+      "spans": [
+        {
+          "text": "caso de reincidência de uma mesma promessa frustrante, informe na",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            518.4772338867188,
+            538.9805297851562,
+            533.8866577148438
+          ],
+          "origin": [
+            72.0,
+            530.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        542.7172241210938,
+        538.9805297851562,
+        558.1266479492188
+      ],
+      "text": "segunda vez que você já sabe que se trata de uma mentira. Demonstre",
+      "spans": [
+        {
+          "text": "segunda vez que você já sabe que se trata de uma mentira. Demonstre",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            542.7172241210938,
+            538.9805297851562,
+            558.1266479492188
+          ],
+          "origin": [
+            72.0,
+            555.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        566.7172241210938,
+        539.0400390625,
+        582.1266479492188
+      ],
+      "text": "sua expectativa baixa ou nula, torne-a visível. Antecipe-se informando",
+      "spans": [
+        {
+          "text": "sua expectativa baixa ou nula, torne-a visível. Antecipe-se informando",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            566.7172241210938,
+            539.0400390625,
+            582.1266479492188
+          ],
+          "origin": [
+            72.0,
+            579.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        590.957275390625,
+        386.5051574707031,
+        606.36669921875
+      ],
+      "text": "nos momentos bons que você já sabe o que virá.",
+      "spans": [
+        {
+          "text": "nos momentos bons que você já sabe o que virá.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            590.957275390625,
+            386.5051574707031,
+            606.36669921875
+          ],
+          "origin": [
+            72.0,
+            603.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        627.197265625,
+        539.0401000976562,
+        642.606689453125
+      ],
+      "text": "Quando você estiver sendo bem tratado, assediado, for recebido",
+      "spans": [
+        {
+          "text": "Quando você estiver sendo bem tratado, assediado, for recebido",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            627.197265625,
+            539.0401000976562,
+            642.606689453125
+          ],
+          "origin": [
+            108.0,
+            639.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        651.197265625,
+        538.9805908203125,
+        666.606689453125
+      ],
+      "text": "de forma convidativa e amigável etc. prepare-se para uma surpresa",
+      "spans": [
+        {
+          "text": "de forma convidativa e amigável etc. prepare-se para uma surpresa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            651.197265625,
+            538.9805908203125,
+            666.606689453125
+          ],
+          "origin": [
+            72.0,
+            663.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        675.437255859375,
+        539.309814453125,
+        690.8466796875
+      ],
+      "text": "pois repentinamente surgirá algo desagradável. Por exemplo: é comum",
+      "spans": [
+        {
+          "text": "pois repentinamente surgirá algo desagradável. Por exemplo: é comum",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            675.437255859375,
+            539.309814453125,
+            690.8466796875
+          ],
+          "origin": [
+            72.0,
+            687.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "31",
+      "spans": [
+        {
+          "text": "31",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "page_number": 52,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        210.72000122070312,
+        78.31273651123047,
+        436.1092529296875,
+        96.11329650878906
+      ],
+      "text": "10. As provocações irritantes",
+      "spans": [
+        {
+          "text": "10. As provocações irritantes",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            210.72000122070312,
+            78.31273651123047,
+            436.1092529296875,
+            96.11329650878906
+          ],
+          "origin": [
+            210.72000122070312,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        539.1156005859375,
+        133.08673095703125
+      ],
+      "text": "Estudemos agora as provocações histéricas levadas a cabo por",
+      "spans": [
+        {
+          "text": "Estudemos agora as provocações histéricas levadas a cabo por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            539.1156005859375,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        367.29034423828125,
+        157.08673095703125
+      ],
+      "text": "algumas megeras e que nos confundem tanto.",
+      "spans": [
+        {
+          "text": "algumas megeras e que nos confundem tanto.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            367.29034423828125,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        177.9172821044922,
+        538.9805908203125,
+        193.32672119140625
+      ],
+      "text": "É comum alguns homens serem desafiados ou termos a ira",
+      "spans": [
+        {
+          "text": "É comum alguns homens serem desafiados ou termos a ira",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            177.9172821044922,
+            538.9805908203125,
+            193.32672119140625
+          ],
+          "origin": [
+            108.0,
+            190.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        201.9172821044922,
+        538.9199829101562,
+        217.32672119140625
+      ],
+      "text": "provocada \npor \natitudes, \ncomportamentos \nou \npalavras \nde \nsuas",
+      "spans": [
+        {
+          "text": "provocada ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            201.9172821044922,
+            142.4399871826172,
+            217.32672119140625
+          ],
+          "origin": [
+            72.0,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "por ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            153.59999084472656,
+            201.9172821044922,
+            178.67999267578125,
+            217.32672119140625
+          ],
+          "origin": [
+            153.59999084472656,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "atitudes, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            189.83999633789062,
+            201.9172821044922,
+            249.465087890625,
+            217.32672119140625
+          ],
+          "origin": [
+            189.83999633789062,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "comportamentos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            260.6250915527344,
+            201.9172821044922,
+            371.3851318359375,
+            217.32672119140625
+          ],
+          "origin": [
+            260.6250915527344,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "ou ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            382.54510498046875,
+            201.9172821044922,
+            401.8651123046875,
+            217.32672119140625
+          ],
+          "origin": [
+            382.54510498046875,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "palavras ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            413.02508544921875,
+            201.9172821044922,
+            470.9851379394531,
+            217.32672119140625
+          ],
+          "origin": [
+            413.02508544921875,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            482.1451416015625,
+            201.9172821044922,
+            500.74517822265625,
+            217.32672119140625
+          ],
+          "origin": [
+            482.1451416015625,
+            214.32000732421875
+          ]
+        },
+        {
+          "text": "suas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            511.9051513671875,
+            201.9172821044922,
+            538.9199829101562,
+            217.32672119140625
+          ],
+          "origin": [
+            511.9051513671875,
+            214.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        226.1572723388672,
+        538.8605346679688,
+        241.56671142578125
+      ],
+      "text": "companheiras. Estas provocações são testes que visam medir seu auto-",
+      "spans": [
+        {
+          "text": "companheiras. Estas provocações são testes que visam medir seu auto-",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            226.1572723388672,
+            538.8605346679688,
+            241.56671142578125
+          ],
+          "origin": [
+            72.0,
+            238.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        250.3972625732422,
+        538.9805908203125,
+        265.80670166015625
+      ],
+      "text": "controle, grau de apaixonamento e capacidade de reagir corretamente a",
+      "spans": [
+        {
+          "text": "controle, grau de apaixonamento e capacidade de reagir corretamente a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            250.3972625732422,
+            538.9805908203125,
+            265.80670166015625
+          ],
+          "origin": [
+            72.0,
+            262.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        274.39727783203125,
+        189.22511291503906,
+        289.80670166015625
+      ],
+      "text": "situações difíceis.",
+      "spans": [
+        {
+          "text": "situações difíceis.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            274.39727783203125,
+            189.22511291503906,
+            289.80670166015625
+          ],
+          "origin": [
+            72.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        310.63726806640625,
+        538.9805908203125,
+        326.04669189453125
+      ],
+      "text": "Quando mesclado à raiva ou à ira, o sentimento da paixão atua",
+      "spans": [
+        {
+          "text": "Quando mesclado à raiva ou à ira, o sentimento da paixão atua",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            310.63726806640625,
+            538.9805908203125,
+            326.04669189453125
+          ],
+          "origin": [
+            108.0,
+            323.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        334.87725830078125,
+        539.0401611328125,
+        350.28668212890625
+      ],
+      "text": "como um freio contra as atitudes agressivas destrutivas do macho",
+      "spans": [
+        {
+          "text": "como um freio contra as atitudes agressivas destrutivas do macho",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            334.87725830078125,
+            539.0401611328125,
+            350.28668212890625
+          ],
+          "origin": [
+            72.0,
+            347.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        358.87725830078125,
+        539.0402221679688,
+        374.28668212890625
+      ],
+      "text": "irritado por ter sofrido uma provocação. Portanto, de acordo com o",
+      "spans": [
+        {
+          "text": "irritado por ter sofrido uma provocação. Portanto, de acordo com o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            358.87725830078125,
+            539.0402221679688,
+            374.28668212890625
+          ],
+          "origin": [
+            72.0,
+            371.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        383.11724853515625,
+        538.9806518554688,
+        398.52667236328125
+      ],
+      "text": "grau de agressividade de sua reação, a mulher ficará sabendo se você",
+      "spans": [
+        {
+          "text": "grau de agressividade de sua reação, a mulher ficará sabendo se você",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            383.11724853515625,
+            538.9806518554688,
+            398.52667236328125
+          ],
+          "origin": [
+            72.0,
+            395.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        407.11724853515625,
+        539.2800903320312,
+        422.52667236328125
+      ],
+      "text": "está muito ou pouco apaixonado e também se você é impulsivo ou",
+      "spans": [
+        {
+          "text": "está muito ou pouco apaixonado e também se você é impulsivo ou",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            407.11724853515625,
+            539.2800903320312,
+            422.52667236328125
+          ],
+          "origin": [
+            72.0,
+            419.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        431.35723876953125,
+        538.9807739257812,
+        446.76666259765625
+      ],
+      "text": "possui auto-controle. Se você perder a cabeça e enfurecer-se, estará",
+      "spans": [
+        {
+          "text": "possui auto-controle. Se você perder a cabeça e enfurecer-se, estará",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            431.35723876953125,
+            538.9807739257812,
+            446.76666259765625
+          ],
+          "origin": [
+            72.0,
+            443.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        455.59722900390625,
+        538.98046875,
+        471.00665283203125
+      ],
+      "text": "demonstrando que não se controla e, portanto, é um macho de",
+      "spans": [
+        {
+          "text": "demonstrando que não se controla e, portanto, é um macho de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            455.59722900390625,
+            538.98046875,
+            471.00665283203125
+          ],
+          "origin": [
+            72.0,
+            467.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        479.59722900390625,
+        538.9497680664062,
+        495.00665283203125
+      ],
+      "text": "categoria inferior, incapaz de manter o sangue frio em situações tensas",
+      "spans": [
+        {
+          "text": "categoria inferior, incapaz de manter o sangue frio em situações tensas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            479.59722900390625,
+            538.9497680664062,
+            495.00665283203125
+          ],
+          "origin": [
+            72.0,
+            491.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        503.83721923828125,
+        538.9200439453125,
+        519.2466430664062
+      ],
+      "text": "para protegê-la em caso de necessidade. Se agredí-la verbalmente,",
+      "spans": [
+        {
+          "text": "para protegê-la em caso de necessidade. Se agredí-la verbalmente,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            503.83721923828125,
+            538.9200439453125,
+            519.2466430664062
+          ],
+          "origin": [
+            72.0,
+            516.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        527.8372192382812,
+        539.0253295898438,
+        543.2466430664062
+      ],
+      "text": "estará indicando que é pouco submisso mas, ao mesmo tempo, que não",
+      "spans": [
+        {
+          "text": "estará indicando que é pouco submisso mas, ao mesmo tempo, que não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            527.8372192382812,
+            539.0253295898438,
+            543.2466430664062
+          ],
+          "origin": [
+            72.0,
+            540.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        552.0772094726562,
+        538.920166015625,
+        567.4866333007812
+      ],
+      "text": "controla a si mesmo. Nesses dois casos, você ficará rebaixado aos",
+      "spans": [
+        {
+          "text": "controla a si mesmo. Nesses dois casos, você ficará rebaixado aos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            552.0772094726562,
+            538.920166015625,
+            567.4866333007812
+          ],
+          "origin": [
+            72.0,
+            564.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        576.3172607421875,
+        538.9201049804688,
+        591.7266845703125
+      ],
+      "text": "olhos da espertinha, que se sentirá superior a você. Se não fizer nada,",
+      "spans": [
+        {
+          "text": "olhos da espertinha, que se sentirá superior a você. Se não fizer nada,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            576.3172607421875,
+            538.9201049804688,
+            591.7266845703125
+          ],
+          "origin": [
+            72.0,
+            588.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        600.3172607421875,
+        538.920166015625,
+        615.7266845703125
+      ],
+      "text": "por outro lado, estará indicando que é passivo, submisso e,",
+      "spans": [
+        {
+          "text": "por outro lado, estará indicando que é passivo, submisso e,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            600.3172607421875,
+            538.920166015625,
+            615.7266845703125
+          ],
+          "origin": [
+            72.0,
+            612.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        624.5572509765625,
+        406.2605285644531,
+        639.9666748046875
+      ],
+      "text": "igualmente, pouco interessante. O que fazer então?",
+      "spans": [
+        {
+          "text": "igualmente, pouco interessante. O que fazer então?",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            624.5572509765625,
+            406.2605285644531,
+            639.9666748046875
+          ],
+          "origin": [
+            72.0,
+            636.9599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        660.7972412109375,
+        538.9349365234375,
+        676.2066650390625
+      ],
+      "text": "A situação é difícil, quase um beco sem saída. Trata-se de mais",
+      "spans": [
+        {
+          "text": "A situação é difícil, quase um beco sem saída. Trata-se de mais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            660.7972412109375,
+            538.9349365234375,
+            676.2066650390625
+          ],
+          "origin": [
+            108.0,
+            673.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "52",
+      "spans": [
+        {
+          "text": "52",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

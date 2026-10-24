@@ -1,0 +1,927 @@
+{
+  "page_number": 17,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.20802307128906,
+        526.0199584960938,
+        84.49202728271484
+      ],
+      "text": "As crenças possuem intensidade variável, na proporção direta da qual",
+      "spans": [
+        {
+          "text": "As crenças possuem intensidade variável, na proporção direta da qual",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20802307128906,
+            526.0199584960938,
+            84.49202728271484
+          ],
+          "origin": [
+            120.54000091552734,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        91.90803527832031,
+        526.0485229492188,
+        105.1920394897461
+      ],
+      "text": "influenciam a conduta. Acreditamos facilmente naquilo que desejamos ou",
+      "spans": [
+        {
+          "text": "influenciam a conduta. Acreditamos facilmente naquilo que desejamos ou",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            91.90803527832031,
+            526.0485229492188,
+            105.1920394897461
+          ],
+          "origin": [
+            85.08001708984375,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        112.60804748535156,
+        217.744873046875,
+        125.89205169677734
+      ],
+      "text": "tememos intensamente.",
+      "spans": [
+        {
+          "text": "tememos intensamente.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            112.60804748535156,
+            217.744873046875,
+            125.89205169677734
+          ],
+          "origin": [
+            85.08001708984375,
+            123.300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        145.30799865722656,
+        525.9791870117188,
+        158.5919952392578
+      ],
+      "text": "Induzir crenças é operar sobre a imaginação. Se estou convicto que",
+      "spans": [
+        {
+          "text": "Induzir crenças é operar sobre a imaginação. Se estou convicto que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            145.30799865722656,
+            525.9791870117188,
+            158.5919952392578
+          ],
+          "origin": [
+            120.54000091552734,
+            156.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        166.0080108642578,
+        351.7777404785156,
+        179.29200744628906
+      ],
+      "text": "fulano é um ladrão, é porque assim o imagino.",
+      "spans": [
+        {
+          "text": "fulano é um ladrão, é porque assim o imagino.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            166.0080108642578,
+            351.7777404785156,
+            179.29200744628906
+          ],
+          "origin": [
+            85.08001708984375,
+            176.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        198.70802307128906,
+        525.9983520507812,
+        211.9920196533203
+      ],
+      "text": "Os combates ideológicos, verbais ou corporais são definidos pelo",
+      "spans": [
+        {
+          "text": "Os combates ideológicos, verbais ou corporais são definidos pelo",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            198.70802307128906,
+            525.9983520507812,
+            211.9920196533203
+          ],
+          "origin": [
+            120.54000091552734,
+            209.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        219.4080352783203,
+        526.0296020507812,
+        232.69203186035156
+      ],
+      "text": "poder de indução de crenças. Aquele que for induzido a crer que é inferior",
+      "spans": [
+        {
+          "text": "poder de indução de crenças. Aquele que for induzido a crer que é inferior",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            219.4080352783203,
+            526.0296020507812,
+            232.69203186035156
+          ],
+          "origin": [
+            85.08001708984375,
+            230.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        240.10804748535156,
+        255.7177276611328,
+        253.3920440673828
+      ],
+      "text": "ao adversário será derrotado.",
+      "spans": [
+        {
+          "text": "ao adversário será derrotado. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            240.10804748535156,
+            255.7177276611328,
+            253.3920440673828
+          ],
+          "origin": [
+            85.08001708984375,
+            250.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        272.8080139160156,
+        525.935546875,
+        286.0920104980469
+      ],
+      "text": "As crenças e imaginações definem, portanto, o sentido fluxional do",
+      "spans": [
+        {
+          "text": "As crenças e imaginações definem, portanto, o sentido fluxional do",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            272.8080139160156,
+            525.935546875,
+            286.0920104980469
+          ],
+          "origin": [
+            120.54000091552734,
+            283.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        293.5080261230469,
+        213.78713989257812,
+        306.7920227050781
+      ],
+      "text": "magnetismo universal.",
+      "spans": [
+        {
+          "text": "magnetismo universal.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            293.5080261230469,
+            213.78713989257812,
+            306.7920227050781
+          ],
+          "origin": [
+            85.08000183105469,
+            304.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        326.2080078125,
+        526.0090942382812,
+        339.49200439453125
+      ],
+      "text": "Aquele que odeia atua de acordo com o que acredita poder ferir o",
+      "spans": [
+        {
+          "text": "Aquele que odeia atua de acordo com o que acredita poder ferir o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            326.2080078125,
+            526.0090942382812,
+            339.49200439453125
+          ],
+          "origin": [
+            120.54000091552734,
+            336.8999938964844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        346.8479919433594,
+        526.0393676757812,
+        360.1319885253906
+      ],
+      "text": "inimigo, física ou emocionalmente, porque sua intenção é prejudicar.",
+      "spans": [
+        {
+          "text": "inimigo, física ou emocionalmente, porque sua intenção é prejudicar.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            346.8479919433594,
+            526.0393676757812,
+            360.1319885253906
+          ],
+          "origin": [
+            85.07998657226562,
+            357.53997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        367.5480041503906,
+        525.928955078125,
+        380.8320007324219
+      ],
+      "text": "Aquele que ama atua de acordo com o que acredita poder ajudar ou proteger",
+      "spans": [
+        {
+          "text": "Aquele que ama atua de acordo com o que acredita poder ajudar ou proteger",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            367.5480041503906,
+            525.928955078125,
+            380.8320007324219
+          ],
+          "origin": [
+            85.07998657226562,
+            378.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        388.2480163574219,
+        526.0293579101562,
+        401.5320129394531
+      ],
+      "text": "a pessoa amada. O manipulador pondera previamente a respeito das reações",
+      "spans": [
+        {
+          "text": "a pessoa amada. O manipulador pondera previamente a respeito das reações",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            388.2480163574219,
+            526.0293579101562,
+            401.5320129394531
+          ],
+          "origin": [
+            85.07998657226562,
+            398.94000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        408.9480285644531,
+        525.9865112304688,
+        422.2320251464844
+      ],
+      "text": "de sua vítima com a intenção de prevê-las e desencadeá-las. Pergunta-se,",
+      "spans": [
+        {
+          "text": "de sua vítima com a intenção de prevê-las e desencadeá-las. Pergunta-se,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            408.9480285644531,
+            525.9865112304688,
+            422.2320251464844
+          ],
+          "origin": [
+            85.07998657226562,
+            419.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        429.6480407714844,
+        525.987548828125,
+        442.9320373535156
+      ],
+      "text": "diante do inimigo: de que maneiras esta pessoa tentará me prejudicar caso",
+      "spans": [
+        {
+          "text": "diante do inimigo: de que maneiras esta pessoa tentará me prejudicar caso",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            429.6480407714844,
+            525.987548828125,
+            442.9320373535156
+          ],
+          "origin": [
+            85.0799560546875,
+            440.34002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        450.3480529785156,
+        525.8306274414062,
+        463.6320495605469
+      ],
+      "text": "eu provoque o seu ódio? Em seguida busca benefícios ocultos entre as",
+      "spans": [
+        {
+          "text": "eu provoque o seu ódio? Em seguida busca benefícios ocultos entre as",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            450.3480529785156,
+            525.8306274414062,
+            463.6320495605469
+          ],
+          "origin": [
+            85.0799560546875,
+            461.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        471.0480651855469,
+        526.1221923828125,
+        484.3320617675781
+      ],
+      "text": "possíveis \ntentativas \nde \ndanificação. \nSe \no \nidentifica, \ncalcula \nas",
+      "spans": [
+        {
+          "text": "possíveis ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            471.0480651855469,
+            141.12355041503906,
+            484.3320617675781
+          ],
+          "origin": [
+            85.0799560546875,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "tentativas ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            152.5835418701172,
+            471.0480651855469,
+            211.6234893798828,
+            484.3320617675781
+          ],
+          "origin": [
+            152.5835418701172,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            223.13995361328125,
+            471.0480651855469,
+            239.46954345703125,
+            484.3320617675781
+          ],
+          "origin": [
+            223.13995361328125,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "danificação. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            250.96913146972656,
+            471.0480651855469,
+            324.28668212890625,
+            484.3320617675781
+          ],
+          "origin": [
+            250.96913146972656,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "Se ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            335.7862854003906,
+            471.0480651855469,
+            352.7662658691406,
+            484.3320617675781
+          ],
+          "origin": [
+            335.7862854003906,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            364.265869140625,
+            471.0480651855469,
+            374.26666259765625,
+            484.3320617675781
+          ],
+          "origin": [
+            364.265869140625,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "identifica, ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            385.6799621582031,
+            471.0480651855469,
+            448.0500793457031,
+            484.3320617675781
+          ],
+          "origin": [
+            385.6799621582031,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "calcula ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            459.54010009765625,
+            471.0480651855469,
+            503.6221618652344,
+            484.3320617675781
+          ],
+          "origin": [
+            459.54010009765625,
+            481.74005126953125
+          ]
+        },
+        {
+          "text": "as",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            515.1121826171875,
+            471.0480651855469,
+            526.1221923828125,
+            484.3320617675781
+          ],
+          "origin": [
+            515.1121826171875,
+            481.74005126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        491.7480773925781,
+        526.1817626953125,
+        505.0320739746094
+      ],
+      "text": "probabilidades de que a vítima reaja exatamente da forma prevista. Em",
+      "spans": [
+        {
+          "text": "probabilidades de que a vítima reaja exatamente da forma prevista. Em",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            491.7480773925781,
+            526.1817626953125,
+            505.0320739746094
+          ],
+          "origin": [
+            85.07998657226562,
+            502.4400634765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        512.4480590820312,
+        526.0922241210938,
+        525.7320556640625
+      ],
+      "text": "seguida aperta os botões. As crenças do odiante condicionam suas ações em",
+      "spans": [
+        {
+          "text": "seguida aperta os botões. As crenças do odiante condicionam suas ações em",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            512.4480590820312,
+            526.0922241210938,
+            525.7320556640625
+          ],
+          "origin": [
+            85.07998657226562,
+            523.1400756835938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        533.1480712890625,
+        525.9552001953125,
+        546.4320678710938
+      ],
+      "text": "relação ao odiado. As ações do odiado são como botões psicológicos que",
+      "spans": [
+        {
+          "text": "relação ao odiado. As ações do odiado são como botões psicológicos que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            533.1480712890625,
+            525.9552001953125,
+            546.4320678710938
+          ],
+          "origin": [
+            85.08001708984375,
+            543.840087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        553.8480224609375,
+        525.9765625,
+        567.1320190429688
+      ],
+      "text": "ativam de forma exata certos comportamentos ao serem apertados. Tudo se",
+      "spans": [
+        {
+          "text": "ativam de forma exata certos comportamentos ao serem apertados. Tudo se",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            553.8480224609375,
+            525.9765625,
+            567.1320190429688
+          ],
+          "origin": [
+            85.08001708984375,
+            564.5400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        574.5480346679688,
+        525.8567504882812,
+        587.83203125
+      ],
+      "text": "resume em encontrar os botões corretos de acordo com os benefícios que",
+      "spans": [
+        {
+          "text": "resume em encontrar os botões corretos de acordo com os benefícios que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            574.5480346679688,
+            525.8567504882812,
+            587.83203125
+          ],
+          "origin": [
+            85.08003234863281,
+            585.2400512695312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        595.248046875,
+        525.939697265625,
+        608.5320434570312
+      ],
+      "text": "busca o manipulador. Um erro de cálculo pode ser fatal. O ódio é um dos",
+      "spans": [
+        {
+          "text": "busca o manipulador. Um erro de cálculo pode ser fatal. O ódio é um dos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            595.248046875,
+            525.939697265625,
+            608.5320434570312
+          ],
+          "origin": [
+            85.08003234863281,
+            605.9400634765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        615.9480590820312,
+        525.974365234375,
+        629.2320556640625
+      ],
+      "text": "impulsionadores mais fortes do comportamento. Aqueles que eliminam o",
+      "spans": [
+        {
+          "text": "impulsionadores mais fortes do comportamento. Aqueles que eliminam o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            615.9480590820312,
+            525.974365234375,
+            629.2320556640625
+          ],
+          "origin": [
+            85.08001708984375,
+            626.6400756835938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        636.6480712890625,
+        227.8655548095703,
+        649.9320678710938
+      ],
+      "text": "ego, eliminam os botões.",
+      "spans": [
+        {
+          "text": "ego, eliminam os botões.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            636.6480712890625,
+            227.8655548095703,
+            649.9320678710938
+          ],
+          "origin": [
+            85.08001708984375,
+            647.340087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "17",
+      "spans": [
+        {
+          "text": "17",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

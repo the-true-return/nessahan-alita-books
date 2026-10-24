@@ -1,0 +1,5 @@
+# generated, reproducible
+output/*/build/
+output/*/preview/
+*.tmp
+__pycache__/

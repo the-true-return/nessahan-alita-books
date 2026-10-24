@@ -1,0 +1,154 @@
+{
+  "book": "reflexoes-masculinas-2008",
+  "title": "Reflexões Masculinas sobre a Mulher e o Amor",
+  "metrics": {
+    "body_size": 13.9,
+    "left": 85,
+    "right": 527,
+    "indent": 120,
+    "line_gap": 9.06,
+    "para_gap": 14.5
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        3
+      ],
+      "segments": 32,
+      "words": 449,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        4,
+        5
+      ],
+      "segments": 5,
+      "words": 230,
+      "footnotes": 0
+    },
+    {
+      "id": "02",
+      "title": "1. Princípios e concepções originais que norteiam os trabalhos de Nessahan Alita",
+      "pages": [
+        6,
+        8
+      ],
+      "segments": 19,
+      "words": 489,
+      "footnotes": 0
+    },
+    {
+      "id": "03",
+      "title": "2.Os tipos de aprisionamento à mulher, segundo os centros da máquina.",
+      "pages": [
+        9,
+        13
+      ],
+      "segments": 18,
+      "words": 973,
+      "footnotes": 0
+    },
+    {
+      "id": "04",
+      "title": "3. A atração sexual na mulher",
+      "pages": [
+        14,
+        22
+      ],
+      "segments": 31,
+      "words": 1973,
+      "footnotes": 0
+    },
+    {
+      "id": "05",
+      "title": "4. Um pouco sobre abordagem e conquista",
+      "pages": [
+        23,
+        38
+      ],
+      "segments": 63,
+      "words": 3375,
+      "footnotes": 0
+    },
+    {
+      "id": "06",
+      "title": "5. Um grave erro que cometemos",
+      "pages": [
+        40,
+        45
+      ],
+      "segments": 13,
+      "words": 1215,
+      "footnotes": 0
+    },
+    {
+      "id": "07",
+      "title": "5. A agressão emocional da mulher contra o homem",
+      "pages": [
+        46,
+        51
+      ],
+      "segments": 18,
+      "words": 1309,
+      "footnotes": 0
+    },
+    {
+      "id": "08",
+      "title": "6. Algumas artimanhas femininas infernizantes",
+      "pages": [
+        52,
+        59
+      ],
+      "segments": 32,
+      "words": 1579,
+      "footnotes": 0
+    },
+    {
+      "id": "09",
+      "title": "7. A obsessiva busca feminina pela continuidade do interesse masculino",
+      "pages": [
+        60,
+        64
+      ],
+      "segments": 24,
+      "words": 819,
+      "footnotes": 0
+    },
+    {
+      "id": "10",
+      "title": "Conclusões",
+      "pages": [
+        65,
+        66
+      ],
+      "segments": 16,
+      "words": 188,
+      "footnotes": 0
+    },
+    {
+      "id": "11",
+      "title": "Referências bibliográficas:",
+      "pages": [
+        67,
+        67
+      ],
+      "segments": 5,
+      "words": 64,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "drop": 67
+  },
+  "completeness": {
+    "source_chars": 65855,
+    "segment_chars": 65855
+  },
+  "warnings": []
+}

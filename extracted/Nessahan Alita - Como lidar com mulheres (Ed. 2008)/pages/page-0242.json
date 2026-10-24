@@ -1,0 +1,1048 @@
+{
+  "page_number": 242,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4124755859375,
+        145.54006958007812
+      ],
+      "text": "FREUD, S. (1974). Totem e Tabu. (J. Salomão, trad.). Edição Standard \nBrasileira das Obras Psicológicas Completas (Vol. XIII, pp. 13-168). Rio de \nJaneiro: Imago. (Originalmente publicado em 1913)",
+      "spans": [
+        {
+          "text": "FREUD, S. (1974). Totem e Tabu. (J. Salomão, trad.). Edição Standard ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.3778076171875,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "Brasileira das Obras Psicológicas Completas (Vol. XIII, pp. 13-168). Rio de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            116.53167724609375,
+            515.4124755859375,
+            132.09945678710938
+          ],
+          "origin": [
+            82.739990234375,
+            128.8201904296875
+          ]
+        },
+        {
+          "text": "Janeiro: Imago. (Originalmente publicado em 1913) ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            129.9722900390625,
+            376.4363098144531,
+            145.54006958007812
+          ],
+          "origin": [
+            82.739990234375,
+            142.26080322265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73899841308594,
+        155.051513671875,
+        515.4549560546875,
+        184.05947875976562
+      ],
+      "text": "FROMM, Erich (1976). A Arte de Amar (Milton Amado, trad.). Belo \nHorizonte: Itatiaia.",
+      "spans": [
+        {
+          "text": "FROMM, Erich (1976). A Arte de Amar (Milton Amado, trad.). Belo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            155.051513671875,
+            515.4549560546875,
+            170.61978149414062
+          ],
+          "origin": [
+            82.739990234375,
+            167.34051513671875
+          ]
+        },
+        {
+          "text": "Horizonte: Itatiaia. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73899841308594,
+            168.49169921875,
+            193.33534240722656,
+            184.05947875976562
+          ],
+          "origin": [
+            82.73899841308594,
+            180.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73899841308594,
+        193.57147216796875,
+        515.383544921875,
+        235.95913696289062
+      ],
+      "text": "GOETHE, Johan Wolfgang von (1988). Os Sofrimentos do Jovem Werther \n(Erlon José Paschoal, trad.). São Paulo: Círculo do Livro (Original de \n1774).",
+      "spans": [
+        {
+          "text": "GOETHE, Johan Wolfgang von (1988). Os Sofrimentos do Jovem Werther ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73899841308594,
+            193.57147216796875,
+            515.3775024414062,
+            209.13955688476562
+          ],
+          "origin": [
+            82.73899841308594,
+            205.86029052734375
+          ]
+        },
+        {
+          "text": "(Erlon José Paschoal, trad.). São Paulo: Círculo do Livro (Original de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            207.01165771484375,
+            515.383544921875,
+            222.57943725585938
+          ],
+          "origin": [
+            82.74002075195312,
+            219.3001708984375
+          ]
+        },
+        {
+          "text": "1774). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            220.391357421875,
+            121.71765899658203,
+            235.95913696289062
+          ],
+          "origin": [
+            82.74002075195312,
+            232.67987060546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        245.470458984375,
+        515.4072875976562,
+        287.9190368652344
+      ],
+      "text": "GOETHE, Johan Wolfgang von (1953). Fausto (Agostinho D’Ornellas, \ntrad.) \nCoimbra: \nActa \nUniversitatis \nConimbrigensis. \n(Originalmente \npublicado em 1806 e 1832, partes I e II respectivamente).",
+      "spans": [
+        {
+          "text": "GOETHE, Johan Wolfgang von (1953). Fausto",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            245.471435546875,
+            366.3853454589844,
+            261.0392150878906
+          ],
+          "origin": [
+            82.74002075195312,
+            257.75994873046875
+          ]
+        },
+        {
+          "text": "(Agostinho D’Ornellas, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            376.0799865722656,
+            245.470458984375,
+            515.4072875976562,
+            261.0382385253906
+          ],
+          "origin": [
+            376.0799865722656,
+            257.75897216796875
+          ]
+        },
+        {
+          "text": "trad.) ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            258.91107177734375,
+            116.49169158935547,
+            274.4788513183594
+          ],
+          "origin": [
+            82.74099731445312,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "Coimbra: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.0344696044922,
+            258.91107177734375,
+            182.8203887939453,
+            274.4788513183594
+          ],
+          "origin": [
+            128.0344696044922,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "Acta ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            194.36317443847656,
+            258.91107177734375,
+            223.24644470214844,
+            274.4788513183594
+          ],
+          "origin": [
+            194.36317443847656,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "Universitatis ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            234.7892303466797,
+            258.91107177734375,
+            310.0304260253906,
+            274.4788513183594
+          ],
+          "origin": [
+            234.7892303466797,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "Conimbrigensis. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            321.6326904296875,
+            258.91107177734375,
+            415.8629455566406,
+            274.4788513183594
+          ],
+          "origin": [
+            321.6326904296875,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "(Originalmente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            427.5260009765625,
+            258.91107177734375,
+            515.3356323242188,
+            274.4788513183594
+          ],
+          "origin": [
+            427.5260009765625,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "publicado em 1806 e 1832, partes I e II respectivamente). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            272.35125732421875,
+            409.7909240722656,
+            287.9190368652344
+          ],
+          "origin": [
+            82.74099731445312,
+            284.6397705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        297.43133544921875,
+        515.4912109375,
+        339.8189392089844
+      ],
+      "text": "GOLEMAN, \nDaniel \n(1997). \nInteligência \nEmocional: \nA \nTeoria \nRevolucionária que Redefine o que É Ser Inteligente (Marcos Santarrita, \ntrad.). Rio de Janeiro: Objetiva. 39ª edição.",
+      "spans": [
+        {
+          "text": "GOLEMAN, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            297.43133544921875,
+            154.69252014160156,
+            312.9991149902344
+          ],
+          "origin": [
+            82.74099731445312,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Daniel ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            169.59507751464844,
+            297.43133544921875,
+            209.52505493164062,
+            312.9991149902344
+          ],
+          "origin": [
+            169.59507751464844,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "(1997). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            224.367919921875,
+            297.43133544921875,
+            268.08154296875,
+            312.9991149902344
+          ],
+          "origin": [
+            224.367919921875,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Inteligência ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            282.9841003417969,
+            297.43133544921875,
+            352.7438049316406,
+            312.9991149902344
+          ],
+          "origin": [
+            282.9841003417969,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Emocional: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            367.6463623046875,
+            297.43133544921875,
+            434.1549987792969,
+            312.9991149902344
+          ],
+          "origin": [
+            367.6463623046875,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "A ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            448.9978332519531,
+            297.43133544921875,
+            461.3330383300781,
+            312.9991149902344
+          ],
+          "origin": [
+            448.9978332519531,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Teoria ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            476.2950744628906,
+            297.43133544921875,
+            515.4912109375,
+            312.9991149902344
+          ],
+          "origin": [
+            476.2950744628906,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Revolucionária que Redefine o que É Ser Inteligente (Marcos Santarrita, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            310.8714599609375,
+            515.433349609375,
+            326.4392395019531
+          ],
+          "origin": [
+            82.73979949951172,
+            323.15997314453125
+          ]
+        },
+        {
+          "text": "trad.).",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            324.25115966796875,
+            116.49068450927734,
+            339.8189392089844
+          ],
+          "origin": [
+            82.739990234375,
+            336.5396728515625
+          ]
+        },
+        {
+          "text": "Rio de Janeiro: Objetiva. 39",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            121.31999969482422,
+            324.25048828125,
+            278.8330993652344,
+            339.8182678222656
+          ],
+          "origin": [
+            121.31999969482422,
+            336.53900146484375
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            279.8399963378906,
+            323.0274658203125,
+            281.98187255859375,
+            333.37982177734375
+          ],
+          "origin": [
+            279.8399963378906,
+            331.19915771484375
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            282.9602966308594,
+            324.2508850097656,
+            330.0093078613281,
+            339.81866455078125
+          ],
+          "origin": [
+            282.9602966308594,
+            336.5393981933594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        349.3305969238281,
+        515.5117797851562,
+        405.1589660644531
+      ],
+      "text": "GROF, Stanislav e GROF, Christina (1997). Emergência Espiritual: Para \nCompreender a Crise da Evolução. In: GROF, Stanislav e GROF, Crhistina \n(orgs.). Emergência Espiritual: Crise e Transformação Espiritual (Adail \nUbirajara Sobral, trad.). São Paulo: Cultrix. (Original de 1989).",
+      "spans": [
+        {
+          "text": "GROF, Stanislav e GROF, Christina (1997). Emergência Espiritual: Para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74029541015625,
+            349.3305969238281,
+            515.5117797851562,
+            364.89837646484375
+          ],
+          "origin": [
+            82.74029541015625,
+            361.6191101074219
+          ]
+        },
+        {
+          "text": "Compreender a Crise da Evolução. In: GROF, Stanislav e GROF, Crhistina ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74029541015625,
+            362.7712097167969,
+            515.4092407226562,
+            378.3389892578125
+          ],
+          "origin": [
+            82.74029541015625,
+            375.0597229003906
+          ]
+        },
+        {
+          "text": "(orgs.). Emergência Espiritual: Crise e Transformação Espiritual (Adail ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74029541015625,
+            376.21148681640625,
+            515.4405517578125,
+            391.77960205078125
+          ],
+          "origin": [
+            82.74029541015625,
+            388.5003356933594
+          ]
+        },
+        {
+          "text": "Ubirajara Sobral, trad.). São Paulo: Cultrix. (Original de 1989). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            389.5911865234375,
+            444.8038330078125,
+            405.1589660644531
+          ],
+          "origin": [
+            82.74002075195312,
+            401.87969970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        414.6712951660156,
+        515.5032958984375,
+        497.3193359375
+      ],
+      "text": "HARRISON, G. A. e WEINER, J.S. (1971). Evolução Humana. In: \nHARRISON, G. A., WEINER, J. S.,TANNER, J. M. e BARNICOT, N. A. \nBiologia Humana: Introdução à Evolução, Variação e Crescimento Humanos \n(Antonio Neto Cestari, Sílvio Almeida Toledo Filho e João Miguel Pinto de \nAlbuquerque, trads.). São Paulo: Companhia Editora Nacional e Editora da \nUniversidade de São Paulo. (Original de 1964).",
+      "spans": [
+        {
+          "text": "HARRISON, G. A. e WEINER, J.S. (1971). Evolução Humana. In: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            414.6712951660156,
+            515.4052124023438,
+            430.23907470703125
+          ],
+          "origin": [
+            82.74002075195312,
+            426.9598083496094
+          ]
+        },
+        {
+          "text": "HARRISON, G. A., WEINER, J. S.,TANNER, J. M. e BARNICOT, N. A. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            428.0509948730469,
+            515.3221435546875,
+            443.6187744140625
+          ],
+          "origin": [
+            82.74002075195312,
+            440.3395080566406
+          ]
+        },
+        {
+          "text": "Biologia Humana: Introdução à Evolução, Variação e Crescimento Humanos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            441.4911804199219,
+            515.3775024414062,
+            457.05926513671875
+          ],
+          "origin": [
+            82.74002075195312,
+            453.7796936035156
+          ]
+        },
+        {
+          "text": "(Antonio Neto Cestari, Sílvio Almeida Toledo Filho e João Miguel Pinto de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            454.9316711425781,
+            515.5032958984375,
+            470.49945068359375
+          ],
+          "origin": [
+            82.74002075195312,
+            467.2201843261719
+          ]
+        },
+        {
+          "text": "Albuquerque, trads.). São Paulo: Companhia Editora Nacional e Editora da ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            468.3113708496094,
+            515.4347534179688,
+            483.879150390625
+          ],
+          "origin": [
+            82.74002075195312,
+            480.5998840332031
+          ]
+        },
+        {
+          "text": "Universidade de São Paulo. (Original de 1964). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            481.7515563964844,
+            352.1888732910156,
+            497.3193359375
+          ],
+          "origin": [
+            82.74002075195312,
+            494.0400695800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        506.8316650390625,
+        515.5445556640625,
+        549.2794799804688
+      ],
+      "text": "HISE, Dr. Richard T.(feb, 2004).The War Against Men: Why Women are \nWinning and what Men Must Do if America is to Survive. Elderberry Press, \nLLC.",
+      "spans": [
+        {
+          "text": "HISE, Dr. Richard T.(feb, 2004).The War Against Men: Why Women are ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            506.8316650390625,
+            515.5445556640625,
+            522.3994750976562
+          ],
+          "origin": [
+            82.74002075195312,
+            519.1201782226562
+          ]
+        },
+        {
+          "text": "Winning and what Men Must Do if America is to Survive. Elderberry Press, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            520.271484375,
+            515.4417724609375,
+            535.8392944335938
+          ],
+          "origin": [
+            82.73979949951172,
+            532.5599975585938
+          ]
+        },
+        {
+          "text": "LLC. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            533.711669921875,
+            114.5267333984375,
+            549.2794799804688
+          ],
+          "origin": [
+            82.739990234375,
+            546.0001831054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        558.7918090820312,
+        515.507568359375,
+        587.7392578125
+      ],
+      "text": "JOHNSON, Robert A. (1987). She: A Chave do Entendimento da Psicologia \nFeminina (Maria Helena de Oliveria Tricca, trad.). São Paulo: Mercuryo.",
+      "spans": [
+        {
+          "text": "JOHNSON, Robert A. (1987). She: A Chave do Entendimento da Psicologia ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            558.7918090820312,
+            515.507568359375,
+            574.359619140625
+          ],
+          "origin": [
+            82.739990234375,
+            571.080322265625
+          ]
+        },
+        {
+          "text": "Feminina (Maria Helena de Oliveria Tricca, trad.). São Paulo: Mercuryo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            572.1714477539062,
+            496.1257629394531,
+            587.7392578125
+          ],
+          "origin": [
+            82.73979949951172,
+            584.4599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        597.3109741210938,
+        515.4489135742188,
+        626.25927734375
+      ],
+      "text": "JUDY, Dwight H. (1998). Curando a Alma Masculina: O Cristianismo e a \nJornada Mítica (Maria Sílvia Mourão Neto, trad.). São Paulo: Paulus.",
+      "spans": [
+        {
+          "text": "JUDY, Dwight H. (1998). Curando a Alma Masculina: O Cristianismo e a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            597.3109741210938,
+            515.4489135742188,
+            612.8787841796875
+          ],
+          "origin": [
+            82.73999786376953,
+            609.5994873046875
+          ]
+        },
+        {
+          "text": "Jornada Mítica (Maria Sílvia Mourão Neto, trad.). São Paulo: Paulus. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            610.6914672851562,
+            475.69189453125,
+            626.25927734375
+          ],
+          "origin": [
+            82.73979949951172,
+            622.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        635.771484375,
+        515.4625854492188,
+        664.7794799804688
+      ],
+      "text": "JUNG, Carl Gustav (1979). O Eu e o Inconsciente (Dora Ferreira da Silva, \ntrad.). Petrópolis: Vozes. 2ª edição.",
+      "spans": [
+        {
+          "text": "JUNG, Carl Gustav (1979). O Eu e o Inconsciente (Dora Ferreira da Silva, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            635.771484375,
+            515.4625854492188,
+            651.33935546875
+          ],
+          "origin": [
+            82.73979949951172,
+            648.06005859375
+          ]
+        },
+        {
+          "text": "trad.). Petrópolis: Vozes. 2ª edição.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            649.211669921875,
+            290.13604736328125,
+            664.7794799804688
+          ],
+          "origin": [
+            82.739990234375,
+            661.5001831054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        674.29150390625,
+        515.4954833984375,
+        716.7401123046875
+      ],
+      "text": "JUNG, Carl Gustav (2002) . Cartas: 1946-1955 (Edgar Orth, trad; Editado \npor Aniela Jaffé; em colaboração com Gehard Adler). Petrópolis: Vozes. \n(Originais de 1972 e 1973)",
+      "spans": [
+        {
+          "text": "JUNG, Carl Gustav (2002) . Cartas: 1946-1955 (Edgar Orth, trad; Editado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            674.29150390625,
+            515.4954833984375,
+            689.859619140625
+          ],
+          "origin": [
+            82.739990234375,
+            686.580322265625
+          ]
+        },
+        {
+          "text": "por Aniela Jaffé; em colaboração com Gehard Adler). Petrópolis: Vozes. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            687.731689453125,
+            515.306396484375,
+            703.2994995117188
+          ],
+          "origin": [
+            82.74099731445312,
+            700.0202026367188
+          ]
+        },
+        {
+          "text": "(Originais de 1972 e 1973) ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74101257324219,
+            701.1723022460938,
+            236.8361358642578,
+            716.7401123046875
+          ],
+          "origin": [
+            82.74101257324219,
+            713.4608154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "242",
+      "spans": [
+        {
+          "text": "242",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

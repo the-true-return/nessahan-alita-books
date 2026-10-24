@@ -1,0 +1,95 @@
+{
+  "page_number": 52,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.20802307128906,
+        526.060791015625,
+        84.49202728271484
+      ],
+      "text": "A temperança, o equilíbrio, a serenidade e a sobriedade muito mais",
+      "spans": [
+        {
+          "text": "A temperança, o equilíbrio, a serenidade e a sobriedade muito mais",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20802307128906,
+            526.060791015625,
+            84.49202728271484
+          ],
+          "origin": [
+            120.54000091552734,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        91.90803527832031,
+        341.7768249511719,
+        105.1920394897461
+      ],
+      "text": "recomendáveis do que a exaltação passional.",
+      "spans": [
+        {
+          "text": "recomendáveis do que a exaltação passional.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            91.90803527832031,
+            341.7768249511719,
+            105.1920394897461
+          ],
+          "origin": [
+            85.07998657226562,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "52",
+      "spans": [
+        {
+          "text": "52",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

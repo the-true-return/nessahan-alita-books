@@ -1,0 +1,170 @@
+{
+  "page_number": 5,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        71.5555191040039,
+        526.8576049804688,
+        87.21552276611328
+      ],
+      "text": "criticamente por si mesmos e que tenham ou busquem relações",
+      "spans": [
+        {
+          "text": "criticamente por si mesmos e que tenham ou busquem relações",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            71.5555191040039,
+            526.8576049804688,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        96.2754898071289,
+        526.6848754882812,
+        111.93549346923828
+      ],
+      "text": "estáveis (e sejam, portanto, pessoas amadurecidas e adultas).",
+      "spans": [
+        {
+          "text": "estáveis (e sejam, portanto, pessoas amadurecidas e adultas).",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            96.2754898071289,
+            526.6848754882812,
+            111.93549346923828
+          ],
+          "origin": [
+            84.95999908447266,
+            108.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        120.7554702758789,
+        526.5792846679688,
+        136.41546630859375
+      ],
+      "text": "Se você está procurando um corpo de doutrina para submeter-",
+      "spans": [
+        {
+          "text": "Se você está procurando um corpo de doutrina para submeter-",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            120.7554702758789,
+            526.5792846679688,
+            136.41546630859375
+          ],
+          "origin": [
+            84.95999908447266,
+            133.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        145.47544860839844,
+        471.887939453125,
+        161.13543701171875
+      ],
+      "text": "se, jogue este livro fora pois ele não foi escrito para você.",
+      "spans": [
+        {
+          "text": "se, jogue este livro fora pois ele não foi escrito para você.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            145.47544860839844,
+            471.887939453125,
+            161.13543701171875
+          ],
+          "origin": [
+            84.95999908447266,
+            157.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

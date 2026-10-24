@@ -1,0 +1,286 @@
+{
+  "book": "textos-complementares-2008",
+  "title": "Textos Complementares",
+  "metrics": {
+    "body_size": 11.7,
+    "left": 83,
+    "right": 516,
+    "indent": 117,
+    "line_gap": 6.9,
+    "para_gap": 11.04
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        2
+      ],
+      "segments": 31,
+      "words": 137,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        3,
+        3
+      ],
+      "segments": 5,
+      "words": 71,
+      "footnotes": 0
+    },
+    {
+      "id": "02",
+      "title": "1. Aprofundamentos",
+      "pages": [
+        4,
+        20
+      ],
+      "segments": 113,
+      "words": 3430,
+      "footnotes": 5
+    },
+    {
+      "id": "03",
+      "title": "2. Aceitando e contornando as barreiras",
+      "pages": [
+        21,
+        21
+      ],
+      "segments": 4,
+      "words": 182,
+      "footnotes": 0
+    },
+    {
+      "id": "04",
+      "title": "3. O jogo de bloqueios e esperanças",
+      "pages": [
+        22,
+        24
+      ],
+      "segments": 7,
+      "words": 573,
+      "footnotes": 0
+    },
+    {
+      "id": "05",
+      "title": "4. O homem não é o único culpado por desejar",
+      "pages": [
+        25,
+        27
+      ],
+      "segments": 7,
+      "words": 585,
+      "footnotes": 1
+    },
+    {
+      "id": "06",
+      "title": "5. Comportamento violento e desilusão",
+      "pages": [
+        28,
+        33
+      ],
+      "segments": 32,
+      "words": 1297,
+      "footnotes": 2
+    },
+    {
+      "id": "07",
+      "title": "6. Comportamento ambíguo",
+      "pages": [
+        34,
+        36
+      ],
+      "segments": 12,
+      "words": 460,
+      "footnotes": 0
+    },
+    {
+      "id": "08",
+      "title": "7. Decadência familiar",
+      "pages": [
+        37,
+        38
+      ],
+      "segments": 10,
+      "words": 381,
+      "footnotes": 0
+    },
+    {
+      "id": "09",
+      "title": "8. Gerando atração",
+      "pages": [
+        39,
+        40
+      ],
+      "segments": 10,
+      "words": 442,
+      "footnotes": 1
+    },
+    {
+      "id": "10",
+      "title": "9. Significados do ato sexual",
+      "pages": [
+        41,
+        42
+      ],
+      "segments": 7,
+      "words": 344,
+      "footnotes": 2
+    },
+    {
+      "id": "11",
+      "title": "10. Divergências com a sedutologia",
+      "pages": [
+        43,
+        44
+      ],
+      "segments": 5,
+      "words": 354,
+      "footnotes": 0
+    },
+    {
+      "id": "12",
+      "title": "11. Um círculo vicioso",
+      "pages": [
+        45,
+        45
+      ],
+      "segments": 4,
+      "words": 208,
+      "footnotes": 0
+    },
+    {
+      "id": "13",
+      "title": "12. O adiamento infinito",
+      "pages": [
+        46,
+        48
+      ],
+      "segments": 14,
+      "words": 718,
+      "footnotes": 2
+    },
+    {
+      "id": "14",
+      "title": "13. Agressão afetiva",
+      "pages": [
+        49,
+        51
+      ],
+      "segments": 9,
+      "words": 567,
+      "footnotes": 1
+    },
+    {
+      "id": "15",
+      "title": "14. Sobre ser estratégico",
+      "pages": [
+        52,
+        53
+      ],
+      "segments": 6,
+      "words": 328,
+      "footnotes": 0
+    },
+    {
+      "id": "16",
+      "title": "15. Alguns tipos de mulheres que não merecem confiança",
+      "pages": [
+        54,
+        56
+      ],
+      "segments": 21,
+      "words": 435,
+      "footnotes": 0
+    },
+    {
+      "id": "17",
+      "title": "16. Auto-poder masculino",
+      "pages": [
+        57,
+        58
+      ],
+      "segments": 7,
+      "words": 400,
+      "footnotes": 1
+    },
+    {
+      "id": "18",
+      "title": "17. Porque elas são tão fascinantes",
+      "pages": [
+        59,
+        60
+      ],
+      "segments": 4,
+      "words": 314,
+      "footnotes": 0
+    },
+    {
+      "id": "19",
+      "title": "18. Sobre os níveis de aproximação",
+      "pages": [
+        61,
+        66
+      ],
+      "segments": 18,
+      "words": 1328,
+      "footnotes": 3
+    },
+    {
+      "id": "20",
+      "title": "19. Do encantamento",
+      "pages": [
+        67,
+        67
+      ],
+      "segments": 4,
+      "words": 236,
+      "footnotes": 0
+    },
+    {
+      "id": "21",
+      "title": "20. Da revolta contra a realidade",
+      "pages": [
+        68,
+        69
+      ],
+      "segments": 6,
+      "words": 287,
+      "footnotes": 0
+    },
+    {
+      "id": "22",
+      "title": "21. Amor passional e luxúria",
+      "pages": [
+        70,
+        72
+      ],
+      "segments": 13,
+      "words": 613,
+      "footnotes": 3
+    },
+    {
+      "id": "23",
+      "title": "22. Reforçando os pilares da teoria",
+      "pages": [
+        73,
+        79
+      ],
+      "segments": 24,
+      "words": 1650,
+      "footnotes": 4
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 78
+  },
+  "completeness": {
+    "source_chars": 82906,
+    "segment_chars": 82906
+  },
+  "warnings": []
+}

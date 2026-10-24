@@ -1,0 +1,14 @@
+{
+  "title_pt": "Textos Complementares II",
+  "series_pt": null,
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - Textos Complementares II (Ed. 2009).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - Textos Complementares II (Ed. 2009)",
+  "drop_line_patterns": [],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Tabela de duas colunas (Artimanha / Solução) na p. 9: células fundidas em blocos errados; exige tratamento manual.",
+    "Seção 'Aforismos' (pp. 38+) com muitos subtítulos curtos."
+  ],
+  "edition": "2009"
+}

@@ -1,0 +1,864 @@
+{
+  "page_number": 37,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        72.07732391357422,
+        538.9349365234375,
+        87.48676300048828
+      ],
+      "text": "A paixão se expressa na mente sob a forma de múltiplas imagens",
+      "spans": [
+        {
+          "text": "A paixão se expressa na mente sob a forma de múltiplas imagens",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            72.07732391357422,
+            538.9349365234375,
+            87.48676300048828
+          ],
+          "origin": [
+            108.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9359741210938,
+        111.48676300048828
+      ],
+      "text": "mentais: \npensamentos, \nrecordações, \nlembranças, \nfantasias \ne",
+      "spans": [
+        {
+          "text": "mentais: ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            130.6800079345703,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "pensamentos, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            147.12001037597656,
+            96.07732391357422,
+            238.4251251220703,
+            111.48676300048828
+          ],
+          "origin": [
+            147.12001037597656,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "recordações, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            254.86512756347656,
+            96.07732391357422,
+            340.6503601074219,
+            111.48676300048828
+          ],
+          "origin": [
+            254.86512756347656,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "lembranças, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            357.0903625488281,
+            96.07732391357422,
+            438.5555114746094,
+            111.48676300048828
+          ],
+          "origin": [
+            357.0903625488281,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "fantasias ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            455.2355041503906,
+            96.07732391357422,
+            516.3154907226562,
+            111.48676300048828
+          ],
+          "origin": [
+            455.2355041503906,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            532.7554931640625,
+            96.07732391357422,
+            538.9359741210938,
+            111.48676300048828
+          ],
+          "origin": [
+            532.7554931640625,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.9657592773438,
+        135.72674560546875
+      ],
+      "text": "planejamentos. Neste nível é uma imaginação automática, mecânica e",
+      "spans": [
+        {
+          "text": "planejamentos. Neste nível é uma imaginação automática, mecânica e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.9657592773438,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        538.9805297851562,
+        159.72674560546875
+      ],
+      "text": "autônoma que não obedece à nossa vontade. Podemos repelí-la e ela",
+      "spans": [
+        {
+          "text": "autônoma que não obedece à nossa vontade. Podemos repelí-la e ela",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            538.9805297851562,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        168.5572967529297,
+        198.85487365722656,
+        183.96673583984375
+      ],
+      "text": "voltará em seguida.",
+      "spans": [
+        {
+          "text": "voltará em seguida.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            168.5572967529297,
+            198.85487365722656,
+            183.96673583984375
+          ],
+          "origin": [
+            72.0,
+            180.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        204.7972869873047,
+        538.9806518554688,
+        220.20672607421875
+      ],
+      "text": "Além da mente, o perigo está presente no coração sob a forma de",
+      "spans": [
+        {
+          "text": "Além da mente, o perigo está presente no coração sob a forma de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            204.7972869873047,
+            538.9806518554688,
+            220.20672607421875
+          ],
+          "origin": [
+            108.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        538.9199829101562,
+        244.20672607421875
+      ],
+      "text": "sentimentos, os quais são estreitamente vinculados às imagens mentais",
+      "spans": [
+        {
+          "text": "sentimentos, os quais são estreitamente vinculados às imagens mentais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            538.9199829101562,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        538.9349365234375,
+        268.44671630859375
+      ],
+      "text": "que estão na cabeça. É sentida como golpes que chegam a doer. Os",
+      "spans": [
+        {
+          "text": "que estão na cabeça. É sentida como golpes que chegam a doer. Os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            538.9349365234375,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        539.010498046875,
+        292.68670654296875
+      ],
+      "text": "sentimentos que a compõem são as saudades, os ciúmes, a falta, o",
+      "spans": [
+        {
+          "text": "sentimentos que a compõem são as saudades, os ciúmes, a falta, o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            539.010498046875,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        301.27728271484375,
+        538.9349975585938,
+        316.68670654296875
+      ],
+      "text": "prazer de estar junto e muitíssimos outros que não poderíamos",
+      "spans": [
+        {
+          "text": "prazer de estar junto e muitíssimos outros que não poderíamos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            301.27728271484375,
+            538.9349975585938,
+            316.68670654296875
+          ],
+          "origin": [
+            72.0,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        325.51727294921875,
+        538.9806518554688,
+        340.92669677734375
+      ],
+      "text": "enumerar aqui por falta de espaço. Neste nível se sutiliza e disfarça",
+      "spans": [
+        {
+          "text": "enumerar aqui por falta de espaço. Neste nível se sutiliza e disfarça",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            325.51727294921875,
+            538.9806518554688,
+            340.92669677734375
+          ],
+          "origin": [
+            72.0,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        349.51727294921875,
+        112.92000579833984,
+        364.92669677734375
+      ],
+      "text": "muito.",
+      "spans": [
+        {
+          "text": "muito.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            349.51727294921875,
+            112.92000579833984,
+            364.92669677734375
+          ],
+          "origin": [
+            72.0,
+            361.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        385.75726318359375,
+        538.9656982421875,
+        401.16668701171875
+      ],
+      "text": "No nível dos movimentos corporais, podemos flagrar a fraqueza",
+      "spans": [
+        {
+          "text": "No nível dos movimentos corporais, podemos flagrar a fraqueza",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            385.75726318359375,
+            538.9656982421875,
+            401.16668701171875
+          ],
+          "origin": [
+            108.0,
+            398.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        409.99725341796875,
+        538.9806518554688,
+        425.40667724609375
+      ],
+      "text": "passional quando viramos a cabeça ou os olhos para contemplar a",
+      "spans": [
+        {
+          "text": "passional quando viramos a cabeça ou os olhos para contemplar a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            409.99725341796875,
+            538.9806518554688,
+            425.40667724609375
+          ],
+          "origin": [
+            72.0,
+            422.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        433.99725341796875,
+        539.0400390625,
+        449.40667724609375
+      ],
+      "text": "pessoa amada, quando esticamos o braço para fazer uma ligação",
+      "spans": [
+        {
+          "text": "pessoa amada, quando esticamos o braço para fazer uma ligação",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            433.99725341796875,
+            539.0400390625,
+            449.40667724609375
+          ],
+          "origin": [
+            72.0,
+            446.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        458.23724365234375,
+        538.9349365234375,
+        473.64666748046875
+      ],
+      "text": "telefônica, quando caminhamos ao seu encontro e em inumeráveis",
+      "spans": [
+        {
+          "text": "telefônica, quando caminhamos ao seu encontro e em inumeráveis",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            458.23724365234375,
+            538.9349365234375,
+            473.64666748046875
+          ],
+          "origin": [
+            72.0,
+            470.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.9805908203125,
+        497.64666748046875
+      ],
+      "text": "outros movimentos que variam de um caso para outro e de uma pessoa",
+      "spans": [
+        {
+          "text": "outros movimentos que variam de um caso para outro e de uma pessoa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            538.9805908203125,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        141.47999572753906,
+        521.8866577148438
+      ],
+      "text": "para outra.",
+      "spans": [
+        {
+          "text": "para outra.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            141.47999572753906,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        542.7172241210938,
+        538.9805297851562,
+        558.1266479492188
+      ],
+      "text": "Podemos ainda observar e estudar a paixão sob a forma de",
+      "spans": [
+        {
+          "text": "Podemos ainda observar e estudar a paixão sob a forma de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            542.7172241210938,
+            538.9805297851562,
+            558.1266479492188
+          ],
+          "origin": [
+            108.0,
+            555.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        566.7172241210938,
+        539.025146484375,
+        582.1266479492188
+      ],
+      "text": "manifestações instintivas e sexuais. Como instinto, ou seja, como tudo",
+      "spans": [
+        {
+          "text": "manifestações instintivas e sexuais. Como instinto, ou seja, como tudo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            566.7172241210938,
+            539.025146484375,
+            582.1266479492188
+          ],
+          "origin": [
+            72.0,
+            579.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        590.957275390625,
+        538.9806518554688,
+        606.36669921875
+      ],
+      "text": "aquilo que se relaciona com a preservação da espécie e da própria",
+      "spans": [
+        {
+          "text": "aquilo que se relaciona com a preservação da espécie e da própria",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            590.957275390625,
+            538.9806518554688,
+            606.36669921875
+          ],
+          "origin": [
+            72.0,
+            603.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        615.197265625,
+        539.0401611328125,
+        630.606689453125
+      ],
+      "text": "pessoa, podemos vê-la acelerar o batimento cardíaco, o ritmo",
+      "spans": [
+        {
+          "text": "pessoa, podemos vê-la acelerar o batimento cardíaco, o ritmo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            615.197265625,
+            539.0401611328125,
+            630.606689453125
+          ],
+          "origin": [
+            72.0,
+            627.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        639.197265625,
+        289.800048828125,
+        654.606689453125
+      ],
+      "text": "respiratório, diminuir a fome etc.",
+      "spans": [
+        {
+          "text": "respiratório, diminuir a fome etc.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            639.197265625,
+            289.800048828125,
+            654.606689453125
+          ],
+          "origin": [
+            72.0,
+            651.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        675.437255859375,
+        538.9805297851562,
+        690.8466796875
+      ],
+      "text": "A dor da paixão é real, lancinante e profunda. É sentida",
+      "spans": [
+        {
+          "text": "A dor da paixão é real, lancinante e profunda. É sentida",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            675.437255859375,
+            538.9805297851562,
+            690.8466796875
+          ],
+          "origin": [
+            108.0,
+            687.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "37",
+      "spans": [
+        {
+          "text": "37",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

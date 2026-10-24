@@ -1,0 +1,530 @@
+{
+  "page_number": 87,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        217.8000030517578,
+        77.4835205078125,
+        381.1031494140625,
+        92.95938110351562
+      ],
+      "text": "Referências bibliográficas:",
+      "spans": [
+        {
+          "text": "Referências bibliográficas: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            217.8000030517578,
+            77.4835205078125,
+            381.1031494140625,
+            92.95938110351562
+          ],
+          "origin": [
+            217.8000030517578,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        113.32771301269531,
+        513.3623046875,
+        126.6117172241211
+      ],
+      "text": "ALBERONI, Francesco (sem data). O Erotismo: Fantasias e Realidades do Amor e da",
+      "spans": [
+        {
+          "text": "ALBERONI, Francesco (sem data). O Erotismo: Fantasias e Realidades do Amor e da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            113.32771301269531,
+            513.3623046875,
+            126.6117172241211
+          ],
+          "origin": [
+            85.08000183105469,
+            124.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.76000213623047,
+        134.02772521972656,
+        473.97821044921875,
+        147.3117218017578
+      ],
+      "text": "Sedução (Élia Edel, trad.). São Paulo: Círculo do Livro. (Original de 1986).",
+      "spans": [
+        {
+          "text": "Sedução (Élia Edel, trad.). São Paulo: Círculo do Livro. (Original de 1986). ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.76000213623047,
+            134.02772521972656,
+            473.97821044921875,
+            147.3117218017578
+          ],
+          "origin": [
+            107.76000213623047,
+            144.7197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        166.72767639160156,
+        513.3887939453125,
+        180.01173400878906
+      ],
+      "text": "FROMM, Erich (1976). A Arte de Amar (Milton Amado, trad.). Belo Horizonte:",
+      "spans": [
+        {
+          "text": "FROMM, Erich (1976). A Arte de Amar (Milton Amado, trad.). Belo Horizonte: ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            166.72767639160156,
+            513.3887939453125,
+            180.01173400878906
+          ],
+          "origin": [
+            85.08001708984375,
+            177.41973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.75997924804688,
+        187.4276885986328,
+        147.12716674804688,
+        200.71168518066406
+      ],
+      "text": "Itatiaia.",
+      "spans": [
+        {
+          "text": "Itatiaia. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.75997924804688,
+            187.4276885986328,
+            147.12716674804688,
+            200.71168518066406
+          ],
+          "origin": [
+            107.75997924804688,
+            198.11968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799789428711,
+        220.12770080566406,
+        513.4176635742188,
+        233.4116973876953
+      ],
+      "text": "GRANDE ENCICLOPÉIDA LAROUSSE CULTURAL, volume 19 (1995 e 1998). São",
+      "spans": [
+        {
+          "text": "GRANDE ENCICLOPÉIDA LAROUSSE CULTURAL, volume 19 (1995 e 1998). São ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799789428711,
+            220.12770080566406,
+            513.4176635742188,
+            233.4116973876953
+          ],
+          "origin": [
+            85.0799789428711,
+            230.8197021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.75997924804688,
+        240.8277130126953,
+        295.341552734375,
+        254.11170959472656
+      ],
+      "text": "Paulo: Larousse e Nova Cultural Ltda.",
+      "spans": [
+        {
+          "text": "Paulo: Larousse e Nova Cultural Ltda. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.75997924804688,
+            240.8277130126953,
+            295.341552734375,
+            254.11170959472656
+          ],
+          "origin": [
+            107.75997924804688,
+            251.51971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799789428711,
+        273.5277404785156,
+        513.4176635742188,
+        286.8117370605469
+      ],
+      "text": "GRANDE ENCICLOPÉIDA LAROUSSE CULTURAL, volume 21 (1995 e 1998). São",
+      "spans": [
+        {
+          "text": "GRANDE ENCICLOPÉIDA LAROUSSE CULTURAL, volume 21 (1995 e 1998). São ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799789428711,
+            273.5277404785156,
+            513.4176635742188,
+            286.8117370605469
+          ],
+          "origin": [
+            85.0799789428711,
+            284.2197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.75997924804688,
+        294.2277526855469,
+        295.341552734375,
+        307.5117492675781
+      ],
+      "text": "Paulo: Larousse e Nova Cultural Ltda.",
+      "spans": [
+        {
+          "text": "Paulo: Larousse e Nova Cultural Ltda. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.75997924804688,
+            294.2277526855469,
+            295.341552734375,
+            307.5117492675781
+          ],
+          "origin": [
+            107.75997924804688,
+            304.91973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799789428711,
+        326.9277038574219,
+        513.33837890625,
+        340.2117614746094
+      ],
+      "text": "LALANDE, André (1967). Vocabulário Técnico y Crítico de la Filosofía (Oberdan",
+      "spans": [
+        {
+          "text": "LALANDE, André (1967). Vocabulário Técnico y Crítico de la Filosofía (Oberdan ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799789428711,
+            326.9277038574219,
+            513.33837890625,
+            340.2117614746094
+          ],
+          "origin": [
+            85.0799789428711,
+            337.6197509765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.760009765625,
+        347.6277160644531,
+        513.379638671875,
+        360.9117126464844
+      ],
+      "text": "Calleti, trad.). Buenos Aires: El Ateneo Pedro Garcia S. A. Original da Sociedade",
+      "spans": [
+        {
+          "text": "Calleti, trad.). Buenos Aires: El Ateneo Pedro Garcia S. A. Original da Sociedade ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.760009765625,
+            347.6277160644531,
+            513.379638671875,
+            360.9117126464844
+          ],
+          "origin": [
+            107.760009765625,
+            358.3197021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.760009765625,
+        368.3277282714844,
+        418.01409912109375,
+        381.6117248535156
+      ],
+      "text": "Francesa de Filosofía. Obra laureada por la Academia Francesa.",
+      "spans": [
+        {
+          "text": "Francesa de Filosofía. Obra laureada por la Academia Francesa. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.760009765625,
+            368.3277282714844,
+            418.01409912109375,
+            381.6117248535156
+          ],
+          "origin": [
+            107.760009765625,
+            379.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        401.0277099609375,
+        513.3360595703125,
+        414.3117370605469
+      ],
+      "text": "NOVA ENCICLOPÉDIA BARSA, volume 13 (1998). São Paulo: Encyclopaedia",
+      "spans": [
+        {
+          "text": "NOVA ENCICLOPÉDIA BARSA, volume 13 (1998). São Paulo: Encyclopaedia ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            401.0277099609375,
+            513.3360595703125,
+            414.3117370605469
+          ],
+          "origin": [
+            85.08001708984375,
+            411.7197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.760009765625,
+        421.72772216796875,
+        295.76165771484375,
+        435.01171875
+      ],
+      "text": "Britannica do Brasil Publicações Ltda.",
+      "spans": [
+        {
+          "text": "Britannica do Brasil Publicações Ltda. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.760009765625,
+            421.72772216796875,
+            295.76165771484375,
+            435.01171875
+          ],
+          "origin": [
+            107.760009765625,
+            432.4197082519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        454.4277038574219,
+        513.396240234375,
+        467.7117004394531
+      ],
+      "text": "SCHOPENHAUER, Arthur (2004). A Arte de Lidar com as Mulheres (Eurides Avance",
+      "spans": [
+        {
+          "text": "SCHOPENHAUER, Arthur (2004). A Arte de Lidar com as Mulheres (Eurides Avance ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            454.4277038574219,
+            513.396240234375,
+            467.7117004394531
+          ],
+          "origin": [
+            85.08001708984375,
+            465.11968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.760009765625,
+        475.1277160644531,
+        513.4163818359375,
+        488.4117126464844
+      ],
+      "text": "de Souza, trad. do alemão, Karina Jannini, trad. do italiano, Franco Volpi, rev. e",
+      "spans": [
+        {
+          "text": "de Souza, trad. do alemão, Karina Jannini, trad. do italiano, Franco Volpi, rev. e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.760009765625,
+            475.1277160644531,
+            513.4163818359375,
+            488.4117126464844
+          ],
+          "origin": [
+            107.760009765625,
+            485.8197021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        107.760009765625,
+        495.8277282714844,
+        491.12860107421875,
+        509.1117248535156
+      ],
+      "text": "org.). São Paulo: Martins Fontes. Coletânea de trechos extraídos de 8 originais.",
+      "spans": [
+        {
+          "text": "org.). São Paulo: Martins Fontes. Coletânea de trechos extraídos de 8 originais. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            107.760009765625,
+            495.8277282714844,
+            491.12860107421875,
+            509.1117248535156
+          ],
+          "origin": [
+            107.760009765625,
+            506.51971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "87",
+      "spans": [
+        {
+          "text": "87",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

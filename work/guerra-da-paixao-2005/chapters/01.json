@@ -1,0 +1,321 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "01",
+  "title": "Introdução",
+  "pages": [
+    4,
+    8
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Introdução",
+      "pages": [
+        4
+      ],
+      "style": {
+        "font": "TimesNewRoman,Bold",
+        "size": 16.1,
+        "bold": true,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 208.6,
+        "left": 208.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0001",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muito se tem escrito sobre a perfídia dos homens e pouco se tem escrito sobra a perfídia das mulheres. Sem negar de modo algum a existência de um lado superior, maravilhoso, paradisíaco e divino no feminino e nem tampouco o lado negativo do masculino, venho agora tentar suprir esta carência clarificando um pouco o que falta.",
+      "pages": [
+        4
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0002",
+      "hash": "5630e6a2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Há na mulher duas instâncias: uma superior e outra inferior. O lado superior corresponde à Mulher autêntica; o lado inferior corresponde à fêmea humanóide animal. Sobre a maldade da fêmea animal as pessoas não costumam falar muito, é um tabu. Todo aquele que se atreve a apontar as crueldades e debilidades femininas é imediatamente rotulado como um simples machista retrógrado e misógino. Infelizmente, as mulheres atuais em grande parte estão polarizadas negativamente na relação com os homens, nem sempre dando voz à parte superior e boa que há nelas. As verdadeiramente sinceras, que também existem, estão perdidas no meio da multidão e não podem ser encontradas facilmente porque as espertinhas se fazem passar por honestas[^1]. Como aquelas que não servem para o casamento são dissimuladas e juram pela alma que são fiéis, honestas e sinceras, as poucas que serviriam para uma relação séria e estável não podem ser detectadas sem grande dificuldade. Mulheres (e homens) sinceras no amor nunca foram abundantes ao longo da história mas nos dias de hoje estão em rápida extinção, desaparecendo velozmente devido à decadência e degeneração de nossa espécie[^2].",
+      "pages": [
+        4,
+        5
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0003",
+      "hash": "fafd63c6"
+    },
+    {
+      "type": "footnote",
+      "text": "Refiro-me à honestidade dos sentimentos e não ao número de parceiros sexuais. Uma mulher que não se contente com um só homem e queira ter muitos parceiros não pode ser acusada de insinceridade se deixar isso bem claro \"n contrato\", isto é, desde o início.",
+      "pages": [
+        4
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 1,
+      "id": "01-0004",
+      "hash": "4e6f92c4"
+    },
+    {
+      "type": "footnote",
+      "text": "Esta decadência amorosa também atinge, obviamente, o homem, mas se expressa de forma distinta daquela que aqui nos interessa.",
+      "pages": [
+        5
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 2,
+      "id": "01-0005",
+      "hash": "39c4aa66"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mulheres me parecem mais propensas do que os homens a certas obsessões afetivas: são imprevisíveis, contraditórias, mudam a todo momento, nunca sabem direito o que querem, desejam coisas incompatíveis e nem sempre orientam logicamente os seus comportamentos[^3]. Suas oscilações hormonais, tendências a depressão pós-parto, fragilidades corporais etc. são elementos que devem ser levados em consideração no momento de julgarmos suas atitudes, o que, invariavelmente, nos obriga a sermos indiferentes às suas crueldades e a não levá-las muito a sério, perdoando-as, sob a pena de sofrermos um bocado caso não o façamos. Aquele que não as aceita tais como são, debatendo-se inutilmente contra o inevitável, perderá o juízo pois a tristeza nos arrasta quando as perseguimos. Aquele que \"corre atrás\" da incoerência feminina para tentar revertê-la à força já está acorrentado sem o perceber.",
+      "pages": [
+        5
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": -0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0006",
+      "hash": "267c340b"
+    },
+    {
+      "type": "footnote",
+      "text": "Entretanto, as contradições comportamentais atendem a objetivos defensivos (e às vezes ofensivos) ao paralisarem a ação do homem.",
+      "pages": [
+        5
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 3,
+      "id": "01-0007",
+      "hash": "115ae4c4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uma obsessão à qual muitas são propensas consiste em desejar obsecadamente serem amadas[^4] sem pagar o preço correspondente dando amor, certeza e fidelidade. Trata-se de um egoísmo calculista que não leva em consideração os sofrimentos provocados no outro, muito semelhante, nesse sentido, ao egoísmo insano dos homens que tomam o sexo das mulheres à força[^5] ou as pressionam para cederem. Ao invés de protestarmos, é melhor perdoar e aceitar, adaptando-nos às condições reais que nos são oferecidas e não alimentar nenhuma expectativa fora da realidade.",
+      "pages": [
+        5,
+        6
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": -0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0008",
+      "hash": "281b3016"
+    },
+    {
+      "type": "footnote",
+      "text": "A obsessão pela continuidade do interesse masculino, que Francesco Alberoni descreve. Trata-se de uma tendência instintiva e natural, um mecanismo do inconsciente para preservação e domínio, do qual a mulher somente pode ser considerada culpada quando fica passiva diante da mesma. Mulheres que assimilam este instinto se tornam virtuosas, sinceras, compreensivas e são verdadeiras pérolas.",
+      "pages": [
+        5
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 4,
+      "id": "01-0009",
+      "hash": "ce4eaee1"
+    },
+    {
+      "type": "footnote",
+      "text": "Este lado obscuro do homem motiva um ressentimento ancestral.",
+      "pages": [
+        6
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 5,
+      "id": "01-0010",
+      "hash": "d40e69c5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconheço que muit(o)as se enfurecerão comigo por ter escrito sobre as mulheres verdades que tentam esconder a todo custo. No entanto, digo aos furiosos que as estou ajudando pois denuncio traços comportamentais que prejudicam não somente seus parceiros e pretendentes mas inclusive elas próprias. Aponto as fraquezas do sexo feminino e do masculino, bem comos meios pelos quais os homens mal intencionados podem quebrar-lhes a resistência e vencê-las, sendo evidente que as estou auxiliando a se conhecerem e a se protegerem contra os nefastos efeitos de suas próprias maldades. Além disso, forneço subsídios experienciais para que possam aconselhar e orientar filhos, irmãos e outros parentes do sexo masculino contra o perigoso magnetismo da paixão. Acrescente-se que não creio que todas as mulheres sejam más. Aos críticos, sugiro que refutem minhas idéias ao invés de depreciá-las.",
+      "pages": [
+        6
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0011",
+      "hash": "391ac89d"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sou defensor da monogamia, da fidelidade conjugal e da família. Escrevi este trabalho para os sinceros que são derrotados na guerra da paixão e não conseguem dominar a relação com suas esposas, namoradas, companheiras e/ou parceiras. Meu público-alvo são também os fortes que não temem a verdade, os fracos que querem fortificar-se e os valentes que não querem perder o tempo sendo trapaceados. Em suma: escrevo para aqueles que gostam de refletir por si mesmos, almejam ir além dos joguinhos ludibriadores e buscam um relacionamento realista, baseado na verdade crua e não em ilusões, mentiras, enganos, fraudes, trapaças, sonhos, manipulações e romantismos tolos. Somente estes se darão bem ao aplicarem meus conhecimentos. Aqueles que tentarem aplicá-los com finalidades egoístas ou más intenções, tais como seduzir para enganar, transformarem-se em “machos-alfa” garanhões, manipular mulheres etc. obterão resultados opostos aos desejados. Não escrevo para pessoas imaturas, que não diferenciam a crítica da raiva, que não querem uma relação estável, que estejam procurando alguém que lhes diga o que fazer ao invés de pensarem e decidirem por si mesmos. Não sou e nem desejo ser mestre de ninguém, não procuro discípulos, nem admiradores, nem seguidores. Procuro apenas leitores sinceros e amadurecidos para questionar, de maneira sóbria e crítica, as crenças e os paradigmas hegemônicos. Se você não é um desses, feche este livro porque a mensagem não é para você.",
+      "pages": [
+        6,
+        7
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0012",
+      "hash": "454ff221"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nosso propósito é descobrir os verdadeiros sentimentos e intenções da mulher para não perdermos tempo com as insinceras. Também não é nossa meta gerar atração nas indiferentes e nem tampouco conquistá-las mas sim identificá-las rapidamente e dispensá-las. Partimos do princípio de que não devemos correr atrás daquelas que nos esnobam ou rejeitam e nem tampouco perder o tempo tentando gerar nelas atração. É mais eficiente e rápido encontrar as menos insinceras.",
+      "pages": [
+        7,
+        8
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0013",
+      "hash": "d3987622"
+    },
+    {
+      "type": "paragraph",
+      "text": "Não nego que os machos possuem uma sombra perigosa[^6] mas aqui a meta foi descrever a sombra do feminino e não me desviarei deste propósito.",
+      "pages": [
+        8
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 13.9,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 36.0,
+        "left": -0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0014",
+      "hash": "0d74ba91"
+    },
+    {
+      "type": "footnote",
+      "text": "Pode ser que no futuro eu aprofunde o lado obscuro masculino, mas não garanto que o farei.",
+      "pages": [
+        8
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 10.1,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.0,
+        "left": 0.0,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 6,
+      "id": "01-0015",
+      "hash": "b1001034"
+    }
+  ]
+}

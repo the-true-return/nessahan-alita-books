@@ -1,0 +1,847 @@
+{
+  "page_number": 34,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        110.50640869140625,
+        308.37060546875,
+        126.44022369384766
+      ],
+      "text": "6. Comportamento ambíguo",
+      "spans": [
+        {
+          "text": "6. Comportamento ambíguo",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            110.50640869140625,
+            303.0262756347656,
+            126.44022369384766
+          ],
+          "origin": [
+            82.73999786376953,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        146.21823120117188,
+        516.2024536132812,
+        159.89547729492188
+      ],
+      "text": "Sinais contraditórios, aberturas associadas a bloqueios,",
+      "spans": [
+        {
+          "text": "Sinais contraditórios, aberturas associadas a bloqueios, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            146.21823120117188,
+            516.2024536132812,
+            159.89547729492188
+          ],
+          "origin": [
+            117.23999786376953,
+            157.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        166.73873901367188,
+        516.2208862304688,
+        180.41598510742188
+      ],
+      "text": "caracterizam a ambiguidade comportamental. Aproveitemos as",
+      "spans": [
+        {
+          "text": "caracterizam a ambiguidade comportamental. Aproveitemos as ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            166.73873901367188,
+            516.2208862304688,
+            180.41598510742188
+          ],
+          "origin": [
+            82.73995971679688,
+            177.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        187.25924682617188,
+        516.2640380859375,
+        200.93649291992188
+      ],
+      "text": "aberturas sem ousar em exagero. Arrisquemo-nos sintetizando",
+      "spans": [
+        {
+          "text": "aberturas sem ousar em exagero. Arrisquemo-nos sintetizando ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            187.25924682617188,
+            516.2640380859375,
+            200.93649291992188
+          ],
+          "origin": [
+            82.73995971679688,
+            198.24072265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        207.83926391601562,
+        225.63682556152344,
+        221.51651000976562
+      ],
+      "text": "prudência e ousadia.",
+      "spans": [
+        {
+          "text": "prudência e ousadia. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            207.83926391601562,
+            225.63682556152344,
+            221.51651000976562
+          ],
+          "origin": [
+            82.73995971679688,
+            218.82073974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        240.05899047851562,
+        516.250244140625,
+        253.73623657226562
+      ],
+      "text": "A ambiguidade comportamental permite a manipulação das",
+      "spans": [
+        {
+          "text": "A ambiguidade comportamental permite a manipulação das ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            240.05899047851562,
+            516.250244140625,
+            253.73623657226562
+          ],
+          "origin": [
+            117.23998260498047,
+            251.04046630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        260.5794982910156,
+        516.1636962890625,
+        274.2567443847656
+      ],
+      "text": "situações, de modo a gerar uma aparência de que somente nós",
+      "spans": [
+        {
+          "text": "situações, de modo a gerar uma aparência de que somente nós ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            260.5794982910156,
+            516.1636962890625,
+            274.2567443847656
+          ],
+          "origin": [
+            82.73995971679688,
+            271.56097412109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        281.1595153808594,
+        516.197509765625,
+        294.8367614746094
+      ],
+      "text": "estamos interessados (unilateralidade aparente do interesse),",
+      "spans": [
+        {
+          "text": "estamos interessados (unilateralidade aparente do interesse), ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            281.1595153808594,
+            516.197509765625,
+            294.8367614746094
+          ],
+          "origin": [
+            82.73995971679688,
+            292.1409912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        301.7395324707031,
+        182.35623168945312,
+        315.4167785644531
+      ],
+      "text": "mas não elas.",
+      "spans": [
+        {
+          "text": "mas não elas.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            301.7395324707031,
+            182.35623168945312,
+            315.4167785644531
+          ],
+          "origin": [
+            82.73995971679688,
+            312.72100830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        333.89971923828125,
+        516.1277465820312,
+        347.57696533203125
+      ],
+      "text": "Atuemos implicitamente, aceitando as ambiguidades tal",
+      "spans": [
+        {
+          "text": "Atuemos implicitamente, aceitando as ambiguidades tal ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            333.89971923828125,
+            516.1277465820312,
+            347.57696533203125
+          ],
+          "origin": [
+            117.23998260498047,
+            344.8811950683594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        354.4797668457031,
+        516.1450805664062,
+        368.1570129394531
+      ],
+      "text": "como são (“com certa dose de hipocrisia, como se não",
+      "spans": [
+        {
+          "text": "como são (“com certa dose de hipocrisia, como se não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            354.4797668457031,
+            516.1450805664062,
+            368.1570129394531
+          ],
+          "origin": [
+            82.73995971679688,
+            365.46124267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        375.00030517578125,
+        516.2815551757812,
+        388.67755126953125
+      ],
+      "text": "pensássemos nisso...” diria Eliphas Lévi). Devolvamos a negação",
+      "spans": [
+        {
+          "text": "pensássemos nisso...” diria Eliphas Lévi). Devolvamos a negação ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            375.00030517578125,
+            516.2815551757812,
+            388.67755126953125
+          ],
+          "origin": [
+            82.73995971679688,
+            385.9817810058594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        395.5208435058594,
+        516.2057495117188,
+        409.1980895996094
+      ],
+      "text": "das intenções e o comportamento ambíguo. Avancemos sem",
+      "spans": [
+        {
+          "text": "das intenções e o comportamento ambíguo. Avancemos sem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            395.5208435058594,
+            516.2057495117188,
+            409.1980895996094
+          ],
+          "origin": [
+            82.73995971679688,
+            406.5023193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        416.10089111328125,
+        516.1182861328125,
+        429.77813720703125
+      ],
+      "text": "assumir nossas intenções (não é isso que elas fazem conosco?),",
+      "spans": [
+        {
+          "text": "assumir nossas intenções (não é isso que elas fazem conosco?), ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            416.10089111328125,
+            516.1182861328125,
+            429.77813720703125
+          ],
+          "origin": [
+            82.73994445800781,
+            427.0823669433594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        436.6809387207031,
+        516.3271484375,
+        450.3581848144531
+      ],
+      "text": "enquanto realizamos uma leitura geral das reações, preservando",
+      "spans": [
+        {
+          "text": "enquanto realizamos uma leitura geral das reações, preservando ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            436.6809387207031,
+            516.3271484375,
+            450.3581848144531
+          ],
+          "origin": [
+            82.73994445800781,
+            447.66241455078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        457.20147705078125,
+        246.40936279296875,
+        470.87872314453125
+      ],
+      "text": "a severidade masculina.",
+      "spans": [
+        {
+          "text": "a severidade masculina. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            457.20147705078125,
+            246.40936279296875,
+            470.87872314453125
+          ],
+          "origin": [
+            82.73994445800781,
+            468.1829528808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2399673461914,
+        489.4211730957031,
+        516.258056640625,
+        503.0984191894531
+      ],
+      "text": "Em doses homeopáticas, expectativas nos são criadas,",
+      "spans": [
+        {
+          "text": "Em doses homeopáticas, expectativas nos são criadas, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2399673461914,
+            489.4211730957031,
+            516.258056640625,
+            503.0984191894531
+          ],
+          "origin": [
+            117.2399673461914,
+            500.40264892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        509.9417419433594,
+        516.18115234375,
+        523.6189575195312
+      ],
+      "text": "alimentadas e frustradas. Esperanças são cultivadas ao mesmo",
+      "spans": [
+        {
+          "text": "alimentadas e frustradas. Esperanças são cultivadas ao mesmo ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            509.9417419433594,
+            516.18115234375,
+            523.6189575195312
+          ],
+          "origin": [
+            82.73994445800781,
+            520.9232177734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        530.5217895507812,
+        484.10626220703125,
+        544.198974609375
+      ],
+      "text": "tempo em que bloqueios e impedimentos são estabelecidos.",
+      "spans": [
+        {
+          "text": "tempo em que bloqueios e impedimentos são estabelecidos.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            530.5217895507812,
+            484.10626220703125,
+            544.198974609375
+          ],
+          "origin": [
+            82.73994445800781,
+            541.5032348632812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2399673461914,
+        562.741455078125,
+        431.2120361328125,
+        576.4186401367188
+      ],
+      "text": "A ambiguidade combina atrativos e bloqueios.",
+      "spans": [
+        {
+          "text": "A ambiguidade combina atrativos e bloqueios.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2399673461914,
+            562.741455078125,
+            431.2120361328125,
+            576.4186401367188
+          ],
+          "origin": [
+            117.2399673461914,
+            573.722900390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2399673461914,
+        594.9016723632812,
+        516.162353515625,
+        608.578857421875
+      ],
+      "text": "Atrativos \n= \nsimpatia, \nsorrisos, \nolhares \nconvidativos,",
+      "spans": [
+        {
+          "text": "Atrativos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2399673461914,
+            594.9016723632812,
+            180.61509704589844,
+            608.578857421875
+          ],
+          "origin": [
+            117.2399673461914,
+            605.8831176757812
+          ]
+        },
+        {
+          "text": "= ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            191.4623565673828,
+            594.9016723632812,
+            203.16036987304688,
+            608.578857421875
+          ],
+          "origin": [
+            191.4623565673828,
+            605.8831176757812
+          ]
+        },
+        {
+          "text": "simpatia, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            214.00762939453125,
+            594.9016723632812,
+            279.42266845703125,
+            608.578857421875
+          ],
+          "origin": [
+            214.00762939453125,
+            605.8831176757812
+          ]
+        },
+        {
+          "text": "sorrisos, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            290.2699279785156,
+            594.9016723632812,
+            351.55487060546875,
+            608.578857421875
+          ],
+          "origin": [
+            290.2699279785156,
+            605.8831176757812
+          ]
+        },
+        {
+          "text": "olhares ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            362.4021301269531,
+            594.9016723632812,
+            414.765380859375,
+            608.578857421875
+          ],
+          "origin": [
+            362.4021301269531,
+            605.8831176757812
+          ]
+        },
+        {
+          "text": "convidativos, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            425.5531311035156,
+            594.9016723632812,
+            516.162353515625,
+            608.578857421875
+          ],
+          "origin": [
+            425.5531311035156,
+            605.8831176757812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        615.541259765625,
+        516.2874755859375,
+        629.2184448242188
+      ],
+      "text": "vestimentas provocantes, conivência com nossas exteriorizações",
+      "spans": [
+        {
+          "text": "vestimentas provocantes, conivência com nossas exteriorizações ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            615.541259765625,
+            516.2874755859375,
+            629.2184448242188
+          ],
+          "origin": [
+            82.73994445800781,
+            626.522705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        636.061767578125,
+        516.1650390625,
+        649.7389526367188
+      ],
+      "text": "de interesse, ausência de atitudes que nos indiquem claramente",
+      "spans": [
+        {
+          "text": "de interesse, ausência de atitudes que nos indiquem claramente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            636.061767578125,
+            516.1650390625,
+            649.7389526367188
+          ],
+          "origin": [
+            82.73994445800781,
+            647.043212890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        656.582275390625,
+        516.0739135742188,
+        670.2594604492188
+      ],
+      "text": "o desinteresse e, de forma geral, toda comunicação favorável",
+      "spans": [
+        {
+          "text": "o desinteresse e, de forma geral, toda comunicação favorável ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            656.582275390625,
+            516.0739135742188,
+            670.2594604492188
+          ],
+          "origin": [
+            82.73994445800781,
+            667.563720703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        677.162353515625,
+        383.1678466796875,
+        690.8395385742188
+      ],
+      "text": "transmitida por meio da linguagem corporal.",
+      "spans": [
+        {
+          "text": "transmitida por meio da linguagem corporal. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            677.162353515625,
+            383.1678466796875,
+            690.8395385742188
+          ],
+          "origin": [
+            82.73994445800781,
+            688.143798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "34",
+      "spans": [
+        {
+          "text": "34",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

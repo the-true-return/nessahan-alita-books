@@ -1,0 +1,968 @@
+{
+  "page_number": 61,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        45.94801330566406,
+        518.4478149414062,
+        59.23201370239258
+      ],
+      "text": "Se você foi atingido pelo sarcasmo feminino, isso indica que considera a",
+      "spans": [
+        {
+          "text": "Se você foi atingido pelo sarcasmo feminino, isso indica que considera a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            45.94801330566406,
+            518.4478149414062,
+            59.23201370239258
+          ],
+          "origin": [
+            128.63999938964844,
+            56.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        66.82801818847656,
+        518.280029296875,
+        80.11202239990234
+      ],
+      "text": "escarnecedora digna de importância e ainda não a vê como é: uma criatura fútil,",
+      "spans": [
+        {
+          "text": "escarnecedora digna de importância e ainda não a vê como é: uma criatura fútil,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            66.82801818847656,
+            518.280029296875,
+            80.11202239990234
+          ],
+          "origin": [
+            93.1199951171875,
+            77.52001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        85.58329772949219,
+        518.447998046875,
+        100.75203704833984
+      ],
+      "text": "desprovida de entendimento e movida por emoções inferiores28. Você deve atingir esse",
+      "spans": [
+        {
+          "text": "desprovida de entendimento e movida por emoções inferiores",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            87.46803283691406,
+            393.7079162597656,
+            100.75203704833984
+          ],
+          "origin": [
+            93.1199951171875,
+            98.1600341796875
+          ]
+        },
+        {
+          "text": "28",
+          "font": "TimesNewRoman",
+          "size": 7.920000076293945,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            393.6000061035156,
+            85.58329772949219,
+            401.6399841308594,
+            94.35073852539062
+          ],
+          "origin": [
+            393.6000061035156,
+            92.6400146484375
+          ]
+        },
+        {
+          "text": ". Você deve atingir esse",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            401.760009765625,
+            87.46803283691406,
+            518.447998046875,
+            100.75203704833984
+          ],
+          "origin": [
+            401.760009765625,
+            98.1600341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        108.10804748535156,
+        518.5079956054688,
+        121.39205169677734
+      ],
+      "text": "estado pela compreensão e análise da realidade até convencer-se de que o que mulheres",
+      "spans": [
+        {
+          "text": "estado pela compreensão e análise da realidade até convencer-se de que o que mulheres",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            108.10804748535156,
+            518.5079956054688,
+            121.39205169677734
+          ],
+          "origin": [
+            93.1199951171875,
+            118.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        128.74806213378906,
+        283.0800476074219,
+        142.0320587158203
+      ],
+      "text": "assim dizem não merecem importância.",
+      "spans": [
+        {
+          "text": "assim dizem não merecem importância.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            128.74806213378906,
+            283.0800476074219,
+            142.0320587158203
+          ],
+          "origin": [
+            93.1199951171875,
+            139.4400634765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        161.62806701660156,
+        518.5079345703125,
+        174.9120635986328
+      ],
+      "text": "Com um pouco de treino, você desenvolverá reações e respostas e as terá prontas",
+      "spans": [
+        {
+          "text": "Com um pouco de treino, você desenvolverá reações e respostas e as terá prontas",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            161.62806701660156,
+            518.5079345703125,
+            174.9120635986328
+          ],
+          "origin": [
+            128.63999938964844,
+            172.320068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        182.26808166503906,
+        190.18798828125,
+        195.5520782470703
+      ],
+      "text": "para estas situações.",
+      "spans": [
+        {
+          "text": "para estas situações.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            182.26808166503906,
+            190.18798828125,
+            195.5520782470703
+          ],
+          "origin": [
+            93.1199951171875,
+            192.9600830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        215.14808654785156,
+        335.0399169921875,
+        228.4320831298828
+      ],
+      "text": "Esclarecimentos sobre o desejo feminino",
+      "spans": [
+        {
+          "text": "Esclarecimentos sobre o desejo feminino",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            215.14808654785156,
+            335.0399169921875,
+            228.4320831298828
+          ],
+          "origin": [
+            128.63999938964844,
+            225.840087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        247.54811096191406,
+        518.4478149414062,
+        260.8321228027344
+      ],
+      "text": "Jamais afirmei que o desejo feminino exclusivamente sexual é inexistente. O que",
+      "spans": [
+        {
+          "text": "Jamais afirmei que o desejo feminino exclusivamente sexual é inexistente. O que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            247.54811096191406,
+            518.4478149414062,
+            260.8321228027344
+          ],
+          "origin": [
+            128.63999938964844,
+            258.2401123046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        268.4281311035156,
+        518.4478759765625,
+        281.7121276855469
+      ],
+      "text": "sempre afirmo é que o mesmo não é o que elas querem fazer parecer. Tal desejo existe",
+      "spans": [
+        {
+          "text": "sempre afirmo é que o mesmo não é o que elas querem fazer parecer. Tal desejo existe",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            268.4281311035156,
+            518.4478759765625,
+            281.7121276855469
+          ],
+          "origin": [
+            93.1199951171875,
+            279.1201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        289.0681457519531,
+        288.8399963378906,
+        302.3521423339844
+      ],
+      "text": "mas é muito mais débil que o masculino.",
+      "spans": [
+        {
+          "text": "mas é muito mais débil que o masculino.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            289.0681457519531,
+            288.8399963378906,
+            302.3521423339844
+          ],
+          "origin": [
+            93.1199951171875,
+            299.7601318359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        321.7081604003906,
+        518.5078735351562,
+        334.9921569824219
+      ],
+      "text": "Além e apesar de débil, é reforçado pelas loucuras passionais dos",
+      "spans": [
+        {
+          "text": "Além e apesar de débil, é reforçado pelas loucuras passionais dos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            321.7081604003906,
+            518.5078735351562,
+            334.9921569824219
+          ],
+          "origin": [
+            128.63999938964844,
+            332.400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        342.3481750488281,
+        518.6159057617188,
+        355.6321716308594
+      ],
+      "text": "sentimentalismos: ser a mais gostosa, passar na frente das rivais, impressionar etc. Além",
+      "spans": [
+        {
+          "text": "sentimentalismos: ser a mais gostosa, passar na frente das rivais, impressionar etc. Além",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            342.3481750488281,
+            518.6159057617188,
+            355.6321716308594
+          ],
+          "origin": [
+            93.1199951171875,
+            353.0401611328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        363.2281799316406,
+        518.5079345703125,
+        376.5121765136719
+      ],
+      "text": "disso ainda, elas costumam crer nos próprios fingimentos e passam a incorporar esses",
+      "spans": [
+        {
+          "text": "disso ainda, elas costumam crer nos próprios fingimentos e passam a incorporar esses",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            363.2281799316406,
+            518.5079345703125,
+            376.5121765136719
+          ],
+          "origin": [
+            93.1199951171875,
+            373.920166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        383.8681945800781,
+        126.5999984741211,
+        397.1521911621094
+      ],
+      "text": "papéis.",
+      "spans": [
+        {
+          "text": "papéis.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            383.8681945800781,
+            126.5999984741211,
+            397.1521911621094
+          ],
+          "origin": [
+            93.1199951171875,
+            394.5601806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        416.5082092285156,
+        518.4598999023438,
+        429.7922058105469
+      ],
+      "text": "Nesse sentido, e não em outros, é que o desejo feminino é uma farsa pois não é",
+      "spans": [
+        {
+          "text": "Nesse sentido, e não em outros, é que o desejo feminino é uma farsa pois não é",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            416.5082092285156,
+            518.4598999023438,
+            429.7922058105469
+          ],
+          "origin": [
+            128.63999938964844,
+            427.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        437.1482238769531,
+        518.8558959960938,
+        450.4322204589844
+      ],
+      "text": "aquilo que parece ser e em que todos acreditam. Há muitas mulheres que transam",
+      "spans": [
+        {
+          "text": "aquilo que parece ser e em que todos acreditam. Há muitas mulheres que transam",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            437.1482238769531,
+            518.8558959960938,
+            450.4322204589844
+          ],
+          "origin": [
+            93.1199951171875,
+            447.8402099609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        458.0282287597656,
+        518.39990234375,
+        471.3122253417969
+      ],
+      "text": "alucinadamente com vários homens, engolem esperma com gosto e, apesar disso, são",
+      "spans": [
+        {
+          "text": "alucinadamente com vários homens, engolem esperma com gosto e, apesar disso, são",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            458.0282287597656,
+            518.39990234375,
+            471.3122253417969
+          ],
+          "origin": [
+            93.1199951171875,
+            468.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        478.6682434082031,
+        518.447998046875,
+        491.9522399902344
+      ],
+      "text": "inorgásmicas. O que se passa? Fazem tudo isso motivadas por múltiplos elementos de",
+      "spans": [
+        {
+          "text": "inorgásmicas. O que se passa? Fazem tudo isso motivadas por múltiplos elementos de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            478.6682434082031,
+            518.447998046875,
+            491.9522399902344
+          ],
+          "origin": [
+            93.1199951171875,
+            489.3602294921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        499.3082580566406,
+        334.67999267578125,
+        512.5922241210938
+      ],
+      "text": "ordem não-sexual ou apenas indiretamente sexual.",
+      "spans": [
+        {
+          "text": "ordem não-sexual ou apenas indiretamente sexual.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            499.3082580566406,
+            334.67999267578125,
+            512.5922241210938
+          ],
+          "origin": [
+            93.1199951171875,
+            510.000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        531.9482421875,
+        518.4479370117188,
+        545.2322387695312
+      ],
+      "text": "Pouquíssimos homens percebem esta trama. Trata-se de um fingimento que na",
+      "spans": [
+        {
+          "text": "Pouquíssimos homens percebem esta trama. Trata-se de um fingimento que na",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            531.9482421875,
+            518.4479370117188,
+            545.2322387695312
+          ],
+          "origin": [
+            128.63999938964844,
+            542.6402587890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        552.8282470703125,
+        518.4478149414062,
+        566.1122436523438
+      ],
+      "text": "maior parte das vezes é inconsciente mas muitas vezes é consciente. Seja como for, este",
+      "spans": [
+        {
+          "text": "maior parte das vezes é inconsciente mas muitas vezes é consciente. Seja como for, este",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            552.8282470703125,
+            518.4478149414062,
+            566.1122436523438
+          ],
+          "origin": [
+            93.1199951171875,
+            563.520263671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        573.46826171875,
+        219.48001098632812,
+        586.7522583007812
+      ],
+      "text": "fingimento sempre está lá.",
+      "spans": [
+        {
+          "text": "fingimento sempre está lá.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            573.46826171875,
+            219.48001098632812,
+            586.7522583007812
+          ],
+          "origin": [
+            93.1199951171875,
+            584.1602783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        606.1082153320312,
+        518.8558959960938,
+        619.3922119140625
+      ],
+      "text": "Argumentar-se-ia, então, que a masturbação, o orgasmo e a lubrificação vaginal",
+      "spans": [
+        {
+          "text": "Argumentar-se-ia, então, que a masturbação, o orgasmo e a lubrificação vaginal",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            606.1082153320312,
+            518.8558959960938,
+            619.3922119140625
+          ],
+          "origin": [
+            128.63999938964844,
+            616.8002319335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        626.7482299804688,
+        329.6399230957031,
+        640.0322265625
+      ],
+      "text": "seriam provas de que estou enganado. Vejamos...",
+      "spans": [
+        {
+          "text": "seriam provas de que estou enganado. Vejamos...",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.1199951171875,
+            626.7482299804688,
+            329.6399230957031,
+            640.0322265625
+          ],
+          "origin": [
+            93.1199951171875,
+            637.4402465820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63999938964844,
+        659.6282348632812,
+        437.73590087890625,
+        672.9122314453125
+      ],
+      "text": "A lubrificação vaginal e o orgasmo são uma mescla do seguinte:",
+      "spans": [
+        {
+          "text": "A lubrificação vaginal e o orgasmo são uma mescla do seguinte:",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63999938964844,
+            659.6282348632812,
+            437.73590087890625,
+            672.9122314453125
+          ],
+          "origin": [
+            128.63999938964844,
+            670.3202514648438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.1199951171875,
+        688.458984375,
+        520.681396484375,
+        734.1773071289062
+      ],
+      "text": "27 Devo lembrar que me inspiro em Schopenhauer e, portanto, sou simpatizante do Irracionalismo e do\nchamado Pessimismo Filosófico.\n28 Lembremos que se trata de uma mulher que está escarnecendo, sem motivos, de um homem bom.",
+      "spans": [
+        {
+          "text": "27",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.12000274658203,
+            698.6263427734375,
+            99.72000122070312,
+            705.7996826171875
+          ],
+          "origin": [
+            93.12000274658203,
+            704.4000244140625
+          ]
+        },
+        {
+          "text": " Devo lembrar que me inspiro em Schopenhauer e, portanto, sou simpatizante do Irracionalismo e do",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            99.84000396728516,
+            699.978759765625,
+            518.6468505859375,
+            711.1373291015625
+          ],
+          "origin": [
+            99.84000396728516,
+            708.9600219726562
+          ]
+        },
+        {
+          "text": "chamado Pessimismo Filosófico.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.12000274658203,
+            711.4987182617188,
+            224.74325561523438,
+            722.6572875976562
+          ],
+          "origin": [
+            93.12000274658203,
+            720.47998046875
+          ]
+        },
+        {
+          "text": "28",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.12000274658203,
+            721.6663208007812,
+            99.72000122070312,
+            728.8396606445312
+          ],
+          "origin": [
+            93.12000274658203,
+            727.4400024414062
+          ]
+        },
+        {
+          "text": " Lembremos que se trata de uma mulher que está escarnecendo, sem motivos, de um homem bom.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            99.84000396728516,
+            723.0187377929688,
+            492.5934143066406,
+            734.1773071289062
+          ],
+          "origin": [
+            99.84000396728516,
+            732.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        508.32000732421875,
+        769.5787353515625,
+        518.3999633789062,
+        780.7373046875
+      ],
+      "text": "61",
+      "spans": [
+        {
+          "text": "61",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            508.32000732421875,
+            769.5787353515625,
+            518.3999633789062,
+            780.7373046875
+          ],
+          "origin": [
+            508.32000732421875,
+            778.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.00000762939453,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.00000762939453,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.00000762939453,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

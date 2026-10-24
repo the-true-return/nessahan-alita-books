@@ -1,0 +1,797 @@
+{
+  "page_number": 10,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        77.3876953125,
+        445.81195068359375,
+        91.00769805908203
+      ],
+      "text": "Desmascaramento",
+      "spans": [
+        {
+          "text": "Desmascaramento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            77.3876953125,
+            445.81195068359375,
+            91.00769805908203
+          ],
+          "origin": [
+            344.5799865722656,
+            88.37969970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        103.4876708984375,
+        399.8232727050781,
+        117.10767364501953
+      ],
+      "text": "Simulação de apaixonamento \nCeticismo",
+      "spans": [
+        {
+          "text": "Simulação de apaixonamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            103.4876708984375,
+            241.91036987304688,
+            117.10767364501953
+          ],
+          "origin": [
+            83.16000366210938,
+            114.47967529296875
+          ]
+        },
+        {
+          "text": "Ceticismo ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.54400634765625,
+            103.4876708984375,
+            399.8232727050781,
+            117.10767364501953
+          ],
+          "origin": [
+            344.54400634765625,
+            114.47967529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        129.16766357421875,
+        434.1840515136719,
+        142.7876739501953
+      ],
+      "text": "Encurralamento",
+      "spans": [
+        {
+          "text": "Encurralamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            129.16766357421875,
+            434.1840515136719,
+            142.7876739501953
+          ],
+          "origin": [
+            344.58001708984375,
+            140.15966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        154.78765869140625,
+        445.81195068359375,
+        168.4076690673828
+      ],
+      "text": "Desmascaramento",
+      "spans": [
+        {
+          "text": "Desmascaramento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            154.78765869140625,
+            445.81195068359375,
+            168.4076690673828
+          ],
+          "origin": [
+            344.58001708984375,
+            165.7796630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        180.8876953125,
+        399.7308654785156,
+        194.50770568847656
+      ],
+      "text": "Dissimulação das intenções reais \nCeticismo",
+      "spans": [
+        {
+          "text": "Dissimulação das intenções reais ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            180.8876953125,
+            260.13958740234375,
+            194.50770568847656
+          ],
+          "origin": [
+            83.16000366210938,
+            191.87969970703125
+          ]
+        },
+        {
+          "text": "Ceticismo ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.4840087890625,
+            180.8876953125,
+            399.7308654785156,
+            194.50770568847656
+          ],
+          "origin": [
+            344.4840087890625,
+            191.87969970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        206.56768798828125,
+        434.1840515136719,
+        220.1876983642578
+      ],
+      "text": "Encurralamento",
+      "spans": [
+        {
+          "text": "Encurralamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            206.56768798828125,
+            434.1840515136719,
+            220.1876983642578
+          ],
+          "origin": [
+            344.58001708984375,
+            217.5596923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        232.18768310546875,
+        445.81195068359375,
+        245.8076934814453
+      ],
+      "text": "Desmascaramento",
+      "spans": [
+        {
+          "text": "Desmascaramento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            232.18768310546875,
+            445.81195068359375,
+            245.8076934814453
+          ],
+          "origin": [
+            344.58001708984375,
+            243.1796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        258.34771728515625,
+        445.7460632324219,
+        271.96771240234375
+      ],
+      "text": "Provocação de ciúmes \nDesmascaramento",
+      "spans": [
+        {
+          "text": "Provocação de ciúmes ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            258.34771728515625,
+            202.52882385253906,
+            271.96771240234375
+          ],
+          "origin": [
+            83.16000366210938,
+            269.3397216796875
+          ]
+        },
+        {
+          "text": "Desmascaramento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5320129394531,
+            258.34771728515625,
+            445.7460632324219,
+            271.96771240234375
+          ],
+          "origin": [
+            344.5320129394531,
+            269.3397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        284.44769287109375,
+        448.9200134277344,
+        298.06768798828125
+      ],
+      "text": "Provocação de raiva \nDesmascaramento",
+      "spans": [
+        {
+          "text": "Provocação de raiva",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            284.44769287109375,
+            188.69284057617188,
+            298.06768798828125
+          ],
+          "origin": [
+            83.16000366210938,
+            295.439697265625
+          ]
+        },
+        {
+          "text": "Desmascaramento",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            284.44769287109375,
+            442.9008483886719,
+            298.06768798828125
+          ],
+          "origin": [
+            344.58001708984375,
+            295.439697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        310.607666015625,
+        389.5295715332031,
+        324.2276611328125
+      ],
+      "text": "Ataques histéricos \nSilêncio",
+      "spans": [
+        {
+          "text": "Ataques histéricos",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            310.607666015625,
+            180.05282592773438,
+            324.2276611328125
+          ],
+          "origin": [
+            83.16000366210938,
+            321.59967041015625
+          ]
+        },
+        {
+          "text": "Silêncio ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            310.607666015625,
+            389.5295715332031,
+            324.2276611328125
+          ],
+          "origin": [
+            344.5799865722656,
+            321.59967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        336.2276611328125,
+        414.9119873046875,
+        349.84765625
+      ],
+      "text": "Afastamento",
+      "spans": [
+        {
+          "text": "Afastamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            336.2276611328125,
+            414.9119873046875,
+            349.84765625
+          ],
+          "origin": [
+            344.5799865722656,
+            347.21966552734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        361.84765625,
+        391.739990234375,
+        375.4676513671875
+      ],
+      "text": "Ruptura",
+      "spans": [
+        {
+          "text": "Ruptura",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            361.84765625,
+            388.7207946777344,
+            375.4676513671875
+          ],
+          "origin": [
+            344.5799865722656,
+            372.83966064453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        388.0076904296875,
+        454.5600891113281,
+        401.627685546875
+      ],
+      "text": "Traições leves \nDesfrute do possível",
+      "spans": [
+        {
+          "text": "Traições leves",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            388.0076904296875,
+            157.01519775390625,
+            401.627685546875
+          ],
+          "origin": [
+            83.16000366210938,
+            398.99969482421875
+          ]
+        },
+        {
+          "text": "Desfrute do possível ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            388.0076904296875,
+            454.5600891113281,
+            401.627685546875
+          ],
+          "origin": [
+            344.5799865722656,
+            398.99969482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        413.627685546875,
+        484.0152893066406,
+        427.2476806640625
+      ],
+      "text": "Término do compromisso",
+      "spans": [
+        {
+          "text": "Término do compromisso ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            413.627685546875,
+            484.0152893066406,
+            427.2476806640625
+          ],
+          "origin": [
+            344.5799865722656,
+            424.61968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        439.2476806640625,
+        391.739990234375,
+        452.86767578125
+      ],
+      "text": "Ruptura",
+      "spans": [
+        {
+          "text": "Ruptura",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            439.2476806640625,
+            388.7207946777344,
+            452.86767578125
+          ],
+          "origin": [
+            344.5799865722656,
+            450.23968505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        465.4076843261719,
+        445.0799865722656,
+        479.0276794433594
+      ],
+      "text": "Traições pesadas \nRuptura definitiva",
+      "spans": [
+        {
+          "text": "Traições pesadas",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            465.4076843261719,
+            172.85279846191406,
+            479.0276794433594
+          ],
+          "origin": [
+            83.16000366210938,
+            476.3996887207031
+          ]
+        },
+        {
+          "text": "Ruptura definitiva",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            465.4076843261719,
+            442.05596923828125,
+            479.0276794433594
+          ],
+          "origin": [
+            344.5799865722656,
+            476.3996887207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        517.6676635742188,
+        513.3355712890625,
+        599.9515991210938
+      ],
+      "text": "Não consideremos as soluções acima como receitas prontas a serem aplicadas \nmecanicamente. São somente sugestões que requerem critério e bom senso ao serem \nutilizadas. Não há garantia total de eficácia, pois, nos joguinhos da guerra da paixão, \nnunca há garantia total de nada. Apenas podemos dizer que as chances de resolver \nnossos problemas aumentam quando passamos a considerar as soluções aqui propostas \ncomo possíveis meios para desarticulação das situações indicadas.",
+      "spans": [
+        {
+          "text": "Não consideremos as soluções acima como receitas prontas a serem aplicadas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            517.6676635742188,
+            513.29736328125,
+            530.95166015625
+          ],
+          "origin": [
+            120.54000091552734,
+            528.3596801757812
+          ]
+        },
+        {
+          "text": "mecanicamente. São somente sugestões que requerem critério e bom senso ao serem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            531.4676513671875,
+            513.3355712890625,
+            544.7516479492188
+          ],
+          "origin": [
+            85.08000183105469,
+            542.15966796875
+          ]
+        },
+        {
+          "text": "utilizadas. Não há garantia total de eficácia, pois, nos joguinhos da guerra da paixão, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            545.2676391601562,
+            513.3284912109375,
+            558.5516357421875
+          ],
+          "origin": [
+            85.08000183105469,
+            555.9596557617188
+          ]
+        },
+        {
+          "text": "nunca há garantia total de nada. Apenas podemos dizer que as chances de resolver ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            559.067626953125,
+            513.3333740234375,
+            572.3516235351562
+          ],
+          "origin": [
+            85.08000183105469,
+            569.7596435546875
+          ]
+        },
+        {
+          "text": "nossos problemas aumentam quando passamos a considerar as soluções aqui propostas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            572.8676147460938,
+            513.3228759765625,
+            586.151611328125
+          ],
+          "origin": [
+            85.08000183105469,
+            583.5596313476562
+          ]
+        },
+        {
+          "text": "como possíveis meios para desarticulação das situações indicadas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            586.6676025390625,
+            406.1158447265625,
+            599.9515991210938
+          ],
+          "origin": [
+            85.08000183105469,
+            597.359619140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000946044922,
+        612.4676513671875,
+        513.331787109375,
+        653.3516235351562
+      ],
+      "text": "Para cada problema há múltiplas soluções possíveis. Obviamente, não listei \ntodos os problemas e nem tampouco todas as soluções existentes, apenas apontei \nalguns.",
+      "spans": [
+        {
+          "text": "Para cada problema há múltiplas soluções possíveis. Obviamente, não listei ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000854492188,
+            612.4676513671875,
+            513.331787109375,
+            625.7516479492188
+          ],
+          "origin": [
+            120.54000854492188,
+            623.15966796875
+          ]
+        },
+        {
+          "text": "todos os problemas e nem tampouco todas as soluções existentes, apenas apontei ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000946044922,
+            626.2676391601562,
+            513.29248046875,
+            639.5516357421875
+          ],
+          "origin": [
+            85.08000946044922,
+            636.9596557617188
+          ]
+        },
+        {
+          "text": "alguns.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            640.067626953125,
+            125.45401763916016,
+            653.3516235351562
+          ],
+          "origin": [
+            85.08001708984375,
+            650.7596435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "10",
+      "spans": [
+        {
+          "text": "10",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

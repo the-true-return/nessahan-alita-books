@@ -1,0 +1,27 @@
+{
+  "title_pt": "O Magnetismo nas Relações Sociais",
+  "series_pt": null,
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - O Magnetismo nas Relações Sociais (Ed. 2008).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - O Magnetismo nas Relações Sociais (Ed. 2008)",
+  "drop_line_patterns": [],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Linhas justificadas extraídas palavra por palavra (resolvido no agrupamento por linha de base).",
+    "Nota 5: chamada na p. 43, texto da nota na p. 44."
+  ],
+  "title_en": "Magnetism in Social Relations",
+  "pdf": {
+    "font": "Liberation Serif",
+    "font_dir": "fonts/liberation",
+    "tracking_pt": 1.0,
+    "line_pitch_pt": 20.7,
+    "paragraph_pitch_pt": 32.7,
+    "footnote_size_pt": 10,
+    "footnote_pitch_pt": 11.5,
+    "page_number_size_pt": 10,
+    "footnote_rule_pt": 144,
+    "notes": "Medido no PDF original: margens 85/86 pt, corpo 12 pt, entrelinha 20,7 pt, recuo 35,4 pt, espaçamento entre letras ~1 pt."
+  },
+  "edition": "2008"
+}

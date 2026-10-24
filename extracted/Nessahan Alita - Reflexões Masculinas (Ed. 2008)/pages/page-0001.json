@@ -1,0 +1,439 @@
+{
+  "page_number": 1,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        124.31999969482422,
+        77.8020248413086,
+        523.2360229492188,
+        97.72802734375
+      ],
+      "text": "O SOFRIMENTO AMOROSO DO HOMEM - VOLUME IV",
+      "spans": [
+        {
+          "text": "O S",
+          "font": "TimesNewRoman,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            124.31999969482422,
+            77.8020248413086,
+            152.80799865722656,
+            97.72802734375
+          ],
+          "origin": [
+            124.31999969482422,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "OFRIMENTO ",
+          "font": "TimesNewRoman,Bold",
+          "size": 14.399999618530273,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            152.8800048828125,
+            81.00962829589844,
+            247.19281005859375,
+            96.95042419433594
+          ],
+          "origin": [
+            152.8800048828125,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "A",
+          "font": "TimesNewRoman,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            247.20001220703125,
+            77.8020248413086,
+            260.1960144042969,
+            97.72802734375
+          ],
+          "origin": [
+            247.20001220703125,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "MOROSO DO ",
+          "font": "TimesNewRoman,Bold",
+          "size": 14.399999618530273,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            260.1600036621094,
+            81.00962829589844,
+            355.1904296875,
+            96.95042419433594
+          ],
+          "origin": [
+            260.1600036621094,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "H",
+          "font": "TimesNewRoman,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            355.44000244140625,
+            77.8020248413086,
+            369.4440002441406,
+            97.72802734375
+          ],
+          "origin": [
+            355.44000244140625,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "OMEM ",
+          "font": "TimesNewRoman,Bold",
+          "size": 14.399999618530273,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            369.3600158691406,
+            81.00962829589844,
+            421.1952209472656,
+            96.95042419433594
+          ],
+          "origin": [
+            369.3600158691406,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "- V",
+          "font": "TimesNewRoman,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            421.20001220703125,
+            77.8020248413086,
+            444.989990234375,
+            97.72802734375
+          ],
+          "origin": [
+            421.20001220703125,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "OLUME ",
+          "font": "TimesNewRoman,Bold",
+          "size": 14.399999618530273,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            444.7200012207031,
+            81.00962829589844,
+            503.0447998046875,
+            96.95042419433594
+          ],
+          "origin": [
+            444.7200012207031,
+            93.84002685546875
+          ]
+        },
+        {
+          "text": "IV",
+          "font": "TimesNewRoman,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            503.0400085449219,
+            77.8020248413086,
+            523.2360229492188,
+            97.72802734375
+          ],
+          "origin": [
+            503.0400085449219,
+            93.84002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        88.55999755859375,
+        120.10203552246094,
+        523.0799560546875,
+        141.1980438232422
+      ],
+      "text": "Reflexões Masculinas sobre a Mulher e o Amor",
+      "spans": [
+        {
+          "text": "Reflexões Masculinas sobre a Mulher e o Amor",
+          "font": "BookmanOldStyle,Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            88.55999755859375,
+            120.10203552246094,
+            523.0799560546875,
+            141.1980438232422
+          ],
+          "origin": [
+            88.55999755859375,
+            137.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        169.67999267578125,
+        163.54129028320312,
+        441.81121826171875,
+        179.85552978515625
+      ],
+      "text": "Algumas Heresias que Faltaram Dizer",
+      "spans": [
+        {
+          "text": "Algumas Heresias que Faltaram Dizer",
+          "font": "BookmanOldStyle,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            169.67999267578125,
+            163.54129028320312,
+            441.81121826171875,
+            179.85552978515625
+          ],
+          "origin": [
+            169.67999267578125,
+            176.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        250.07998657226562,
+        194.47201538085938,
+        361.4399719238281,
+        207.97201538085938
+      ],
+      "text": "Por Nessahan Alita",
+      "spans": [
+        {
+          "text": "Por Nessahan Alita",
+          "font": "BookmanOldStyle",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            250.07998657226562,
+            194.47201538085938,
+            361.4399719238281,
+            207.97201538085938
+          ],
+          "origin": [
+            250.07998657226562,
+            205.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        248.1599884033203,
+        240.72335815429688,
+        363.4363098144531,
+        252.94464111328125
+      ],
+      "text": "Dados para catalogação:",
+      "spans": [
+        {
+          "text": "Dados para catalogação:",
+          "font": "TimesNewRoman,Bold",
+          "size": 11.039999961853027,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            248.1599884033203,
+            240.72335815429688,
+            363.4363098144531,
+            252.94464111328125
+          ],
+          "origin": [
+            248.1599884033203,
+            250.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        265.8186950683594,
+        527.030029296875,
+        288.25726318359375
+      ],
+      "text": "ALITA, Nessahan (2008). O Sofrimento Amoroso do Homem: Reflexões Masculinas sobre a Mulher e o\nAmor (Algumas Heresias que Faltaram Dizer). Primeira edição virtual independente.",
+      "spans": [
+        {
+          "text": "ALITA, Nessahan (2008). O Sofrimento Amoroso do Homem: Reflexões Masculinas sobre a Mulher e o",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            265.8186950683594,
+            527.030029296875,
+            276.9772644042969
+          ],
+          "origin": [
+            84.95999145507812,
+            274.79998779296875
+          ]
+        },
+        {
+          "text": "Amor (Algumas Heresias que Faltaram Dizer). Primeira edição virtual independente.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            277.09869384765625,
+            425.1434020996094,
+            288.25726318359375
+          ],
+          "origin": [
+            84.95999145507812,
+            286.0799865722656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        268.32000732421875,
+        302.8833312988281,
+        343.2763366699219,
+        315.1046142578125
+      ],
+      "text": "Palavras-chave:",
+      "spans": [
+        {
+          "text": "Palavras-chave:",
+          "font": "TimesNewRoman,Bold",
+          "size": 11.039999961853027,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            268.32000732421875,
+            302.8833312988281,
+            343.2763366699219,
+            315.1046142578125
+          ],
+          "origin": [
+            268.32000732421875,
+            312.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        153.12001037597656,
+        328.9386901855469,
+        458.32562255859375,
+        340.0972595214844
+      ],
+      "text": "atração sexual - relacionamentos amorosos - conquista - agressão emocional",
+      "spans": [
+        {
+          "text": "atração sexual - relacionamentos amorosos - conquista - agressão emocional",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            153.12001037597656,
+            328.9386901855469,
+            458.32562255859375,
+            340.0972595214844
+          ],
+          "origin": [
+            153.12001037597656,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.000015258789062,
+        769.1400146484375,
+        345.7559509277344,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.000015258789062,
+            769.1400146484375,
+            239.97605895996094,
+            782.5440063476562
+          ],
+          "origin": [
+            18.000015258789062,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.00001525878906,
+            769.1400146484375,
+            345.7559509277344,
+            782.5440063476562
+          ],
+          "origin": [
+            240.00001525878906,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

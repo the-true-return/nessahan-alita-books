@@ -1,0 +1,883 @@
+{
+  "page_number": 29,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        234.89999389648438,
+        77.4835205078125,
+        364.0667724609375,
+        92.95938110351562
+      ],
+      "text": "7. O valor do silêncio",
+      "spans": [
+        {
+          "text": "7. O valor do silêncio ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            234.89999389648438,
+            77.4835205078125,
+            364.0667724609375,
+            92.95938110351562
+          ],
+          "origin": [
+            234.89999389648438,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        111.38951110839844,
+        471.1800537109375,
+        126.6117172241211
+      ],
+      "text": "Uma poderosa arma contra-manipulatória e até coercitiva19 é o silêncio.",
+      "spans": [
+        {
+          "text": "Uma poderosa arma contra-manipulatória e até coercitiva",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            113.32771301269531,
+            396.5976257324219,
+            126.6117172241211
+          ],
+          "origin": [
+            120.54000091552734,
+            124.01971435546875
+          ]
+        },
+        {
+          "text": "19",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            396.4800109863281,
+            111.38951110839844,
+            404.4903259277344,
+            120.22337341308594
+          ],
+          "origin": [
+            396.4800109863281,
+            118.49969482421875
+          ]
+        },
+        {
+          "text": " é o silêncio.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            404.5199890136719,
+            113.32771301269531,
+            471.1800537109375,
+            126.6117172241211
+          ],
+          "origin": [
+            404.5199890136719,
+            124.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53997802734375,
+        146.02772521972656,
+        513.4488525390625,
+        159.3117218017578
+      ],
+      "text": "Da mesma forma que a frieza, o silêncio não pode ser usado descriteriosamente.",
+      "spans": [
+        {
+          "text": "Da mesma forma que a frieza, o silêncio não pode ser usado descriteriosamente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997802734375,
+            146.02772521972656,
+            513.4488525390625,
+            159.3117218017578
+          ],
+          "origin": [
+            120.53997802734375,
+            156.7197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        166.7277374267578,
+        513.3299560546875,
+        180.01173400878906
+      ],
+      "text": "Se você acha que simplesmente ficando mudo vai resolver tudo, está errado. Você deve",
+      "spans": [
+        {
+          "text": "Se você acha que simplesmente ficando mudo vai resolver tudo, está errado. Você deve ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            166.7277374267578,
+            513.3299560546875,
+            180.01173400878906
+          ],
+          "origin": [
+            85.0799560546875,
+            177.41973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        187.42774963378906,
+        513.4033203125,
+        200.7117462158203
+      ],
+      "text": "usar o silêncio por longos períodos somente quando estiver sido vítima de alguma",
+      "spans": [
+        {
+          "text": "usar o silêncio por longos períodos somente quando estiver sido vítima de alguma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            187.42774963378906,
+            513.4033203125,
+            200.7117462158203
+          ],
+          "origin": [
+            85.0799560546875,
+            198.1197509765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        208.1277618408203,
+        513.4572143554688,
+        221.41175842285156
+      ],
+      "text": "pilantragem emocional. No resto do tempo, deve atenuá-lo com falas acertadas. Porém",
+      "spans": [
+        {
+          "text": "pilantragem emocional. No resto do tempo, deve atenuá-lo com falas acertadas. Porém ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            208.1277618408203,
+            513.4572143554688,
+            221.41175842285156
+          ],
+          "origin": [
+            85.0799560546875,
+            218.81976318359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        228.82777404785156,
+        230.41549682617188,
+        242.1117706298828
+      ],
+      "text": "nunca deve ser muito falador.",
+      "spans": [
+        {
+          "text": "nunca deve ser muito falador. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            228.82777404785156,
+            230.41549682617188,
+            242.1117706298828
+          ],
+          "origin": [
+            85.0799560546875,
+            239.519775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53995513916016,
+        261.5278015136719,
+        513.4686889648438,
+        274.8117980957031
+      ],
+      "text": "Simplesmente ficar quieto não irá resolver nada. Você deve ficar quieto dentro",
+      "spans": [
+        {
+          "text": "Simplesmente ficar quieto não irá resolver nada. Você deve ficar quieto dentro ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            261.5278015136719,
+            513.4686889648438,
+            274.8117980957031
+          ],
+          "origin": [
+            120.53995513916016,
+            272.21978759765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        282.2278137207031,
+        513.4906005859375,
+        295.5118103027344
+      ],
+      "text": "de certas condições e atenuar o silêncio sob outras condições. Poucos conseguem",
+      "spans": [
+        {
+          "text": "de certas condições e atenuar o silêncio sob outras condições. Poucos conseguem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            282.2278137207031,
+            513.4906005859375,
+            295.5118103027344
+          ],
+          "origin": [
+            85.07997131347656,
+            292.9197998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        302.9278259277344,
+        513.374267578125,
+        316.2118225097656
+      ],
+      "text": "discernir isso, a maioria crê ingenuamente na eficácia de generalizáveis",
+      "spans": [
+        {
+          "text": "discernir isso, a maioria crê ingenuamente na eficácia de generalizáveis ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            302.9278259277344,
+            513.374267578125,
+            316.2118225097656
+          ],
+          "origin": [
+            85.07997131347656,
+            313.61981201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        323.6278381347656,
+        307.1004333496094,
+        336.9118347167969
+      ],
+      "text": "comportamentos polarizados mecanicamente.",
+      "spans": [
+        {
+          "text": "comportamentos polarizados mecanicamente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            323.6278381347656,
+            307.1004333496094,
+            336.9118347167969
+          ],
+          "origin": [
+            85.0799560546875,
+            334.31982421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53994750976562,
+        356.3278503417969,
+        513.300048828125,
+        369.6118469238281
+      ],
+      "text": "Pouquíssimos homens são capazes de se manterem silenciosos por longos",
+      "spans": [
+        {
+          "text": "Pouquíssimos homens são capazes de se manterem silenciosos por longos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53994750976562,
+            356.3278503417969,
+            513.300048828125,
+            369.6118469238281
+          ],
+          "origin": [
+            120.53994750976562,
+            367.01983642578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        377.0278625488281,
+        513.4200439453125,
+        390.3118591308594
+      ],
+      "text": "períodos de conflito. Normalmente, tentamos ficar calados após sofrermos injustiças,",
+      "spans": [
+        {
+          "text": "períodos de conflito. Normalmente, tentamos ficar calados após sofrermos injustiças, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            377.0278625488281,
+            513.4200439453125,
+            390.3118591308594
+          ],
+          "origin": [
+            85.07992553710938,
+            387.7198486328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        397.7278747558594,
+        513.4150390625,
+        411.0118713378906
+      ],
+      "text": "atraiçoamentos sutis ou termos os nossos sentimentos transformados em objeto de",
+      "spans": [
+        {
+          "text": "atraiçoamentos sutis ou termos os nossos sentimentos transformados em objeto de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            397.7278747558594,
+            513.4150390625,
+            411.0118713378906
+          ],
+          "origin": [
+            85.0799560546875,
+            408.41986083984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        418.4278869628906,
+        513.3648681640625,
+        431.7118835449219
+      ],
+      "text": "brincadeiras irresponsáveis mas não agüentamos fazê-lo por muito tempo. Quando",
+      "spans": [
+        {
+          "text": "brincadeiras irresponsáveis mas não agüentamos fazê-lo por muito tempo. Quando ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            418.4278869628906,
+            513.3648681640625,
+            431.7118835449219
+          ],
+          "origin": [
+            85.0799560546875,
+            429.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        439.1278991699219,
+        513.3357543945312,
+        452.4118957519531
+      ],
+      "text": "chegamos ao limite de nossa capacidade de suportar, explodimos e descontamos o",
+      "spans": [
+        {
+          "text": "chegamos ao limite de nossa capacidade de suportar, explodimos e descontamos o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            439.1278991699219,
+            513.3357543945312,
+            452.4118957519531
+          ],
+          "origin": [
+            85.07998657226562,
+            449.81988525390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        459.8279113769531,
+        131.10716247558594,
+        473.1119079589844
+      ],
+      "text": "atrasado.",
+      "spans": [
+        {
+          "text": "atrasado. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            459.8279113769531,
+            131.10716247558594,
+            473.1119079589844
+          ],
+          "origin": [
+            85.0799560546875,
+            470.5198974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53995513916016,
+        492.5279235839844,
+        513.3623046875,
+        505.8119201660156
+      ],
+      "text": "A vontade de dizer o que sentimos é algo que nos traga vivos e nos corrói. É",
+      "spans": [
+        {
+          "text": "A vontade de dizer o que sentimos é algo que nos traga vivos e nos corrói. É ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            492.5279235839844,
+            513.3623046875,
+            505.8119201660156
+          ],
+          "origin": [
+            120.53995513916016,
+            503.21990966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        513.2279052734375,
+        513.335693359375,
+        526.5119018554688
+      ],
+      "text": "agravada pela dificuldade em verbalizar o que percebemos. A dificuldade se deve ao",
+      "spans": [
+        {
+          "text": "agravada pela dificuldade em verbalizar o que percebemos. A dificuldade se deve ao ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            513.2279052734375,
+            513.335693359375,
+            526.5119018554688
+          ],
+          "origin": [
+            85.0799560546875,
+            523.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        533.9279174804688,
+        513.4247436523438,
+        547.2119140625
+      ],
+      "text": "caos infernal e confuso de idéias e emoções que se mesclam em um pandemônio insano",
+      "spans": [
+        {
+          "text": "caos infernal e confuso de idéias e emoções que se mesclam em um pandemônio insano ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            533.9279174804688,
+            513.4247436523438,
+            547.2119140625
+          ],
+          "origin": [
+            85.0799560546875,
+            544.6199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        554.6279296875,
+        513.3359375,
+        567.9119262695312
+      ],
+      "text": "propositalmente provocado pelas espertinhas, as quais se mantém cientes de tudo o que",
+      "spans": [
+        {
+          "text": "propositalmente provocado pelas espertinhas, as quais se mantém cientes de tudo o que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            554.6279296875,
+            513.3359375,
+            567.9119262695312
+          ],
+          "origin": [
+            85.0799560546875,
+            565.3199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        575.3279418945312,
+        513.3743896484375,
+        588.6119384765625
+      ],
+      "text": "se passa ao mesmo tempo em que nos recusam certezas, definições e clarezas para nos",
+      "spans": [
+        {
+          "text": "se passa ao mesmo tempo em que nos recusam certezas, definições e clarezas para nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            575.3279418945312,
+            513.3743896484375,
+            588.6119384765625
+          ],
+          "origin": [
+            85.0799560546875,
+            586.0199584960938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        596.0279541015625,
+        513.4148559570312,
+        609.3119506835938
+      ],
+      "text": "manterem na confusão. Temos muitíssimas insatisfações mas, por mais que tentemos",
+      "spans": [
+        {
+          "text": "manterem na confusão. Temos muitíssimas insatisfações mas, por mais que tentemos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            596.0279541015625,
+            513.4148559570312,
+            609.3119506835938
+          ],
+          "origin": [
+            85.0799560546875,
+            606.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        616.7279052734375,
+        382.6763916015625,
+        630.0119018554688
+      ],
+      "text": "definí-las e demonstrá-las, nunca sentimos que é o suficiente.",
+      "spans": [
+        {
+          "text": "definí-las e demonstrá-las, nunca sentimos que é o suficiente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            616.7279052734375,
+            382.6763916015625,
+            630.0119018554688
+          ],
+          "origin": [
+            85.0799560546875,
+            627.419921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53994750976562,
+        649.4279174804688,
+        513.3983154296875,
+        662.7119140625
+      ],
+      "text": "Esta obsessão provém da hiperatividade mental. Se você se calar exteriormente",
+      "spans": [
+        {
+          "text": "Esta obsessão provém da hiperatividade mental. Se você se calar exteriormente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53994750976562,
+            649.4279174804688,
+            513.3983154296875,
+            662.7119140625
+          ],
+          "origin": [
+            120.53994750976562,
+            660.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        670.1279296875,
+        513.3670654296875,
+        683.4119262695312
+      ],
+      "text": "mas interiormente continuar com a mente agitada, pensando milhares de tolices,",
+      "spans": [
+        {
+          "text": "mas interiormente continuar com a mente agitada, pensando milhares de tolices, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            670.1279296875,
+            513.3670654296875,
+            683.4119262695312
+          ],
+          "origin": [
+            85.0799560546875,
+            680.8199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        690.827880859375,
+        513.5343017578125,
+        704.1118774414062
+      ],
+      "text": "terminará no hospício. O silêncio é poderoso e as vence mas necessita vir de dentro para",
+      "spans": [
+        {
+          "text": "terminará no hospício. O silêncio é poderoso e as vence mas necessita vir de dentro para ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            690.827880859375,
+            513.5343017578125,
+            704.1118774414062
+          ],
+          "origin": [
+            85.0799560546875,
+            701.5198974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        711.5278930664062,
+        513.3817749023438,
+        724.8118896484375
+      ],
+      "text": "fora e jamais de fora para dentro. Na presença dela, mantenha sua mente quieta. A partir",
+      "spans": [
+        {
+          "text": "fora e jamais de fora para dentro. Na presença dela, mantenha sua mente quieta. A partir ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            711.5278930664062,
+            513.3817749023438,
+            724.8118896484375
+          ],
+          "origin": [
+            85.0799560546875,
+            722.2199096679688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "29",
+      "spans": [
+        {
+          "text": "29",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

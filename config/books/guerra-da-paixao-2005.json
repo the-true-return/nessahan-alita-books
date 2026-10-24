@@ -1,0 +1,15 @@
+{
+  "title_pt": "A Guerra da Paixão",
+  "series_pt": "O Sofrimento Amoroso do Homem - Volume III",
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - A Guerra da Paixão (Ed. 2005).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - A Guerra da Paixão (Ed. 2005)",
+  "drop_line_patterns": [
+    "pdfFactory"
+  ],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Marca d'água do pdfFactory no rodapé de todas as páginas (removida via drop_line_patterns)."
+  ],
+  "edition": "2005"
+}

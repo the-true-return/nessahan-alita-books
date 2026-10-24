@@ -1,0 +1,153 @@
+{
+  "page_number": 66,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        104.6982192993164,
+        516.1895141601562,
+        118.37545776367188
+      ],
+      "text": "Podemos ainda permanecer estagnados em qualquer nível por",
+      "spans": [
+        {
+          "text": "Podemos ainda permanecer estagnados em qualquer nível por ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            104.6982192993164,
+            516.1895141601562,
+            118.37545776367188
+          ],
+          "origin": [
+            82.73999786376953,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        125.27823638916016,
+        516.255859375,
+        138.95547485351562
+      ],
+      "text": "tempo indefinido ou até mesmo retroceder do último para o",
+      "spans": [
+        {
+          "text": "tempo indefinido ou até mesmo retroceder do último para o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            125.27823638916016,
+            516.255859375,
+            138.95547485351562
+          ],
+          "origin": [
+            82.73999786376953,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        145.79873657226562,
+        516.3610229492188,
+        159.47598266601562
+      ],
+      "text": "primeiro, fato que se verifica quando os casais se separam e se",
+      "spans": [
+        {
+          "text": "primeiro, fato que se verifica quando os casais se separam e se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            145.79873657226562,
+            516.3610229492188,
+            159.47598266601562
+          ],
+          "origin": [
+            82.73999786376953,
+            156.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        166.31924438476562,
+        345.8985290527344,
+        179.99649047851562
+      ],
+      "text": "esquecem mutuamente e para sempre.",
+      "spans": [
+        {
+          "text": "esquecem mutuamente e para sempre.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            166.31924438476562,
+            345.8985290527344,
+            179.99649047851562
+          ],
+          "origin": [
+            82.73999786376953,
+            177.30072021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "66",
+      "spans": [
+        {
+          "text": "66",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1151 @@
+{
+  "description": "Glossário compartilhado pt-BR -> en-US de todos os livros. Formato em translation-rules.md, seção 'Glossário'.",
+  "entries": [
+    {
+      "term_pt": "Nessahan Alita",
+      "match_pt": [
+        "Nessahan Alita"
+      ],
+      "term_en": "Nessahan Alita",
+      "match_en": [
+        "Nessahan Alita"
+      ],
+      "category": "proper_name",
+      "status": "do_not_translate",
+      "books": [
+        "*"
+      ],
+      "notes": "Pseudônimo do autor; nunca traduzir nem alterar."
+    },
+    {
+      "term_pt": "Eliphas Lévi",
+      "match_pt": [
+        "Eliphas Lévi",
+        "Eliphas Levi"
+      ],
+      "term_en": "Eliphas Lévi",
+      "match_en": [
+        "Eliphas Lévi"
+      ],
+      "category": "proper_name",
+      "status": "do_not_translate",
+      "books": [
+        "*"
+      ],
+      "notes": "Manter o acento, como na grafia usual em inglês."
+    },
+    {
+      "term_pt": "Cristo",
+      "match_pt": [
+        "Cristo"
+      ],
+      "term_en": "Christ",
+      "match_en": [
+        "Christ"
+      ],
+      "category": "proper_name",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "Buda",
+      "match_pt": [
+        "Buda",
+        "Budha"
+      ],
+      "term_en": "Buddha",
+      "match_en": [
+        "Buddha"
+      ],
+      "category": "proper_name",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "O original grafa 'Budha' (Magnetismo, cap. 8). Usar a grafia padrão e registrar QUERY."
+    },
+    {
+      "term_pt": "Gandhi",
+      "match_pt": [
+        "Gandhi",
+        "Ganhdi"
+      ],
+      "term_en": "Gandhi",
+      "match_en": [
+        "Gandhi"
+      ],
+      "category": "proper_name",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "O original grafa 'Ganhdi' (Magnetismo, cap. 8). Usar a grafia padrão e registrar QUERY."
+    },
+    {
+      "term_pt": "O Sofrimento Amoroso do Homem",
+      "match_pt": [
+        "O Sofrimento Amoroso do Homem"
+      ],
+      "term_en": "Man's Suffering in Love",
+      "match_en": [
+        "Man's Suffering in Love",
+        "Man’s Suffering in Love"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Título da série (Volumes I-IV). Alternativas: 'The Romantic Suffering of Men', 'Men's Suffering in Love'."
+    },
+    {
+      "term_pt": "Como Lidar com Mulheres",
+      "match_pt": [
+        "Como Lidar com Mulheres"
+      ],
+      "term_en": "How to Deal with Women",
+      "match_en": [
+        "How to Deal with Women"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Volume I."
+    },
+    {
+      "term_pt": "O Profano Feminino",
+      "match_pt": [
+        "O Profano Feminino"
+      ],
+      "term_en": "The Profane Feminine",
+      "match_en": [
+        "The Profane Feminine"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Volume II. Ecoa, por oposição, 'Sagrado Feminino' (Sacred Feminine)."
+    },
+    {
+      "term_pt": "A Guerra da Paixão",
+      "match_pt": [
+        "A Guerra da Paixão"
+      ],
+      "term_en": "The War of Passion",
+      "match_en": [
+        "The War of Passion"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Volume III. Alternativa: 'Passion's War'."
+    },
+    {
+      "term_pt": "Reflexões Masculinas sobre a Mulher e o Amor",
+      "match_pt": [
+        "Reflexões Masculinas sobre a Mulher e o Amor",
+        "Reflexões Masculinas"
+      ],
+      "term_en": "Masculine Reflections on Woman and Love",
+      "match_en": [
+        "Masculine Reflections"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Volume IV. Alternativa: 'A Man's Reflections on Women and Love'."
+    },
+    {
+      "term_pt": "Algumas Heresias que Faltaram Dizer",
+      "match_pt": [
+        "Algumas Heresias que Faltaram Dizer"
+      ],
+      "term_en": "Some Heresies Left Unsaid",
+      "match_en": [
+        "Some Heresies Left Unsaid"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Subtítulo de Reflexões Masculinas."
+    },
+    {
+      "term_pt": "O Magnetismo nas Relações Sociais",
+      "match_pt": [
+        "O Magnetismo nas Relações Sociais"
+      ],
+      "term_en": "Magnetism in Social Relations",
+      "match_en": [
+        "Magnetism in Social Relations"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "A Submissão do Ser Humano através de suas Fraquezas",
+      "match_pt": [
+        "A Submissão do Ser Humano através de suas Fraquezas"
+      ],
+      "term_en": "The Subjugation of Human Beings Through Their Weaknesses",
+      "match_en": [
+        "The Subjugation of Human Beings Through Their Weaknesses"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Subtítulo de O Magnetismo."
+    },
+    {
+      "term_pt": "Textos Complementares",
+      "match_pt": [
+        "Textos Complementares"
+      ],
+      "term_en": "Supplementary Texts",
+      "match_en": [
+        "Supplementary Texts"
+      ],
+      "category": "title",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "ego / egos",
+      "match_pt": [
+        "ego",
+        "egos"
+      ],
+      "term_en": "ego / egos",
+      "match_en": [
+        "ego",
+        "egos"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "Manter o plural 'egos' quando o autor fala de múltiplos egos (sentido gnóstico).",
+      "display_en": "ego, egos",
+      "display_pt": "ego, egos",
+      "note_en": "In the Gnostic sense used by the author (after Gurdjieff and Samael Aun Weor), the many psychological defects that make up the ordinary personality, not a single unified self.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "morte dos egos",
+      "match_pt": [
+        "morte dos egos",
+        "morte do ego"
+      ],
+      "term_en": "death of the egos",
+      "match_en": [
+        "death of the egos",
+        "death of the ego"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Terminologia gnóstica (Samael Aun Weor: 'death of the ego'). Manter o plural quando o original usa plural.",
+      "display_en": "death of the egos",
+      "display_pt": "morte dos egos",
+      "note_en": "The inner work of dissolving the egos; for the author, the source of freedom from manipulation and of resistance to all passions.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "agregados psíquicos",
+      "match_pt": [
+        "agregados psíquicos",
+        "agregado psíquico"
+      ],
+      "term_en": "psychic aggregates",
+      "match_en": [
+        "psychic aggregates",
+        "psychic aggregate"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo consagrado nas traduções inglesas de Samael Aun Weor.",
+      "display_en": "psychic aggregates",
+      "display_pt": "agregados psíquicos",
+      "note_en": "Samael Aun Weor’s term for the egos understood as autonomous psychological formations within the psyche.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "elementários",
+      "match_pt": [
+        "elementários",
+        "elementário"
+      ],
+      "term_en": "elementaries",
+      "match_en": [
+        "elementaries",
+        "elementary"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo ocultista (Lévi/Blavatsky: 'elementaries'). Não confundir com 'elementais' (elementals). Confirmar.",
+      "display_en": "elementaries",
+      "display_pt": "elementários",
+      "note_en": "Occultist term (Lévi, Blavatsky) for psychic entities or thought-forms that obsess the mind; distinct from “elementals.”",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "eus",
+      "match_pt": [
+        "eus"
+      ],
+      "term_en": "I's",
+      "match_en": [
+        "I's",
+        "I’s",
+        "selves"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Gurdjieff: 'many I's'. Avaliar contexto.",
+      "display_en": "I’s",
+      "display_pt": "eus",
+      "note_en": "Gurdjieff’s “many I’s”: the multiple, contradictory selves that take turns controlling a person.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "complexos",
+      "match_pt": [
+        "complexo",
+        "complexos"
+      ],
+      "term_en": "complex / complexes",
+      "match_en": [
+        "complex",
+        "complexes"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "Sentido psicanalítico.",
+      "display_en": "complexes",
+      "display_pt": "complexos",
+      "note_en": "Used in the psychoanalytic sense; the author treats complexes, egos, and defects as near synonyms.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "centros da máquina",
+      "match_pt": [
+        "centros da máquina"
+      ],
+      "term_en": "centers of the machine",
+      "match_en": [
+        "centers of the machine",
+        "centers of the human machine"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Gurdjieff: centros intelectual, emocional, motor, instintivo e sexual.",
+      "display_en": "centers of the machine",
+      "display_pt": "centros da máquina",
+      "note_en": "Gurdjieff’s centers of the human machine: intellectual, emotional, motor, instinctive, and sexual.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "magnetismo universal",
+      "match_pt": [
+        "magnetismo universal"
+      ],
+      "term_en": "universal magnetism",
+      "match_en": [
+        "universal magnetism"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "universal magnetism",
+      "display_pt": "magnetismo universal",
+      "note_en": "The force of attraction and repulsion that, following Eliphas Lévi, the author sees at work in all social relations.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "cadeias magnéticas",
+      "match_pt": [
+        "cadeia magnética",
+        "cadeias magnéticas"
+      ],
+      "term_en": "magnetic chain(s)",
+      "match_en": [
+        "magnetic chain",
+        "magnetic chains"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "Eliphas Lévi.",
+      "display_en": "magnetic chain",
+      "display_pt": "cadeia magnética",
+      "note_en": "Lévi’s term for a group of wills joined by sympathy and commanded from a center; also called an egregore.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "egrégora",
+      "match_pt": [
+        "egrégora",
+        "egrégoras"
+      ],
+      "term_en": "egregore(s)",
+      "match_en": [
+        "egregore",
+        "egregores"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "egregore",
+      "display_pt": "egrégora",
+      "note_en": "In esoteric tradition, the collective psychic force formed when many wills unite around a shared aim.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "elemento passivo / ativo",
+      "match_pt": [
+        "elemento passivo",
+        "elemento ativo"
+      ],
+      "term_en": "passive element / active element",
+      "match_en": [
+        "passive element",
+        "active element"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "Vocabulário técnico do autor; não trocar por 'victim' ou 'manipulator'.",
+      "display_en": "passive element, active element",
+      "display_pt": "elemento passivo, elemento ativo",
+      "note_en": "The author’s technical names for the one who is manipulated and the one who manipulates.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "fascinação",
+      "match_pt": [
+        "fascinação",
+        "fascinações"
+      ],
+      "term_en": "fascination(s)",
+      "match_en": [
+        "fascination",
+        "fascinations"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "fascination",
+      "display_pt": "fascinação",
+      "note_en": "The capture of consciousness by an object of desire or aversion; for the author, the same phenomenon as enchantment, bewitchment, and hypnosis.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "encantamento",
+      "match_pt": [
+        "encantamento",
+        "encantamentos"
+      ],
+      "term_en": "enchantment(s)",
+      "match_en": [
+        "enchantment",
+        "enchantments"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "enchantment",
+      "display_pt": "encantamento",
+      "note_en": "Fascination produced through pleasure and desire (flattery, seduction, promises).",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "feitiço / feitiçaria",
+      "match_pt": [
+        "feitiço",
+        "feitiços",
+        "feitiçaria"
+      ],
+      "term_en": "spell(s) / sorcery",
+      "match_en": [
+        "spell",
+        "spells",
+        "sorcery",
+        "witchcraft"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "spell, sorcery",
+      "display_pt": "feitiço, feitiçaria",
+      "note_en": "Used psychologically: an extreme form of fascination that works through the victim’s belief and fear.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "contra-feitiço",
+      "match_pt": [
+        "contra-feitiço"
+      ],
+      "term_en": "counter-spell",
+      "match_en": [
+        "counter-spell",
+        "counterspell"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "counter-spell",
+      "display_pt": "contra-feitiço",
+      "note_en": "The return of a manipulator’s influence to its source, which the author considers legitimate self-defense.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "auto-centramento",
+      "match_pt": [
+        "auto-centramento"
+      ],
+      "term_en": "self-centering",
+      "match_en": [
+        "self-centering"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "NUNCA 'self-centeredness' (egocentrismo): o sentido é ter um centro interior fixo.",
+      "display_en": "self-centering",
+      "display_pt": "auto-centramento",
+      "note_en": "Having a fixed inner center that cannot be moved by attraction or repulsion; not to be confused with self-centeredness.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "fluxo libidinal",
+      "match_pt": [
+        "fluxo libidinal",
+        "fluxos libidinais"
+      ],
+      "term_en": "libidinal flow(s)",
+      "match_en": [
+        "libidinal flow",
+        "libidinal flows"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "libidinal flow",
+      "display_pt": "fluxo libidinal",
+      "note_en": "The direction taken by desire; each person has many, often conflicting, libidinal flows.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "paixões",
+      "match_pt": [
+        "paixão",
+        "paixões"
+      ],
+      "term_en": "passion(s)",
+      "match_en": [
+        "passion",
+        "passions"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "No sentido filosófico de afecções e desejos, não só romântico.",
+      "display_en": "passions",
+      "display_pt": "paixões",
+      "note_en": "In the classical philosophical sense: desires, fears, and attachments that sweep the will along, not only romantic love.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "livre-arbítrio",
+      "match_pt": [
+        "livre-arbítrio"
+      ],
+      "term_en": "free will",
+      "match_en": [
+        "free will"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "free will",
+      "display_pt": "livre-arbítrio",
+      "note_en": "The right to self-determination, which manipulation violates.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "legítima defesa",
+      "match_pt": [
+        "legítima defesa",
+        "legítimas defesas"
+      ],
+      "term_en": "self-defense",
+      "match_en": [
+        "self-defense",
+        "legitimate defense"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "self-defense",
+      "display_pt": "legítima defesa",
+      "note_en": "For the author, the only case in which dismantling another’s manipulations, or returning them, is justified.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "fêmea (vs. Mulher)",
+      "match_pt": [
+        "fêmea",
+        "fêmeas"
+      ],
+      "term_en": "female(s)",
+      "match_en": [
+        "female",
+        "females"
+      ],
+      "category": "style",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "O autor opõe a 'Mulher autêntica' (maiúscula) à 'fêmea humanóide animal'. Preservar a maiúscula de Woman e a oposição Woman/female.",
+      "display_en": "female (vs. Woman)",
+      "display_pt": "fêmea (vs. Mulher)",
+      "note_en": "The author contrasts the authentic, capitalized Woman with the instinctive “humanoid female animal.”",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "espertinha(s)",
+      "match_pt": [
+        "espertinha",
+        "espertinhas"
+      ],
+      "term_en": "sly one(s)",
+      "match_en": [
+        "sly one",
+        "sly ones",
+        "sly woman",
+        "sly women"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Diminutivo pejorativo recorrente. Alternativas: 'clever little schemers', 'smart alecks'. Decidir antes dos volumes I-IV."
+    },
+    {
+      "term_pt": "trapaceira(s)",
+      "match_pt": [
+        "trapaceira",
+        "trapaceiras"
+      ],
+      "term_en": "cheat(s)",
+      "match_en": [
+        "cheat",
+        "cheats",
+        "cheater",
+        "cheaters",
+        "trickster",
+        "tricksters"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "joguinhos",
+      "match_pt": [
+        "joguinho",
+        "joguinhos"
+      ],
+      "term_en": "little games",
+      "match_en": [
+        "little games",
+        "little game",
+        "mind games"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "inferninhos emocionais",
+      "match_pt": [
+        "inferninho emocional",
+        "inferninhos emocionais"
+      ],
+      "term_en": "little emotional hells",
+      "match_en": [
+        "little emotional hells",
+        "little emotional hell"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "encurralamento",
+      "match_pt": [
+        "encurralamento"
+      ],
+      "term_en": "cornering",
+      "match_en": [
+        "cornering"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Estratégia do autor (Textos Complementares II, O Profano Feminino).",
+      "display_en": "cornering",
+      "display_pt": "encurralamento",
+      "note_en": "The author’s strategy of placing someone before a choice that exposes their real intentions.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "ultimatum",
+      "match_pt": [
+        "ultimatum",
+        "ultimato"
+      ],
+      "term_en": "ultimatum",
+      "match_en": [
+        "ultimatum"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "ultimatum",
+      "display_pt": "ultimatum",
+      "note_en": "In the author’s strategy, a final demand that forces a definite decision.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "sedutologia",
+      "match_pt": [
+        "sedutologia"
+      ],
+      "term_en": "seductology",
+      "match_en": [
+        "seductology"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "seductology",
+      "display_pt": "sedutologia",
+      "note_en": "The author’s name for the study and techniques of seduction, from which he distances himself.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "macho alfa",
+      "match_pt": [
+        "macho alfa",
+        "macho-alfa",
+        "macho-alpha",
+        "machos alfa"
+      ],
+      "term_en": "alpha male",
+      "match_en": [
+        "alpha male",
+        "alpha males"
+      ],
+      "category": "concept",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": "",
+      "display_en": "alpha male",
+      "display_pt": "macho alfa",
+      "note_en": "The dominant male of ethology, as used in discussions of attraction.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "cafajeste",
+      "match_pt": [
+        "cafajeste",
+        "cafajestes"
+      ],
+      "term_en": "cad",
+      "match_en": [
+        "cad",
+        "cads",
+        "scoundrel",
+        "scoundrels"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Brasileirismo: homem sedutor e sem escrúpulos. Alternativas: 'scoundrel', 'player'."
+    },
+    {
+      "term_pt": "sexo frágil",
+      "match_pt": [
+        "sexo frágil"
+      ],
+      "term_en": "the weaker sex",
+      "match_en": [
+        "the weaker sex",
+        "weaker sex"
+      ],
+      "category": "expression",
+      "status": "approved",
+      "books": [
+        "*"
+      ],
+      "notes": ""
+    },
+    {
+      "term_pt": "recordação de si",
+      "match_pt": [
+        "recordação de si",
+        "recordação de si mesmo"
+      ],
+      "term_en": "self-remembering",
+      "match_en": [
+        "self-remembering"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo de Gurdjieff, com equivalente inglês consagrado. Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "self-remembering",
+      "display_pt": "recordação de si",
+      "note_en": "Gurdjieff’s practice of sustained self-awareness, which protects against fascination and distraction.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "apaixonador",
+      "match_pt": [
+        "apaixonador"
+      ],
+      "term_en": "enamorer",
+      "match_en": [
+        "enamorer"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Neologismo do autor: quem faz o outro se apaixonar (elemento ativo). Alternativa: 'the one who inspires passion'. Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "enamorer",
+      "display_pt": "apaixonador",
+      "note_en": "The author’s coinage for the one who deliberately makes another fall in love: the active element in the game of passion.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "apaixonante (vítima)",
+      "match_pt": [
+        "apaixonante"
+      ],
+      "term_en": "enamored party / enamored victim",
+      "match_en": [
+        "enamored"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Uso do autor para a vítima que se apaixona (não 'cativante'). Em 'elementos apaixonantes' (07-0014) = 'captivating individuals'. Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "enamored party",
+      "display_pt": "apaixonante",
+      "note_en": "The author’s term for the one who falls in love and is manipulated through that passion.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "espertalhão",
+      "match_pt": [
+        "espertalhão",
+        "espertalhões"
+      ],
+      "term_en": "sly operator",
+      "match_en": [
+        "sly operator",
+        "sly operators"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Distinto de 'espertinha(s)'; o masculino 'espertinho' foi traduzido como 'the sly one'. Fixado na tradução de O Magnetismo nas Relações Sociais."
+    },
+    {
+      "term_pt": "velhaco",
+      "match_pt": [
+        "velhaco",
+        "velhacos"
+      ],
+      "term_en": "scoundrel",
+      "match_en": [
+        "scoundrel",
+        "scoundrels"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais."
+    },
+    {
+      "term_pt": "charlatão",
+      "match_pt": [
+        "charlatão",
+        "charlatães"
+      ],
+      "term_en": "charlatan",
+      "match_en": [
+        "charlatan",
+        "charlatans"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais."
+    },
+    {
+      "term_pt": "pilantra",
+      "match_pt": [
+        "pilantra",
+        "pilantras"
+      ],
+      "term_en": "crook",
+      "match_en": [
+        "crook",
+        "crooks"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais."
+    },
+    {
+      "term_pt": "enfeitiçamento",
+      "match_pt": [
+        "enfeitiçamento"
+      ],
+      "term_en": "bewitchment",
+      "match_en": [
+        "bewitchment"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "bewitchment",
+      "display_pt": "enfeitiçamento",
+      "note_en": "Extreme fascination of consciousness; the author treats it as a psychological, not supernatural, phenomenon.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "efeito / retorno especular",
+      "match_pt": [
+        "efeito especular",
+        "retorno especular",
+        "movimento especular",
+        "ação especular"
+      ],
+      "term_en": "mirror effect / mirror-like return",
+      "match_en": [
+        "mirror effect",
+        "mirror-like return",
+        "mirror movement",
+        "mirror action"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "O feitiço repelido volta a quem o lançou. Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "mirror effect",
+      "display_pt": "efeito especular",
+      "note_en": "The return of a repelled spell or manipulation to the one who cast it.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "caos dialógico",
+      "match_pt": [
+        "caos dialógico"
+      ],
+      "term_en": "dialogical chaos",
+      "match_en": [
+        "dialogical chaos"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "dialogical chaos",
+      "display_pt": "caos dialógico",
+      "note_en": "The author’s term for the deliberate confusion of a debate with many shallow side issues, which lets falsehoods survive.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "parada psíquica",
+      "match_pt": [
+        "parada psíquica"
+      ],
+      "term_en": "psychic standstill",
+      "match_en": [
+        "psychic standstill"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "psychic standstill",
+      "display_pt": "parada psíquica",
+      "note_en": "The paralysis of thought that comes from searching for the perfect reply in the middle of an argument.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "ponto de fixidez",
+      "match_pt": [
+        "ponto de fixidez"
+      ],
+      "term_en": "point of fixity",
+      "match_en": [
+        "point of fixity"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Eliphas Lévi. Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "point of fixity",
+      "display_pt": "ponto de fixidez",
+      "note_en": "Lévi’s fixed point from which magnetic force can be moved without being carried away by it.",
+      "in_book_glossary": true
+    },
+    {
+      "term_pt": "afinidade simpática",
+      "match_pt": [
+        "afinidade simpática"
+      ],
+      "term_en": "sympathetic affinity",
+      "match_en": [
+        "sympathetic affinity"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Fixado na tradução de O Magnetismo nas Relações Sociais.",
+      "display_en": "sympathetic affinity",
+      "display_pt": "afinidade simpática",
+      "note_en": "The bond of sympathy created by the convergence of desires and attitudes.",
+      "in_book_glossary": true
+    }
+  ]
+}

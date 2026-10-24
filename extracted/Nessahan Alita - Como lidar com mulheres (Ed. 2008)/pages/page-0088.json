@@ -1,0 +1,627 @@
+{
+  "page_number": 88,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        103.09149169921875,
+        515.5404663085938,
+        118.65927124023438
+      ],
+      "text": "Uma forma muito comum de sermos provocados até a loucura consiste",
+      "spans": [
+        {
+          "text": "Uma forma muito comum de sermos provocados até a loucura consiste ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            103.09149169921875,
+            515.5404663085938,
+            118.65927124023438
+          ],
+          "origin": [
+            117.23980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4840698242188,
+        138.81906127929688
+      ],
+      "text": "em sermos estimulados (por promessas de encontros celestiais, sexo",
+      "spans": [
+        {
+          "text": "em sermos estimulados (por promessas de encontros celestiais, sexo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4840698242188,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        515.6140747070312,
+        158.97927856445312
+      ],
+      "text": "maravilhoso etc.) e frustrados em seguida. Este é um processo muito",
+      "spans": [
+        {
+          "text": "maravilhoso etc.) e frustrados em seguida. Este é um processo muito ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            515.6140747070312,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.51190185546875,
+        515.3767700195312,
+        179.77989196777344
+      ],
+      "text": "interessante em que elas costumam nos atrair com promessas implícitas",
+      "spans": [
+        {
+          "text": "interessante em que elas costumam nos atrair com promessas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.51190185546875,
+            450.3063659667969,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73980712890625,
+            175.8004150390625
+          ]
+        },
+        {
+          "text": "implícitas",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            454.1398010253906,
+            163.61692810058594,
+            511.5606689453125,
+            179.77989196777344
+          ],
+          "origin": [
+            454.1398010253906,
+            175.8004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        183.67169189453125,
+        515.501953125,
+        199.23947143554688
+      ],
+      "text": "(muito raramente explícitas) em suas condutas, criando em nós certas",
+      "spans": [
+        {
+          "text": "(muito raramente explícitas) em suas condutas, criando em nós certas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            183.67169189453125,
+            515.501953125,
+            199.23947143554688
+          ],
+          "origin": [
+            82.73928833007812,
+            195.960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        203.7720947265625,
+        515.4906616210938,
+        219.33987426757812
+      ],
+      "text": "expectativas, para em seguida nos surpreender, frustrando-nos sob as mais",
+      "spans": [
+        {
+          "text": "expectativas, para em seguida nos surpreender, frustrando-nos sob as mais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            203.7720947265625,
+            515.4906616210938,
+            219.33987426757812
+          ],
+          "origin": [
+            82.73928833007812,
+            216.06060791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        223.93231201171875,
+        515.4735107421875,
+        239.50009155273438
+      ],
+      "text": "diversas alegações, geralmente emocionais, enquanto nos observam. Para",
+      "spans": [
+        {
+          "text": "diversas alegações, geralmente emocionais, enquanto nos observam. Para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            223.93231201171875,
+            515.4735107421875,
+            239.50009155273438
+          ],
+          "origin": [
+            82.73928833007812,
+            236.2208251953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        244.03271484375,
+        515.4441528320312,
+        259.6004943847656
+      ],
+      "text": "invertermos este jogo, basta aplicarmos de volta o mesmo procedimento,",
+      "spans": [
+        {
+          "text": "invertermos este jogo, basta aplicarmos de volta o mesmo procedimento, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            244.03271484375,
+            515.4441528320312,
+            259.6004943847656
+          ],
+          "origin": [
+            82.73928833007812,
+            256.32122802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        264.1925048828125,
+        515.431884765625,
+        279.7602844238281
+      ],
+      "text": "oferecendo e frustrando ou, se isto não funcionar, criando situações que a",
+      "spans": [
+        {
+          "text": "oferecendo e frustrando ou, se isto não funcionar, criando situações que a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            264.1925048828125,
+            515.431884765625,
+            279.7602844238281
+          ],
+          "origin": [
+            82.73928833007812,
+            276.48101806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        284.29290771484375,
+        515.4993896484375,
+        299.8606872558594
+      ],
+      "text": "deixem sem saída. Também costuma dar resultado observar todo o processo",
+      "spans": [
+        {
+          "text": "deixem sem saída. Também costuma dar resultado observar todo o processo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            284.29290771484375,
+            515.4993896484375,
+            299.8606872558594
+          ],
+          "origin": [
+            82.73928833007812,
+            296.5814208984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        304.45269775390625,
+        196.7476043701172,
+        320.0204772949219
+      ],
+      "text": "para desmascará-lo.",
+      "spans": [
+        {
+          "text": "para desmascará-lo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            304.45269775390625,
+            196.7476043701172,
+            320.0204772949219
+          ],
+          "origin": [
+            82.73928833007812,
+            316.7412109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23928833007812,
+        336.2522888183594,
+        515.4990234375,
+        351.820068359375
+      ],
+      "text": "Como este padrão é comum à esmagadora maioria das espertinhas,",
+      "spans": [
+        {
+          "text": "Como este padrão é comum à esmagadora maioria das espertinhas, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23928833007812,
+            336.2522888183594,
+            515.4990234375,
+            351.820068359375
+          ],
+          "origin": [
+            117.23928833007812,
+            348.5408020019531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        356.2920837402344,
+        515.4942016601562,
+        371.85986328125
+      ],
+      "text": "resulta que, no fundo, elas são previsíveis e não imprevisíveis como",
+      "spans": [
+        {
+          "text": "resulta que, no fundo, elas são previsíveis e não imprevisíveis como ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            356.2920837402344,
+            515.4942016601562,
+            371.85986328125
+          ],
+          "origin": [
+            82.73928833007812,
+            368.5805969238281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        376.4518737792969,
+        489.84527587890625,
+        392.0196533203125
+      ],
+      "text": "parecem. Entretanto, ocultam sua previsibilidade para nos desconcertar.",
+      "spans": [
+        {
+          "text": "parecem. Entretanto, ocultam sua previsibilidade para nos desconcertar. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            376.4518737792969,
+            489.84527587890625,
+            392.0196533203125
+          ],
+          "origin": [
+            82.73928833007812,
+            388.7403869628906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23928833007812,
+        408.25146484375,
+        515.375732421875,
+        423.8192443847656
+      ],
+      "text": "Em suma, podemos dizer que somos observados continuamente para",
+      "spans": [
+        {
+          "text": "Em suma, podemos dizer que somos observados continuamente para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23928833007812,
+            408.25146484375,
+            515.375732421875,
+            423.8192443847656
+          ],
+          "origin": [
+            117.23928833007812,
+            420.53997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        428.35186767578125,
+        515.452880859375,
+        443.9196472167969
+      ],
+      "text": "que nossos \nlimites, desejos \ne sentimentos sejam \nidentificados. A",
+      "spans": [
+        {
+          "text": "que nossos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            428.35186767578125,
+            154.7195587158203,
+            443.9196472167969
+          ],
+          "origin": [
+            82.73928833007812,
+            440.640380859375
+          ]
+        },
+        {
+          "text": "limites, desejos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            164.1021728515625,
+            428.35186767578125,
+            262.9486999511719,
+            443.9196472167969
+          ],
+          "origin": [
+            164.1021728515625,
+            440.640380859375
+          ]
+        },
+        {
+          "text": "e sentimentos sejam ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            272.3908386230469,
+            428.35186767578125,
+            404.63958740234375,
+            443.9196472167969
+          ],
+          "origin": [
+            272.3908386230469,
+            440.640380859375
+          ]
+        },
+        {
+          "text": "identificados. A ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            414.0220642089844,
+            428.35186767578125,
+            515.452880859375,
+            443.9196472167969
+          ],
+          "origin": [
+            414.0220642089844,
+            440.640380859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        448.51165771484375,
+        515.4798583984375,
+        464.0794372558594
+      ],
+      "text": "identificação dos mesmos faz-se necessária para que possam ser excitados e",
+      "spans": [
+        {
+          "text": "identificação dos mesmos faz-se necessária para que possam ser excitados e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            448.51165771484375,
+            515.4798583984375,
+            464.0794372558594
+          ],
+          "origin": [
+            82.73928833007812,
+            460.8001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73928833007812,
+        468.612060546875,
+        425.3920593261719,
+        484.1798400878906
+      ],
+      "text": "frustrados em jogos repentinos de infernização emocional.",
+      "spans": [
+        {
+          "text": "frustrados em jogos repentinos de infernização emocional.    ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73928833007812,
+            468.612060546875,
+            425.3920593261719,
+            484.1798400878906
+          ],
+          "origin": [
+            82.73928833007812,
+            480.90057373046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "88",
+      "spans": [
+        {
+          "text": "88",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "page_number": 86,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        539.1007080078125,
+        87.48676300048828
+      ],
+      "text": "forças. As únicas forças que você possui são a força física muscular",
+      "spans": [
+        {
+          "text": "forças. As únicas forças que você possui são a força física muscular",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            539.1007080078125,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        539.0401000976562,
+        111.48676300048828
+      ],
+      "text": "bruta e a razão, as quais são inúteis nesta guerra. Os músculos não são",
+      "spans": [
+        {
+          "text": "bruta e a razão, as quais são inúteis nesta guerra. Os músculos não são",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            539.0401000976562,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        336.07537841796875,
+        135.72674560546875
+      ],
+      "text": "úteis e os raciocínios menos úteis ainda.",
+      "spans": [
+        {
+          "text": "úteis e os raciocínios menos úteis ainda.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            336.07537841796875,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        156.3173065185547,
+        538.934814453125,
+        171.72674560546875
+      ],
+      "text": "Quanto mais você discute, mais as coisas pioram e mais os",
+      "spans": [
+        {
+          "text": "Quanto mais você discute, mais as coisas pioram e mais os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            156.3173065185547,
+            538.934814453125,
+            171.72674560546875
+          ],
+          "origin": [
+            108.0,
+            168.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        180.5572967529297,
+        539.1154174804688,
+        195.96673583984375
+      ],
+      "text": "problemas se emaranham e se agravam. Você tenta fazê-la entender",
+      "spans": [
+        {
+          "text": "problemas se emaranham e se agravam. Você tenta fazê-la entender",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            180.5572967529297,
+            539.1154174804688,
+            195.96673583984375
+          ],
+          "origin": [
+            72.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        538.9805908203125,
+        220.20672607421875
+      ],
+      "text": "seu óbvio ponto de vista mas ela se finge de desentendida e transforma",
+      "spans": [
+        {
+          "text": "seu óbvio ponto de vista mas ela se finge de desentendida e transforma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            538.9805908203125,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        538.9508056640625,
+        244.20672607421875
+      ],
+      "text": "a conversa em um caos. Você reclama e recebe como resposta: \"Você é",
+      "spans": [
+        {
+          "text": "a conversa em um caos. Você reclama e recebe como resposta: \"Você é",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            538.9508056640625,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        538.98046875,
+        268.44671630859375
+      ],
+      "text": "inseguro\", \"Não confia em mim\" etc. Não adianta apelar para a lógica",
+      "spans": [
+        {
+          "text": "inseguro\", \"Não confia em mim\" etc. Não adianta apelar para a lógica",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            538.98046875,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        538.9806518554688,
+        292.68670654296875
+      ],
+      "text": "pois tudo é louco, insano, ilógico, absurdo, calculadamente estúpido e",
+      "spans": [
+        {
+          "text": "pois tudo é louco, insano, ilógico, absurdo, calculadamente estúpido e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            538.9806518554688,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        301.27728271484375,
+        138.83999633789062,
+        316.68670654296875
+      ],
+      "text": "irracional.",
+      "spans": [
+        {
+          "text": "irracional.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            301.27728271484375,
+            138.83999633789062,
+            316.68670654296875
+          ],
+          "origin": [
+            72.0,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        337.51727294921875,
+        538.9657592773438,
+        352.92669677734375
+      ],
+      "text": "Se você perder a cabeça e agredí-la após tantas provocações, terá",
+      "spans": [
+        {
+          "text": "Se você perder a cabeça e agredí-la após tantas provocações, terá",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            337.51727294921875,
+            538.9657592773438,
+            352.92669677734375
+          ],
+          "origin": [
+            108.0,
+            349.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        361.51727294921875,
+        538.9805908203125,
+        376.92669677734375
+      ],
+      "text": "caído em uma armadilha: se revelará inegavelmente um vilão covarde",
+      "spans": [
+        {
+          "text": "caído em uma armadilha: se revelará inegavelmente um vilão covarde",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            361.51727294921875,
+            538.9805908203125,
+            376.92669677734375
+          ],
+          "origin": [
+            72.0,
+            373.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        385.75726318359375,
+        538.980712890625,
+        401.16668701171875
+      ],
+      "text": "ao agredir um ser \"frágil que somente sabe dar amor\". Você está",
+      "spans": [
+        {
+          "text": "ao agredir um ser \"frágil que somente sabe dar amor\". Você está",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            385.75726318359375,
+            538.980712890625,
+            401.16668701171875
+          ],
+          "origin": [
+            72.0,
+            398.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        409.99725341796875,
+        216.3599853515625,
+        425.40667724609375
+      ],
+      "text": "amarrado e dominado.",
+      "spans": [
+        {
+          "text": "amarrado e dominado.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            409.99725341796875,
+            216.3599853515625,
+            425.40667724609375
+          ],
+          "origin": [
+            72.0,
+            422.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        445.99725341796875,
+        538.9647216796875,
+        461.40667724609375
+      ],
+      "text": "Você sabe que desaparecer não é a solução pois ela não virá atrás",
+      "spans": [
+        {
+          "text": "Você sabe que desaparecer não é a solução pois ela não virá atrás",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            445.99725341796875,
+            538.9647216796875,
+            461.40667724609375
+          ],
+          "origin": [
+            108.0,
+            458.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        470.23724365234375,
+        538.9349365234375,
+        485.64666748046875
+      ],
+      "text": "e você a perderá para sempre. Ela sabe que, mesmo após vários anos",
+      "spans": [
+        {
+          "text": "e você a perderá para sempre. Ela sabe que, mesmo após vários anos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            470.23724365234375,
+            538.9349365234375,
+            485.64666748046875
+          ],
+          "origin": [
+            72.0,
+            482.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        494.23724365234375,
+        539.0402221679688,
+        509.64666748046875
+      ],
+      "text": "sem vê-lo, você estará lá, disponível. Você não vale nada porque não",
+      "spans": [
+        {
+          "text": "sem vê-lo, você estará lá, disponível. Você não vale nada porque não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            494.23724365234375,
+            539.0402221679688,
+            509.64666748046875
+          ],
+          "origin": [
+            72.0,
+            506.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        518.4772338867188,
+        538.9349975585938,
+        533.8866577148438
+      ],
+      "text": "possui nada interessante e, portanto, sua falta não será sentida. Mas",
+      "spans": [
+        {
+          "text": "possui nada interessante e, portanto, sua falta não será sentida. Mas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            518.4772338867188,
+            538.9349975585938,
+            533.8866577148438
+          ],
+          "origin": [
+            72.0,
+            530.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        542.7172241210938,
+        538.980712890625,
+        558.1266479492188
+      ],
+      "text": "você não quer perdê-la. Acontece que você não possui nada que ela de",
+      "spans": [
+        {
+          "text": "você não quer perdê-la. Acontece que você não possui nada que ela de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            542.7172241210938,
+            538.980712890625,
+            558.1266479492188
+          ],
+          "origin": [
+            72.0,
+            555.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        566.7172241210938,
+        538.9349365234375,
+        582.1266479492188
+      ],
+      "text": "fato queira ou precise enquanto ela possui muitos atributos sem os",
+      "spans": [
+        {
+          "text": "fato queira ou precise enquanto ela possui muitos atributos sem os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            566.7172241210938,
+            538.9349365234375,
+            582.1266479492188
+          ],
+          "origin": [
+            72.0,
+            579.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        590.957275390625,
+        539.280029296875,
+        606.36669921875
+      ],
+      "text": "quais você não viveria: sua forma específica de ser, seu olhar, seu",
+      "spans": [
+        {
+          "text": "quais você não viveria: sua forma específica de ser, seu olhar, seu",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            590.957275390625,
+            539.280029296875,
+            606.36669921875
+          ],
+          "origin": [
+            72.0,
+            603.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        615.197265625,
+        264.8548583984375,
+        630.606689453125
+      ],
+      "text": "andar, sua voz, seu toque etc.",
+      "spans": [
+        {
+          "text": "andar, sua voz, seu toque etc.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            615.197265625,
+            264.8548583984375,
+            630.606689453125
+          ],
+          "origin": [
+            72.0,
+            627.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        651.197265625,
+        539.3097534179688,
+        666.606689453125
+      ],
+      "text": "Você foi trapaceado, caiu em uma armadilha emocional, foi",
+      "spans": [
+        {
+          "text": "Você foi trapaceado, caiu em uma armadilha emocional, foi",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            651.197265625,
+            539.3097534179688,
+            666.606689453125
+          ],
+          "origin": [
+            108.0,
+            663.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        675.437255859375,
+        539.294921875,
+        690.8466796875
+      ],
+      "text": "passado para trás. Tudo era mentira: o olhar apaixonado, o sorriso sem",
+      "spans": [
+        {
+          "text": "passado para trás. Tudo era mentira: o olhar apaixonado, o sorriso sem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            675.437255859375,
+            539.294921875,
+            690.8466796875
+          ],
+          "origin": [
+            72.0,
+            687.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "86",
+      "spans": [
+        {
+          "text": "86",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "page_number": 8,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        327.3168029785156,
+        92.95938110351562
+      ],
+      "text": "4. Correto entendimento da teoria",
+      "spans": [
+        {
+          "text": "4. Correto entendimento da teoria ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            327.3168029785156,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        105.28767395019531,
+        513.330810546875,
+        159.9716339111328
+      ],
+      "text": "A teoria que defendo em meus livros exige a leitura de todos os volumes para ser \ncorretamente compreendida. Os livros estão escritos em seqüência, sendo que cada um \nprocura preencher lacunas e corrigir deficiências dos que o antecedem. A leitura parcial \nacarretará em interpretação deficiente dos seus conteúdos.",
+      "spans": [
+        {
+          "text": "A teoria que defendo em meus livros exige a leitura de todos os volumes para ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.31201171875,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "corretamente compreendida. Os livros estão escritos em seqüência, sendo que cada um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            119.08766174316406,
+            513.323974609375,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08000183105469,
+            129.7796630859375
+          ]
+        },
+        {
+          "text": "procura preencher lacunas e corrigir deficiências dos que o antecedem. A leitura parcial ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            132.8876495361328,
+            513.330810546875,
+            146.17164611816406
+          ],
+          "origin": [
+            85.07998657226562,
+            143.57965087890625
+          ]
+        },
+        {
+          "text": "acarretará em interpretação deficiente dos seus conteúdos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            146.68763732910156,
+            367.022216796875,
+            159.9716339111328
+          ],
+          "origin": [
+            85.07998657226562,
+            157.379638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799789428711,
+        172.4876251220703,
+        513.3888549804688,
+        227.1715850830078
+      ],
+      "text": "Como prezo pela construção contínua do conhecimento, no caso de haver \nincompatibilidade absoluta (e não aparente) de idéias entre um trabalho e outro, deve \nprevalecer a idéia defendida no trabalho mais recente. Baseio-me no estudo teórico e na \nexperiência, sendo que ambos não são estáticos.",
+      "spans": [
+        {
+          "text": "Como prezo pela construção contínua do conhecimento, no caso de haver ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997802734375,
+            172.4876251220703,
+            513.364990234375,
+            185.77162170410156
+          ],
+          "origin": [
+            120.53997802734375,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "incompatibilidade absoluta (e não aparente) de idéias entre um trabalho e outro, deve ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799789428711,
+            186.28761291503906,
+            513.3385009765625,
+            199.5716094970703
+          ],
+          "origin": [
+            85.0799789428711,
+            196.9796142578125
+          ]
+        },
+        {
+          "text": "prevalecer a idéia defendida no trabalho mais recente. Baseio-me no estudo teórico e na ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            200.0876007080078,
+            513.3888549804688,
+            213.37159729003906
+          ],
+          "origin": [
+            85.07998657226562,
+            210.77960205078125
+          ]
+        },
+        {
+          "text": "experiência, sendo que ambos não são estáticos.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            213.88758850097656,
+            321.6768798828125,
+            227.1715850830078
+          ],
+          "origin": [
+            85.07998657226562,
+            224.57958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        239.6875762939453,
+        513.423828125,
+        418.5714416503906
+      ],
+      "text": "Aqueles que tomam o que escrevo como idéias terminadas, simplesmente não \nentenderam nada. Sou totalmente contrário aos dogmatismos. Nunca é demais lembrar \nque proponho apenas uma linha de pensamento para reflexão. Não sou diferente de \nninguém e aquilo que escrevo jamais substituiriam as orientações de um mestre \nverdadeiro (alguém que tenha atingido um estado de turya ou consciência desperta, \ncomo se diz na Índia). É por isso que não gosto que me chamem de “mestre”. Sou \napenas um colaborador, um ajudante interessado nesses temas e que gosta de \ncompartilhar seu ponto de vista. Sei que as pessoas necessitam de mestres, compreendo \nesta necessidade, mas não posso suprí-la. As pessoas sentem muito a falta de um mestre \ne isso é compreensível. Mas eles já vieram muitas vezes e deixaram suas orientações. \nCabe a nós aplicá-las. Mestres verdadeiros foram Buda, Jesus, Maomé e muitos outros \nque vieram e com certeza ainda estão atualmente por aí. Um mestre é um homem \ninspirado por Deus, tão inspirado que às vezes sua alma se confunde com Ele.",
+      "spans": [
+        {
+          "text": "Aqueles que tomam o que escrevo como idéias terminadas, simplesmente não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            239.6875762939453,
+            513.423828125,
+            252.97157287597656
+          ],
+          "origin": [
+            120.53998565673828,
+            250.37957763671875
+          ]
+        },
+        {
+          "text": "entenderam nada. Sou totalmente contrário aos dogmatismos. Nunca é demais lembrar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            253.48756408691406,
+            513.3388671875,
+            266.7715759277344
+          ],
+          "origin": [
+            85.07998657226562,
+            264.1795654296875
+          ]
+        },
+        {
+          "text": "que proponho apenas uma linha de pensamento para reflexão. Não sou diferente de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            267.2875671386719,
+            513.355224609375,
+            280.5715637207031
+          ],
+          "origin": [
+            85.07998657226562,
+            277.97955322265625
+          ]
+        },
+        {
+          "text": "ninguém e aquilo que escrevo jamais substituiriam as orientações de um mestre ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            281.0875549316406,
+            513.3648071289062,
+            294.3715515136719
+          ],
+          "origin": [
+            85.07998657226562,
+            291.779541015625
+          ]
+        },
+        {
+          "text": "verdadeiro (alguém que tenha atingido um estado de turya ou consciência desperta, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            294.8875427246094,
+            513.3606567382812,
+            308.1715393066406
+          ],
+          "origin": [
+            85.08000183105469,
+            305.57952880859375
+          ]
+        },
+        {
+          "text": "como se diz na Índia). É por isso que não gosto que me chamem de “mestre”. Sou ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            308.6875305175781,
+            513.3596801757812,
+            321.9715270996094
+          ],
+          "origin": [
+            85.08000183105469,
+            319.3795166015625
+          ]
+        },
+        {
+          "text": "apenas um colaborador, um ajudante interessado nesses temas e que gosta de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            322.4875183105469,
+            513.2721557617188,
+            335.7715148925781
+          ],
+          "origin": [
+            85.08001708984375,
+            333.17950439453125
+          ]
+        },
+        {
+          "text": "compartilhar seu ponto de vista. Sei que as pessoas necessitam de mestres, compreendo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            336.2875061035156,
+            513.2601318359375,
+            349.5715026855469
+          ],
+          "origin": [
+            85.08003234863281,
+            346.9794921875
+          ]
+        },
+        {
+          "text": "esta necessidade, mas não posso suprí-la. As pessoas sentem muito a falta de um mestre ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            350.0874938964844,
+            513.3240356445312,
+            363.3714904785156
+          ],
+          "origin": [
+            85.08001708984375,
+            360.77947998046875
+          ]
+        },
+        {
+          "text": "e isso é compreensível. Mas eles já vieram muitas vezes e deixaram suas orientações. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            363.8874816894531,
+            513.362060546875,
+            377.1714782714844
+          ],
+          "origin": [
+            85.08001708984375,
+            374.5794677734375
+          ]
+        },
+        {
+          "text": "Cabe a nós aplicá-las. Mestres verdadeiros foram Buda, Jesus, Maomé e muitos outros ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            377.6874694824219,
+            513.2626953125,
+            390.9714660644531
+          ],
+          "origin": [
+            85.08001708984375,
+            388.37945556640625
+          ]
+        },
+        {
+          "text": "que vieram e com certeza ainda estão atualmente por aí. Um mestre é um homem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            391.4874572753906,
+            513.2918701171875,
+            404.7714538574219
+          ],
+          "origin": [
+            85.08001708984375,
+            402.179443359375
+          ]
+        },
+        {
+          "text": "inspirado por Deus, tão inspirado que às vezes sua alma se confunde com Ele. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            405.2874450683594,
+            462.3000183105469,
+            418.5714416503906
+          ],
+          "origin": [
+            85.08001708984375,
+            415.97943115234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "8",
+      "spans": [
+        {
+          "text": "8",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            504.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            504.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "page_number": 31,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        256.25079345703125,
+        92.95938110351562
+      ],
+      "text": "19. Libertando a alma",
+      "spans": [
+        {
+          "text": "19. Libertando a alma ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            256.25079345703125,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        105.40766906738281,
+        222.28797912597656,
+        118.6916732788086
+      ],
+      "text": "Mudando o destino",
+      "spans": [
+        {
+          "text": "Mudando o destino ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.40766906738281,
+            222.28797912597656,
+            118.6916732788086
+          ],
+          "origin": [
+            120.54000091552734,
+            116.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        129.14952087402344,
+        513.6654052734375,
+        240.9716339111328
+      ],
+      "text": "É direito de todo homem13 transformar-se em alguém distinto do que sempre foi. \nTodo homem tem o direito de modificar-se e mudar, assim, a sua vida. Temos o direito \nde pensarmos hoje de uma forma totalmente distinta, e até contrária, da que pensávamos \nontem. Temos o direito de adotar novas concepções, novas ideologias, novas posturas, \nnovas atitudes, novas condutas e novos comportamentos. Permanecer petrificado no \npassado, estático, é não evoluir. Aquele que se aperfeiçoa necessariamente se modifica, \nse transforma em outro. É por isso que temos que adotar uma construção contínua de \nnossas concepções.",
+      "spans": [
+        {
+          "text": "É direito de todo homem",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            131.08766174316406,
+            240.32643127441406,
+            144.3716583251953
+          ],
+          "origin": [
+            120.54000091552734,
+            141.7796630859375
+          ]
+        },
+        {
+          "text": "13",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            240.77999877929688,
+            129.14952087402344,
+            248.7903289794922,
+            137.98338317871094
+          ],
+          "origin": [
+            240.77999877929688,
+            136.25970458984375
+          ]
+        },
+        {
+          "text": " transformar-se em alguém distinto do que sempre foi. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            249.36000061035156,
+            131.0877227783203,
+            513.3486328125,
+            144.37171936035156
+          ],
+          "origin": [
+            249.36000061035156,
+            141.77972412109375
+          ]
+        },
+        {
+          "text": "Todo homem tem o direito de modificar-se e mudar, assim, a sua vida. Temos o direito ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            144.88771057128906,
+            513.373291015625,
+            158.1717071533203
+          ],
+          "origin": [
+            85.08000183105469,
+            155.5797119140625
+          ]
+        },
+        {
+          "text": "de pensarmos hoje de uma forma totalmente distinta, e até contrária, da que pensávamos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            158.6876983642578,
+            513.6654052734375,
+            171.97169494628906
+          ],
+          "origin": [
+            85.08001708984375,
+            169.37969970703125
+          ]
+        },
+        {
+          "text": "ontem. Temos o direito de adotar novas concepções, novas ideologias, novas posturas, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            172.48768615722656,
+            513.2884521484375,
+            185.7716827392578
+          ],
+          "origin": [
+            85.08001708984375,
+            183.1796875
+          ]
+        },
+        {
+          "text": "novas atitudes, novas condutas e novos comportamentos. Permanecer petrificado no ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            186.2876739501953,
+            513.320068359375,
+            199.57167053222656
+          ],
+          "origin": [
+            85.08003234863281,
+            196.97967529296875
+          ]
+        },
+        {
+          "text": "passado, estático, é não evoluir. Aquele que se aperfeiçoa necessariamente se modifica, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            200.08766174316406,
+            513.3121337890625,
+            213.3716583251953
+          ],
+          "origin": [
+            85.08003234863281,
+            210.7796630859375
+          ]
+        },
+        {
+          "text": "se transforma em outro. É por isso que temos que adotar uma construção contínua de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            213.8876495361328,
+            513.3541259765625,
+            227.17164611816406
+          ],
+          "origin": [
+            85.08003234863281,
+            224.57965087890625
+          ]
+        },
+        {
+          "text": "nossas concepções. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            227.68763732910156,
+            180.78125,
+            240.9716339111328
+          ],
+          "origin": [
+            85.08001708984375,
+            238.379638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        253.4876251220703,
+        513.439453125,
+        404.7715148925781
+      ],
+      "text": "Ao longo da existência, sofremos muito emocionalmente. Nosso sofrimento \nexistencial tem como origem fundamental, a meu ver, o aprisionamento da alma nos \nimpulsos animais. Tais impulsos são distorções de instintos naturais puros que se \ndeformam pela mente abstrata quando atingimos o estado humanóide. Se antes serviam \npara guiar a alma e proteger o corpo físico e espécie, agora a escravizam e a arrastam \ncomo folhas ao vento, rumo à destruição. O sofrimento que se origina do desejo \ninsatisfeito, das trapaças e artimanhas egoístas da pessoa que amamos, da paixão \namorosa, da traição, do ódio etc. tem sua origem nos impulsos animais. Nós somos \nanimais em fase de humanização, motivo pelo qual temos que transcender os impulsos. \nPermitir que os impulsos cegos nos guiem é lançar-se de cabeça no precipício. Não \ndevemos “sufocar” os impulsos, devemos transcendê-los.",
+      "spans": [
+        {
+          "text": "Ao longo da existência, sofremos muito emocionalmente. Nosso sofrimento ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            253.4876251220703,
+            513.2509155273438,
+            266.7716369628906
+          ],
+          "origin": [
+            120.5400161743164,
+            264.17962646484375
+          ]
+        },
+        {
+          "text": "existencial tem como origem fundamental, a meu ver, o aprisionamento da alma nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            267.2876281738281,
+            513.2991943359375,
+            280.5716247558594
+          ],
+          "origin": [
+            85.08001708984375,
+            277.9796142578125
+          ]
+        },
+        {
+          "text": "impulsos animais. Tais impulsos são distorções de instintos naturais puros que se ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            281.0876159667969,
+            513.342529296875,
+            294.3716125488281
+          ],
+          "origin": [
+            85.08001708984375,
+            291.77960205078125
+          ]
+        },
+        {
+          "text": "deformam pela mente abstrata quando atingimos o estado humanóide. Se antes serviam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            294.8876037597656,
+            513.3132934570312,
+            308.1716003417969
+          ],
+          "origin": [
+            85.08003234863281,
+            305.57958984375
+          ]
+        },
+        {
+          "text": "para guiar a alma e proteger o corpo físico e espécie, agora a escravizam e a arrastam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            308.6875915527344,
+            513.312744140625,
+            321.9715881347656
+          ],
+          "origin": [
+            85.08001708984375,
+            319.37957763671875
+          ]
+        },
+        {
+          "text": "como folhas ao vento, rumo à destruição. O sofrimento que se origina do desejo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            322.4875793457031,
+            513.335693359375,
+            335.7715759277344
+          ],
+          "origin": [
+            85.08001708984375,
+            333.1795654296875
+          ]
+        },
+        {
+          "text": "insatisfeito, das trapaças e artimanhas egoístas da pessoa que amamos, da paixão ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            336.2875671386719,
+            513.3589477539062,
+            349.5715637207031
+          ],
+          "origin": [
+            85.08001708984375,
+            346.97955322265625
+          ]
+        },
+        {
+          "text": "amorosa, da traição, do ódio etc. tem sua origem nos impulsos animais. Nós somos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            350.0875549316406,
+            513.410400390625,
+            363.3715515136719
+          ],
+          "origin": [
+            85.08003234863281,
+            360.779541015625
+          ]
+        },
+        {
+          "text": "animais em fase de humanização, motivo pelo qual temos que transcender os impulsos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            363.8875427246094,
+            513.3096923828125,
+            377.1715393066406
+          ],
+          "origin": [
+            85.08004760742188,
+            374.57952880859375
+          ]
+        },
+        {
+          "text": "Permitir que os impulsos cegos nos guiem é lançar-se de cabeça no precipício. Não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            377.6875305175781,
+            513.439453125,
+            390.9715270996094
+          ],
+          "origin": [
+            85.08004760742188,
+            388.3795166015625
+          ]
+        },
+        {
+          "text": "devemos “sufocar” os impulsos, devemos transcendê-los. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            391.4875183105469,
+            363.834228515625,
+            404.7715148925781
+          ],
+          "origin": [
+            85.08004760742188,
+            402.17950439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        417.2875061035156,
+        513.3305053710938,
+        485.7714538574219
+      ],
+      "text": "A vida é uma rede de caminhos, com muitas ramificações. Os desejos nos \natraem através dessas estradas e constroem nosso destino. Cada atitude tem múltiplas \nconseqüências que se desdobram no tempo. O que somos hoje resulta de opções feitas \nno passado. Como o desejo desrespeita o livre arbítrio, nosso destino é tecido de forma \ninconsciente em grande medida.",
+      "spans": [
+        {
+          "text": "A vida é uma rede de caminhos, com muitas ramificações. Os desejos nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            417.2875061035156,
+            513.2664794921875,
+            430.5715026855469
+          ],
+          "origin": [
+            120.54004669189453,
+            427.9794921875
+          ]
+        },
+        {
+          "text": "atraem através dessas estradas e constroem nosso destino. Cada atitude tem múltiplas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            431.0874938964844,
+            513.3305053710938,
+            444.3714904785156
+          ],
+          "origin": [
+            85.08004760742188,
+            441.77947998046875
+          ]
+        },
+        {
+          "text": "conseqüências que se desdobram no tempo. O que somos hoje resulta de opções feitas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08006286621094,
+            444.8874816894531,
+            513.3013916015625,
+            458.1714782714844
+          ],
+          "origin": [
+            85.08006286621094,
+            455.5794677734375
+          ]
+        },
+        {
+          "text": "no passado. Como o desejo desrespeita o livre arbítrio, nosso destino é tecido de forma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08006286621094,
+            458.6874694824219,
+            513.318115234375,
+            471.9714660644531
+          ],
+          "origin": [
+            85.08006286621094,
+            469.37945556640625
+          ]
+        },
+        {
+          "text": "inconsciente em grande medida. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            472.4874572753906,
+            242.6256866455078,
+            485.7714538574219
+          ],
+          "origin": [
+            85.08004760742188,
+            483.179443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        498.2874450683594,
+        513.3326416015625,
+        539.17138671875
+      ],
+      "text": "Ao cairmos em determinada situação, o fazemos como resultado de termos \nenveredado naquela direção anteriormente. Se houvéssemos enveredado em outras \ndireções, estaríamos agora em outras situações (efeito borboleta).",
+      "spans": [
+        {
+          "text": "Ao cairmos em determinada situação, o fazemos como resultado de termos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            498.2874450683594,
+            513.302734375,
+            511.5714416503906
+          ],
+          "origin": [
+            120.54004669189453,
+            508.97943115234375
+          ]
+        },
+        {
+          "text": "enveredado naquela direção anteriormente. Se houvéssemos enveredado em outras ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            512.08740234375,
+            513.3326416015625,
+            525.3713989257812
+          ],
+          "origin": [
+            85.08001708984375,
+            522.7794189453125
+          ]
+        },
+        {
+          "text": "direções, estaríamos agora em outras situações (efeito borboleta).  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            525.8873901367188,
+            404.630126953125,
+            539.17138671875
+          ],
+          "origin": [
+            85.08001708984375,
+            536.5794067382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        551.6873779296875,
+        513.304931640625,
+        592.5713500976562
+      ],
+      "text": "Convém sempre prestar atenção nos possíveis desdobramentos futuros de nossos \natos grandes e pequenos, para evitar aquilo que possa prejudicar a nós ou aos outros. \nAssim evitamos adquirir dívidas kármicas.",
+      "spans": [
+        {
+          "text": "Convém sempre prestar atenção nos possíveis desdobramentos futuros de nossos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            551.6873779296875,
+            513.2640380859375,
+            564.9713745117188
+          ],
+          "origin": [
+            120.5400161743164,
+            562.37939453125
+          ]
+        },
+        {
+          "text": "atos grandes e pequenos, para evitar aquilo que possa prejudicar a nós ou aos outros. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            565.4873657226562,
+            513.304931640625,
+            578.7713623046875
+          ],
+          "origin": [
+            85.08001708984375,
+            576.1793823242188
+          ]
+        },
+        {
+          "text": "Assim evitamos adquirir dívidas kármicas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            579.287353515625,
+            292.9607849121094,
+            592.5713500976562
+          ],
+          "origin": [
+            85.08001708984375,
+            589.9793701171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        605.08740234375,
+        513.3314208984375,
+        659.7113647460938
+      ],
+      "text": "Se uma pessoa briga com outra, isso se deve a que ambos enveredaram por este \ncaminho em um passado recente ou distante. Se não houvessem de modo algum entrado \nna via conflitiva no passado, não estariam agora em conflito, o conflito não seria \npossível.",
+      "spans": [
+        {
+          "text": "Se uma pessoa briga com outra, isso se deve a que ambos enveredaram por este ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            605.08740234375,
+            513.3314208984375,
+            618.3713989257812
+          ],
+          "origin": [
+            120.5400161743164,
+            615.7794189453125
+          ]
+        },
+        {
+          "text": "caminho em um passado recente ou distante. Se não houvessem de modo algum entrado ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            618.8873901367188,
+            513.329345703125,
+            632.17138671875
+          ],
+          "origin": [
+            85.08001708984375,
+            629.5794067382812
+          ]
+        },
+        {
+          "text": "na via conflitiva no passado, não estariam agora em conflito, o conflito não seria ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            632.6873779296875,
+            513.2930908203125,
+            645.9713745117188
+          ],
+          "origin": [
+            85.08001708984375,
+            643.37939453125
+          ]
+        },
+        {
+          "text": "possível.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            646.4273681640625,
+            133.49160766601562,
+            659.7113647460938
+          ],
+          "origin": [
+            85.08001708984375,
+            657.119384765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        672.2274169921875,
+        513.3314819335938,
+        699.3114013671875
+      ],
+      "text": "Podemos evitar desentendimentos com a parceira, com familiares ou amigos \nantecipando-nos e os evitando. Antes que um conflito se estabeleça, há muitos sinais",
+      "spans": [
+        {
+          "text": "Podemos evitar desentendimentos com a parceira, com familiares ou amigos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            672.2274169921875,
+            513.3314819335938,
+            685.5114135742188
+          ],
+          "origin": [
+            120.5400161743164,
+            682.91943359375
+          ]
+        },
+        {
+          "text": "antecipando-nos e os evitando. Antes que um conflito se estabeleça, há muitos sinais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            686.0274047851562,
+            513.315673828125,
+            699.3114013671875
+          ],
+          "origin": [
+            85.08001708984375,
+            696.7194213867188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07696533203125,
+        705.827392578125,
+        512.639404296875,
+        770.78369140625
+      ],
+      "text": "13 Neste capítulo, estou utilizando a expressão “homem” de forma genérica, incluindo também a mulher sob este \ntermo. Gostaria de lembrar que, muitas vezes, o uso desta expressão genérica prejudica o sexo masculino ao invés de \nbeneficiá-lo. Veja-se, por exemplo, os casos em que se afirma que “o homem destrói a natureza”, “o homem é lobo \ndo homem”, “maldito é o homem que confia no homem” etc. Em todos esses casos a expressão genérica é usada em \nprejuízo do lado masculino.",
+      "spans": [
+        {
+          "text": "13",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            718.0736083984375,
+            91.08000183105469,
+            724.7156372070312
+          ],
+          "origin": [
+            85.08000183105469,
+            723.4196166992188
+          ]
+        },
+        {
+          "text": " Neste capítulo, estou utilizando a expressão “homem” de forma genérica, incluindo também a mulher sob este ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            91.08000183105469,
+            719.4207153320312,
+            512.6130981445312,
+            729.3836669921875
+          ],
+          "origin": [
+            91.08000183105469,
+            727.439697265625
+          ]
+        },
+        {
+          "text": "termo. Gostaria de lembrar que, muitas vezes, o uso desta expressão genérica prejudica o sexo masculino ao invés de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07696533203125,
+            729.7977294921875,
+            512.5303344726562,
+            739.7606811523438
+          ],
+          "origin": [
+            85.07696533203125,
+            737.8167114257812
+          ]
+        },
+        {
+          "text": "beneficiá-lo. Veja-se, por exemplo, os casos em que se afirma que “o homem destrói a natureza”, “o homem é lobo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07698059082031,
+            740.1207275390625,
+            512.639404296875,
+            750.0836791992188
+          ],
+          "origin": [
+            85.07698059082031,
+            748.1397094726562
+          ]
+        },
+        {
+          "text": "do homem”, “maldito é o homem que confia no homem” etc. Em todos esses casos a expressão genérica é usada em ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07698059082031,
+            750.4977416992188,
+            512.5421142578125,
+            760.460693359375
+          ],
+          "origin": [
+            85.07698059082031,
+            758.5167236328125
+          ]
+        },
+        {
+          "text": "prejuízo do lado masculino.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07696533203125,
+            760.8207397460938,
+            191.84312438964844,
+            770.78369140625
+          ],
+          "origin": [
+            85.07696533203125,
+            768.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "31",
+      "spans": [
+        {
+          "text": "31",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

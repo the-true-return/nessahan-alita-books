@@ -1,0 +1,396 @@
+{
+  "page_number": 24,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        69.26951599121094,
+        513.420166015625,
+        194.89161682128906
+      ],
+      "text": "(principalmente quando a convivência é recente11). Não é fácil jogar com uma \n“oponente” (rs) que ataca simultaneamente de dois lados opostos e que usa táticas \nopostas simultâneas. Aí reside uma grande dificuldade. Então temos que estar sempre \npreparados para “ataques” que venham de qualquer lado. A regra é “esperar tudo e não \nsurpreender-se com nada”. De acordo com o pessimismo filosófico, se estivermos \npreparados para o pior, não seremos pegos de surpresa. Entretanto, penso que não \ndevemos esperar somente o pior, mas também o melhor, tudo ao mesmo tempo. Na lida \ncom as mulheres, o pessimismo filosófico nos dá uma importante contribuição (esperar \no pior), mas esta contribuição necessita ser completada com seu pólo oposto.",
+      "spans": [
+        {
+          "text": "(principalmente quando a convivência é recente",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20771789550781,
+            336.99609375,
+            84.4917221069336
+          ],
+          "origin": [
+            85.08000183105469,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "11",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            337.3800048828125,
+            69.26951599121094,
+            345.39031982421875,
+            78.10337829589844
+          ],
+          "origin": [
+            337.3800048828125,
+            76.37969970703125
+          ]
+        },
+        {
+          "text": "). Não é fácil jogar com uma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            345.9599914550781,
+            71.20771789550781,
+            513.3384399414062,
+            84.4917221069336
+          ],
+          "origin": [
+            345.9599914550781,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "“oponente” (rs) que ataca simultaneamente de dois lados opostos e que usa táticas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            85.00770568847656,
+            513.3385620117188,
+            98.29170989990234
+          ],
+          "origin": [
+            85.07998657226562,
+            95.69970703125
+          ]
+        },
+        {
+          "text": "opostas simultâneas. Aí reside uma grande dificuldade. Então temos que estar sempre ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            98.80769348144531,
+            513.360107421875,
+            112.0916976928711
+          ],
+          "origin": [
+            85.07998657226562,
+            109.49969482421875
+          ]
+        },
+        {
+          "text": "preparados para “ataques” que venham de qualquer lado. A regra é “esperar tudo e não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            112.60768127441406,
+            513.3277587890625,
+            125.89168548583984
+          ],
+          "origin": [
+            85.07998657226562,
+            123.2996826171875
+          ]
+        },
+        {
+          "text": "surpreender-se com nada”. De acordo com o pessimismo filosófico, se estivermos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            126.40766906738281,
+            513.420166015625,
+            139.69166564941406
+          ],
+          "origin": [
+            85.07998657226562,
+            137.09967041015625
+          ]
+        },
+        {
+          "text": "preparados para o pior, não seremos pegos de surpresa. Entretanto, penso que não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            140.20765686035156,
+            513.2955932617188,
+            153.4916534423828
+          ],
+          "origin": [
+            85.07997131347656,
+            150.899658203125
+          ]
+        },
+        {
+          "text": "devemos esperar somente o pior, mas também o melhor, tudo ao mesmo tempo. Na lida ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            154.0076446533203,
+            513.3834228515625,
+            167.29164123535156
+          ],
+          "origin": [
+            85.0799560546875,
+            164.69964599609375
+          ]
+        },
+        {
+          "text": "com as mulheres, o pessimismo filosófico nos dá uma importante contribuição (esperar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            167.80763244628906,
+            513.35400390625,
+            181.0916290283203
+          ],
+          "origin": [
+            85.0799560546875,
+            178.4996337890625
+          ]
+        },
+        {
+          "text": "o pior), mas esta contribuição necessita ser completada com seu pólo oposto. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            181.6076202392578,
+            457.050048828125,
+            194.89161682128906
+          ],
+          "origin": [
+            85.0799560546875,
+            192.29962158203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        207.40760803222656,
+        513.39599609375,
+        262.0915832519531
+      ],
+      "text": "O lado positivo delas também necessita ser energizado e incentivado por nós. O \nfaçamos, porém, com a guarda alta, já que é muito comum as espertinhas nos golpearem \nquando estamos desprevenidos ou, o que é ainda pior, quando estamos lhes oferecendo \no nosso amor, ato este que constitui claramente ingratidão e até atraiçoamento.",
+      "spans": [
+        {
+          "text": "O lado positivo delas também necessita ser energizado e incentivado por nós. O ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            207.40760803222656,
+            513.273193359375,
+            220.6916046142578
+          ],
+          "origin": [
+            120.53995513916016,
+            218.099609375
+          ]
+        },
+        {
+          "text": "façamos, porém, com a guarda alta, já que é muito comum as espertinhas nos golpearem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            221.2075958251953,
+            513.39599609375,
+            234.49159240722656
+          ],
+          "origin": [
+            85.07992553710938,
+            231.89959716796875
+          ]
+        },
+        {
+          "text": "quando estamos desprevenidos ou, o que é ainda pior, quando estamos lhes oferecendo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            235.00758361816406,
+            513.3424072265625,
+            248.2915802001953
+          ],
+          "origin": [
+            85.07992553710938,
+            245.6995849609375
+          ]
+        },
+        {
+          "text": "o nosso amor, ato este que constitui claramente ingratidão e até atraiçoamento.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            248.8075714111328,
+            471.6359558105469,
+            262.0915832519531
+          ],
+          "origin": [
+            85.07992553710938,
+            259.49957275390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        726.527587890625,
+        512.6126708984375,
+        770.7835693359375
+      ],
+      "text": "11 Com o passar dos anos, porém, vamos compreendendo como opera o psiquismo da parceira e nos tornando cada \nvez mais capazes de prever suas reações. A imprevisibilidade vai se esvaindo à medida em que a observamos e nos \nesforçamos por compreendê-la com realismo, sem fantasias. Então, não mais a endeusamos e nem demonizamos.",
+      "spans": [
+        {
+          "text": "11",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            738.773681640625,
+            91.08000183105469,
+            745.4157104492188
+          ],
+          "origin": [
+            85.08000183105469,
+            744.1196899414062
+          ]
+        },
+        {
+          "text": " Com o passar dos anos, porém, vamos compreendendo como opera o psiquismo da parceira e nos tornando cada ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            91.08000183105469,
+            740.12060546875,
+            512.5807495117188,
+            750.0835571289062
+          ],
+          "origin": [
+            91.08000183105469,
+            748.1395874023438
+          ]
+        },
+        {
+          "text": "vez mais capazes de prever suas reações. A imprevisibilidade vai se esvaindo à medida em que a observamos e nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08598327636719,
+            750.4976196289062,
+            512.6126708984375,
+            760.4605712890625
+          ],
+          "origin": [
+            85.08598327636719,
+            758.5166015625
+          ]
+        },
+        {
+          "text": "esforçamos por compreendê-la com realismo, sem fantasias. Então, não mais a endeusamos e nem demonizamos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08598327636719,
+            760.8206176757812,
+            495.2412414550781,
+            770.7835693359375
+          ],
+          "origin": [
+            85.08598327636719,
+            768.839599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "24",
+      "spans": [
+        {
+          "text": "24",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

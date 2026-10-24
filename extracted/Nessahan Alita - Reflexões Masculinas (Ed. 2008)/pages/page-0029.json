@@ -1,0 +1,794 @@
+{
+  "page_number": 29,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.4800033569336,
+        71.5555191040039,
+        526.7808837890625,
+        87.21552276611328
+      ],
+      "text": "Antes de mais nada, você deve saber quais são os",
+      "spans": [
+        {
+          "text": "Antes de mais nada, você deve saber quais são os",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.4800033569336,
+            71.5555191040039,
+            526.7808837890625,
+            87.21552276611328
+          ],
+          "origin": [
+            120.4800033569336,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        96.2754898071289,
+        526.7328491210938,
+        111.93549346923828
+      ],
+      "text": "comportamentos que despertam e mantém a atração da mulher.",
+      "spans": [
+        {
+          "text": "comportamentos que despertam e mantém a atração da mulher.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            96.2754898071289,
+            526.7328491210938,
+            111.93549346923828
+          ],
+          "origin": [
+            84.96000671386719,
+            108.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        120.7554702758789,
+        437.8944091796875,
+        136.41546630859375
+      ],
+      "text": "A grosso modo, poderíamos apontá-los como segue:",
+      "spans": [
+        {
+          "text": "A grosso modo, poderíamos apontá-los como segue:",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            120.7554702758789,
+            437.8944091796875,
+            136.41546630859375
+          ],
+          "origin": [
+            84.96000671386719,
+            133.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        157.32232666015625,
+        526.886474609375,
+        173.13543701171875
+      ],
+      "text": "1. Assumir uma certa cara de mau, com cuidado para não",
+      "spans": [
+        {
+          "text": "1.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            157.47544860839844,
+            133.5648193359375,
+            173.13543701171875
+          ],
+          "origin": [
+            120.48001098632812,
+            169.919921875
+          ]
+        },
+        {
+          "text": "Assumir uma certa cara de mau, com cuidado para não",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            157.47544860839844,
+            526.886474609375,
+            173.13543701171875
+          ],
+          "origin": [
+            138.48001098632812,
+            169.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        182.19541931152344,
+        246.6144256591797,
+        197.85540771484375
+      ],
+      "text": "cair no ridículo;",
+      "spans": [
+        {
+          "text": "cair no ridículo;",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            182.19541931152344,
+            246.6144256591797,
+            197.85540771484375
+          ],
+          "origin": [
+            138.48001098632812,
+            194.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        218.52227783203125,
+        452.97613525390625,
+        234.33538818359375
+      ],
+      "text": "2. Olhar de forma penetrante, séria e destemida;",
+      "spans": [
+        {
+          "text": "2.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            218.67539978027344,
+            133.5648193359375,
+            234.33538818359375
+          ],
+          "origin": [
+            120.48001098632812,
+            231.119873046875
+          ]
+        },
+        {
+          "text": "Olhar de forma penetrante, séria e destemida;",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            218.67539978027344,
+            452.97613525390625,
+            234.33538818359375
+          ],
+          "origin": [
+            138.48001098632812,
+            231.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        255.24224853515625,
+        526.7136840820312,
+        271.05535888671875
+      ],
+      "text": "3. Manifestar pouco ou nenhum interesse pela existência",
+      "spans": [
+        {
+          "text": "3.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            255.39537048339844,
+            133.5648193359375,
+            271.05535888671875
+          ],
+          "origin": [
+            120.48001098632812,
+            267.83984375
+          ]
+        },
+        {
+          "text": "Manifestar pouco ou nenhum interesse pela existência",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            255.39537048339844,
+            526.7136840820312,
+            271.05535888671875
+          ],
+          "origin": [
+            138.48001098632812,
+            267.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        280.1153564453125,
+        526.8767700195312,
+        295.7753601074219
+      ],
+      "text": "dessa mulher (se você escancara sua intenção sexual ou",
+      "spans": [
+        {
+          "text": "dessa mulher (se você escancara sua intenção sexual ou",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            280.1153564453125,
+            526.8767700195312,
+            295.7753601074219
+          ],
+          "origin": [
+            138.48001098632812,
+            292.5598449707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        304.8353576660156,
+        371.7984619140625,
+        320.495361328125
+      ],
+      "text": "amorosa, ela fica satisfeita e foge);",
+      "spans": [
+        {
+          "text": "amorosa, ela fica satisfeita e foge);",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            304.8353576660156,
+            371.7984619140625,
+            320.495361328125
+          ],
+          "origin": [
+            138.48001098632812,
+            317.27984619140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        341.1622619628906,
+        526.8289184570312,
+        356.9753723144531
+      ],
+      "text": "4. Dar atenção às outras mulheres (que são as que não te",
+      "spans": [
+        {
+          "text": "4.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            341.31536865234375,
+            133.5648193359375,
+            356.9753723144531
+          ],
+          "origin": [
+            120.48001098632812,
+            353.7598571777344
+          ]
+        },
+        {
+          "text": "Dar atenção às outras mulheres (que são as que não te",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            341.31536865234375,
+            526.8289184570312,
+            356.9753723144531
+          ],
+          "origin": [
+            138.48001098632812,
+            353.7598571777344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        366.0353698730469,
+        222.14401245117188,
+        381.69537353515625
+      ],
+      "text": "interessam);",
+      "spans": [
+        {
+          "text": "interessam);",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            366.0353698730469,
+            222.14401245117188,
+            381.69537353515625
+          ],
+          "origin": [
+            138.48001098632812,
+            378.4798583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        402.6022644042969,
+        526.828857421875,
+        418.4153747558594
+      ],
+      "text": "5. Dar entender que você tem várias mulheres lindas",
+      "spans": [
+        {
+          "text": "5.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            402.75537109375,
+            133.5648193359375,
+            418.4153747558594
+          ],
+          "origin": [
+            120.48001098632812,
+            415.1998596191406
+          ]
+        },
+        {
+          "text": "Dar entender que você tem várias mulheres lindas",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            402.75537109375,
+            526.828857421875,
+            418.4153747558594
+          ],
+          "origin": [
+            138.48001098632812,
+            415.1998596191406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        427.2353820800781,
+        380.29449462890625,
+        442.8953857421875
+      ],
+      "text": "disponíveis e interessadas em você;",
+      "spans": [
+        {
+          "text": "disponíveis e interessadas em você;",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            427.2353820800781,
+            380.29449462890625,
+            442.8953857421875
+          ],
+          "origin": [
+            138.48001098632812,
+            439.67987060546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        463.8022766113281,
+        526.684814453125,
+        479.6153869628906
+      ],
+      "text": "6. Cometer um ato súbito ou defender uma idéia que a",
+      "spans": [
+        {
+          "text": "6.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            463.95538330078125,
+            133.5648193359375,
+            479.6153869628906
+          ],
+          "origin": [
+            120.48001098632812,
+            476.3998718261719
+          ]
+        },
+        {
+          "text": "Cometer um ato súbito ou defender uma idéia que a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            463.95538330078125,
+            526.684814453125,
+            479.6153869628906
+          ],
+          "origin": [
+            138.48001098632812,
+            476.3998718261719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        488.6753845214844,
+        526.63671875,
+        504.33538818359375
+      ],
+      "text": "deixe espantada, ou seja, a \"horrorização\" calculada,",
+      "spans": [
+        {
+          "text": "deixe espantada, ou seja, a \"horrorização\" calculada,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            488.6753845214844,
+            526.63671875,
+            504.33538818359375
+          ],
+          "origin": [
+            138.48001098632812,
+            501.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        513.3953857421875,
+        526.8576049804688,
+        529.0553588867188
+      ],
+      "text": "mencionada por Eliphas Lévi (2001/1855) e também no",
+      "spans": [
+        {
+          "text": "mencionada por Eliphas Lévi (2001/1855) e também no",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            513.3953857421875,
+            526.8576049804688,
+            529.0553588867188
+          ],
+          "origin": [
+            138.48001098632812,
+            525.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.48001098632812,
+        537.8754272460938,
+        506.6879577636719,
+        553.535400390625
+      ],
+      "text": "filme \"Hitch: Conselheiro Amoroso\" (TENNANT, 2005).",
+      "spans": [
+        {
+          "text": "filme \"Hitch: Conselheiro Amoroso\" (TENNANT, 2005).",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.48001098632812,
+            537.8754272460938,
+            506.6879577636719,
+            553.535400390625
+          ],
+          "origin": [
+            138.48001098632812,
+            550.3198852539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        574.5953979492188,
+        526.8480224609375,
+        590.25537109375
+      ],
+      "text": "Se agir assim, a resistência provavelmente será quebrada e",
+      "spans": [
+        {
+          "text": "Se agir assim, a resistência provavelmente será quebrada e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            574.5953979492188,
+            526.8480224609375,
+            590.25537109375
+          ],
+          "origin": [
+            120.48001098632812,
+            587.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        599.3154296875,
+        526.6368408203125,
+        614.9754028320312
+      ],
+      "text": "a espertinha se tornará acessível ou tentará ser amistosa. Se ela",
+      "spans": [
+        {
+          "text": "a espertinha se tornará acessível ou tentará ser amistosa. Se ela",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            599.3154296875,
+            526.6368408203125,
+            614.9754028320312
+          ],
+          "origin": [
+            84.96000671386719,
+            611.7598876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        623.79541015625,
+        526.8864135742188,
+        639.4553833007812
+      ],
+      "text": "tentar ou se mostrar aberta a um contato, não se empolgue, fale",
+      "spans": [
+        {
+          "text": "tentar ou se mostrar aberta a um contato, não se empolgue, fale",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            623.79541015625,
+            526.8864135742188,
+            639.4553833007812
+          ],
+          "origin": [
+            84.96000671386719,
+            636.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        648.515380859375,
+        526.8096313476562,
+        664.1753540039062
+      ],
+      "text": "com ela de forma curta e grossa, em tom de voz firme, grave e",
+      "spans": [
+        {
+          "text": "com ela de forma curta e grossa, em tom de voz firme, grave e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            648.515380859375,
+            526.8096313476562,
+            664.1753540039062
+          ],
+          "origin": [
+            84.96000671386719,
+            660.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        673.2354125976562,
+        460.1567687988281,
+        688.8953857421875
+      ],
+      "text": "decidido, como se não desse muita importância àquilo.",
+      "spans": [
+        {
+          "text": "decidido, como se não desse muita importância àquilo.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            673.2354125976562,
+            460.1567687988281,
+            688.8953857421875
+          ],
+          "origin": [
+            84.96000671386719,
+            685.6798706054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.00000762939453,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.00000762939453,
+            769.139892578125,
+            239.97604370117188,
+            782.5438842773438
+          ],
+          "origin": [
+            18.00000762939453,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

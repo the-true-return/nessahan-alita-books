@@ -1,0 +1,750 @@
+{
+  "page_number": 85,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9201049804688,
+        87.48676300048828
+      ],
+      "text": "que ela mas para ela há muitas coisas mais interessantes do que você.",
+      "spans": [
+        {
+          "text": "que ela mas para ela há muitas coisas mais interessantes do que você.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9201049804688,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.8754272460938,
+        111.48676300048828
+      ],
+      "text": "Você é trocado por amigas, \"amigos\", parentes, festas, viagens, bares",
+      "spans": [
+        {
+          "text": "Você é trocado por amigas, \"amigos\", parentes, festas, viagens, bares",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.8754272460938,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        418.9053039550781,
+        135.72674560546875
+      ],
+      "text": "ou até mesmo por um simples programa de televisão.",
+      "spans": [
+        {
+          "text": "ou até mesmo por um simples programa de televisão.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            418.9053039550781,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        156.3173065185547,
+        538.9805908203125,
+        171.72674560546875
+      ],
+      "text": "Você é uma carta aberta: ela sempre sabe onde e com quem você",
+      "spans": [
+        {
+          "text": "Você é uma carta aberta: ela sempre sabe onde e com quem você",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            156.3173065185547,
+            538.9805908203125,
+            171.72674560546875
+          ],
+          "origin": [
+            108.0,
+            168.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        180.5572967529297,
+        539.0401611328125,
+        195.96673583984375
+      ],
+      "text": "está. Em compensação, você nunca sabe direito com quem ela está e o",
+      "spans": [
+        {
+          "text": "está. Em compensação, você nunca sabe direito com quem ela está e o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            180.5572967529297,
+            539.0401611328125,
+            195.96673583984375
+          ],
+          "origin": [
+            72.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        189.24002075195312,
+        220.20672607421875
+      ],
+      "text": "que anda fazendo.",
+      "spans": [
+        {
+          "text": "que anda fazendo.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            189.24002075195312,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        240.7972869873047,
+        538.980712890625,
+        256.20672607421875
+      ],
+      "text": "Você se sente no inferno e ela se sente no céu por isso ela é uma",
+      "spans": [
+        {
+          "text": "Você se sente no inferno e ela se sente no céu por isso ela é uma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            240.7972869873047,
+            538.980712890625,
+            256.20672607421875
+          ],
+          "origin": [
+            108.0,
+            253.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        265.03729248046875,
+        539.2801513671875,
+        280.44671630859375
+      ],
+      "text": "deusa e você é um condenado. Ela é sua deusa porque você a colocou",
+      "spans": [
+        {
+          "text": "deusa e você é um condenado. Ela é sua deusa porque você a colocou",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            265.03729248046875,
+            539.2801513671875,
+            280.44671630859375
+          ],
+          "origin": [
+            72.0,
+            277.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        289.27728271484375,
+        125.64000701904297,
+        304.68670654296875
+      ],
+      "text": "no altar.",
+      "spans": [
+        {
+          "text": "no altar.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            289.27728271484375,
+            125.64000701904297,
+            304.68670654296875
+          ],
+          "origin": [
+            72.0,
+            301.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        325.27728271484375,
+        538.9201049804688,
+        340.68670654296875
+      ],
+      "text": "Quando ela finalmente demonstra interesse, você está lá,",
+      "spans": [
+        {
+          "text": "Quando ela finalmente demonstra interesse, você está lá,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            325.27728271484375,
+            538.9201049804688,
+            340.68670654296875
+          ],
+          "origin": [
+            108.0,
+            337.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        349.51727294921875,
+        538.9806518554688,
+        364.92669677734375
+      ],
+      "text": "disponível, como se houvesse esperado por aquele momento durante",
+      "spans": [
+        {
+          "text": "disponível, como se houvesse esperado por aquele momento durante",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            349.51727294921875,
+            538.9806518554688,
+            364.92669677734375
+          ],
+          "origin": [
+            72.0,
+            361.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        373.51727294921875,
+        538.98046875,
+        388.92669677734375
+      ],
+      "text": "toda a eternidade. Ela te brinda momentaneamente com um pouco de",
+      "spans": [
+        {
+          "text": "toda a eternidade. Ela te brinda momentaneamente com um pouco de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            373.51727294921875,
+            538.98046875,
+            388.92669677734375
+          ],
+          "origin": [
+            72.0,
+            385.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        397.75726318359375,
+        538.9805908203125,
+        413.16668701171875
+      ],
+      "text": "sua presença maravilhosa mas logo se retira para que você despenque",
+      "spans": [
+        {
+          "text": "sua presença maravilhosa mas logo se retira para que você despenque",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            397.75726318359375,
+            538.9805908203125,
+            413.16668701171875
+          ],
+          "origin": [
+            72.0,
+            410.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        421.99725341796875,
+        333.7349548339844,
+        437.40667724609375
+      ],
+      "text": "novamente do sonho e caia no pesadelo.",
+      "spans": [
+        {
+          "text": "novamente do sonho e caia no pesadelo.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            421.99725341796875,
+            333.7349548339844,
+            437.40667724609375
+          ],
+          "origin": [
+            72.0,
+            434.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        457.99725341796875,
+        539.3098754882812,
+        473.40667724609375
+      ],
+      "text": "Bem vindo ao Inferno! A impiedosa guerra da paixão está em",
+      "spans": [
+        {
+          "text": "Bem vindo ao Inferno! A impiedosa guerra da paixão está em",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            457.99725341796875,
+            539.3098754882812,
+            473.40667724609375
+          ],
+          "origin": [
+            108.0,
+            470.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.9805908203125,
+        497.64666748046875
+      ],
+      "text": "curso e você está sendo derrotado dia após dia. Poderá morrer de",
+      "spans": [
+        {
+          "text": "curso e você está sendo derrotado dia após dia. Poderá morrer de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            538.9805908203125,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.23724365234375,
+        539.5349731445312,
+        521.6466674804688
+      ],
+      "text": "tristeza, somatizando doenças, ou endoidecer. Poderá cometer um",
+      "spans": [
+        {
+          "text": "tristeza, somatizando doenças, ou endoidecer. Poderá cometer um",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.23724365234375,
+            539.5349731445312,
+            521.6466674804688
+          ],
+          "origin": [
+            72.0,
+            518.6399536132812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.4772338867188,
+        538.9805297851562,
+        545.8866577148438
+      ],
+      "text": "crime. Sua tortura mental a deixa imensamente feliz pois ela se nutre",
+      "spans": [
+        {
+          "text": "crime. Sua tortura mental a deixa imensamente feliz pois ela se nutre",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.4772338867188,
+            538.9805297851562,
+            545.8866577148438
+          ],
+          "origin": [
+            72.0,
+            542.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        554.71728515625,
+        538.9805297851562,
+        570.126708984375
+      ],
+      "text": "com sua desgraça. Quando está distante, na dolorosa ausência, ela sabe",
+      "spans": [
+        {
+          "text": "com sua desgraça. Quando está distante, na dolorosa ausência, ela sabe",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            554.71728515625,
+            538.9805297851562,
+            570.126708984375
+          ],
+          "origin": [
+            72.0,
+            567.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        578.71728515625,
+        538.9349975585938,
+        594.126708984375
+      ],
+      "text": "que você está sofrendo. Ela se sente a melhor, a mais gostosa, a mais",
+      "spans": [
+        {
+          "text": "que você está sofrendo. Ela se sente a melhor, a mais gostosa, a mais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            578.71728515625,
+            538.9349975585938,
+            594.126708984375
+          ],
+          "origin": [
+            72.0,
+            591.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        602.957275390625,
+        538.9805297851562,
+        618.36669921875
+      ],
+      "text": "bela (ainda que não o seja), uma super-fêmea pois tem o poder de",
+      "spans": [
+        {
+          "text": "bela (ainda que não o seja), uma super-fêmea pois tem o poder de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            602.957275390625,
+            538.9805297851562,
+            618.36669921875
+          ],
+          "origin": [
+            72.0,
+            615.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        627.197265625,
+        191.40000915527344,
+        642.606689453125
+      ],
+      "text": "rejeitar e pisotear.",
+      "spans": [
+        {
+          "text": "rejeitar e pisotear.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            627.197265625,
+            191.40000915527344,
+            642.606689453125
+          ],
+          "origin": [
+            72.0,
+            639.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        663.197265625,
+        539.3098754882812,
+        678.606689453125
+      ],
+      "text": "Você tenta se defender mas descobre que é incapaz, não tem",
+      "spans": [
+        {
+          "text": "Você tenta se defender mas descobre que é incapaz, não tem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            663.197265625,
+            539.3098754882812,
+            678.606689453125
+          ],
+          "origin": [
+            108.0,
+            675.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "85",
+      "spans": [
+        {
+          "text": "85",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1005 @@
+{
+  "page_number": 212,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        368.67510986328125,
+        118.65927124023438
+      ],
+      "text": "P - Por que vocês evitam se apaixonar? Por medo?",
+      "spans": [
+        {
+          "text": "P - Por que vocês evitam se apaixonar? Por medo? ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            368.67510986328125,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        134.95172119140625,
+        515.427490234375,
+        150.51950073242188
+      ],
+      "text": "Porque \nprecisamos \nnos \ntornar \nfortes, \ninvulneráveis \nao \nfeitiço \ndo",
+      "spans": [
+        {
+          "text": "Porque ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            134.95172119140625,
+            124.63493347167969,
+            150.51950073242188
+          ],
+          "origin": [
+            82.73980712890625,
+            147.240234375
+          ]
+        },
+        {
+          "text": "precisamos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.2570037841797,
+            134.95172119140625,
+            199.34988403320312,
+            150.51950073242188
+          ],
+          "origin": [
+            134.2570037841797,
+            147.240234375
+          ]
+        },
+        {
+          "text": "nos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            209.03248596191406,
+            134.95172119140625,
+            231.14247131347656,
+            150.51950073242188
+          ],
+          "origin": [
+            209.03248596191406,
+            147.240234375
+          ]
+        },
+        {
+          "text": "tornar ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            240.8250732421875,
+            134.95172119140625,
+            277.5270690917969,
+            150.51950073242188
+          ],
+          "origin": [
+            240.8250732421875,
+            147.240234375
+          ]
+        },
+        {
+          "text": "fortes, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            287.20965576171875,
+            134.95172119140625,
+            326.4477233886719,
+            150.51950073242188
+          ],
+          "origin": [
+            287.20965576171875,
+            147.240234375
+          ]
+        },
+        {
+          "text": "invulneráveis ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            336.0694885253906,
+            134.95172119140625,
+            414.4832458496094,
+            150.51950073242188
+          ],
+          "origin": [
+            336.0694885253906,
+            147.240234375
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            424.1061706542969,
+            134.95172119140625,
+            440.0462951660156,
+            150.51950073242188
+          ],
+          "origin": [
+            424.1061706542969,
+            147.240234375
+          ]
+        },
+        {
+          "text": "feitiço ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            449.7288818359375,
+            134.95172119140625,
+            489.3872985839844,
+            150.51950073242188
+          ],
+          "origin": [
+            449.7288818359375,
+            147.240234375
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            499.0104064941406,
+            134.95172119140625,
+            515.427490234375,
+            150.51950073242188
+          ],
+          "origin": [
+            499.0104064941406,
+            147.240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        155.0521240234375,
+        515.5358276367188,
+        170.61990356445312
+      ],
+      "text": "apaixonamento para desfrutar do amor. É uma luta: ou vencemos o Diabo ou",
+      "spans": [
+        {
+          "text": "apaixonamento para desfrutar do amor. É uma luta: ou vencemos o Diabo ou ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            155.0521240234375,
+            515.5358276367188,
+            170.61990356445312
+          ],
+          "origin": [
+            82.73980712890625,
+            167.34063720703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        175.21234130859375,
+        515.4171142578125,
+        190.78012084960938
+      ],
+      "text": "o Diabo nos vence. Aquele que vence comanda o derrotado e o dirige. O",
+      "spans": [
+        {
+          "text": "o Diabo nos vence. Aquele que vence comanda o derrotado e o dirige. O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            175.21234130859375,
+            515.4171142578125,
+            190.78012084960938
+          ],
+          "origin": [
+            82.73980712890625,
+            187.5008544921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        195.312744140625,
+        515.372802734375,
+        210.88052368164062
+      ],
+      "text": "apaixonamento é uma fraqueza, como mostram as várias lendas. Na",
+      "spans": [
+        {
+          "text": "apaixonamento é uma fraqueza, como mostram as várias lendas. Na ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            195.312744140625,
+            515.372802734375,
+            210.88052368164062
+          ],
+          "origin": [
+            82.73980712890625,
+            207.60125732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        215.4725341796875,
+        515.5219116210938,
+        231.04031372070312
+      ],
+      "text": "realidade ocorre o contrário do que sua pergunta insinua: a mulher teme o",
+      "spans": [
+        {
+          "text": "realidade ocorre o contrário do que sua pergunta insinua: a mulher teme o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            215.4725341796875,
+            515.5219116210938,
+            231.04031372070312
+          ],
+          "origin": [
+            82.73980712890625,
+            227.76104736328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        234.3483123779297,
+        371.9689025878906,
+        251.14071655273438
+      ],
+      "text": "homem que não se apaixona13 e, portanto, o deseja.",
+      "spans": [
+        {
+          "text": "homem que não se apaixona",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            235.57293701171875,
+            238.35281372070312,
+            251.14071655273438
+          ],
+          "origin": [
+            82.73980712890625,
+            247.8614501953125
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            239.27980041503906,
+            234.3483123779297,
+            247.0603790283203,
+            244.70069885253906
+          ],
+          "origin": [
+            239.27980041503906,
+            242.52001953125
+          ]
+        },
+        {
+          "text": " e, portanto, o deseja. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            247.1395721435547,
+            235.57171630859375,
+            371.9689025878906,
+            251.13949584960938
+          ],
+          "origin": [
+            247.1395721435547,
+            247.8602294921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        267.371337890625,
+        515.4365234375,
+        282.9391174316406
+      ],
+      "text": "P - Qual é a diferença entre paixão e amor, de acordo com seu ponto de",
+      "spans": [
+        {
+          "text": "P - Qual é a diferença entre paixão e amor, de acordo com seu ponto de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            267.371337890625,
+            515.4365234375,
+            282.9391174316406
+          ],
+          "origin": [
+            82.73957824707031,
+            279.65985107421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        287.5311279296875,
+        118.721923828125,
+        303.0989074707031
+      ],
+      "text": "vista?",
+      "spans": [
+        {
+          "text": "vista? ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            287.5311279296875,
+            118.721923828125,
+            303.0989074707031
+          ],
+          "origin": [
+            82.73957824707031,
+            299.81964111328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        319.3307189941406,
+        515.41552734375,
+        334.89849853515625
+      ],
+      "text": "A paixão é uma forma específica de amor em que o apaixonado se torna",
+      "spans": [
+        {
+          "text": "A paixão é uma forma específica de amor em que o apaixonado se torna ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            319.3307189941406,
+            515.41552734375,
+            334.89849853515625
+          ],
+          "origin": [
+            82.73957824707031,
+            331.6192321777344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        339.4311218261719,
+        515.4384155273438,
+        354.9989013671875
+      ],
+      "text": "passivo e tem sua vontade capturada pelo objeto adorado. Trata-se da pior",
+      "spans": [
+        {
+          "text": "passivo e tem sua vontade capturada pelo objeto adorado. Trata-se da pior ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            339.4311218261719,
+            515.4384155273438,
+            354.9989013671875
+          ],
+          "origin": [
+            82.73957824707031,
+            351.7196350097656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        359.5909118652344,
+        515.5632934570312,
+        375.15869140625
+      ],
+      "text": "enfermidade que pode atingir a alma humana. Eliphas Lévi (1855/2001) e",
+      "spans": [
+        {
+          "text": "enfermidade que pode atingir a alma humana. Eliphas Lévi (1855/2001) e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            359.5909118652344,
+            515.5632934570312,
+            375.15869140625
+          ],
+          "origin": [
+            82.73957824707031,
+            371.8794250488281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        379.6307067871094,
+        515.4551391601562,
+        395.198486328125
+      ],
+      "text": "Platão explicam bem isso. Um pré-requisito básico para que esta",
+      "spans": [
+        {
+          "text": "Platão explicam bem isso. Um pré-requisito básico para que esta ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            379.6307067871094,
+            515.4551391601562,
+            395.198486328125
+          ],
+          "origin": [
+            82.73957824707031,
+            391.9192199707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        399.7904968261719,
+        515.46728515625,
+        415.3582763671875
+      ],
+      "text": "enfermidade emocional se instale é uma melhor situação da outra pessoa em",
+      "spans": [
+        {
+          "text": "enfermidade emocional se instale é uma melhor situação da outra pessoa em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            399.7904968261719,
+            515.46728515625,
+            415.3582763671875
+          ],
+          "origin": [
+            82.73957824707031,
+            412.0790100097656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73957824707031,
+        419.8908996582031,
+        515.5067138671875,
+        435.45867919921875
+      ],
+      "text": "relação à nós. Nos apaixonamos apenas por quem se encontra em uma",
+      "spans": [
+        {
+          "text": "relação à nós. Nos apaixonamos apenas por quem se encontra em uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73957824707031,
+            419.8908996582031,
+            515.5067138671875,
+            435.45867919921875
+          ],
+          "origin": [
+            82.73957824707031,
+            432.1794128417969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73858642578125,
+        440.05108642578125,
+        386.1752624511719,
+        455.6188659667969
+      ],
+      "text": "situação superior à nossa e que de nós não necessite.",
+      "spans": [
+        {
+          "text": "situação superior à nossa e que de nós não necessite.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73858642578125,
+            440.05108642578125,
+            386.1752624511719,
+            455.6188659667969
+          ],
+          "origin": [
+            82.73858642578125,
+            452.339599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73858642578125,
+        471.8506774902344,
+        456.1894836425781,
+        487.41845703125
+      ],
+      "text": "P - O que um homem quer dizer quando diz que está apaixonado?",
+      "spans": [
+        {
+          "text": "P - O que um homem quer dizer quando diz que está apaixonado?  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73858642578125,
+            471.8506774902344,
+            456.1894836425781,
+            487.41845703125
+          ],
+          "origin": [
+            82.73858642578125,
+            484.1391906738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73858642578125,
+        503.6502685546875,
+        515.5540161132812,
+        519.2180786132812
+      ],
+      "text": "Que ele está desesperado por aquela mulher, que sem ela não vive e que não",
+      "spans": [
+        {
+          "text": "Que ele está desesperado por aquela mulher, que sem ela não vive e que não ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73858642578125,
+            503.6502685546875,
+            515.5540161132812,
+            519.2180786132812
+          ],
+          "origin": [
+            82.73858642578125,
+            515.9387817382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73858642578125,
+        522.5284423828125,
+        515.50390625,
+        539.3192749023438
+      ],
+      "text": "suporta sua ausência. É um infeliz14 infantilizado. Em nada se diferencia de",
+      "spans": [
+        {
+          "text": "suporta sua ausência. É um infeliz",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73858642578125,
+            523.7506713867188,
+            276.81915283203125,
+            539.3184814453125
+          ],
+          "origin": [
+            82.73858642578125,
+            536.0391845703125
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            277.73858642578125,
+            522.5284423828125,
+            285.51837158203125,
+            532.8807983398438
+          ],
+          "origin": [
+            277.73858642578125,
+            530.7001342773438
+          ]
+        },
+        {
+          "text": " infantilizado. Em nada se diferencia de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            285.53857421875,
+            523.75146484375,
+            515.50390625,
+            539.3192749023438
+          ],
+          "origin": [
+            285.53857421875,
+            536.0399780273438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73857116699219,
+        543.9116821289062,
+        316.0928955078125,
+        559.4794921875
+      ],
+      "text": "um moleque chorando pela falta da mãe.",
+      "spans": [
+        {
+          "text": "um moleque chorando pela falta da mãe.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73857116699219,
+            543.9116821289062,
+            316.0928955078125,
+            559.4794921875
+          ],
+          "origin": [
+            82.73857116699219,
+            556.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73857116699219,
+        575.7112426757812,
+        515.4658203125,
+        591.279052734375
+      ],
+      "text": "P - Porque vocês casam se consideram o casamento um lixo e acusam as",
+      "spans": [
+        {
+          "text": "P - Porque vocês casam se consideram o casamento um lixo e acusam as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73857116699219,
+            575.7112426757812,
+            515.4658203125,
+            591.279052734375
+          ],
+          "origin": [
+            82.73857116699219,
+            587.999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73857116699219,
+        595.8116455078125,
+        515.5010375976562,
+        611.3794555664062
+      ],
+      "text": "mulheres de serem perversas manipuladoras? Só pra ter sexo seguro e a toda",
+      "spans": [
+        {
+          "text": "mulheres de serem perversas manipuladoras? Só pra ter sexo seguro e a toda ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73857116699219,
+            595.8116455078125,
+            515.5010375976562,
+            611.3794555664062
+          ],
+          "origin": [
+            82.73857116699219,
+            608.1001586914062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73857116699219,
+        615.9714965820312,
+        120.38861846923828,
+        631.539306640625
+      ],
+      "text": "hora?",
+      "spans": [
+        {
+          "text": "hora?  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73857116699219,
+            615.9714965820312,
+            120.38861846923828,
+            631.539306640625
+          ],
+          "origin": [
+            82.73857116699219,
+            628.260009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73857116699219,
+        694.3792114257812,
+        514.6923217773438,
+        737.3988647460938
+      ],
+      "text": "13 Pois ele pode a qualquer momento deixá-la. \n14 Optei por trocar a expressão “imbecil”,  constante na primeira edição virtual,  por  “infeliz”, \na qual me parece mais acertada.",
+      "spans": [
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            704.795166015625,
+            88.59776306152344,
+            712.5790405273438
+          ],
+          "origin": [
+            82.74000549316406,
+            710.9393920898438
+          ]
+        },
+        {
+          "text": " Pois ele pode a qualquer momento deixá-la. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56031799316406,
+            705.623046875,
+            288.18511962890625,
+            717.2988891601562
+          ],
+          "origin": [
+            88.56031799316406,
+            714.8394165039062
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            714.8150634765625,
+            88.59776306152344,
+            722.5989379882812
+          ],
+          "origin": [
+            82.74000549316406,
+            720.9592895507812
+          ]
+        },
+        {
+          "text": " Optei por trocar a expressão “imbecil”,  constante na primeira edição virtual,  por  “infeliz”, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56031799316406,
+            715.6429443359375,
+            514.6923217773438,
+            727.3187866210938
+          ],
+          "origin": [
+            88.56031799316406,
+            724.8593139648438
+          ]
+        },
+        {
+          "text": "a qual me parece mais acertada. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            725.7230224609375,
+            226.4239501953125,
+            737.3988647460938
+          ],
+          "origin": [
+            82.73961639404297,
+            734.9393920898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "212",
+      "spans": [
+        {
+          "text": "212",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

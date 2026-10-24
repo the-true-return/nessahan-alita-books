@@ -1,0 +1,16 @@
+{
+  "title_pt": "O Profano Feminino",
+  "series_pt": "O Sofrimento Amoroso do Homem - Volume II",
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - O Profano Feminino (Ed. 2005).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - O Profano Feminino (Ed. 2005)",
+  "drop_line_patterns": [
+    "pdfFactory"
+  ],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Edição superada pela de 2008 (14 capítulos vs. 17 + seções novas). Recomendado traduzir só a de 2008.",
+    "Marca d'água do pdfFactory no rodapé."
+  ],
+  "edition": "2005"
+}

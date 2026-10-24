@@ -1,0 +1,912 @@
+{
+  "page_number": 140,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4581909179688,
+        118.65927124023438
+      ],
+      "text": "Daí a importância de jogarmos com ambos os extremos. Em outras palavras:",
+      "spans": [
+        {
+          "text": "Daí a importância de jogarmos com ambos os extremos. Em outras palavras: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.4581909179688,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4146118164062,
+        138.81906127929688
+      ],
+      "text": "ela não deve saber se venceu ou perdeu o jogo mas deve desconfiar que",
+      "spans": [
+        {
+          "text": "ela não deve saber se venceu ou perdeu o jogo mas deve desconfiar que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4146118164062,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        469.8843994140625,
+        158.97927856445312
+      ],
+      "text": "perdeu. Perturbe esta última desconfiança com sinais contraditórios.",
+      "spans": [
+        {
+          "text": "perdeu. Perturbe esta última desconfiança com sinais contraditórios. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            469.8843994140625,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        175.21112060546875,
+        515.5108032226562,
+        190.77890014648438
+      ],
+      "text": "Infelizmente, estamos condicionados a agir da forma oposta à que",
+      "spans": [
+        {
+          "text": "Infelizmente, estamos condicionados a agir da forma oposta à que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            175.21112060546875,
+            515.5108032226562,
+            190.77890014648438
+          ],
+          "origin": [
+            117.23980712890625,
+            187.4996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        195.3115234375,
+        515.432373046875,
+        210.87930297851562
+      ],
+      "text": "deveríamos e tememos a derrota nos joguinhos porque isto desencadeia a",
+      "spans": [
+        {
+          "text": "deveríamos e tememos a derrota nos joguinhos porque isto desencadeia a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            195.3115234375,
+            515.432373046875,
+            210.87930297851562
+          ],
+          "origin": [
+            82.73980712890625,
+            207.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        215.4713134765625,
+        515.558349609375,
+        231.03909301757812
+      ],
+      "text": "perda da fêmea desejada. O medo conduz justamente ao fim temido, ao",
+      "spans": [
+        {
+          "text": "perda da fêmea desejada. O medo conduz justamente ao fim temido, ao ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            215.4713134765625,
+            515.558349609375,
+            231.03909301757812
+          ],
+          "origin": [
+            82.73980712890625,
+            227.75982666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        235.57171630859375,
+        212.19041442871094,
+        251.13949584960938
+      ],
+      "text": "contrário do esperado!",
+      "spans": [
+        {
+          "text": "contrário do esperado! ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            235.57171630859375,
+            212.19041442871094,
+            251.13949584960938
+          ],
+          "origin": [
+            82.73980712890625,
+            247.8602294921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        267.371337890625,
+        515.4469604492188,
+        282.9391174316406
+      ],
+      "text": "O jogo da paixão é um jogo de forças emocionais. Assemelha-se a um",
+      "spans": [
+        {
+          "text": "O jogo da paixão é um jogo de forças emocionais. Assemelha-se a um ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            267.371337890625,
+            515.4469604492188,
+            282.9391174316406
+          ],
+          "origin": [
+            117.23980712890625,
+            279.65985107421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        287.5311279296875,
+        515.4783325195312,
+        303.0989074707031
+      ],
+      "text": "cabo de guerra em que a intenção é forçar a outra parte a revelar o teor real",
+      "spans": [
+        {
+          "text": "cabo de guerra em que a intenção é forçar a outra parte a revelar o teor real ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            287.5311279296875,
+            515.4783325195312,
+            303.0989074707031
+          ],
+          "origin": [
+            82.73980712890625,
+            299.81964111328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        307.63153076171875,
+        515.4285278320312,
+        323.1993103027344
+      ],
+      "text": "dos seus sentimentos. Cada uma das partes tenta encantar a outra ao mesmo",
+      "spans": [
+        {
+          "text": "dos seus sentimentos. Cada uma das partes tenta encantar a outra ao mesmo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            307.63153076171875,
+            515.4285278320312,
+            323.1993103027344
+          ],
+          "origin": [
+            82.73980712890625,
+            319.9200439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        327.7917175292969,
+        515.5292358398438,
+        343.3594970703125
+      ],
+      "text": "tempo em que procura resistir ao encantamento, ao contra-feitiço. O mais",
+      "spans": [
+        {
+          "text": "tempo em que procura resistir ao encantamento, ao contra-feitiço. O mais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            327.7917175292969,
+            515.5292358398438,
+            343.3594970703125
+          ],
+          "origin": [
+            82.73980712890625,
+            340.0802307128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        347.8921203613281,
+        515.5182495117188,
+        363.45989990234375
+      ],
+      "text": "resistente e encantador é o vitorioso. Aquele que se derrete facilmente é o",
+      "spans": [
+        {
+          "text": "resistente e encantador é o vitorioso. Aquele que se derrete facilmente é o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            347.8921203613281,
+            515.5182495117188,
+            363.45989990234375
+          ],
+          "origin": [
+            82.73980712890625,
+            360.1806335449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        367.9925231933594,
+        515.4695434570312,
+        383.560302734375
+      ],
+      "text": "perdedor: o fraco, o emotivo. A presciência requerida para vencer é saber",
+      "spans": [
+        {
+          "text": "perdedor: o fraco, o emotivo. A presciência requerida para vencer é saber ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            367.9925231933594,
+            515.4695434570312,
+            383.560302734375
+          ],
+          "origin": [
+            82.73980712890625,
+            380.2810363769531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        388.0929260253906,
+        515.419921875,
+        403.66070556640625
+      ],
+      "text": "exatamente o que fazer e dizer para enfeitiçar, para quebrar as resistências,",
+      "spans": [
+        {
+          "text": "exatamente o que fazer e dizer para enfeitiçar, para quebrar as resistências, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            388.0929260253906,
+            515.419921875,
+            403.66070556640625
+          ],
+          "origin": [
+            82.73980712890625,
+            400.3814392089844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        408.2527160644531,
+        515.5305786132812,
+        423.82049560546875
+      ],
+      "text": "para induzir o outro a uma possessão por si mesmo, por seus próprios",
+      "spans": [
+        {
+          "text": "para induzir o outro a uma possessão por si mesmo, por seus próprios ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            408.2527160644531,
+            515.5305786132812,
+            423.82049560546875
+          ],
+          "origin": [
+            82.73980712890625,
+            420.5412292480469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        428.3531188964844,
+        515.5469360351562,
+        443.9208984375
+      ],
+      "text": "desejos, sonhos, fantasias, ilusões e anelos absurdos. O que importa não são",
+      "spans": [
+        {
+          "text": "desejos, sonhos, fantasias, ilusões e anelos absurdos. O que importa não são ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            428.3531188964844,
+            515.5469360351562,
+            443.9208984375
+          ],
+          "origin": [
+            82.73980712890625,
+            440.6416320800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        448.5133056640625,
+        515.4402465820312,
+        464.0810852050781
+      ],
+      "text": "os atos em si mas seus efeitos sobre a emoção alheia. Eis a razão pela qual",
+      "spans": [
+        {
+          "text": "os atos em si mas seus efeitos sobre a emoção alheia. Eis a razão pela qual ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            448.5133056640625,
+            515.4402465820312,
+            464.0810852050781
+          ],
+          "origin": [
+            82.73980712890625,
+            460.80181884765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        468.61370849609375,
+        515.5457763671875,
+        484.1814880371094
+      ],
+      "text": "as manipuladoras hábeis  solicitam que nos entreguemos mas nunca fazem o",
+      "spans": [
+        {
+          "text": "as manipuladoras hábeis  solicitam que nos entreguemos mas nunca fazem o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            468.61370849609375,
+            515.5457763671875,
+            484.1814880371094
+          ],
+          "origin": [
+            82.73980712890625,
+            480.9022216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        488.77349853515625,
+        374.7677307128906,
+        504.3412780761719
+      ],
+      "text": "mesmo. Trate-as como estelionatárias sentimentais.",
+      "spans": [
+        {
+          "text": "mesmo. Trate-as como estelionatárias sentimentais. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            488.77349853515625,
+            374.7677307128906,
+            504.3412780761719
+          ],
+          "origin": [
+            82.73980712890625,
+            501.06201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        520.5730590820312,
+        515.396728515625,
+        536.140869140625
+      ],
+      "text": "O tempo é um grande aliado feminino nos joguinhos. As dúvidas",
+      "spans": [
+        {
+          "text": "O tempo é um grande aliado feminino nos joguinhos. As dúvidas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            520.5730590820312,
+            515.396728515625,
+            536.140869140625
+          ],
+          "origin": [
+            117.23980712890625,
+            532.861572265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        540.6735229492188,
+        515.4228515625,
+        556.2413330078125
+      ],
+      "text": "prolongadas através do tempo provocam sofrimento emocional (ex. sua",
+      "spans": [
+        {
+          "text": "prolongadas através do tempo provocam sofrimento emocional (ex. sua ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            540.6735229492188,
+            515.4228515625,
+            556.2413330078125
+          ],
+          "origin": [
+            82.73980712890625,
+            552.9620361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        560.8333129882812,
+        515.6397705078125,
+        576.401123046875
+      ],
+      "text": "parceira repentinamente deixa o telefone desligado por um ou dois dias para",
+      "spans": [
+        {
+          "text": "parceira repentinamente deixa o telefone desligado por um ou dois dias para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            560.8333129882812,
+            515.6397705078125,
+            576.401123046875
+          ],
+          "origin": [
+            82.73980712890625,
+            573.121826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        580.9336547851562,
+        515.4197387695312,
+        596.50146484375
+      ],
+      "text": "induzí-lo a ficar pensando em mil possibilidades, inclusive preocupado com",
+      "spans": [
+        {
+          "text": "induzí-lo a ficar pensando em mil possibilidades, inclusive preocupado com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            580.9336547851562,
+            515.4197387695312,
+            596.50146484375
+          ],
+          "origin": [
+            82.73980712890625,
+            593.22216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        601.0938720703125,
+        515.3794555664062,
+        616.6616821289062
+      ],
+      "text": "possíveis chifres). Quebramos as bases deste jogo quando nos antecipamos",
+      "spans": [
+        {
+          "text": "possíveis chifres). Quebramos as bases deste jogo quando nos antecipamos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            601.0938720703125,
+            515.3794555664062,
+            616.6616821289062
+          ],
+          "origin": [
+            82.73980712890625,
+            613.3823852539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        621.1942749023438,
+        515.4503173828125,
+        636.7620849609375
+      ],
+      "text": "e comunicamos explicitamente que esperamos algo um pouco pior do que o",
+      "spans": [
+        {
+          "text": "e comunicamos explicitamente que esperamos algo um pouco pior do que o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            621.1942749023438,
+            515.4503173828125,
+            636.7620849609375
+          ],
+          "origin": [
+            82.73980712890625,
+            633.4827880859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        641.3540649414062,
+        515.470703125,
+        656.921875
+      ],
+      "text": "planejado, indo além das expectativas dela (no exemplo em questão,",
+      "spans": [
+        {
+          "text": "planejado, indo além das expectativas dela (no exemplo em questão, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            641.3540649414062,
+            515.470703125,
+            656.921875
+          ],
+          "origin": [
+            82.73980712890625,
+            653.642578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        661.4545288085938,
+        515.4857177734375,
+        677.0223388671875
+      ],
+      "text": "poderíamos dizer mais ou menos o seguinte, assim que sentíssemos o cheiro",
+      "spans": [
+        {
+          "text": "poderíamos dizer mais ou menos o seguinte, assim que sentíssemos o cheiro ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            661.4545288085938,
+            515.4857177734375,
+            677.0223388671875
+          ],
+          "origin": [
+            82.73980712890625,
+            673.7430419921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        681.6146850585938,
+        515.5391235351562,
+        697.1824951171875
+      ],
+      "text": "da brincadeira: \"Aposto que você não vai me ligar nos próximos cinco",
+      "spans": [
+        {
+          "text": "da brincadeira: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            681.6146850585938,
+            173.25965881347656,
+            697.1824951171875
+          ],
+          "origin": [
+            82.73980712890625,
+            693.9031982421875
+          ]
+        },
+        {
+          "text": "\"Aposto que você não vai me ligar nos próximos cinco ",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            177.48040771484375,
+            682.8050537109375,
+            515.5391235351562,
+            697.0540771484375
+          ],
+          "origin": [
+            177.48040771484375,
+            693.9031982421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        701.715087890625,
+        515.4603881835938,
+        717.2828979492188
+      ],
+      "text": "dias!\"). O tempo um pouco, mas não muito, mais longo do que o planejado",
+      "spans": [
+        {
+          "text": "dias!\"",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            702.9054565429688,
+            115.92817687988281,
+            717.1544799804688
+          ],
+          "origin": [
+            82.73980712890625,
+            714.0036010742188
+          ]
+        },
+        {
+          "text": "). O tempo um pouco, mas não muito, mais longo do que o planejado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            116.81990814208984,
+            701.715087890625,
+            515.4603881835938,
+            717.2828979492188
+          ],
+          "origin": [
+            116.81990814208984,
+            714.0036010742188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "140",
+      "spans": [
+        {
+          "text": "140",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

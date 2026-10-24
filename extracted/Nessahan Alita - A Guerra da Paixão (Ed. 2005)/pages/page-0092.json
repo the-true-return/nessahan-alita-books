@@ -1,0 +1,961 @@
+{
+  "page_number": 92,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9806518554688,
+        87.48676300048828
+      ],
+      "text": "absolutamente amorais nossa parceira ainda assim permanecer firme",
+      "spans": [
+        {
+          "text": "absolutamente amorais nossa parceira ainda assim permanecer firme",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9806518554688,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9347534179688,
+        111.48676300048828
+      ],
+      "text": "em \nsua \ndedicação \nexclusiva, \nrejeitando \nos \ncomportamentos",
+      "spans": [
+        {
+          "text": "em ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            94.20000457763672,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "sua ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.72000122070312,
+            96.07732391357422,
+            134.0399932861328,
+            111.48676300048828
+          ],
+          "origin": [
+            108.72000122070312,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "dedicação ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            148.55999755859375,
+            96.07732391357422,
+            216.83998107910156,
+            111.48676300048828
+          ],
+          "origin": [
+            148.55999755859375,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "exclusiva, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            231.3599853515625,
+            96.07732391357422,
+            301.0799865722656,
+            111.48676300048828
+          ],
+          "origin": [
+            231.3599853515625,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "rejeitando ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            316.0799865722656,
+            96.07732391357422,
+            385.3199768066406,
+            111.48676300048828
+          ],
+          "origin": [
+            316.0799865722656,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "os ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            400.0799560546875,
+            96.07732391357422,
+            417.9599914550781,
+            111.48676300048828
+          ],
+          "origin": [
+            400.0799560546875,
+            108.48004150390625
+          ]
+        },
+        {
+          "text": "comportamentos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            432.719970703125,
+            96.07732391357422,
+            538.9347534179688,
+            111.48676300048828
+          ],
+          "origin": [
+            432.719970703125,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        539.115478515625,
+        135.72674560546875
+      ],
+      "text": "\"modernos\", isso indicará que ela possivelmente tem vocação para ser",
+      "spans": [
+        {
+          "text": "\"modernos\", isso indicará que ela possivelmente tem vocação para ser",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            539.115478515625,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        538.9200439453125,
+        159.72674560546875
+      ],
+      "text": "boa esposa pois nos ofereceu sua fidelidade sem que a exigíssemos,",
+      "spans": [
+        {
+          "text": "boa esposa pois nos ofereceu sua fidelidade sem que a exigíssemos,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            538.9200439453125,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        168.5572967529297,
+        241.32000732421875,
+        183.96673583984375
+      ],
+      "text": "sem que pressionássemos.",
+      "spans": [
+        {
+          "text": "sem que pressionássemos.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            168.5572967529297,
+            241.32000732421875,
+            183.96673583984375
+          ],
+          "origin": [
+            72.0,
+            180.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        204.7972869873047,
+        539.0401611328125,
+        220.20672607421875
+      ],
+      "text": "Quase todo homem heterossexual é, no fundo, moralista. Mesmo",
+      "spans": [
+        {
+          "text": "Quase todo homem heterossexual é, no fundo, moralista. Mesmo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            204.7972869873047,
+            539.0401611328125,
+            220.20672607421875
+          ],
+          "origin": [
+            108.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        538.9656372070312,
+        244.20672607421875
+      ],
+      "text": "os libertinos mais imorais costumam preferir para esposa mulheres que",
+      "spans": [
+        {
+          "text": "os libertinos mais imorais costumam preferir para esposa mulheres que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            538.9656372070312,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        538.920166015625,
+        268.44671630859375
+      ],
+      "text": "mantenham os demais machos bem afastados. Acontece que os",
+      "spans": [
+        {
+          "text": "mantenham os demais machos bem afastados. Acontece que os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            538.920166015625,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        538.9805908203125,
+        292.68670654296875
+      ],
+      "text": "libertinos fingem, fazendo-se passar por muito compreensivos e",
+      "spans": [
+        {
+          "text": "libertinos fingem, fazendo-se passar por muito compreensivos e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            538.9805908203125,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        301.27728271484375,
+        539.1005859375,
+        316.68670654296875
+      ],
+      "text": "tolerantes. Na verdade, os machos humanos são exclusivistas por",
+      "spans": [
+        {
+          "text": "tolerantes. Na verdade, os machos humanos são exclusivistas por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            301.27728271484375,
+            539.1005859375,
+            316.68670654296875
+          ],
+          "origin": [
+            72.0,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        325.51727294921875,
+        539.5498046875,
+        340.92669677734375
+      ],
+      "text": "natureza. Tendem sempre a proibir, o que dá as fêmeas motivos bem",
+      "spans": [
+        {
+          "text": "natureza. Tendem sempre a proibir, o que dá as fêmeas motivos bem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            325.51727294921875,
+            539.5498046875,
+            340.92669677734375
+          ],
+          "origin": [
+            72.0,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        349.51727294921875,
+        539.025146484375,
+        364.92669677734375
+      ],
+      "text": "justos para enganá-los e burlarem suas proibições ridículas, zombando",
+      "spans": [
+        {
+          "text": "justos para enganá-los e burlarem suas proibições ridículas, zombando",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            349.51727294921875,
+            539.025146484375,
+            364.92669677734375
+          ],
+          "origin": [
+            72.0,
+            361.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        373.75726318359375,
+        538.9200439453125,
+        389.16668701171875
+      ],
+      "text": "das mesmas em seus íntimos. A solução é não sermos proibicionistas",
+      "spans": [
+        {
+          "text": "das mesmas em seus íntimos. A solução é não sermos proibicionistas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            373.75726318359375,
+            538.9200439453125,
+            389.16668701171875
+          ],
+          "origin": [
+            72.0,
+            386.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        397.99725341796875,
+        538.9805297851562,
+        413.40667724609375
+      ],
+      "text": "mas aceitarmos tudo o que \nvier para descobrirmos quem é",
+      "spans": [
+        {
+          "text": "mas aceitarmos tudo o que ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            397.99725341796875,
+            288.1199951171875,
+            413.40667724609375
+          ],
+          "origin": [
+            72.0,
+            410.39996337890625
+          ]
+        },
+        {
+          "text": "vier para descobrirmos quem é",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            299.27996826171875,
+            397.99725341796875,
+            538.9805297851562,
+            413.40667724609375
+          ],
+          "origin": [
+            299.27996826171875,
+            410.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        421.99725341796875,
+        538.9806518554688,
+        437.40667724609375
+      ],
+      "text": "verdadeiramente a pessoa que temos ao lado. Uma vez descoberta a",
+      "spans": [
+        {
+          "text": "verdadeiramente a pessoa que temos ao lado. Uma vez descoberta a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            421.99725341796875,
+            538.9806518554688,
+            437.40667724609375
+          ],
+          "origin": [
+            72.0,
+            434.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        446.23724365234375,
+        537.9303588867188,
+        461.64666748046875
+      ],
+      "text": "realidade, poderemos tomar uma decisão que mais nos pareça acertada.",
+      "spans": [
+        {
+          "text": "realidade, poderemos tomar uma decisão que mais nos pareça acertada.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            446.23724365234375,
+            537.9303588867188,
+            461.64666748046875
+          ],
+          "origin": [
+            72.0,
+            458.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        482.23724365234375,
+        539.0402221679688,
+        497.64666748046875
+      ],
+      "text": "Quando mentem, as mulheres espertinhas o fazem defendendo o",
+      "spans": [
+        {
+          "text": "Quando mentem, as mulheres espertinhas o fazem defendendo o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            482.23724365234375,
+            539.0402221679688,
+            497.64666748046875
+          ],
+          "origin": [
+            108.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        538.9657592773438,
+        521.8866577148438
+      ],
+      "text": "contrário do que conhecemos. Por exemplo, se o marido procura a",
+      "spans": [
+        {
+          "text": "contrário do que conhecemos. Por exemplo, se o marido procura a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            538.9657592773438,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.7172241210938,
+        538.980712890625,
+        546.1266479492188
+      ],
+      "text": "esposa no local A em um horário que, por costume, ela deveria estar e",
+      "spans": [
+        {
+          "text": "esposa no local A em um horário que, por costume, ela deveria estar e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.7172241210938,
+            538.980712890625,
+            546.1266479492188
+          ],
+          "origin": [
+            72.0,
+            543.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        554.7172241210938,
+        538.9806518554688,
+        570.1266479492188
+      ],
+      "text": "posteriormente a notifica, ela possivelmente se defenderá com a",
+      "spans": [
+        {
+          "text": "posteriormente a notifica, ela possivelmente se defenderá com a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            554.7172241210938,
+            538.9806518554688,
+            570.1266479492188
+          ],
+          "origin": [
+            72.0,
+            567.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        578.957275390625,
+        539.0402221679688,
+        594.36669921875
+      ],
+      "text": "seguinte mentira: \"Não, hoje minha rotina mudou e eu permaneci no",
+      "spans": [
+        {
+          "text": "seguinte mentira:",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            578.957275390625,
+            186.50978088378906,
+            594.36669921875
+          ],
+          "origin": [
+            72.0,
+            591.3599853515625
+          ]
+        },
+        {
+          "text": " \"Não, hoje minha rotina mudou e eu permaneci no",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            187.1999969482422,
+            578.957275390625,
+            539.0402221679688,
+            594.36669921875
+          ],
+          "origin": [
+            187.1999969482422,
+            591.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        603.197265625,
+        538.9954223632812,
+        618.606689453125
+      ],
+      "text": "local B\". Portanto, para induzí-la a uma mentira  escancarada",
+      "spans": [
+        {
+          "text": "local B\"",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            603.197265625,
+            131.84640502929688,
+            618.606689453125
+          ],
+          "origin": [
+            72.0,
+            615.5999755859375
+          ]
+        },
+        {
+          "text": ". Portanto, para induzí-la a uma mentira  escancarada",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            132.47999572753906,
+            603.197265625,
+            538.9954223632812,
+            618.606689453125
+          ],
+          "origin": [
+            132.47999572753906,
+            615.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        627.197265625,
+        538.9806518554688,
+        642.606689453125
+      ],
+      "text": "indissimulável, que não possa ser negada e da qual não se possa",
+      "spans": [
+        {
+          "text": "indissimulável, que não possa ser negada e da qual não se possa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            627.197265625,
+            538.9806518554688,
+            642.606689453125
+          ],
+          "origin": [
+            72.0,
+            639.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        651.437255859375,
+        538.9806518554688,
+        666.8466796875
+      ],
+      "text": "escapar, basta que o esposo, ao invés de comunicar-lhe a verdade de",
+      "spans": [
+        {
+          "text": "escapar, basta que o esposo, ao invés de comunicar-lhe a verdade de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            651.437255859375,
+            538.9806518554688,
+            666.8466796875
+          ],
+          "origin": [
+            72.0,
+            663.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        675.437255859375,
+        538.9804077148438,
+        690.8466796875
+      ],
+      "text": "que esteve no local A (fato verdadeiro), oculte tal informação e",
+      "spans": [
+        {
+          "text": "que esteve no local A (fato verdadeiro), oculte tal informação e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            675.437255859375,
+            538.9804077148438,
+            690.8466796875
+          ],
+          "origin": [
+            72.0,
+            687.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "92",
+      "spans": [
+        {
+          "text": "92",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

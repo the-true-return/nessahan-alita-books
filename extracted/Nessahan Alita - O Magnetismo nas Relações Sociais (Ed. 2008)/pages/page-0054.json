@@ -1,0 +1,414 @@
+{
+  "page_number": 54,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        264.5400085449219,
+        77.32801818847656,
+        346.54791259765625,
+        90.61202239990234
+      ],
+      "text": "Sobre o autor",
+      "spans": [
+        {
+          "text": "Sobre o autor",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            264.5400085449219,
+            77.32801818847656,
+            346.54791259765625,
+            90.61202239990234
+          ],
+          "origin": [
+            264.5400085449219,
+            88.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        109.90797424316406,
+        526.010498046875,
+        123.19197845458984
+      ],
+      "text": "O autor deste livro NÃO É MESTRE de ninguém e NÃO ACEITA",
+      "spans": [
+        {
+          "text": "O autor deste livro NÃO É MESTRE de ninguém e NÃO ACEITA",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            109.90797424316406,
+            526.010498046875,
+            123.19197845458984
+          ],
+          "origin": [
+            120.54000091552734,
+            120.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        130.6079864501953,
+        447.08148193359375,
+        143.89198303222656
+      ],
+      "text": "DISCÍPULOS. Ele NÃO É LÍDER DE NENHUMA RELIGIÃO.",
+      "spans": [
+        {
+          "text": "DISCÍPULOS. Ele NÃO É LÍDER DE NENHUMA RELIGIÃO.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            130.6079864501953,
+            447.08148193359375,
+            143.89198303222656
+          ],
+          "origin": [
+            85.08001708984375,
+            141.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        163.30799865722656,
+        525.9782104492188,
+        176.5919952392578
+      ],
+      "text": "Este autor é tão somente um LIVRE-PENSADOR independente, que",
+      "spans": [
+        {
+          "text": "Este autor é tão somente um LIVRE-PENSADOR independente, que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            163.30799865722656,
+            525.9782104492188,
+            176.5919952392578
+          ],
+          "origin": [
+            120.54000091552734,
+            174.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        184.0080108642578,
+        526.0010375976562,
+        197.29200744628906
+      ],
+      "text": "não possui nenhum compromisso com quaisquer grupos políticos, sectários,",
+      "spans": [
+        {
+          "text": "não possui nenhum compromisso com quaisquer grupos políticos, sectários,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            184.0080108642578,
+            526.0010375976562,
+            197.29200744628906
+          ],
+          "origin": [
+            85.08001708984375,
+            194.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        204.70802307128906,
+        525.9156494140625,
+        217.9920196533203
+      ],
+      "text": "religiosos, partidários ou econômicos. Suas idéias são PROVISÓRIAS e",
+      "spans": [
+        {
+          "text": "religiosos, partidários ou econômicos. Suas idéias são PROVISÓRIAS e",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            204.70802307128906,
+            525.9156494140625,
+            217.9920196533203
+          ],
+          "origin": [
+            85.08001708984375,
+            215.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        225.4080352783203,
+        526.0078735351562,
+        238.69203186035156
+      ],
+      "text": "foram publicadas apenas para serem discutidas e aprimoradas. Não existe",
+      "spans": [
+        {
+          "text": "foram publicadas apenas para serem discutidas e aprimoradas. Não existe",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            225.4080352783203,
+            526.0078735351562,
+            238.69203186035156
+          ],
+          "origin": [
+            85.08001708984375,
+            236.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        246.10804748535156,
+        526.0415649414062,
+        259.3920593261719
+      ],
+      "text": "nenhum grupo, em lugar algum da Terra, que represente as idéias deste",
+      "spans": [
+        {
+          "text": "nenhum grupo, em lugar algum da Terra, que represente as idéias deste",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            246.10804748535156,
+            526.0415649414062,
+            259.3920593261719
+          ],
+          "origin": [
+            85.08001708984375,
+            256.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        266.8080749511719,
+        526.018798828125,
+        280.0920715332031
+      ],
+      "text": "autor. Obviamente, existem grupos de pessoas inteligentes com linhas de",
+      "spans": [
+        {
+          "text": "autor. Obviamente, existem grupos de pessoas inteligentes com linhas de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            266.8080749511719,
+            526.018798828125,
+            280.0920715332031
+          ],
+          "origin": [
+            85.08003234863281,
+            277.50006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        287.5080871582031,
+        526.072998046875,
+        300.7920837402344
+      ],
+      "text": "pensamento semelhantes à dele mas tais grupos, definitivamente, não o",
+      "spans": [
+        {
+          "text": "pensamento semelhantes à dele mas tais grupos, definitivamente, não o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            287.5080871582031,
+            526.072998046875,
+            300.7920837402344
+          ],
+          "origin": [
+            85.08001708984375,
+            298.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        308.2080993652344,
+        161.74081420898438,
+        321.4920959472656
+      ],
+      "text": "representam.",
+      "spans": [
+        {
+          "text": "representam. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            308.2080993652344,
+            161.74081420898438,
+            321.4920959472656
+          ],
+          "origin": [
+            85.08001708984375,
+            318.90008544921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        340.8480224609375,
+        525.9802856445312,
+        354.13201904296875
+      ],
+      "text": "Este autor NÃO QUER FÃS E NEM ADMIRADORES, quer somente",
+      "spans": [
+        {
+          "text": "Este autor NÃO QUER FÃS E NEM ADMIRADORES, quer somente",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            340.8480224609375,
+            525.9802856445312,
+            354.13201904296875
+          ],
+          "origin": [
+            120.54000091552734,
+            351.5400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        361.54803466796875,
+        265.3200988769531,
+        374.83203125
+      ],
+      "text": "leitores críticos e reflexivos.",
+      "spans": [
+        {
+          "text": "leitores críticos e reflexivos.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            361.54803466796875,
+            251.04010009765625,
+            374.83203125
+          ],
+          "origin": [
+            85.08001708984375,
+            372.2400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "54",
+      "spans": [
+        {
+          "text": "54",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

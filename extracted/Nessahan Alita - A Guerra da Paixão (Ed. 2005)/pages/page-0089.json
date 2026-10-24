@@ -1,0 +1,721 @@
+{
+  "page_number": 89,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        206.6400146484375,
+        78.31273651123047,
+        440.6092834472656,
+        96.11329650878906
+      ],
+      "text": "14. Levando-as a se revelarem",
+      "spans": [
+        {
+          "text": "14. Levando-as a se revelarem",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            206.6400146484375,
+            78.31273651123047,
+            440.6092834472656,
+            96.11329650878906
+          ],
+          "origin": [
+            206.6400146484375,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        538.9806518554688,
+        133.08673095703125
+      ],
+      "text": "Vamos novamente retomar o espinhoso ponto relacionado com a",
+      "spans": [
+        {
+          "text": " Vamos novamente retomar o espinhoso ponto relacionado com a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            538.9806518554688,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        538.9805297851562,
+        157.08673095703125
+      ],
+      "text": "natureza verdadeira e oculta da mulher. Há nessa natureza muita coisa",
+      "spans": [
+        {
+          "text": "natureza verdadeira e oculta da mulher. Há nessa natureza muita coisa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            538.9805297851562,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        538.9805297851562,
+        181.32672119140625
+      ],
+      "text": "maravilhosa e sublime, mas há também muita perfídia que se expressa",
+      "spans": [
+        {
+          "text": "maravilhosa e sublime, mas há também muita perfídia que se expressa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            538.9805297851562,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        189.9172821044922,
+        538.9200439453125,
+        205.32672119140625
+      ],
+      "text": "em graus variáveis conforme as personalidades. Enquanto em algumas",
+      "spans": [
+        {
+          "text": "em graus variáveis conforme as personalidades. Enquanto em algumas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            189.9172821044922,
+            538.9200439453125,
+            205.32672119140625
+          ],
+          "origin": [
+            72.0,
+            202.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        214.1572723388672,
+        538.9806518554688,
+        229.56671142578125
+      ],
+      "text": "mulheres essa perfídia quase não se percebe, nas espertinhas com que",
+      "spans": [
+        {
+          "text": "mulheres essa perfídia quase não se percebe, nas espertinhas com que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            214.1572723388672,
+            538.9806518554688,
+            229.56671142578125
+          ],
+          "origin": [
+            72.0,
+            226.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        238.3972625732422,
+        386.7452087402344,
+        253.80670166015625
+      ],
+      "text": "nos ocupamos neste livro ela está bem evidente.",
+      "spans": [
+        {
+          "text": "nos ocupamos neste livro ela está bem evidente.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            238.3972625732422,
+            386.7452087402344,
+            253.80670166015625
+          ],
+          "origin": [
+            72.0,
+            250.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        274.39727783203125,
+        538.9051513671875,
+        289.80670166015625
+      ],
+      "text": "A tendência geral é que sejam dissimuladas, fingindo timidez,",
+      "spans": [
+        {
+          "text": "A tendência geral é que sejam dissimuladas, fingindo timidez,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            274.39727783203125,
+            538.9051513671875,
+            289.80670166015625
+          ],
+          "origin": [
+            108.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        298.63726806640625,
+        539.0401611328125,
+        314.04669189453125
+      ],
+      "text": "recato, inocência, inexperiência, decência, pureza e ingenuidade no",
+      "spans": [
+        {
+          "text": "recato, inocência, inexperiência, decência, pureza e ingenuidade no",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            298.63726806640625,
+            539.0401611328125,
+            314.04669189453125
+          ],
+          "origin": [
+            72.0,
+            311.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        322.87725830078125,
+        538.9805908203125,
+        338.28668212890625
+      ],
+      "text": "campo sexual. Por trás da máscara, entretanto, pode se esconder uma",
+      "spans": [
+        {
+          "text": "campo sexual. Por trás da máscara, entretanto, pode se esconder uma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            322.87725830078125,
+            538.9805908203125,
+            338.28668212890625
+          ],
+          "origin": [
+            72.0,
+            335.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        346.87725830078125,
+        538.9805908203125,
+        362.28668212890625
+      ],
+      "text": "fêmea sensual encarcerada pelo medo do autoritarismo, do ciúme e da",
+      "spans": [
+        {
+          "text": "fêmea sensual encarcerada pelo medo do autoritarismo, do ciúme e da",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            346.87725830078125,
+            538.9805908203125,
+            362.28668212890625
+          ],
+          "origin": [
+            72.0,
+            359.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        371.11724853515625,
+        538.9805908203125,
+        386.52667236328125
+      ],
+      "text": "possessão masculinos que visam preservar a exclusividade. Esta fêmea",
+      "spans": [
+        {
+          "text": "possessão masculinos que visam preservar a exclusividade. Esta fêmea",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            371.11724853515625,
+            538.9805908203125,
+            386.52667236328125
+          ],
+          "origin": [
+            72.0,
+            383.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        395.11724853515625,
+        539.2801513671875,
+        410.52667236328125
+      ],
+      "text": "sensual oculta pode se expressar na clandestinidade em maior ou",
+      "spans": [
+        {
+          "text": "sensual oculta pode se expressar na clandestinidade em maior ou",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            395.11724853515625,
+            539.2801513671875,
+            410.52667236328125
+          ],
+          "origin": [
+            72.0,
+            407.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        419.35723876953125,
+        538.9349975585938,
+        434.76666259765625
+      ],
+      "text": "menor grau, conforme a coragem que a mulher tenha de infringir as",
+      "spans": [
+        {
+          "text": "menor grau, conforme a coragem que a mulher tenha de infringir as",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            419.35723876953125,
+            538.9349975585938,
+            434.76666259765625
+          ],
+          "origin": [
+            72.0,
+            431.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        443.59722900390625,
+        538.9805908203125,
+        459.00665283203125
+      ],
+      "text": "normas impostas que lhe criam a necessidade de manter uma aparência",
+      "spans": [
+        {
+          "text": "normas impostas que lhe criam a necessidade de manter uma aparência",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            443.59722900390625,
+            538.9805908203125,
+            459.00665283203125
+          ],
+          "origin": [
+            72.0,
+            455.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        467.59722900390625,
+        539.0252685546875,
+        483.00665283203125
+      ],
+      "text": "de santidade e castidade. Este lado oculto, em alguns casos, fica tão",
+      "spans": [
+        {
+          "text": "de santidade e castidade. Este lado oculto, em alguns casos, fica tão",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            467.59722900390625,
+            539.0252685546875,
+            483.00665283203125
+          ],
+          "origin": [
+            72.0,
+            479.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        491.83721923828125,
+        538.9806518554688,
+        507.24664306640625
+      ],
+      "text": "recalcado e apagado que somente nos sonhos pode ser detectado. De",
+      "spans": [
+        {
+          "text": "recalcado e apagado que somente nos sonhos pode ser detectado. De",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            491.83721923828125,
+            538.9806518554688,
+            507.24664306640625
+          ],
+          "origin": [
+            72.0,
+            504.23992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        515.8372192382812,
+        538.9657592773438,
+        531.2466430664062
+      ],
+      "text": "todas as maneiras, sempre haverão aspectos da personalidade",
+      "spans": [
+        {
+          "text": "todas as maneiras, sempre haverão aspectos da personalidade",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            515.8372192382812,
+            538.9657592773438,
+            531.2466430664062
+          ],
+          "origin": [
+            72.0,
+            528.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        540.0772094726562,
+        323.4149169921875,
+        555.4866333007812
+      ],
+      "text": "reprimidos no âmbito da sensualidade.",
+      "spans": [
+        {
+          "text": "reprimidos no âmbito da sensualidade.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            540.0772094726562,
+            323.4149169921875,
+            555.4866333007812
+          ],
+          "origin": [
+            72.0,
+            552.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        576.3172607421875,
+        538.98046875,
+        591.7266845703125
+      ],
+      "text": "É extremamente difícil fazer com que esta parte oculta se",
+      "spans": [
+        {
+          "text": "É extremamente difícil fazer com que esta parte oculta se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            576.3172607421875,
+            538.98046875,
+            591.7266845703125
+          ],
+          "origin": [
+            108.0,
+            588.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        600.3172607421875,
+        538.9806518554688,
+        615.7266845703125
+      ],
+      "text": "manifeste se você for marido ou namorado devido ao medo ancestral e",
+      "spans": [
+        {
+          "text": "manifeste se você for marido ou namorado devido ao medo ancestral e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            600.3172607421875,
+            538.9806518554688,
+            615.7266845703125
+          ],
+          "origin": [
+            72.0,
+            612.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        624.5572509765625,
+        538.9200439453125,
+        639.9666748046875
+      ],
+      "text": "justificado das reações masculinas. Como a regra geral é a de que os",
+      "spans": [
+        {
+          "text": "justificado das reações masculinas. Como a regra geral é a de que os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            624.5572509765625,
+            538.9200439453125,
+            639.9666748046875
+          ],
+          "origin": [
+            72.0,
+            636.9599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "89",
+      "spans": [
+        {
+          "text": "89",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

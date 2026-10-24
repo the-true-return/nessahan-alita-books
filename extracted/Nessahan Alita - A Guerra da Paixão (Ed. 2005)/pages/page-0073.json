@@ -1,0 +1,823 @@
+{
+  "page_number": 73,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        71.45040130615234,
+        241.9497528076172,
+        88.50240325927734
+      ],
+      "text": "• \nFalando muito;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            71.45040130615234,
+            114.4031982421875,
+            88.50240325927734
+          ],
+          "origin": [
+            108.0,
+            85.44000244140625
+          ]
+        },
+        {
+          "text": "Falando muito;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            73.03728485107422,
+            241.9497528076172,
+            88.44672393798828
+          ],
+          "origin": [
+            144.0,
+            85.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        108.6504135131836,
+        364.58978271484375,
+        125.7024154663086
+      ],
+      "text": "• \nTentando agradá-la todo o tempo;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            108.6504135131836,
+            114.4031982421875,
+            125.7024154663086
+          ],
+          "origin": [
+            108.0,
+            122.6400146484375
+          ]
+        },
+        {
+          "text": "Tentando agradá-la todo o tempo;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            110.23729705810547,
+            364.58978271484375,
+            125.64673614501953
+          ],
+          "origin": [
+            144.0,
+            122.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        145.61044311523438,
+        359.7898864746094,
+        162.6624298095703
+      ],
+      "text": "• \nDemonstrando medo de perdê-la;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            145.61044311523438,
+            114.4031982421875,
+            162.6624298095703
+          ],
+          "origin": [
+            108.0,
+            159.60003662109375
+          ]
+        },
+        {
+          "text": "Demonstrando medo de perdê-la;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            147.1973114013672,
+            359.7898864746094,
+            162.60675048828125
+          ],
+          "origin": [
+            144.0,
+            159.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        182.81045532226562,
+        365.084716796875,
+        199.86244201660156
+      ],
+      "text": "• \nExigindo atenção, carinho e sexo;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            182.81045532226562,
+            114.4031982421875,
+            199.86244201660156
+          ],
+          "origin": [
+            108.0,
+            196.800048828125
+          ]
+        },
+        {
+          "text": "Exigindo atenção, carinho e sexo;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            184.39732360839844,
+            365.084716796875,
+            199.8067626953125
+          ],
+          "origin": [
+            144.0,
+            196.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        220.01046752929688,
+        410.4298400878906,
+        237.0624542236328
+      ],
+      "text": "• \nExigindo a presença e a companhia dela;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            220.01046752929688,
+            114.4031982421875,
+            237.0624542236328
+          ],
+          "origin": [
+            108.0,
+            234.00006103515625
+          ]
+        },
+        {
+          "text": "Exigindo a presença e a companhia dela;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            221.5973358154297,
+            410.4298400878906,
+            237.00677490234375
+          ],
+          "origin": [
+            144.0,
+            234.00006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        257.2104797363281,
+        516.3599853515625,
+        274.2624816894531
+      ],
+      "text": "• \nCorrendo atrás dela todo o tempo, ligando sem parar etc.",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 13.920000076293945,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            257.2104797363281,
+            114.4031982421875,
+            274.2624816894531
+          ],
+          "origin": [
+            108.0,
+            271.2000732421875
+          ]
+        },
+        {
+          "text": "Correndo atrás dela todo o tempo, ligando sem parar etc.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.0,
+            258.79736328125,
+            516.3599853515625,
+            274.206787109375
+          ],
+          "origin": [
+            144.0,
+            271.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        294.79736328125,
+        538.9806518554688,
+        310.206787109375
+      ],
+      "text": "A despeito das mentiras que as espertinhas contam, o fato é que",
+      "spans": [
+        {
+          "text": "A despeito das mentiras que as espertinhas contam, o fato é que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            294.79736328125,
+            538.9806518554688,
+            310.206787109375
+          ],
+          "origin": [
+            108.0,
+            307.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        319.037353515625,
+        539.1155395507812,
+        334.44677734375
+      ],
+      "text": "um homem muito carinhoso se torna cansativo e serve apenas para ser",
+      "spans": [
+        {
+          "text": "um homem muito carinhoso se torna cansativo e serve apenas para ser",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            319.037353515625,
+            539.1155395507812,
+            334.44677734375
+          ],
+          "origin": [
+            72.0,
+            331.4400634765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        343.27734375,
+        539.01025390625,
+        358.686767578125
+      ],
+      "text": "rejeitado e tratado como um escravo ou como um cão vira-lata. O",
+      "spans": [
+        {
+          "text": "rejeitado e tratado como um escravo ou como um cão vira-lata. O",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            343.27734375,
+            539.01025390625,
+            358.686767578125
+          ],
+          "origin": [
+            72.0,
+            355.6800537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        367.27734375,
+        538.980712890625,
+        382.686767578125
+      ],
+      "text": "carinho deve ser bem dosado, racionado. Seja carinhoso apenas de vez",
+      "spans": [
+        {
+          "text": "carinho deve ser bem dosado, racionado. Seja carinhoso apenas de vez",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            367.27734375,
+            538.980712890625,
+            382.686767578125
+          ],
+          "origin": [
+            72.0,
+            379.6800537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        391.517333984375,
+        538.9806518554688,
+        406.9267578125
+      ],
+      "text": "em quando e nas horas certas: em recompensa pela boa conduta. Seja",
+      "spans": [
+        {
+          "text": "em quando e nas horas certas: em recompensa pela boa conduta. Seja",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            391.517333984375,
+            538.9806518554688,
+            406.9267578125
+          ],
+          "origin": [
+            72.0,
+            403.9200439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        415.75732421875,
+        410.52001953125,
+        431.166748046875
+      ],
+      "text": "mais frio do que carinhoso mas não totalmente frio.",
+      "spans": [
+        {
+          "text": "mais frio do que carinhoso mas não totalmente frio.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            415.75732421875,
+            410.52001953125,
+            431.166748046875
+          ],
+          "origin": [
+            72.0,
+            428.1600341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        451.75732421875,
+        538.9200439453125,
+        467.166748046875
+      ],
+      "text": "Geralmente, o homem se esforça e se sacrifica intensamente,",
+      "spans": [
+        {
+          "text": "Geralmente, o homem se esforça e se sacrifica intensamente,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            451.75732421875,
+            538.9200439453125,
+            467.166748046875
+          ],
+          "origin": [
+            108.0,
+            464.1600341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        475.997314453125,
+        538.7406005859375,
+        491.40673828125
+      ],
+      "text": "bajulando e agradando, para receber em troca uma quantidade mínima",
+      "spans": [
+        {
+          "text": "bajulando e agradando, para receber em troca uma quantidade mínima",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            475.997314453125,
+            538.7406005859375,
+            491.40673828125
+          ],
+          "origin": [
+            72.0,
+            488.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        499.997314453125,
+        538.7406005859375,
+        515.40673828125
+      ],
+      "text": "de carinho e sexo. Esta tendência é geral e você poderá confirmá-la",
+      "spans": [
+        {
+          "text": "de carinho e sexo. Esta tendência é geral e você poderá confirmá-la",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            499.997314453125,
+            538.7406005859375,
+            515.40673828125
+          ],
+          "origin": [
+            72.0,
+            512.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        524.2373046875,
+        538.9805297851562,
+        539.646728515625
+      ],
+      "text": "pela observação. Elas estão tão acostumadas a isso, que sempre que",
+      "spans": [
+        {
+          "text": "pela observação. Elas estão tão acostumadas a isso, que sempre que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            524.2373046875,
+            538.9805297851562,
+            539.646728515625
+          ],
+          "origin": [
+            72.0,
+            536.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        548.477294921875,
+        538.9805908203125,
+        563.88671875
+      ],
+      "text": "você se mostrar carinhoso será visto como um assediador em busca da",
+      "spans": [
+        {
+          "text": "você se mostrar carinhoso será visto como um assediador em busca da",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            548.477294921875,
+            538.9805908203125,
+            563.88671875
+          ],
+          "origin": [
+            72.0,
+            560.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        572.477294921875,
+        538.9200439453125,
+        587.88671875
+      ],
+      "text": "tríade sexo-carinho-amor. Como elas não gostam muito de sexo,",
+      "spans": [
+        {
+          "text": "tríade sexo-carinho-amor. Como elas não gostam muito de sexo,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            572.477294921875,
+            538.9200439453125,
+            587.88671875
+          ],
+          "origin": [
+            72.0,
+            584.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        596.7173461914062,
+        538.9806518554688,
+        612.1267700195312
+      ],
+      "text": "resulta então que os carinhosos são considerados pouco interessantes e",
+      "spans": [
+        {
+          "text": "resulta então que os carinhosos são considerados pouco interessantes e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            596.7173461914062,
+            538.9806518554688,
+            612.1267700195312
+          ],
+          "origin": [
+            72.0,
+            609.1200561523438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        620.7173461914062,
+        538.9806518554688,
+        636.1267700195312
+      ],
+      "text": "utilizados como meros escravos emocionais que dão tudo de si e",
+      "spans": [
+        {
+          "text": "utilizados como meros escravos emocionais que dão tudo de si e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            620.7173461914062,
+            538.9806518554688,
+            636.1267700195312
+          ],
+          "origin": [
+            72.0,
+            633.1200561523438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        644.9573364257812,
+        538.9349975585938,
+        660.3667602539062
+      ],
+      "text": "recebem pouco ou nada em troca. O curioso é que são justamente os",
+      "spans": [
+        {
+          "text": "recebem pouco ou nada em troca. O curioso é que são justamente os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            644.9573364257812,
+            538.9349975585938,
+            660.3667602539062
+          ],
+          "origin": [
+            72.0,
+            657.3600463867188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        669.1973266601562,
+        539.2800903320312,
+        684.6067504882812
+      ],
+      "text": "insensíveis, que são muito poucos, os que recebem de graça e sem",
+      "spans": [
+        {
+          "text": "insensíveis, que são muito poucos, os que recebem de graça e sem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            669.1973266601562,
+            539.2800903320312,
+            684.6067504882812
+          ],
+          "origin": [
+            72.0,
+            681.6000366210938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "73",
+      "spans": [
+        {
+          "text": "73",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400756835938,
+        345.75592041015625,
+        782.5440673828125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400756835938,
+            239.97604370117188,
+            782.5440673828125
+          ],
+          "origin": [
+            18.0,
+            780.0000610351562
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400756835938,
+            345.75592041015625,
+            782.5440673828125
+          ],
+          "origin": [
+            240.0,
+            780.0000610351562
+          ]
+        }
+      ]
+    }
+  ]
+}

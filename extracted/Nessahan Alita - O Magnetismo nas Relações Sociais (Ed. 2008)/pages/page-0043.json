@@ -1,0 +1,1019 @@
+{
+  "page_number": 43,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20802307128906,
+        525.9852294921875,
+        84.49202728271484
+      ],
+      "text": "sempre avalie as consequências posteriores que tal confronto possa ter.",
+      "spans": [
+        {
+          "text": "sempre avalie as consequências posteriores que tal confronto possa ter.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20802307128906,
+            525.9852294921875,
+            84.49202728271484
+          ],
+          "origin": [
+            85.08000183105469,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        91.90803527832031,
+        525.9647827148438,
+        105.1920394897461
+      ],
+      "text": "Nunca é saudável ter inimigos porque, se os vencemos, eles não nos",
+      "spans": [
+        {
+          "text": "Nunca é saudável ter inimigos porque, se os vencemos, eles não nos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            91.90803527832031,
+            525.9647827148438,
+            105.1920394897461
+          ],
+          "origin": [
+            85.07998657226562,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        112.60804748535156,
+        504.3250732421875,
+        125.89205169677734
+      ],
+      "text": "esquecem e prosseguem nos perturbando, reunindo forças contra nós etc.",
+      "spans": [
+        {
+          "text": "esquecem e prosseguem nos perturbando, reunindo forças contra nós etc.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            112.60804748535156,
+            504.3250732421875,
+            125.89205169677734
+          ],
+          "origin": [
+            85.0799560546875,
+            123.300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        145.30799865722656,
+        525.9793090820312,
+        158.5919952392578
+      ],
+      "text": "Certos charlatães materialistas dogmáticos, céticos \nunilaterais,",
+      "spans": [
+        {
+          "text": "Certos charlatães materialistas dogmáticos, céticos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            145.30799865722656,
+            452.40484619140625,
+            158.5919952392578
+          ],
+          "origin": [
+            120.54000091552734,
+            156.0
+          ]
+        },
+        {
+          "text": "unilaterais,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            462.0048522949219,
+            145.30799865722656,
+            525.9793090820312,
+            158.5919952392578
+          ],
+          "origin": [
+            462.0048522949219,
+            156.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        166.0080108642578,
+        525.933349609375,
+        179.29200744628906
+      ],
+      "text": "ortodoxos conservadores, fanáticos religiosos e outros sofistas inimigos da",
+      "spans": [
+        {
+          "text": "ortodoxos conservadores, fanáticos religiosos e outros sofistas inimigos da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            166.0080108642578,
+            525.933349609375,
+            179.29200744628906
+          ],
+          "origin": [
+            85.08001708984375,
+            176.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        184.7698211669922,
+        526.006103515625,
+        199.9920196533203
+      ],
+      "text": "verdade5 rejeitam o estudo metódico por inquirição em estilo socrático.",
+      "spans": [
+        {
+          "text": "verdade",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            186.70802307128906,
+            129.115234375,
+            199.9920196533203
+          ],
+          "origin": [
+            85.08001708984375,
+            197.4000244140625
+          ]
+        },
+        {
+          "text": "5",
+          "font": "TimesNewRoman",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            130.0800018310547,
+            184.7698211669922,
+            134.07000732421875,
+            193.6036834716797
+          ],
+          "origin": [
+            130.0800018310547,
+            191.8800048828125
+          ]
+        },
+        {
+          "text": " rejeitam o estudo metódico por inquirição em estilo socrático.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.10000610351562,
+            186.70802307128906,
+            526.006103515625,
+            199.9920196533203
+          ],
+          "origin": [
+            134.10000610351562,
+            197.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        207.4080352783203,
+        526.0942993164062,
+        220.69203186035156
+      ],
+      "text": "Tentam \nconvencer \nconfundindo \nao \ninvés \nde \nbuscarem \nconvencer",
+      "spans": [
+        {
+          "text": "Tentam ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            207.4080352783203,
+            130.73040771484375,
+            220.69203186035156
+          ],
+          "origin": [
+            85.08000183105469,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "convencer ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            141.96958923339844,
+            207.4080352783203,
+            203.392822265625,
+            220.69203186035156
+          ],
+          "origin": [
+            141.96958923339844,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "confundindo ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            214.63201904296875,
+            207.4080352783203,
+            289.3439636230469,
+            220.69203186035156
+          ],
+          "origin": [
+            214.63201904296875,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.5831604003906,
+            207.4080352783203,
+            316.79998779296875,
+            220.69203186035156
+          ],
+          "origin": [
+            300.5831604003906,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "invés ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            328.1099853515625,
+            207.4080352783203,
+            361.4819641113281,
+            220.69203186035156
+          ],
+          "origin": [
+            328.1099853515625,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            372.7919616699219,
+            207.4080352783203,
+            389.1359558105469,
+            220.69203186035156
+          ],
+          "origin": [
+            372.7919616699219,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "buscarem ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            400.4459533691406,
+            207.4080352783203,
+            457.4123229980469,
+            220.69203186035156
+          ],
+          "origin": [
+            400.4459533691406,
+            218.10003662109375
+          ]
+        },
+        {
+          "text": "convencer",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            468.7223205566406,
+            207.4080352783203,
+            526.0942993164062,
+            220.69203186035156
+          ],
+          "origin": [
+            468.7223205566406,
+            218.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        228.10804748535156,
+        526.0463256835938,
+        241.3920440673828
+      ],
+      "text": "esclarecendo porque vencer as discussões é sua meta única e maior, pela",
+      "spans": [
+        {
+          "text": "esclarecendo porque vencer as discussões é sua meta única e maior, pela",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            228.10804748535156,
+            526.0463256835938,
+            241.3920440673828
+          ],
+          "origin": [
+            85.07998657226562,
+            238.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        248.8080596923828,
+        525.9825439453125,
+        262.0920715332031
+      ],
+      "text": "qual estão apaixonados. Não almejam estudar e compreender em comunhão",
+      "spans": [
+        {
+          "text": "qual estão apaixonados. Não almejam estudar e compreender em comunhão",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            248.8080596923828,
+            525.9825439453125,
+            262.0920715332031
+          ],
+          "origin": [
+            85.0799560546875,
+            259.50006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        269.5080871582031,
+        525.9384765625,
+        282.7920837402344
+      ],
+      "text": "com o interlocutor. Rechaçam o estudo sincero imparcial e a compreensão",
+      "spans": [
+        {
+          "text": "com o interlocutor. Rechaçam o estudo sincero imparcial e a compreensão",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            269.5080871582031,
+            525.9384765625,
+            282.7920837402344
+          ],
+          "origin": [
+            85.0799560546875,
+            280.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        290.2080993652344,
+        525.9286499023438,
+        303.4920959472656
+      ],
+      "text": "dos temas sob o ponto de vista alheio. Quando os pontos nevrálgicos de",
+      "spans": [
+        {
+          "text": "dos temas sob o ponto de vista alheio. Quando os pontos nevrálgicos de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            290.2080993652344,
+            525.9286499023438,
+            303.4920959472656
+          ],
+          "origin": [
+            85.07992553710938,
+            300.90008544921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        310.8481140136719,
+        526.0438232421875,
+        324.1321105957031
+      ],
+      "text": "suas teorias são tocados por perguntas incisivas, lançam mão de estratégias",
+      "spans": [
+        {
+          "text": "suas teorias são tocados por perguntas incisivas, lançam mão de estratégias",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            310.8481140136719,
+            526.0438232421875,
+            324.1321105957031
+          ],
+          "origin": [
+            85.07992553710938,
+            321.54010009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        331.5481262207031,
+        526.0173950195312,
+        344.8321228027344
+      ],
+      "text": "ludibriadoras para distrair o inquiridor: falam muito ou lançam vários",
+      "spans": [
+        {
+          "text": "ludibriadoras para distrair o inquiridor: falam muito ou lançam vários",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            331.5481262207031,
+            526.0173950195312,
+            344.8321228027344
+          ],
+          "origin": [
+            85.07989501953125,
+            342.2401123046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        352.2481384277344,
+        526.0392456054688,
+        365.5321350097656
+      ],
+      "text": "questionamentos recheados por termos provocativos com o intuito de",
+      "spans": [
+        {
+          "text": "questionamentos recheados por termos provocativos com o intuito de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            352.2481384277344,
+            526.0392456054688,
+            365.5321350097656
+          ],
+          "origin": [
+            85.07989501953125,
+            362.94012451171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        372.9481506347656,
+        525.9503784179688,
+        386.2321472167969
+      ],
+      "text": "desviar a atenção dos pontos fracos de suas hipóteses para assim mantê-los",
+      "spans": [
+        {
+          "text": "desviar a atenção dos pontos fracos de suas hipóteses para assim mantê-los",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            372.9481506347656,
+            525.9503784179688,
+            386.2321472167969
+          ],
+          "origin": [
+            85.07989501953125,
+            383.64013671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        393.6481628417969,
+        525.9428100585938,
+        406.9321594238281
+      ],
+      "text": "ocultos. Quando encurralados, se enfurecem para amedrontar (característica",
+      "spans": [
+        {
+          "text": "ocultos. Quando encurralados, se enfurecem para amedrontar (característica",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            393.6481628417969,
+            525.9428100585938,
+            406.9321594238281
+          ],
+          "origin": [
+            85.07989501953125,
+            404.34014892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        414.3481750488281,
+        526.1408081054688,
+        427.6321716308594
+      ],
+      "text": "animal). Em última instância, estão comprometidos em defender as próprias",
+      "spans": [
+        {
+          "text": "animal). Em última instância, estão comprometidos em defender as próprias",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            414.3481750488281,
+            526.1408081054688,
+            427.6321716308594
+          ],
+          "origin": [
+            85.07989501953125,
+            425.0401611328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07989501953125,
+        435.0481872558594,
+        304.39068603515625,
+        448.3321838378906
+      ],
+      "text": "idéias e não se interessam em estudar.",
+      "spans": [
+        {
+          "text": "idéias e não se interessam em estudar.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07989501953125,
+            435.0481872558594,
+            304.39068603515625,
+            448.3321838378906
+          ],
+          "origin": [
+            85.07989501953125,
+            445.74017333984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        467.7480163574219,
+        526.0247802734375,
+        481.0320129394531
+      ],
+      "text": "A disposição que os sofistas possuem para o estudo verdadeiro é",
+      "spans": [
+        {
+          "text": "A disposição que os sofistas possuem para o estudo verdadeiro é",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            467.7480163574219,
+            526.0247802734375,
+            481.0320129394531
+          ],
+          "origin": [
+            120.54000091552734,
+            478.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        488.4480285644531,
+        525.9973754882812,
+        501.7320251464844
+      ],
+      "text": "apenas parcial, relativa, pois a sustentam somente até o momento em que as",
+      "spans": [
+        {
+          "text": "apenas parcial, relativa, pois a sustentam somente até o momento em que as",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            488.4480285644531,
+            525.9973754882812,
+            501.7320251464844
+          ],
+          "origin": [
+            85.08001708984375,
+            499.1400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        509.1480407714844,
+        526.0498657226562,
+        522.4320068359375
+      ],
+      "text": "falhas lógicas nos pontos nevrálgicos de suas teorias são expostas. A partir",
+      "spans": [
+        {
+          "text": "falhas lógicas nos pontos nevrálgicos de suas teorias são expostas. A partir",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            509.1480407714844,
+            526.0498657226562,
+            522.4320068359375
+          ],
+          "origin": [
+            85.07998657226562,
+            519.8400268554688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        529.8480224609375,
+        525.9595947265625,
+        543.1320190429688
+      ],
+      "text": "daí a disposição para o estudo termina. Não possuem preparo psicológico",
+      "spans": [
+        {
+          "text": "daí a disposição para o estudo termina. Não possuem preparo psicológico",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            529.8480224609375,
+            525.9595947265625,
+            543.1320190429688
+          ],
+          "origin": [
+            85.07998657226562,
+            540.5400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        550.5479736328125,
+        525.9454345703125,
+        563.8319702148438
+      ],
+      "text": "para os desconfortos da análise e carecem de uma capacidade fundamental",
+      "spans": [
+        {
+          "text": "para os desconfortos da análise e carecem de uma capacidade fundamental",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            550.5479736328125,
+            525.9454345703125,
+            563.8319702148438
+          ],
+          "origin": [
+            85.07998657226562,
+            561.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        571.2479858398438,
+        471.64642333984375,
+        584.531982421875
+      ],
+      "text": "em qualquer analista: a de trocar de ponto de vista continuamente.",
+      "spans": [
+        {
+          "text": "em qualquer analista: a de trocar de ponto de vista continuamente. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            571.2479858398438,
+            471.64642333984375,
+            584.531982421875
+          ],
+          "origin": [
+            85.0799560546875,
+            581.9400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        603.947998046875,
+        525.9817504882812,
+        617.2319946289062
+      ],
+      "text": "Infelizmente, no meio acadêmico de muitos países eles ainda são",
+      "spans": [
+        {
+          "text": "Infelizmente, no meio acadêmico de muitos países eles ainda são",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            603.947998046875,
+            525.9817504882812,
+            617.2319946289062
+          ],
+          "origin": [
+            120.54000091552734,
+            614.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        624.64794921875,
+        525.9263305664062,
+        637.9319458007812
+      ],
+      "text": "maioria. Acreditam-se donos da ciência e rejeitam a filosofia e a religião,",
+      "spans": [
+        {
+          "text": "maioria. Acreditam-se donos da ciência e rejeitam a filosofia e a religião,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            624.64794921875,
+            525.9263305664062,
+            637.9319458007812
+          ],
+          "origin": [
+            85.08001708984375,
+            635.3399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        645.3479614257812,
+        526.0148315429688,
+        658.6319580078125
+      ],
+      "text": "ignorando que filosofia, ciência e religião se tornam desvios aberrantes",
+      "spans": [
+        {
+          "text": "ignorando que filosofia, ciência e religião se tornam desvios aberrantes",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            645.3479614257812,
+            526.0148315429688,
+            658.6319580078125
+          ],
+          "origin": [
+            85.07998657226562,
+            656.0399780273438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        666.0479736328125,
+        525.9984741210938,
+        679.3319702148438
+      ],
+      "text": "quando divorciados. Como dominam os aparatos oficiais de elaboração de",
+      "spans": [
+        {
+          "text": "quando divorciados. Como dominam os aparatos oficiais de elaboração de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            666.0479736328125,
+            525.9984741210938,
+            679.3319702148438
+          ],
+          "origin": [
+            85.07998657226562,
+            676.739990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "43",
+      "spans": [
+        {
+          "text": "43",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

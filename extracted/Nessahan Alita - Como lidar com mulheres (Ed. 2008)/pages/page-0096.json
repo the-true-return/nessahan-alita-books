@@ -1,0 +1,927 @@
+{
+  "page_number": 96,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        191.21978759765625,
+        109.19652557373047,
+        406.9329833984375,
+        125.3594741821289
+      ],
+      "text": "13. A impossibilidade de negociação",
+      "spans": [
+        {
+          "text": "13. A impossibilidade de negociação ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            191.21978759765625,
+            109.19652557373047,
+            406.9329833984375,
+            125.3594741821289
+          ],
+          "origin": [
+            191.21978759765625,
+            121.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400894165039,
+        140.77081298828125,
+        515.37353515625,
+        156.33859252929688
+      ],
+      "text": "As \nmulheres \nespertinhas \ncostumam \nresistir \nàs \ntentativas \nde",
+      "spans": [
+        {
+          "text": "As ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400894165039,
+            140.77081298828125,
+            135.05784606933594,
+            156.33859252929688
+          ],
+          "origin": [
+            117.2400894165039,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "mulheres ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            145.34010314941406,
+            140.77081298828125,
+            198.70904541015625,
+            156.33859252929688
+          ],
+          "origin": [
+            145.34010314941406,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "espertinhas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            208.93197631835938,
+            140.77081298828125,
+            275.0658264160156,
+            156.33859252929688
+          ],
+          "origin": [
+            208.93197631835938,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "costumam ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            285.28875732421875,
+            140.77081298828125,
+            343.8486022949219,
+            156.33859252929688
+          ],
+          "origin": [
+            285.28875732421875,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "resistir ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            354.131103515625,
+            140.77081298828125,
+            396.6439208984375,
+            156.33859252929688
+          ],
+          "origin": [
+            354.131103515625,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "às ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            406.9263610839844,
+            140.77081298828125,
+            421.57122802734375,
+            156.33859252929688
+          ],
+          "origin": [
+            406.9263610839844,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "tentativas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            431.7941589355469,
+            140.77081298828125,
+            489.28179931640625,
+            156.33859252929688
+          ],
+          "origin": [
+            431.7941589355469,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            499.5047302246094,
+            140.77081298828125,
+            515.37353515625,
+            156.33859252929688
+          ],
+          "origin": [
+            499.5047302246094,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        160.8712158203125,
+        515.4085693359375,
+        176.43899536132812
+      ],
+      "text": "negociação ou conduzí-las apenas nas direções que lhes interessam. Quando",
+      "spans": [
+        {
+          "text": "negociação ou conduzí-las apenas nas direções que lhes interessam. Quando ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            160.8712158203125,
+            515.4085693359375,
+            176.43899536132812
+          ],
+          "origin": [
+            82.7400894165039,
+            173.15972900390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        181.03143310546875,
+        515.441162109375,
+        196.59921264648438
+      ],
+      "text": "a negociação toma um rumo favorável ao homem, qualificam-no de",
+      "spans": [
+        {
+          "text": "a negociação toma um rumo favorável ao homem, qualificam-no de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            181.03143310546875,
+            515.441162109375,
+            196.59921264648438
+          ],
+          "origin": [
+            82.7400894165039,
+            193.3199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        201.1318359375,
+        515.4292602539062,
+        216.69961547851562
+      ],
+      "text": "\"intransigente\" ou \"radical\", mesmo que estejam totalmente sem razão em",
+      "spans": [
+        {
+          "text": "\"intransigente\" ou \"radical\", mesmo que estejam totalmente sem razão em ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            201.1318359375,
+            515.4292602539062,
+            216.69961547851562
+          ],
+          "origin": [
+            82.7400894165039,
+            213.42034912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        221.2916259765625,
+        205.2860870361328,
+        236.85940551757812
+      ],
+      "text": "suas reinvindicações.",
+      "spans": [
+        {
+          "text": "suas reinvindicações. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            221.2916259765625,
+            205.2860870361328,
+            236.85940551757812
+          ],
+          "origin": [
+            82.7400894165039,
+            233.58013916015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400894165039,
+        253.09124755859375,
+        515.4330444335938,
+        268.6590270996094
+      ],
+      "text": "Os homens maleáveis, que cedem em pontos inaceitáveis, são vistos",
+      "spans": [
+        {
+          "text": "Os homens maleáveis, que cedem em pontos inaceitáveis, são vistos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400894165039,
+            253.09124755859375,
+            515.4330444335938,
+            268.6590270996094
+          ],
+          "origin": [
+            117.2400894165039,
+            265.3797607421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        273.191650390625,
+        515.50341796875,
+        288.7594299316406
+      ],
+      "text": "como fracos, indecisos e manipuláveis. A despeito do que digam, essas",
+      "spans": [
+        {
+          "text": "como fracos, indecisos e manipuláveis. A despeito do que digam, essas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            273.191650390625,
+            515.50341796875,
+            288.7594299316406
+          ],
+          "origin": [
+            82.7400894165039,
+            285.48016357421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        293.3514404296875,
+        515.4549560546875,
+        308.9192199707031
+      ],
+      "text": "mulheres se decidirão por aquele que se mantiver firme em seu ponto de",
+      "spans": [
+        {
+          "text": "mulheres se decidirão por aquele que se mantiver firme em seu ponto de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            293.3514404296875,
+            515.4549560546875,
+            308.9192199707031
+          ],
+          "origin": [
+            82.7400894165039,
+            305.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        313.45184326171875,
+        515.5867919921875,
+        329.0196228027344
+      ],
+      "text": "vista até o final e demonstrar não retroceder por nada, nem mesmo pelo",
+      "spans": [
+        {
+          "text": "vista até o final e demonstrar não retroceder por nada, nem mesmo pelo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            313.45184326171875,
+            515.5867919921875,
+            329.0196228027344
+          ],
+          "origin": [
+            82.7400894165039,
+            325.7403564453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        333.6120300292969,
+        515.435791015625,
+        349.1798095703125
+      ],
+      "text": "medo de perdê-las. Isso é especialmente válido para os casos das \"amizades",
+      "spans": [
+        {
+          "text": "medo de perdê-las. Isso é especialmente válido para os casos das \"amizades ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            333.6120300292969,
+            515.435791015625,
+            349.1798095703125
+          ],
+          "origin": [
+            82.7400894165039,
+            345.9005432128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        353.7124328613281,
+        260.0046081542969,
+        369.28021240234375
+      ],
+      "text": "inocentes\" com outros homens.",
+      "spans": [
+        {
+          "text": "inocentes\" com outros homens. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            353.7124328613281,
+            260.0046081542969,
+            369.28021240234375
+          ],
+          "origin": [
+            82.7400894165039,
+            366.0009460449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400894165039,
+        385.4522399902344,
+        515.4213256835938,
+        401.02001953125
+      ],
+      "text": "Se formos democráticos, bondosos, maleáveis etc. isso não será",
+      "spans": [
+        {
+          "text": "Se formos democráticos, bondosos, maleáveis etc. isso não será ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400894165039,
+            385.4522399902344,
+            515.4213256835938,
+            401.02001953125
+          ],
+          "origin": [
+            117.2400894165039,
+            397.7407531738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        405.6124267578125,
+        515.4321899414062,
+        421.1802062988281
+      ],
+      "text": "reconhecido ou visto como motivo para agradecimento mas, ao contrário,",
+      "spans": [
+        {
+          "text": "reconhecido ou visto como motivo para agradecimento mas, ao contrário, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            405.6124267578125,
+            515.4321899414062,
+            421.1802062988281
+          ],
+          "origin": [
+            82.7400894165039,
+            417.90093994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        425.71282958984375,
+        515.4761962890625,
+        441.2806091308594
+      ],
+      "text": "como uma fraqueza a ser aproveitada, uma oportunidade de se usar o outro",
+      "spans": [
+        {
+          "text": "como uma fraqueza a ser aproveitada, uma oportunidade de se usar o outro ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            425.71282958984375,
+            515.4761962890625,
+            441.2806091308594
+          ],
+          "origin": [
+            82.7400894165039,
+            438.0013427734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        445.87261962890625,
+        515.4800415039062,
+        461.4403991699219
+      ],
+      "text": "como escravo emocional. As menores aberturas serão \nrapidamente",
+      "spans": [
+        {
+          "text": "como escravo emocional. As menores aberturas serão ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            445.87261962890625,
+            434.9277648925781,
+            461.4403991699219
+          ],
+          "origin": [
+            82.7400894165039,
+            458.1611328125
+          ]
+        },
+        {
+          "text": "rapidamente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            444.31024169921875,
+            445.87261962890625,
+            515.4800415039062,
+            461.4403991699219
+          ],
+          "origin": [
+            444.31024169921875,
+            458.1611328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        465.9730224609375,
+        515.4576416015625,
+        481.5408020019531
+      ],
+      "text": "percebidas. Além disso, estaremos comunicando que não somos capazes de",
+      "spans": [
+        {
+          "text": "percebidas. Além disso, estaremos comunicando que não somos capazes de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            465.9730224609375,
+            515.4576416015625,
+            481.5408020019531
+          ],
+          "origin": [
+            82.7400894165039,
+            478.26153564453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        486.1328125,
+        257.0989685058594,
+        501.7005920410156
+      ],
+      "text": "proteger ou orientar ninguém.",
+      "spans": [
+        {
+          "text": "proteger ou orientar ninguém.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            486.1328125,
+            257.0989685058594,
+            501.7005920410156
+          ],
+          "origin": [
+            82.7400894165039,
+            498.42132568359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400894165039,
+        517.9324340820312,
+        515.4959716796875,
+        533.500244140625
+      ],
+      "text": "A essência do que tais fêmeas são é absolutamente distinta do que",
+      "spans": [
+        {
+          "text": "A essência do que tais fêmeas são é absolutamente distinta do que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400894165039,
+            517.9324340820312,
+            515.4959716796875,
+            533.500244140625
+          ],
+          "origin": [
+            117.2400894165039,
+            530.220947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7400894165039,
+        538.0925903320312,
+        515.4736328125,
+        553.660400390625
+      ],
+      "text": "elas mesmas dizem, razão pela qual devemos nos guiar apenas pelas suas",
+      "spans": [
+        {
+          "text": "elas mesmas dizem, razão pela qual devemos nos guiar apenas pelas suas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7400894165039,
+            538.0925903320312,
+            515.4736328125,
+            553.660400390625
+          ],
+          "origin": [
+            82.7400894165039,
+            550.381103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74009704589844,
+        558.1929931640625,
+        515.5265502929688,
+        573.7608032226562
+      ],
+      "text": "atitudes e nunca por suas falas absurdas fúteis. A fala é um de seus",
+      "spans": [
+        {
+          "text": "atitudes e nunca por suas falas absurdas fúteis. A fala é um de seus ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74009704589844,
+            558.1929931640625,
+            515.5265502929688,
+            573.7608032226562
+          ],
+          "origin": [
+            82.74009704589844,
+            570.4815063476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74009704589844,
+        578.352783203125,
+        394.5404357910156,
+        593.9205932617188
+      ],
+      "text": "principais mecanismos de ludibriação nas negociações.",
+      "spans": [
+        {
+          "text": "principais mecanismos de ludibriação nas negociações. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74009704589844,
+            578.352783203125,
+            394.5404357910156,
+            593.9205932617188
+          ],
+          "origin": [
+            82.74009704589844,
+            590.6412963867188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24009704589844,
+        610.1524047851562,
+        515.4549560546875,
+        625.72021484375
+      ],
+      "text": "Os verdadeiros sentimentos e intenções femininos se revelam apenas",
+      "spans": [
+        {
+          "text": "Os verdadeiros sentimentos e intenções femininos se revelam apenas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24009704589844,
+            610.1524047851562,
+            515.4549560546875,
+            625.72021484375
+          ],
+          "origin": [
+            117.24009704589844,
+            622.44091796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74009704589844,
+        630.2528076171875,
+        515.4064331054688,
+        645.8206176757812
+      ],
+      "text": "nas situações extremas em que são colocados à prova. Fora deste âmbito,",
+      "spans": [
+        {
+          "text": "nas situações extremas em que são colocados à prova. Fora deste âmbito, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74009704589844,
+            630.2528076171875,
+            515.4064331054688,
+            645.8206176757812
+          ],
+          "origin": [
+            82.74009704589844,
+            642.5413208007812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74009704589844,
+        650.41259765625,
+        515.5120239257812,
+        665.9804077148438
+      ],
+      "text": "tudo será confuso, absurdo e contraditório. Por estes motivos, é melhor",
+      "spans": [
+        {
+          "text": "tudo será confuso, absurdo e contraditório. Por estes motivos, é melhor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74009704589844,
+            650.41259765625,
+            515.5120239257812,
+            665.9804077148438
+          ],
+          "origin": [
+            82.74009704589844,
+            662.7011108398438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74009704589844,
+        670.5130004882812,
+        421.56451416015625,
+        686.080810546875
+      ],
+      "text": "comunicar-lhes condições do que contar com compreensão.",
+      "spans": [
+        {
+          "text": "comunicar-lhes condições do que contar com compreensão.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74009704589844,
+            670.5130004882812,
+            421.56451416015625,
+            686.080810546875
+          ],
+          "origin": [
+            82.74009704589844,
+            682.801513671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "96",
+      "spans": [
+        {
+          "text": "96",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

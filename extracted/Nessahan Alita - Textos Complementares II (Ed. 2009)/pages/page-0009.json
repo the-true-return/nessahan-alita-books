@@ -1,0 +1,1178 @@
+{
+  "page_number": 9,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        450.1660461425781,
+        92.95938110351562
+      ],
+      "text": "5. Principais artimanhas e as soluções correspondentes",
+      "spans": [
+        {
+          "text": "5. Principais artimanhas e as soluções correspondentes ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            450.1660461425781,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        105.28767395019531,
+        513.33447265625,
+        132.3716583251953
+      ],
+      "text": "Segue uma lista das artimanhas mais comuns nos joguinhos femininos e dos \nprincipais meios de nos prevenirmos e de desarticulá-las.",
+      "spans": [
+        {
+          "text": "Segue uma lista das artimanhas mais comuns nos joguinhos femininos e dos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.33447265625,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "principais meios de nos prevenirmos e de desarticulá-las. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            119.08766174316406,
+            362.08905029296875,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08001708984375,
+            129.7796630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16001892089844,
+        170.80767822265625,
+        394.7232360839844,
+        184.87167358398438
+      ],
+      "text": "Artimanha \nSolução",
+      "spans": [
+        {
+          "text": "Artimanha ",
+          "font": "BookmanOldStyle",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16001892089844,
+            170.80767822265625,
+            149.62921142578125,
+            184.87167358398438
+          ],
+          "origin": [
+            83.16001892089844,
+            182.09967041015625
+          ]
+        },
+        {
+          "text": "Solução ",
+          "font": "BookmanOldStyle",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5716247558594,
+            170.80767822265625,
+            394.7232360839844,
+            184.87167358398438
+          ],
+          "origin": [
+            344.5716247558594,
+            182.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        197.44769287109375,
+        417.2519836425781,
+        211.0677032470703
+      ],
+      "text": "Desaparecimento súbito \nAntecipação3",
+      "spans": [
+        {
+          "text": "Desaparecimento súbito ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            197.44769287109375,
+            214.54684448242188,
+            211.0677032470703
+          ],
+          "origin": [
+            83.16000366210938,
+            208.439697265625
+          ]
+        },
+        {
+          "text": "Antecipação",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5559997558594,
+            197.44769287109375,
+            409.4759826660156,
+            211.0677032470703
+          ],
+          "origin": [
+            344.5559997558594,
+            208.439697265625
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            409.9800109863281,
+            198.13002014160156,
+            414.3849792480469,
+            207.18731689453125
+          ],
+          "origin": [
+            409.9800109863281,
+            205.439697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        223.06768798828125,
+        436.2687072753906,
+        236.6876983642578
+      ],
+      "text": "Encurralamento4",
+      "spans": [
+        {
+          "text": "Encurralamento",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            223.06768798828125,
+            431.2607727050781,
+            236.6876983642578
+          ],
+          "origin": [
+            344.5799865722656,
+            234.0596923828125
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            431.760009765625,
+            223.75001525878906,
+            436.2687072753906,
+            232.80731201171875
+          ],
+          "origin": [
+            431.760009765625,
+            231.0596923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        249.22772216796875,
+        412.2743835449219,
+        262.84771728515625
+      ],
+      "text": "Pedir o número do telefone e não ligar \nAntecipação",
+      "spans": [
+        {
+          "text": "Pedir o número do telefone e não ligar ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            249.22772216796875,
+            288.069580078125,
+            262.84771728515625
+          ],
+          "origin": [
+            83.16000366210938,
+            260.2197265625
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.447998046875,
+            249.22772216796875,
+            412.2743835449219,
+            262.84771728515625
+          ],
+          "origin": [
+            344.447998046875,
+            260.2197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        274.84771728515625,
+        434.18402099609375,
+        288.46771240234375
+      ],
+      "text": "Encurralamento",
+      "spans": [
+        {
+          "text": "Encurralamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            274.84771728515625,
+            434.18402099609375,
+            288.46771240234375
+          ],
+          "origin": [
+            344.5799865722656,
+            285.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        300.5277099609375,
+        468.07342529296875,
+        314.147705078125
+      ],
+      "text": "Insistência inesperada5",
+      "spans": [
+        {
+          "text": "Insistência inesperada",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            300.5277099609375,
+            463.3655700683594,
+            314.147705078125
+          ],
+          "origin": [
+            344.5799865722656,
+            311.51971435546875
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            463.8599853515625,
+            301.21002197265625,
+            468.07342529296875,
+            310.267333984375
+          ],
+          "origin": [
+            463.8599853515625,
+            308.51971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        326.627685546875,
+        412.31280517578125,
+        340.2476806640625
+      ],
+      "text": "Fornecer o número do telefone e não atender \nAntecipação",
+      "spans": [
+        {
+          "text": "Fornecer o número do telefone e não atender ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            326.627685546875,
+            323.9532470703125,
+            340.2476806640625
+          ],
+          "origin": [
+            83.16000366210938,
+            337.61968994140625
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.4599914550781,
+            326.627685546875,
+            412.31280517578125,
+            340.2476806640625
+          ],
+          "origin": [
+            344.4599914550781,
+            337.61968994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        352.2476806640625,
+        434.18402099609375,
+        365.86767578125
+      ],
+      "text": "Encurralamento",
+      "spans": [
+        {
+          "text": "Encurralamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            352.2476806640625,
+            434.18402099609375,
+            365.86767578125
+          ],
+          "origin": [
+            344.5799865722656,
+            363.23968505859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        378.4076843261719,
+        412.3320007324219,
+        392.0276794433594
+      ],
+      "text": "Adiamento infinito \nAntecipação",
+      "spans": [
+        {
+          "text": "Adiamento infinito ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            378.4076843261719,
+            186.74159240722656,
+            392.0276794433594
+          ],
+          "origin": [
+            83.16000366210938,
+            389.3996887207031
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5320129394531,
+            378.4076843261719,
+            412.3320007324219,
+            392.0276794433594
+          ],
+          "origin": [
+            344.5320129394531,
+            389.3996887207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        404.0276794433594,
+        410.8919982910156,
+        417.647705078125
+      ],
+      "text": "Ultimatum6",
+      "spans": [
+        {
+          "text": "Ultimatum",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            404.0276794433594,
+            402.96240234375,
+            417.6476745605469
+          ],
+          "origin": [
+            344.58001708984375,
+            415.0196838378906
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            403.5,
+            404.71002197265625,
+            408.0166931152344,
+            413.767333984375
+          ],
+          "origin": [
+            403.5,
+            412.01971435546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        429.647705078125,
+        466.2109069824219,
+        443.2677001953125
+      ],
+      "text": "Insistência inesperada",
+      "spans": [
+        {
+          "text": "Insistência inesperada ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            429.647705078125,
+            466.2109069824219,
+            443.2677001953125
+          ],
+          "origin": [
+            344.58001708984375,
+            440.63970947265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        455.8077087402344,
+        412.3595886230469,
+        469.4277038574219
+      ],
+      "text": "Provocar o desejo e fugir \nAntecipação",
+      "spans": [
+        {
+          "text": "Provocar o desejo e fugir ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            455.8077087402344,
+            216.43800354003906,
+            469.4277038574219
+          ],
+          "origin": [
+            83.16000366210938,
+            466.7997131347656
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.52001953125,
+            455.8077087402344,
+            412.3595886230469,
+            469.4277038574219
+          ],
+          "origin": [
+            344.52001953125,
+            466.7997131347656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.58001708984375,
+        481.4277038574219,
+        434.1840515136719,
+        495.0476989746094
+      ],
+      "text": "Encurralamento",
+      "spans": [
+        {
+          "text": "Encurralamento ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.58001708984375,
+            481.4277038574219,
+            434.1840515136719,
+            495.0476989746094
+          ],
+          "origin": [
+            344.58001708984375,
+            492.4197082519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        507.58770751953125,
+        412.3824157714844,
+        521.2077026367188
+      ],
+      "text": "Provocar o desejo e frustrar \nAntecipação",
+      "spans": [
+        {
+          "text": "Provocar o desejo e frustrar ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            507.58770751953125,
+            232.00794982910156,
+            521.2077026367188
+          ],
+          "origin": [
+            83.16000366210938,
+            518.5797119140625
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5559997558594,
+            507.58770751953125,
+            412.3824157714844,
+            521.2077026367188
+          ],
+          "origin": [
+            344.5559997558594,
+            518.5797119140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        533.2075805664062,
+        404.35198974609375,
+        546.8276977539062
+      ],
+      "text": "Ceticismo7",
+      "spans": [
+        {
+          "text": "Ceticismo",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            533.2077026367188,
+            396.94317626953125,
+            546.8276977539062
+          ],
+          "origin": [
+            344.5799865722656,
+            544.19970703125
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            397.44000244140625,
+            533.889892578125,
+            401.4459533691406,
+            542.9472045898438
+          ],
+          "origin": [
+            397.44000244140625,
+            541.1995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        344.5799865722656,
+        558.8275756835938,
+        448.15606689453125,
+        572.4475708007812
+      ],
+      "text": "Desmascaramento8",
+      "spans": [
+        {
+          "text": "Desmascaramento",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.5799865722656,
+            558.8275756835938,
+            442.90081787109375,
+            572.4475708007812
+          ],
+          "origin": [
+            344.5799865722656,
+            569.819580078125
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Georgia",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            443.3999938964844,
+            559.5098876953125,
+            448.15606689453125,
+            568.5671997070312
+          ],
+          "origin": [
+            443.3999938964844,
+            566.819580078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        83.16000366210938,
+        584.9877319335938,
+        412.3103942871094,
+        598.6077270507812
+      ],
+      "text": "Provocar o desejo para acusar de assédio \nAntecipação",
+      "spans": [
+        {
+          "text": "Provocar o desejo para acusar de assédio ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            83.16000366210938,
+            584.9877319335938,
+            301.2431335449219,
+            598.6077270507812
+          ],
+          "origin": [
+            83.16000366210938,
+            595.979736328125
+          ]
+        },
+        {
+          "text": "Antecipação ",
+          "font": "Georgia",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.4840087890625,
+            584.9877319335938,
+            412.3103942871094,
+            598.6077270507812
+          ],
+          "origin": [
+            344.4840087890625,
+            595.979736328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.073974609375,
+        623.087646484375,
+        512.6329956054688,
+        770.78369140625
+      ],
+      "text": "3 Esta estratégia consiste em informar antecipadamente à mulher que estamos cientes dos fatos desagradáveis que \nestão por vir, de modo a mostrar-lhe que já os esperamos e não seremos surpreendidos. A comunicação antecipada \nesvazia o sentido da artimanha porque a mesma necessita da surpresa para exercer seu efeito frustrante.   \n4 Consiste em criar uma situação definitiva em que até mesmo condutas altamente ambíguas revelem intenções reais \nocultas por trás de comportamentos dissimulados. Exemplo: “Se você não me telefonar em três dias não precisa me \nligar nunca mais.” \n5 Trata-se de uma insistência em direção ao pólo negativo do problema, isto é, ao pólo que, para nós, é indesejável. \nElas jamais esperam que forcemos nesta direção! \n6 Consiste em dar um prazo para que a pessoa adote uma atitude clara, após o qual adotaremos medidas unilaterais \nque resolvam o problema. É uma forma de encurralamento. \n7 Consiste em não se acreditar em nada do que a pessoa diz ou promete, considerando antecipadamente tudo mentira, \naté prova em contrário. \n8 Consiste em explicitar aquilo que se está vendo e que a pessoa julga estar escondendo. Deve ser amigável.",
+      "spans": [
+        {
+          "text": "3",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            635.3336791992188,
+            88.08000183105469,
+            641.9757080078125
+          ],
+          "origin": [
+            85.08000183105469,
+            640.6796875
+          ]
+        },
+        {
+          "text": " Esta estratégia consiste em informar antecipadamente à mulher que estamos cientes dos fatos desagradáveis que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            636.6807250976562,
+            512.6329956054688,
+            646.6436767578125
+          ],
+          "origin": [
+            88.08000183105469,
+            644.69970703125
+          ]
+        },
+        {
+          "text": "estão por vir, de modo a mostrar-lhe que já os esperamos e não seremos surpreendidos. A comunicação antecipada ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08300018310547,
+            647.0037231445312,
+            512.6127319335938,
+            656.9666748046875
+          ],
+          "origin": [
+            85.08300018310547,
+            655.022705078125
+          ]
+        },
+        {
+          "text": "esvazia o sentido da artimanha porque a mesma necessita da surpresa para exercer seu efeito frustrante.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0830078125,
+            657.3267211914062,
+            463.8709411621094,
+            667.2896728515625
+          ],
+          "origin": [
+            85.0830078125,
+            665.345703125
+          ]
+        },
+        {
+          "text": "4",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            666.3536987304688,
+            88.08000183105469,
+            672.9957275390625
+          ],
+          "origin": [
+            85.08000183105469,
+            671.69970703125
+          ]
+        },
+        {
+          "text": " Consiste em criar uma situação definitiva em que até mesmo condutas altamente ambíguas revelem intenções reais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            667.7007446289062,
+            512.48486328125,
+            677.6636962890625
+          ],
+          "origin": [
+            88.08000183105469,
+            675.7197265625
+          ]
+        },
+        {
+          "text": "ocultas por trás de comportamentos dissimulados. Exemplo: “Se você não me telefonar em três dias não precisa me ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07400512695312,
+            678.0237426757812,
+            512.60107421875,
+            687.9866943359375
+          ],
+          "origin": [
+            85.07400512695312,
+            686.042724609375
+          ]
+        },
+        {
+          "text": "ligar nunca mais.” ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.073974609375,
+            688.4006958007812,
+            153.11038208007812,
+            698.3636474609375
+          ],
+          "origin": [
+            85.073974609375,
+            696.419677734375
+          ]
+        },
+        {
+          "text": "5",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            697.3737182617188,
+            88.08000183105469,
+            704.0157470703125
+          ],
+          "origin": [
+            85.08000183105469,
+            702.7197265625
+          ]
+        },
+        {
+          "text": " Trata-se de uma insistência em direção ao pólo negativo do problema, isto é, ao pólo que, para nós, é indesejável. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            698.720703125,
+            512.6102905273438,
+            708.6836547851562
+          ],
+          "origin": [
+            88.08000183105469,
+            706.7396850585938
+          ]
+        },
+        {
+          "text": "Elas jamais esperam que forcemos nesta direção! ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0830078125,
+            709.0977172851562,
+            264.24163818359375,
+            719.0606689453125
+          ],
+          "origin": [
+            85.0830078125,
+            717.11669921875
+          ]
+        },
+        {
+          "text": "6",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            718.0736083984375,
+            88.08000183105469,
+            724.7156372070312
+          ],
+          "origin": [
+            85.08000183105469,
+            723.4196166992188
+          ]
+        },
+        {
+          "text": " Consiste em dar um prazo para que a pessoa adote uma atitude clara, após o qual adotaremos medidas unilaterais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            719.4207153320312,
+            512.5416259765625,
+            729.3836669921875
+          ],
+          "origin": [
+            88.08000183105469,
+            727.439697265625
+          ]
+        },
+        {
+          "text": "que resolvam o problema. É uma forma de encurralamento. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08294677734375,
+            729.7977294921875,
+            301.39813232421875,
+            739.7606811523438
+          ],
+          "origin": [
+            85.08294677734375,
+            737.8167114257812
+          ]
+        },
+        {
+          "text": "7",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            738.773681640625,
+            88.08000183105469,
+            745.4157104492188
+          ],
+          "origin": [
+            85.08000183105469,
+            744.1196899414062
+          ]
+        },
+        {
+          "text": " Consiste em não se acreditar em nada do que a pessoa diz ou promete, considerando antecipadamente tudo mentira, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            740.12060546875,
+            512.5909423828125,
+            750.0835571289062
+          ],
+          "origin": [
+            88.08000183105469,
+            748.1395874023438
+          ]
+        },
+        {
+          "text": "até prova em contrário. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0830078125,
+            750.4976196289062,
+            170.9268341064453,
+            760.4605712890625
+          ],
+          "origin": [
+            85.0830078125,
+            758.5166015625
+          ]
+        },
+        {
+          "text": "8",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            759.4736938476562,
+            88.08000183105469,
+            766.11572265625
+          ],
+          "origin": [
+            85.08000183105469,
+            764.8197021484375
+          ]
+        },
+        {
+          "text": " Consiste em explicitar aquilo que se está vendo e que a pessoa julga estar escondendo. Deve ser amigável. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.08000183105469,
+            760.8207397460938,
+            475.3096008300781,
+            770.78369140625
+          ],
+          "origin": [
+            88.08000183105469,
+            768.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "9",
+      "spans": [
+        {
+          "text": "9",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            504.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            504.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

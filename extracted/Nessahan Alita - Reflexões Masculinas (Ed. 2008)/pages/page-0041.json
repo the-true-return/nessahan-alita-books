@@ -1,0 +1,864 @@
+{
+  "page_number": 41,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        71.5555191040039,
+        526.915283203125,
+        87.21552276611328
+      ],
+      "text": "mulheres são completamente distintas desse modelo ideal. A",
+      "spans": [
+        {
+          "text": "mulheres são completamente distintas desse modelo ideal. A",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            71.5555191040039,
+            526.915283203125,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        96.2754898071289,
+        526.67529296875,
+        111.93549346923828
+      ],
+      "text": "mulher idealizada dos nossos sonhos não existe, é uma farsa,",
+      "spans": [
+        {
+          "text": "mulher idealizada dos nossos sonhos não existe, é uma farsa,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            96.2754898071289,
+            526.67529296875,
+            111.93549346923828
+          ],
+          "origin": [
+            84.95999908447266,
+            108.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        120.7554702758789,
+        526.8480224609375,
+        136.41546630859375
+      ],
+      "text": "uma mentira. Aquele que não aceita esta realidade enlouquece",
+      "spans": [
+        {
+          "text": "uma mentira. Aquele que não aceita esta realidade enlouquece",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            120.7554702758789,
+            526.8480224609375,
+            136.41546630859375
+          ],
+          "origin": [
+            84.95999908447266,
+            133.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        145.47544860839844,
+        526.8193969726562,
+        161.13543701171875
+      ],
+      "text": "cedo ou tarde. Cedo ou tarde será chocado pelos fatos, e seus",
+      "spans": [
+        {
+          "text": "cedo ou tarde. Cedo ou tarde será chocado pelos fatos, e seus",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            145.47544860839844,
+            526.8193969726562,
+            161.13543701171875
+          ],
+          "origin": [
+            84.95999908447266,
+            157.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        170.19541931152344,
+        526.6657104492188,
+        185.85540771484375
+      ],
+      "text": "sonhos \nmatrixianos \nabsurdos \nserão \ndespedaçados \npela",
+      "spans": [
+        {
+          "text": "sonhos ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            170.19541931152344,
+            137.8944091796875,
+            185.85540771484375
+          ],
+          "origin": [
+            84.95999908447266,
+            182.639892578125
+          ]
+        },
+        {
+          "text": "matrixianos ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            150.9600067138672,
+            170.19541931152344,
+            236.7840118408203,
+            185.85540771484375
+          ],
+          "origin": [
+            150.9600067138672,
+            182.639892578125
+          ]
+        },
+        {
+          "text": "absurdos ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            250.089599609375,
+            170.19541931152344,
+            318.12481689453125,
+            185.85540771484375
+          ],
+          "origin": [
+            250.089599609375,
+            182.639892578125
+          ]
+        },
+        {
+          "text": "serão ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            331.430419921875,
+            170.19541931152344,
+            372.3648376464844,
+            185.85540771484375
+          ],
+          "origin": [
+            331.430419921875,
+            182.639892578125
+          ]
+        },
+        {
+          "text": "despedaçados ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            385.6704406738281,
+            170.19541931152344,
+            485.1361083984375,
+            185.85540771484375
+          ],
+          "origin": [
+            385.6704406738281,
+            182.639892578125
+          ]
+        },
+        {
+          "text": "pela",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.44171142578125,
+            170.19541931152344,
+            526.6657104492188,
+            185.85540771484375
+          ],
+          "origin": [
+            498.44171142578125,
+            182.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        194.67539978027344,
+        526.84814453125,
+        210.33538818359375
+      ],
+      "text": "realidade que será violentamente lançada em seu rosto. Aqueles",
+      "spans": [
+        {
+          "text": "realidade que será violentamente lançada em seu rosto. Aqueles",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            194.67539978027344,
+            526.84814453125,
+            210.33538818359375
+          ],
+          "origin": [
+            84.95999908447266,
+            207.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        219.39537048339844,
+        526.6367797851562,
+        235.05535888671875
+      ],
+      "text": "que não saem da ilusão antecipadamente e por vontade própria,",
+      "spans": [
+        {
+          "text": "que não saem da ilusão antecipadamente e por vontade própria,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            219.39537048339844,
+            526.6367797851562,
+            235.05535888671875
+          ],
+          "origin": [
+            84.95999908447266,
+            231.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        244.11534118652344,
+        526.9056396484375,
+        259.77532958984375
+      ],
+      "text": "por meio da dissolução do eu, normalmente não suportam o",
+      "spans": [
+        {
+          "text": "por meio da dissolução do eu, normalmente não suportam o",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            244.11534118652344,
+            526.9056396484375,
+            259.77532958984375
+          ],
+          "origin": [
+            84.95999908447266,
+            256.559814453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        268.8353271484375,
+        526.7904663085938,
+        284.4953308105469
+      ],
+      "text": "choque da realidade. É quando podem sofrer os surtos nervosos",
+      "spans": [
+        {
+          "text": "choque da realidade. É quando podem sofrer os surtos nervosos",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            268.8353271484375,
+            526.7904663085938,
+            284.4953308105469
+          ],
+          "origin": [
+            84.95999908447266,
+            281.2798156738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        293.3153381347656,
+        346.4831848144531,
+        308.975341796875
+      ],
+      "text": "tais como a “battered man syndrome”.",
+      "spans": [
+        {
+          "text": "tais como a “battered man syndrome”.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            293.3153381347656,
+            346.4831848144531,
+            308.975341796875
+          ],
+          "origin": [
+            84.95999908447266,
+            305.75982666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        330.03533935546875,
+        526.857666015625,
+        345.6953430175781
+      ],
+      "text": "Somente aqueles que dissolveram todas as expectativas",
+      "spans": [
+        {
+          "text": "Somente aqueles que dissolveram todas as expectativas",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            330.03533935546875,
+            526.857666015625,
+            345.6953430175781
+          ],
+          "origin": [
+            120.47999572753906,
+            342.4798278808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        354.7553405761719,
+        526.6849365234375,
+        370.41534423828125
+      ],
+      "text": "pueris e idílicas, que se tornaram capazes de aceitar a crua",
+      "spans": [
+        {
+          "text": "pueris e idílicas, que se tornaram capazes de aceitar a crua",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            354.7553405761719,
+            526.6849365234375,
+            370.41534423828125
+          ],
+          "origin": [
+            84.95999145507812,
+            367.1998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        379.2353515625,
+        526.84814453125,
+        394.8953552246094
+      ],
+      "text": "realidade da perversidade do ego feminino (e também do",
+      "spans": [
+        {
+          "text": "realidade da perversidade do ego feminino (e também do",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            379.2353515625,
+            526.84814453125,
+            394.8953552246094
+          ],
+          "origin": [
+            84.95999145507812,
+            391.6798400878906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        403.9553527832031,
+        526.6753540039062,
+        419.6153564453125
+      ],
+      "text": "masculino, mas aqui estamos tratando do ego das mulheres),",
+      "spans": [
+        {
+          "text": "masculino, mas aqui estamos tratando do ego das mulheres),",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            403.9553527832031,
+            526.6753540039062,
+            419.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            416.39984130859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        428.67535400390625,
+        526.83837890625,
+        444.3353576660156
+      ],
+      "text": "sem se debaterem contra o inevitável, é que são capazes de",
+      "spans": [
+        {
+          "text": "sem se debaterem contra o inevitável, é que são capazes de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            428.67535400390625,
+            526.83837890625,
+            444.3353576660156
+          ],
+          "origin": [
+            84.95999145507812,
+            441.1198425292969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        453.3953552246094,
+        526.6080322265625,
+        469.05535888671875
+      ],
+      "text": "conviver com as mulheres sem enlouquecer e sem se auto-",
+      "spans": [
+        {
+          "text": "conviver com as mulheres sem enlouquecer e sem se auto-",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            453.3953552246094,
+            526.6080322265625,
+            469.05535888671875
+          ],
+          "origin": [
+            84.95999145507812,
+            465.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        477.8753662109375,
+        164.2751922607422,
+        493.5353698730469
+      ],
+      "text": "destruírem.",
+      "spans": [
+        {
+          "text": "destruírem.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            477.8753662109375,
+            164.2751922607422,
+            493.5353698730469
+          ],
+          "origin": [
+            84.95999145507812,
+            490.3198547363281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        514.5953979492188,
+        526.8385009765625,
+        530.25537109375
+      ],
+      "text": "A morte do nosso ego é a morte das expectativas, dos",
+      "spans": [
+        {
+          "text": "A morte do nosso ego é a morte das expectativas, dos",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            514.5953979492188,
+            526.8385009765625,
+            530.25537109375
+          ],
+          "origin": [
+            120.47999572753906,
+            527.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        539.3154296875,
+        526.6463012695312,
+        554.9754028320312
+      ],
+      "text": "desejos e também dos sonhos e ilusões. A dor emocional provém",
+      "spans": [
+        {
+          "text": "desejos e também dos sonhos e ilusões. A dor emocional provém",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            539.3154296875,
+            526.6463012695312,
+            554.9754028320312
+          ],
+          "origin": [
+            84.95999145507812,
+            551.7598876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        563.79541015625,
+        526.8287963867188,
+        579.4553833007812
+      ],
+      "text": "da oposição entre realidade e desejo. Quando aceitamos",
+      "spans": [
+        {
+          "text": "da oposição entre realidade e desejo. Quando aceitamos",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            563.79541015625,
+            526.8287963867188,
+            579.4553833007812
+          ],
+          "origin": [
+            84.95999145507812,
+            576.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        588.515380859375,
+        526.8480834960938,
+        604.1753540039062
+      ],
+      "text": "conscientemente o inevitável, e não desperdiçamos esforços",
+      "spans": [
+        {
+          "text": "conscientemente o inevitável, e não desperdiçamos esforços",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            588.515380859375,
+            526.8480834960938,
+            604.1753540039062
+          ],
+          "origin": [
+            84.95999145507812,
+            600.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        613.2354125976562,
+        526.6751708984375,
+        628.8953857421875
+      ],
+      "text": "esmurrando facas, deixamos de sofrer porque passamos a viver",
+      "spans": [
+        {
+          "text": "esmurrando facas, deixamos de sofrer porque passamos a viver",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            613.2354125976562,
+            526.6751708984375,
+            628.8953857421875
+          ],
+          "origin": [
+            84.95999145507812,
+            625.6798706054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        637.9553833007812,
+        425.8848571777344,
+        653.6153564453125
+      ],
+      "text": "em sintonia com a realidade, e não com mentiras.",
+      "spans": [
+        {
+          "text": "em sintonia com a realidade, e não com mentiras.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            637.9553833007812,
+            425.8848571777344,
+            653.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            650.3998413085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        674.4354248046875,
+        526.84814453125,
+        690.0953979492188
+      ],
+      "text": "Os matrixianos, em sua desesperada tentativa de se",
+      "spans": [
+        {
+          "text": "Os matrixianos, em sua desesperada tentativa de se",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            674.4354248046875,
+            526.84814453125,
+            690.0953979492188
+          ],
+          "origin": [
+            120.47999572753906,
+            686.8798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        699.1553955078125,
+        526.8289184570312,
+        714.8153686523438
+      ],
+      "text": "evadirem da realidade, em geral optam por dois caminhos: 1)",
+      "spans": [
+        {
+          "text": "evadirem da realidade, em geral optam por dois caminhos: 1)",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            699.1553955078125,
+            526.8289184570312,
+            714.8153686523438
+          ],
+          "origin": [
+            84.95999145507812,
+            711.599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.139892578125,
+            239.9760284423828,
+            782.5438842773438
+          ],
+          "origin": [
+            17.99999237060547,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

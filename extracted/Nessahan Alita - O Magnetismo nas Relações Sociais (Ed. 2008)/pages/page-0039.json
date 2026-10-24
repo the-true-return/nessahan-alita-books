@@ -1,0 +1,1206 @@
+{
+  "page_number": 39,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.20802307128906,
+        526.0641479492188,
+        84.49202728271484
+      ],
+      "text": "As \nrespostas \ncorretas \nexistem \npreviamente \nem \nnossa \npsique",
+      "spans": [
+        {
+          "text": "As ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20802307128906,
+            138.8592071533203,
+            84.49202728271484
+          ],
+          "origin": [
+            120.54000091552734,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "respostas ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            148.97882080078125,
+            71.20802307128906,
+            204.94683837890625,
+            84.49202728271484
+          ],
+          "origin": [
+            148.97882080078125,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "corretas ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            215.0664520263672,
+            71.20802307128906,
+            264.0888366699219,
+            84.49202728271484
+          ],
+          "origin": [
+            215.0664520263672,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "existem ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            274.20843505859375,
+            71.20802307128906,
+            321.4823913574219,
+            84.49202728271484
+          ],
+          "origin": [
+            274.20843505859375,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "previamente ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            331.6067810058594,
+            71.20802307128906,
+            405.03106689453125,
+            84.49202728271484
+          ],
+          "origin": [
+            331.6067810058594,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "em ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            415.15545654296875,
+            71.20802307128906,
+            434.7622375488281,
+            84.49202728271484
+          ],
+          "origin": [
+            415.15545654296875,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "nossa ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            444.8866271972656,
+            71.20802307128906,
+            479.632568359375,
+            84.49202728271484
+          ],
+          "origin": [
+            444.8866271972656,
+            81.9000244140625
+          ]
+        },
+        {
+          "text": "psique",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            489.7569580078125,
+            71.20802307128906,
+            526.0641479492188,
+            84.49202728271484
+          ],
+          "origin": [
+            489.7569580078125,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        91.90803527832031,
+        526.0177612304688,
+        105.1920394897461
+      ],
+      "text": "inconsciente. A dificuldade reside em extraí-las pois, durante as discussões,",
+      "spans": [
+        {
+          "text": "inconsciente. A dificuldade reside em extraí-las pois, durante as discussões,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            91.90803527832031,
+            526.0177612304688,
+            105.1920394897461
+          ],
+          "origin": [
+            85.08001708984375,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        112.60804748535156,
+        290.04241943359375,
+        125.89205169677734
+      ],
+      "text": "nos paralisamos ao tentar criá-las.",
+      "spans": [
+        {
+          "text": "nos paralisamos ao tentar criá-las.  ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            112.60804748535156,
+            290.04241943359375,
+            125.89205169677734
+          ],
+          "origin": [
+            85.08001708984375,
+            123.300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        145.30799865722656,
+        526.0654907226562,
+        158.5919952392578
+      ],
+      "text": "Nas discussões há um forte substrato emocional que é preponderante",
+      "spans": [
+        {
+          "text": "Nas discussões há um forte substrato emocional que é preponderante",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            145.30799865722656,
+            526.0654907226562,
+            158.5919952392578
+          ],
+          "origin": [
+            120.54000091552734,
+            156.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        166.0080108642578,
+        526.0611572265625,
+        179.29200744628906
+      ],
+      "text": "na definição de seus desfechos. Ao contrário das aparências em que todos",
+      "spans": [
+        {
+          "text": "na definição de seus desfechos. Ao contrário das aparências em que todos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            166.0080108642578,
+            526.0611572265625,
+            179.29200744628906
+          ],
+          "origin": [
+            85.07998657226562,
+            176.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        186.70802307128906,
+        525.9503784179688,
+        199.9920196533203
+      ],
+      "text": "acreditam, o que determina quem as vence é a convicção de estar com a",
+      "spans": [
+        {
+          "text": "acreditam, o que determina quem as vence é a convicção de estar com a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            186.70802307128906,
+            525.9503784179688,
+            199.9920196533203
+          ],
+          "origin": [
+            85.07998657226562,
+            197.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        207.4080352783203,
+        526.0498657226562,
+        220.69203186035156
+      ],
+      "text": "razão e a capacidade de ser mais frio, direto e objetivo do que o outro.",
+      "spans": [
+        {
+          "text": "razão e a capacidade de ser mais frio, direto e objetivo do que o outro.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            207.4080352783203,
+            526.0498657226562,
+            220.69203186035156
+          ],
+          "origin": [
+            85.07998657226562,
+            218.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        228.10804748535156,
+        526.129150390625,
+        241.3920440673828
+      ],
+      "text": "Preocupe-se em ser superior ao seu oponente em calma e frieza. Deixe que",
+      "spans": [
+        {
+          "text": "Preocupe-se em ser superior ao seu oponente em calma e frieza. Deixe que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            228.10804748535156,
+            526.129150390625,
+            241.3920440673828
+          ],
+          "origin": [
+            85.07998657226562,
+            238.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        248.8080596923828,
+        526.0992431640625,
+        262.0920715332031
+      ],
+      "text": "ele enlouqueça. Esteja presciente contra reações violentas e as receba com",
+      "spans": [
+        {
+          "text": "ele enlouqueça. Esteja presciente contra reações violentas e as receba com",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            248.8080596923828,
+            526.0992431640625,
+            262.0920715332031
+          ],
+          "origin": [
+            85.07998657226562,
+            259.50006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        269.5080871582031,
+        525.9788818359375,
+        282.7920837402344
+      ],
+      "text": "naturalidade. Não se deixe ser atingido por gritos ou tentativas de",
+      "spans": [
+        {
+          "text": "naturalidade. Não se deixe ser atingido por gritos ou tentativas de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            269.5080871582031,
+            525.9788818359375,
+            282.7920837402344
+          ],
+          "origin": [
+            85.08001708984375,
+            280.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        290.2080993652344,
+        159.8184051513672,
+        303.4920959472656
+      ],
+      "text": "humilhações.",
+      "spans": [
+        {
+          "text": "humilhações.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            290.2080993652344,
+            159.8184051513672,
+            303.4920959472656
+          ],
+          "origin": [
+            85.08001708984375,
+            300.90008544921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        322.8480224609375,
+        526.044189453125,
+        336.13201904296875
+      ],
+      "text": "As discussões são jogos: cada uma das partes tenta atingir a outra ao",
+      "spans": [
+        {
+          "text": "As discussões são jogos: cada uma das partes tenta atingir a outra ao",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            322.8480224609375,
+            526.044189453125,
+            336.13201904296875
+          ],
+          "origin": [
+            120.54000091552734,
+            333.5400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        343.54803466796875,
+        280.1471252441406,
+        356.83203125
+      ],
+      "text": "máximo e ser atingida ao mínimo.",
+      "spans": [
+        {
+          "text": "máximo e ser atingida ao mínimo.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            343.54803466796875,
+            280.1471252441406,
+            356.83203125
+          ],
+          "origin": [
+            85.07998657226562,
+            354.2400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        376.2480163574219,
+        526.0462036132812,
+        389.5320129394531
+      ],
+      "text": "Há vários egos que nos tornam vulneráveis: a preocupação com o que",
+      "spans": [
+        {
+          "text": "Há vários egos que nos tornam vulneráveis: a preocupação com o que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            376.2480163574219,
+            526.0462036132812,
+            389.5320129394531
+          ],
+          "origin": [
+            120.54000091552734,
+            386.94000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        396.9480285644531,
+        525.9627685546875,
+        410.2320251464844
+      ],
+      "text": "o outro pode estar pensando, o desejo de fazê-lo reconhecer seus erros, o",
+      "spans": [
+        {
+          "text": "o outro pode estar pensando, o desejo de fazê-lo reconhecer seus erros, o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            396.9480285644531,
+            525.9627685546875,
+            410.2320251464844
+          ],
+          "origin": [
+            85.08001708984375,
+            407.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        417.6480407714844,
+        525.929931640625,
+        430.9320373535156
+      ],
+      "text": "medo de sermos expostos ao ridículo, a impaciência ante suas rajadas de",
+      "spans": [
+        {
+          "text": "medo de sermos expostos ao ridículo, a impaciência ante suas rajadas de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            417.6480407714844,
+            525.929931640625,
+            430.9320373535156
+          ],
+          "origin": [
+            85.08004760742188,
+            428.34002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        438.3480529785156,
+        526.0635986328125,
+        451.6320495605469
+      ],
+      "text": "palavras etc. etc. etc. Todos nos vulnerabilizam e conduzem à parada",
+      "spans": [
+        {
+          "text": "palavras etc. etc. etc. Todos nos vulnerabilizam e conduzem à parada",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            438.3480529785156,
+            526.0635986328125,
+            451.6320495605469
+          ],
+          "origin": [
+            85.08004760742188,
+            449.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        459.0480651855469,
+        136.092041015625,
+        472.3320617675781
+      ],
+      "text": "psíquica.",
+      "spans": [
+        {
+          "text": "psíquica.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            459.0480651855469,
+            136.092041015625,
+            472.3320617675781
+          ],
+          "origin": [
+            85.08004760742188,
+            469.74005126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        491.7479248046875,
+        526.0252075195312,
+        505.03192138671875
+      ],
+      "text": "Os defensores de idéias absurdas, velhacos que odeiam a verdade e",
+      "spans": [
+        {
+          "text": "Os defensores de idéias absurdas, velhacos que odeiam a verdade e",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            491.7479248046875,
+            526.0252075195312,
+            505.03192138671875
+          ],
+          "origin": [
+            120.54000091552734,
+            502.4399108886719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        512.4478759765625,
+        526.1116333007812,
+        525.7318725585938
+      ],
+      "text": "amam a mentira, trabalham com a desconcentração: impedem que o",
+      "spans": [
+        {
+          "text": "amam a mentira, trabalham com a desconcentração: impedem que o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            512.4478759765625,
+            526.1116333007812,
+            525.7318725585938
+          ],
+          "origin": [
+            85.08000183105469,
+            523.139892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        533.1478881835938,
+        526.05810546875,
+        546.431884765625
+      ],
+      "text": "pensamento \ndo \ninterlocutor \noponente \nse \nconcentre. \nAo \nimpedir \na",
+      "spans": [
+        {
+          "text": "pensamento ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            533.1478881835938,
+            155.43479919433594,
+            546.431884765625
+          ],
+          "origin": [
+            85.08000183105469,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            165.0948028564453,
+            533.1478881835938,
+            182.1179962158203,
+            546.431884765625
+          ],
+          "origin": [
+            165.0948028564453,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "interlocutor ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            191.7779998779297,
+            533.1478881835938,
+            262.83599853515625,
+            546.431884765625
+          ],
+          "origin": [
+            191.7779998779297,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "oponente ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            272.5451965332031,
+            533.1478881835938,
+            327.5171203613281,
+            546.431884765625
+          ],
+          "origin": [
+            272.5451965332031,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "se ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            337.226318359375,
+            533.1478881835938,
+            352.2262878417969,
+            546.431884765625
+          ],
+          "origin": [
+            337.226318359375,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "concentre. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            361.93548583984375,
+            533.1478881835938,
+            424.5538024902344,
+            546.431884765625
+          ],
+          "origin": [
+            361.93548583984375,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "Ao ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            434.26300048828125,
+            533.1478881835938,
+            453.96697998046875,
+            546.431884765625
+          ],
+          "origin": [
+            434.26300048828125,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "impedir ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            463.6761779785156,
+            533.1478881835938,
+            511.0209045410156,
+            546.431884765625
+          ],
+          "origin": [
+            463.6761779785156,
+            543.8399047851562
+          ]
+        },
+        {
+          "text": "a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            520.7301025390625,
+            533.1478881835938,
+            526.05810546875,
+            546.431884765625
+          ],
+          "origin": [
+            520.7301025390625,
+            543.8399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        553.847900390625,
+        526.0916748046875,
+        567.1318969726562
+      ],
+      "text": "concentração \ndo \npensamento, \ndesarticulam \na \nanálise \nconcentrada,",
+      "spans": [
+        {
+          "text": "concentração ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            553.847900390625,
+            163.47119140625,
+            567.1318969726562
+          ],
+          "origin": [
+            85.08000183105469,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            175.1903839111328,
+            553.847900390625,
+            192.1655731201172,
+            567.1318969726562
+          ],
+          "origin": [
+            175.1903839111328,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "pensamento, ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            203.884765625,
+            553.847900390625,
+            278.2055358886719,
+            567.1318969726562
+          ],
+          "origin": [
+            203.884765625,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "desarticulam ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            289.92474365234375,
+            553.847900390625,
+            366.1919250488281,
+            567.1318969726562
+          ],
+          "origin": [
+            289.92474365234375,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            377.951904296875,
+            553.847900390625,
+            387.2926940917969,
+            567.1318969726562
+          ],
+          "origin": [
+            377.951904296875,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "análise ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            399.05267333984375,
+            553.847900390625,
+            442.4229736328125,
+            567.1318969726562
+          ],
+          "origin": [
+            399.05267333984375,
+            564.5399169921875
+          ]
+        },
+        {
+          "text": "concentrada,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            454.1829528808594,
+            553.847900390625,
+            526.0916748046875,
+            567.1318969726562
+          ],
+          "origin": [
+            454.1829528808594,
+            564.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        574.5479125976562,
+        526.0020751953125,
+        587.8319091796875
+      ],
+      "text": "fragmentando-a. Para induzir a desconcentração fragmentadora da análise,",
+      "spans": [
+        {
+          "text": "fragmentando-a. Para induzir a desconcentração fragmentadora da análise,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            574.5479125976562,
+            526.0020751953125,
+            587.8319091796875
+          ],
+          "origin": [
+            85.08000183105469,
+            585.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        595.2479248046875,
+        525.9816284179688,
+        608.5319213867188
+      ],
+      "text": "abordam muitos assuntos simultaneamente sem nenhuma profundidade. É",
+      "spans": [
+        {
+          "text": "abordam muitos assuntos simultaneamente sem nenhuma profundidade. É",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            595.2479248046875,
+            525.9816284179688,
+            608.5319213867188
+          ],
+          "origin": [
+            85.08001708984375,
+            605.93994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        615.9478759765625,
+        526.1100463867188,
+        629.2318725585938
+      ],
+      "text": "por isso que muitas vezes a pessoa que defende a  idéia mais coerente é a",
+      "spans": [
+        {
+          "text": "por isso que muitas vezes a pessoa que defende a  idéia mais coerente é a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            615.9478759765625,
+            526.1100463867188,
+            629.2318725585938
+          ],
+          "origin": [
+            85.08004760742188,
+            626.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        636.6478881835938,
+        213.41885375976562,
+        649.931884765625
+      ],
+      "text": "que perde a discussão.",
+      "spans": [
+        {
+          "text": "que perde a discussão.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            636.6478881835938,
+            213.41885375976562,
+            649.931884765625
+          ],
+          "origin": [
+            85.08004760742188,
+            647.3399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        669.347900390625,
+        525.9334716796875,
+        682.6318969726562
+      ],
+      "text": "O poder magnético da fala do charlatão atrai a atenção do interlocutor",
+      "spans": [
+        {
+          "text": "O poder magnético da fala do charlatão atrai a atenção do interlocutor",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            669.347900390625,
+            525.9334716796875,
+            682.6318969726562
+          ],
+          "origin": [
+            120.54000091552734,
+            680.0399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        690.0478515625,
+        525.96826171875,
+        703.3318481445312
+      ],
+      "text": "oponente e arrasta seu pensamento para múltiplos temas que nenhuma",
+      "spans": [
+        {
+          "text": "oponente e arrasta seu pensamento para múltiplos temas que nenhuma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            690.0478515625,
+            525.96826171875,
+            703.3318481445312
+          ],
+          "origin": [
+            85.07998657226562,
+            700.7398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "39",
+      "spans": [
+        {
+          "text": "39",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

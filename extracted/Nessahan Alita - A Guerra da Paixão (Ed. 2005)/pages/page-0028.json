@@ -1,0 +1,818 @@
+{
+  "page_number": 28,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        72.07732391357422,
+        538.934814453125,
+        87.48676300048828
+      ],
+      "text": "A despeito dessa atração fatal que algumas sentem pelos",
+      "spans": [
+        {
+          "text": "A despeito dessa atração fatal que algumas sentem pelos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            72.07732391357422,
+            538.934814453125,
+            87.48676300048828
+          ],
+          "origin": [
+            108.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9657592773438,
+        111.48676300048828
+      ],
+      "text": "perversos, não devemos jamais corresponder a esta atração, gritando e",
+      "spans": [
+        {
+          "text": "perversos, não devemos jamais corresponder a esta atração, gritando e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.9657592773438,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.920166015625,
+        135.72674560546875
+      ],
+      "text": "nem muito menos agredindo-as. O correto é atingí-las por mecanismos",
+      "spans": [
+        {
+          "text": "nem muito menos agredindo-as. O correto é atingí-las por mecanismos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.920166015625,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        538.8903198242188,
+        159.72674560546875
+      ],
+      "text": "psicológicos, alcançando os sentimentos, como elas fazem conosco.",
+      "spans": [
+        {
+          "text": "psicológicos, alcançando os sentimentos, como elas fazem conosco.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            538.8903198242188,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        168.5572967529297,
+        538.9349975585938,
+        183.96673583984375
+      ],
+      "text": "Para tanto, é mister superá-las em todos os campos comportamentais",
+      "spans": [
+        {
+          "text": "Para tanto, é mister superá-las em todos os campos comportamentais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            168.5572967529297,
+            538.9349975585938,
+            183.96673583984375
+          ],
+          "origin": [
+            72.0,
+            180.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        192.7972869873047,
+        538.9201049804688,
+        208.20672607421875
+      ],
+      "text": "sendo mais fortes e não nos deixando dominar por suas fraquezas.",
+      "spans": [
+        {
+          "text": "sendo mais fortes e não nos deixando dominar por suas fraquezas.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            192.7972869873047,
+            538.9201049804688,
+            208.20672607421875
+          ],
+          "origin": [
+            72.0,
+            205.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        216.7972869873047,
+        538.9052124023438,
+        232.20672607421875
+      ],
+      "text": "Devemos ser ao mesmo tempo mais carinhosos, mais frios, mais",
+      "spans": [
+        {
+          "text": "Devemos ser ao mesmo tempo mais carinhosos, mais frios, mais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            216.7972869873047,
+            538.9052124023438,
+            232.20672607421875
+          ],
+          "origin": [
+            72.0,
+            229.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        241.0372772216797,
+        538.8756103515625,
+        256.44671630859375
+      ],
+      "text": "indiferentes, mais protetores, mais cuidadosos, mais dedicados, mais",
+      "spans": [
+        {
+          "text": "indiferentes, mais protetores, mais cuidadosos, mais dedicados, mais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            241.0372772216797,
+            538.8756103515625,
+            256.44671630859375
+          ],
+          "origin": [
+            72.0,
+            253.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        265.27728271484375,
+        538.9052124023438,
+        280.68670654296875
+      ],
+      "text": "românticos, mais insensíveis, mais desconcertantes e mais misteriosos",
+      "spans": [
+        {
+          "text": "românticos, mais insensíveis, mais desconcertantes e mais misteriosos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            265.27728271484375,
+            538.9052124023438,
+            280.68670654296875
+          ],
+          "origin": [
+            72.0,
+            277.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        289.27728271484375,
+        232.6650848388672,
+        304.68670654296875
+      ],
+      "text": "do que elas são conosco.",
+      "spans": [
+        {
+          "text": "do que elas são conosco.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            289.27728271484375,
+            232.6650848388672,
+            304.68670654296875
+          ],
+          "origin": [
+            72.0,
+            301.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        325.51727294921875,
+        538.9806518554688,
+        340.92669677734375
+      ],
+      "text": "Portanto, se quisermos dominar a relação, temos que ser uma",
+      "spans": [
+        {
+          "text": "Portanto, se quisermos dominar a relação, temos que ser uma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            325.51727294921875,
+            538.9806518554688,
+            340.92669677734375
+          ],
+          "origin": [
+            108.0,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        349.51727294921875,
+        538.9656372070312,
+        364.92669677734375
+      ],
+      "text": "síntese das várias categorias mencionadas, fusionando-as em nossa",
+      "spans": [
+        {
+          "text": "síntese das várias categorias mencionadas, fusionando-as em nossa",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            349.51727294921875,
+            538.9656372070312,
+            364.92669677734375
+          ],
+          "origin": [
+            72.0,
+            361.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        371.5540466308594,
+        538.9199829101562,
+        389.16668701171875
+      ],
+      "text": "personalidade, o que somente é possível quando dissolvemos o ego12.",
+      "spans": [
+        {
+          "text": "personalidade, o que somente é possível quando dissolvemos o ego",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            373.75726318359375,
+            525.1201171875,
+            389.16668701171875
+          ],
+          "origin": [
+            72.0,
+            386.15997314453125
+          ]
+        },
+        {
+          "text": "12",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            526.3200073242188,
+            371.5540466308594,
+            535.4400024414062,
+            381.6498718261719
+          ],
+          "origin": [
+            526.3200073242188,
+            379.6799621582031
+          ]
+        },
+        {
+          "text": ".",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            535.4400024414062,
+            373.75726318359375,
+            538.9199829101562,
+            389.16668701171875
+          ],
+          "origin": [
+            535.4400024414062,
+            386.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        397.99725341796875,
+        359.6252136230469,
+        413.40667724609375
+      ],
+      "text": "Acima de tudo, não devemos nos apaixonar.",
+      "spans": [
+        {
+          "text": "Acima de tudo, não devemos nos apaixonar.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            397.99725341796875,
+            359.6252136230469,
+            413.40667724609375
+          ],
+          "origin": [
+            72.0,
+            410.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        433.99725341796875,
+        538.9349365234375,
+        449.40667724609375
+      ],
+      "text": "Quase tudo o que normalmente tentamos fazer para seduzí-las",
+      "spans": [
+        {
+          "text": "Quase tudo o que normalmente tentamos fazer para seduzí-las",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            433.99725341796875,
+            538.9349365234375,
+            449.40667724609375
+          ],
+          "origin": [
+            108.0,
+            446.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        458.23724365234375,
+        539.3098754882812,
+        473.64666748046875
+      ],
+      "text": "surte o efeito oposto. As únicas que aceitam os assediadores que ficam",
+      "spans": [
+        {
+          "text": "surte o efeito oposto. As únicas que aceitam os assediadores que ficam",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            458.23724365234375,
+            539.3098754882812,
+            473.64666748046875
+          ],
+          "origin": [
+            72.0,
+            470.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.9052124023438,
+        497.64666748046875
+      ],
+      "text": "correndo atrás, bajulando, se sacrificando e perseguindo com flores,",
+      "spans": [
+        {
+          "text": "correndo atrás, bajulando, se sacrificando e perseguindo com flores,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            538.9052124023438,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        539.0402221679688,
+        521.8866577148438
+      ],
+      "text": "bilhetinhos e outras bobagens são as desesperadas: aquelas que não",
+      "spans": [
+        {
+          "text": "bilhetinhos e outras bobagens são as desesperadas: aquelas que não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            539.0402221679688,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.7172241210938,
+        502.87542724609375,
+        546.1266479492188
+      ],
+      "text": "possuem opção. As demais preferem os misteriosos e indomáveis.",
+      "spans": [
+        {
+          "text": "possuem opção. As demais preferem os misteriosos e indomáveis.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.7172241210938,
+            502.87542724609375,
+            546.1266479492188
+          ],
+          "origin": [
+            72.0,
+            543.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        566.7172241210938,
+        538.9656372070312,
+        582.1266479492188
+      ],
+      "text": "A preferência de certas mulheres pelos insensíveis, piores e",
+      "spans": [
+        {
+          "text": "A preferência de certas mulheres pelos insensíveis, piores e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            566.7172241210938,
+            538.9656372070312,
+            582.1266479492188
+          ],
+          "origin": [
+            108.0,
+            579.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        590.957275390625,
+        539.0400390625,
+        606.36669921875
+      ],
+      "text": "cafajestes é uma prova da prevalência dos valores machistas no",
+      "spans": [
+        {
+          "text": "cafajestes é uma prova da prevalência dos valores machistas no",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            590.957275390625,
+            539.0400390625,
+            606.36669921875
+          ],
+          "origin": [
+            72.0,
+            603.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        615.197265625,
+        538.8001708984375,
+        630.606689453125
+      ],
+      "text": "inconsciente. Provocar um macho para se comprazer em vê-lo",
+      "spans": [
+        {
+          "text": "inconsciente. Provocar um macho para se comprazer em vê-lo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            615.197265625,
+            538.8001708984375,
+            630.606689453125
+          ],
+          "origin": [
+            72.0,
+            627.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        666.706298828125,
+        540.0711669921875,
+        690.7373046875
+      ],
+      "text": "12 \"Dissolver o ego\": expressão empregada por certos autores para designar a assimilação dos complexos autônomos\nou agregados psíquicos que personificam nossos erros, fraquezas e debilidades.",
+      "spans": [
+        {
+          "text": "12",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            666.706298828125,
+            78.5999984741211,
+            673.879638671875
+          ],
+          "origin": [
+            72.0,
+            672.47998046875
+          ]
+        },
+        {
+          "text": " \"Dissolver o ego\": expressão empregada por certos autores para designar a assimilação dos complexos autônomos",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            78.72000122070312,
+            668.0587158203125,
+            540.0711669921875,
+            679.21728515625
+          ],
+          "origin": [
+            78.72000122070312,
+            677.0399780273438
+          ]
+        },
+        {
+          "text": "ou agregados psíquicos que personificam nossos erros, fraquezas e debilidades.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            679.5787353515625,
+            389.4034729003906,
+            690.7373046875
+          ],
+          "origin": [
+            72.0,
+            688.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "28",
+      "spans": [
+        {
+          "text": "28",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97891235351562,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

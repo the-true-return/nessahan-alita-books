@@ -1,0 +1,91 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "12",
+  "title": "11. Um círculo vicioso",
+  "pages": [
+    45,
+    45
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "11. Um círculo vicioso",
+      "pages": [
+        45
+      ],
+      "style": {
+        "font": "BookmanOldStyle-Bold",
+        "size": 13.6,
+        "bold": true,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "12-0001",
+      "hash": "87d17731"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enquanto não tenha experiência, o homem inocente sempre cairá nos mesmos joguinhos trapaceantes, até o momento em que aprenda a esperá-los conscientemente para desarticulá-los antes que se iniciem. Para não ser frustrado por uma promessa, basta não acreditar nela. Entretanto, como observou Eliphas Lévi, as pessoas possuem dificuldade para não acreditar no que desejam. Quanto maior o desejo, maior a credulidade.",
+      "pages": [
+        45
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "12-0002",
+      "hash": "fc632f6c"
+    },
+    {
+      "type": "paragraph",
+      "text": "A empolgação com promessas ou ofertas (formalizadas ou não) que nunca serão cumpridas e as desilusões que a seguem formam um círculo vicioso ao qual o homem bom e inexperiente normalmente fica preso. Aos momentos de alegria originados pela esperança se seguem momentos de frustração. Um tempo após frustração originada pela trapaça, vem o esquecimento e então o inexperiente está pronto para ser iludido novamente. Assim o sofrimento amoroso é prolongado indefinidamente. Exemplos concretos do círculo vicioso das frustrações não faltam: as promessas de encontro, de sexo espetacular e outras maravilhas quase nunca são cumpridas.",
+      "pages": [
+        45
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "12-0003",
+      "hash": "8ccc1d81"
+    },
+    {
+      "type": "paragraph",
+      "text": "A solução para este problema é acostumar-se a nunca acreditar nas promessas que possam nos empolgar. Também pode ser de alguma valia antecipar-se e, no momento em que a promessa for feita, destruir a artimanha revelando nosso ceticismo pessimista (realista). Aquele que nunca acredita não pode ser enganado.",
+      "pages": [
+        45
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "12-0004",
+      "hash": "04bf268e"
+    }
+  ]
+}

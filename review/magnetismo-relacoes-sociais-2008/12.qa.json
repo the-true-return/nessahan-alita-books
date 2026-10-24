@@ -1,0 +1,20 @@
+{
+  "book": "magnetismo-relacoes-sociais-2008",
+  "chapter": "12",
+  "title": "11. O magnetismo nas polêmicas",
+  "checked_at": "2026-10-23T22:54:53",
+  "segments_total": 44,
+  "segments_translated": 44,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "12-0044",
+      "text": "Stray period alone at the end of the chapter in the original (p. 45). Kept here so the segment map stays complete; build_pdf.py skips punctuation-only segments, so it does not appear in the PDF."
+    }
+  ],
+  "translator_notes": []
+}

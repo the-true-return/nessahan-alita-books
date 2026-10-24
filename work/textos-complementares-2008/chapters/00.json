@@ -1,0 +1,631 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "00",
+  "title": "(front matter)",
+  "pages": [
+    1,
+    2
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Textos Complementares",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "BookmanOldStyle-Bold",
+        "size": 17.5,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 94.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0001",
+      "hash": "43736b21"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por Nessahan Alita em 2008",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 134.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0002",
+      "hash": "e429033a"
+    },
+    {
+      "type": "heading",
+      "text": "Dados para citação:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 165.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0003",
+      "hash": "6d7903f0"
+    },
+    {
+      "type": "paragraph",
+      "text": "ALITA, Nessahan (2008). Textos Complementares. Edição virtual independente.",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0004",
+      "hash": "3829085d"
+    },
+    {
+      "type": "heading",
+      "text": "Palavras-chave:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 174.8,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0005",
+      "hash": "b3b0a10a"
+    },
+    {
+      "type": "paragraph",
+      "text": "amor passional - desenvolvimento interior - magnetismo",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 82.7,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0006",
+      "hash": "cf6086b0"
+    },
+    {
+      "type": "paragraph",
+      "text": "Índice:",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0007",
+      "hash": "1df1a739"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introdução",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0008",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Aprofundamentos",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0009",
+      "hash": "cd86396a"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Aceitando e contornando as barreiras",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0010",
+      "hash": "fe98926e"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. O jogo de bloqueios e esperanças",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0011",
+      "hash": "870fde2e"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. O homem não é o único culpado por desejar",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0012",
+      "hash": "f6fbd554"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Comportamento violento e desilusão",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0013",
+      "hash": "2451ac64"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Comportamento ambíguo",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0014",
+      "hash": "5ad1f76a"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Decadência familiar",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0015",
+      "hash": "35a16774"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Gerando atração",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0016",
+      "hash": "2fb1224d"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Significados do ato sexual",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0017",
+      "hash": "5ed5c5f0"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Divergências com a sedutologia",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0018",
+      "hash": "e10d79cf"
+    },
+    {
+      "type": "paragraph",
+      "text": "11. Um círculo vicioso",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0019",
+      "hash": "87d17731"
+    },
+    {
+      "type": "paragraph",
+      "text": "12. O adiamento infinito",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0020",
+      "hash": "42b5a52c"
+    },
+    {
+      "type": "paragraph",
+      "text": "13. Agressão afetiva",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0021",
+      "hash": "c6b11218"
+    },
+    {
+      "type": "paragraph",
+      "text": "14. Sobre ser estratégico",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0022",
+      "hash": "8fed8bc6"
+    },
+    {
+      "type": "paragraph",
+      "text": "15. Alguns tipos de mulheres que não merecem confiança",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0023",
+      "hash": "24627787"
+    },
+    {
+      "type": "paragraph",
+      "text": "16. Auto-poder masculino",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0024",
+      "hash": "e5f80b18"
+    },
+    {
+      "type": "paragraph",
+      "text": "17. Porque elas são tão fascinantes",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0025",
+      "hash": "72b0c5da"
+    },
+    {
+      "type": "paragraph",
+      "text": "18. Sobre os níveis de aproximação",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0026",
+      "hash": "d342b9d7"
+    },
+    {
+      "type": "paragraph",
+      "text": "19. Do encantamento",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0027",
+      "hash": "576349f7"
+    },
+    {
+      "type": "paragraph",
+      "text": "20. Da revolta contra a realidade",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0028",
+      "hash": "1a910048"
+    },
+    {
+      "type": "paragraph",
+      "text": "21. Amor passional e luxúria",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0029",
+      "hash": "be2967ab"
+    },
+    {
+      "type": "paragraph",
+      "text": "22. Reforçando os pilares da teoria",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0030",
+      "hash": "504c2f57"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contra-indicações",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 9.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0031",
+      "hash": "7dccecee"
+    }
+  ]
+}

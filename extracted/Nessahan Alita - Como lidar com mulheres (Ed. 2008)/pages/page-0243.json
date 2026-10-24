@@ -1,0 +1,970 @@
+{
+  "page_number": 243,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        419.0295715332031,
+        118.65927124023438
+      ],
+      "text": "JUNG, Emma (1995). Anima e Animus. São Paulo: Cultrix.",
+      "spans": [
+        {
+          "text": "JUNG, Emma (1995). Anima e Animus. São Paulo: Cultrix. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            419.0295715332031,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        128.23101806640625,
+        515.515380859375,
+        157.17898559570312
+      ],
+      "text": "KANT, Immanuel (1992). Lógica (Guido Antônio de Almeida, trad.). Rio de \nJaneiro: Tempo Brasileiro. (Original de 1900).",
+      "spans": [
+        {
+          "text": "KANT, Immanuel (1992). Lógica (Guido Antônio de Almeida, trad.). Rio de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            128.23101806640625,
+            515.515380859375,
+            143.79928588867188
+          ],
+          "origin": [
+            82.74000549316406,
+            140.51953125
+          ]
+        },
+        {
+          "text": "Janeiro: Tempo Brasileiro. (Original de 1900). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            141.6112060546875,
+            347.9384765625,
+            157.17898559570312
+          ],
+          "origin": [
+            82.74000549316406,
+            153.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        166.750732421875,
+        515.5588989257812,
+        222.58004760742188
+      ],
+      "text": "KANT, Immanuel (1993). Observações sobre o Sentimento do Belo e do \nSublime/ \nEnsaio \nsobre \nas \nDoenças \nMentais \n(Vinicius \nFigueiredo, \ntrad.).Campinas: Papirus. (Originalmente publicado em 1764, original de \n1977).",
+      "spans": [
+        {
+          "text": "KANT, Immanuel (1993). Observações sobre o Sentimento do Belo e do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            166.750732421875,
+            515.47216796875,
+            182.31851196289062
+          ],
+          "origin": [
+            82.74000549316406,
+            179.03924560546875
+          ]
+        },
+        {
+          "text": "Sublime/ ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            180.1314697265625,
+            135.5697479248047,
+            195.69924926757812
+          ],
+          "origin": [
+            82.73979949951172,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "Ensaio ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            145.91171264648438,
+            180.1314697265625,
+            186.50218200683594,
+            195.69924926757812
+          ],
+          "origin": [
+            145.91171264648438,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "sobre ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.78472900390625,
+            180.1314697265625,
+            229.82139587402344,
+            195.69924926757812
+          ],
+          "origin": [
+            196.78472900390625,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            240.10267639160156,
+            180.1314697265625,
+            254.70651245117188,
+            195.69924926757812
+          ],
+          "origin": [
+            240.10267639160156,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "Doenças ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            264.98779296875,
+            180.1314697265625,
+            314.96343994140625,
+            195.69924926757812
+          ],
+          "origin": [
+            264.98779296875,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "Mentais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            325.3042907714844,
+            180.1314697265625,
+            372.63751220703125,
+            195.69924926757812
+          ],
+          "origin": [
+            325.3042907714844,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "(Vinicius ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            382.919921875,
+            180.1314697265625,
+            438.0094909667969,
+            195.69924926757812
+          ],
+          "origin": [
+            382.919921875,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "Figueiredo, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            448.3512268066406,
+            180.1314697265625,
+            515.3006591796875,
+            195.69924926757812
+          ],
+          "origin": [
+            448.3512268066406,
+            192.41998291015625
+          ]
+        },
+        {
+          "text": "trad.).Campinas: Papirus. (Originalmente publicado em 1764, original de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            193.57208251953125,
+            515.5588989257812,
+            209.13986206054688
+          ],
+          "origin": [
+            82.739990234375,
+            205.860595703125
+          ]
+        },
+        {
+          "text": "1977). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            207.01226806640625,
+            121.7176284790039,
+            222.58004760742188
+          ],
+          "origin": [
+            82.739990234375,
+            219.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        232.09234619140625,
+        515.5079345703125,
+        287.9198913574219
+      ],
+      "text": "KORNFIELD, Jack (1997). Obstáculos e Vicissitudes da Prática Espiritual. \nIn: GROF, Stanislav e GROF, Christina (orgs.). Emergência Espiritual: \nCrise e Transformação Espiritual (Adail Ubirajara Sobral, trad.). São Paulo: \nCultrix. (Original de 1989).",
+      "spans": [
+        {
+          "text": "KORNFIELD, Jack (1997). Obstáculos e Vicissitudes da Prática Espiritual. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            232.09234619140625,
+            515.5079345703125,
+            247.66012573242188
+          ],
+          "origin": [
+            82.739990234375,
+            244.380859375
+          ]
+        },
+        {
+          "text": "In: GROF, Stanislav e GROF, Christina (orgs.). Emergência Espiritual: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            245.4720458984375,
+            515.453369140625,
+            261.0398254394531
+          ],
+          "origin": [
+            82.739990234375,
+            257.76055908203125
+          ]
+        },
+        {
+          "text": "Crise e Transformação Espiritual (Adail Ubirajara Sobral, trad.). São Paulo: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            258.9114990234375,
+            515.3924560546875,
+            274.4792785644531
+          ],
+          "origin": [
+            82.73979949951172,
+            271.20001220703125
+          ]
+        },
+        {
+          "text": "Cultrix. (Original de 1989). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            272.35211181640625,
+            241.69520568847656,
+            287.9198913574219
+          ],
+          "origin": [
+            82.739990234375,
+            284.640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        297.43145751953125,
+        515.4020385742188,
+        326.4398498535156
+      ],
+      "text": "LEE, Bruce (2004). O Tao do Jeet Kune Do (Tatiana Öri-Kovács, trad.). São \nPaulo: Conrad Editora. (Original de 1975).",
+      "spans": [
+        {
+          "text": "LEE, Bruce (2004). O Tao do Jeet Kune Do (Tatiana Öri-Kovács, trad.). São ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            297.43145751953125,
+            515.4020385742188,
+            312.9996032714844
+          ],
+          "origin": [
+            82.739990234375,
+            309.7203369140625
+          ]
+        },
+        {
+          "text": "Paulo: Conrad Editora. (Original de 1975). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            310.8720703125,
+            326.62420654296875,
+            326.4398498535156
+          ],
+          "origin": [
+            82.739990234375,
+            323.16058349609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        335.95147705078125,
+        515.488525390625,
+        364.8985595703125
+      ],
+      "text": "LEE, Bruce (1984). Tao of Jeet Kune Do. California: Ohara Publications. \n(Original de 1975).",
+      "spans": [
+        {
+          "text": "LEE, Bruce (1984). Tao of Jeet Kune Do. California: Ohara Publications. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            335.95147705078125,
+            515.488525390625,
+            351.51995849609375
+          ],
+          "origin": [
+            82.739990234375,
+            348.2406921386719
+          ]
+        },
+        {
+          "text": "(Original de 1975). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            349.3307800292969,
+            194.00180053710938,
+            364.8985595703125
+          ],
+          "origin": [
+            82.74099731445312,
+            361.6192932128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        374.4705810546875,
+        515.42041015625,
+        403.41937255859375
+      ],
+      "text": "LÉVI, Eliphas (2001). Dogma e Ritual de Alta Magia (Edson Bini, trad.). \nSão Paulo: Madras. (Originalmente publicado em 1855). 5ª edição.",
+      "spans": [
+        {
+          "text": "LÉVI, Eliphas (2001). Dogma e Ritual de Alta Magia (Edson Bini, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74099731445312,
+            374.4705810546875,
+            515.42041015625,
+            390.0392761230469
+          ],
+          "origin": [
+            82.74099731445312,
+            386.75909423828125
+          ]
+        },
+        {
+          "text": "São Paulo: Madras. (Originalmente publicado em 1855). 5",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            387.8511962890625,
+            408.583251953125,
+            403.4189758300781
+          ],
+          "origin": [
+            82.739990234375,
+            400.13970947265625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            409.5,
+            386.628173828125,
+            411.6418762207031,
+            396.98052978515625
+          ],
+          "origin": [
+            409.5,
+            394.79986572265625
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            412.6800842285156,
+            387.8515930175781,
+            459.69586181640625,
+            403.41937255859375
+          ],
+          "origin": [
+            412.6800842285156,
+            400.1401062011719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        412.9313049316406,
+        515.4797973632812,
+        441.8787841796875
+      ],
+      "text": "MACHIAVELLI, Niccolo (1977). O Príncipe (Torrieri Guimarães, trad.). \nSão Paulo: Hemus. (Originalmente publicado em 1513).",
+      "spans": [
+        {
+          "text": "MACHIAVELLI, Niccolo (1977). O Príncipe (Torrieri Guimarães, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            412.9313049316406,
+            515.4797973632812,
+            428.49908447265625
+          ],
+          "origin": [
+            82.74008178710938,
+            425.2198181152344
+          ]
+        },
+        {
+          "text": "São Paulo: Hemus. (Originalmente publicado em 1513). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            426.3110046386719,
+            398.8899841308594,
+            441.8787841796875
+          ],
+          "origin": [
+            82.74008178710938,
+            438.5995178222656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        451.39111328125,
+        515.396728515625,
+        493.8396301269531
+      ],
+      "text": "MAQUIAVEL, Nicholau (2001). O Príncipe (Antônio Caruccio Caporale, \ntrad. do italiano). Porto Alegre: L& PM Pocket. (Originalmente publicado \nem 1513).",
+      "spans": [
+        {
+          "text": "MAQUIAVEL, Nicholau (2001). O Príncipe (Antônio Caruccio Caporale, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            451.39111328125,
+            515.396728515625,
+            466.9592590332031
+          ],
+          "origin": [
+            82.74008178710938,
+            463.67962646484375
+          ]
+        },
+        {
+          "text": "trad. do italiano). Porto Alegre: L& PM Pocket. (Originalmente publicado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            464.8316650390625,
+            515.3665161132812,
+            480.3994445800781
+          ],
+          "origin": [
+            82.74002075195312,
+            477.12017822265625
+          ]
+        },
+        {
+          "text": "em 1513). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            478.2718505859375,
+            141.77471923828125,
+            493.8396301269531
+          ],
+          "origin": [
+            82.74002075195312,
+            490.56036376953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        503.35052490234375,
+        515.3399658203125,
+        532.35888671875
+      ],
+      "text": "Michaelis: Dicionário Prático da Língua Portuguesa (1995). São Paulo: \nMelhoramentos.",
+      "spans": [
+        {
+          "text": "Michaelis: Dicionário Prático da Língua Portuguesa (1995). São Paulo: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            503.35052490234375,
+            515.3399658203125,
+            518.9197998046875
+          ],
+          "origin": [
+            82.74002075195312,
+            515.6405029296875
+          ]
+        },
+        {
+          "text": "Melhoramentos. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            516.7910766601562,
+            175.5248260498047,
+            532.35888671875
+          ],
+          "origin": [
+            82.739013671875,
+            529.07958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        541.8707885742188,
+        515.3958740234375,
+        570.8189697265625
+      ],
+      "text": "MONICK, Eugene (1993A). Castração e Fúria Masculina. São Paulo: \nPaulus.",
+      "spans": [
+        {
+          "text": "MONICK, Eugene (1993A). Castração e Fúria Masculina. São Paulo: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            541.8707885742188,
+            515.3958740234375,
+            557.4393310546875
+          ],
+          "origin": [
+            82.739013671875,
+            554.1593017578125
+          ]
+        },
+        {
+          "text": "Paulus. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            555.2511596679688,
+            126.56166076660156,
+            570.8189697265625
+          ],
+          "origin": [
+            82.739990234375,
+            567.5396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        580.3906860351562,
+        515.4080810546875,
+        609.3389892578125
+      ],
+      "text": "MONICK, Eugene (1993B). Falo: A Sagrada Imagem do Masculino (Jane \nMaria Correia, trad.). São Paulo: Paulus.",
+      "spans": [
+        {
+          "text": "MONICK, Eugene (1993B). Falo: A Sagrada Imagem do Masculino (Jane ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            580.3906860351562,
+            515.4080810546875,
+            595.9592895507812
+          ],
+          "origin": [
+            82.739990234375,
+            592.67919921875
+          ]
+        },
+        {
+          "text": "Maria Correia, trad.). São Paulo: Paulus.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            593.7711791992188,
+            319.0620422363281,
+            609.3389892578125
+          ],
+          "origin": [
+            82.739990234375,
+            606.0596923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        618.8512573242188,
+        515.5601806640625,
+        661.2996826171875
+      ],
+      "text": "NIETZSCHE, Friedrich W. (1985). Assim Falava Zaratustra (Eduardo \nNunes Fonseca, trad.). São Paulo: Hemus Editora Ltda. (Originalmente \npublicado em 1884 e 1885).",
+      "spans": [
+        {
+          "text": "NIETZSCHE, Friedrich W. (1985). Assim Falava Zaratustra (Eduardo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            618.8512573242188,
+            515.4403076171875,
+            634.4193115234375
+          ],
+          "origin": [
+            82.739990234375,
+            631.1397705078125
+          ]
+        },
+        {
+          "text": "Nunes Fonseca, trad.). São Paulo: Hemus Editora Ltda. (Originalmente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            632.2916870117188,
+            515.5601806640625,
+            647.8594970703125
+          ],
+          "origin": [
+            82.74002075195312,
+            644.5802001953125
+          ]
+        },
+        {
+          "text": "publicado em 1884 e 1885).",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            645.7318725585938,
+            237.6605987548828,
+            661.2996826171875
+          ],
+          "origin": [
+            82.74002075195312,
+            658.0203857421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        670.8115844726562,
+        515.53271484375,
+        713.1992797851562
+      ],
+      "text": "NIETZSCHE, Friedrich W. (1998). Além do Bem e do Mal: Prelúdio a uma \nFilosofia do Futuro. (Paulo César de Souza, trad.). São Paulo: Companhia \ndas Letras. 2ª edição. (Originalmente publicado em 1886).",
+      "spans": [
+        {
+          "text": "NIETZSCHE, Friedrich W. (1998). Além do Bem e do Mal: Prelúdio a uma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            670.8115844726562,
+            515.53271484375,
+            686.37939453125
+          ],
+          "origin": [
+            82.74000549316406,
+            683.10009765625
+          ]
+        },
+        {
+          "text": "Filosofia do Futuro. (Paulo César de Souza, trad.). São Paulo: Companhia ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            684.25146484375,
+            515.4193115234375,
+            699.8192749023438
+          ],
+          "origin": [
+            82.73979949951172,
+            696.5399780273438
+          ]
+        },
+        {
+          "text": "das Letras. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            697.6311645507812,
+            153.68516540527344,
+            713.198974609375
+          ],
+          "origin": [
+            82.74000549316406,
+            709.919677734375
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            154.68020629882812,
+            696.4081420898438,
+            156.82208251953125,
+            706.760498046875
+          ],
+          "origin": [
+            154.68020629882812,
+            704.579833984375
+          ]
+        },
+        {
+          "text": " edição. (Originalmente publicado em 1886).",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            157.86029052734375,
+            697.6311645507812,
+            408.4602966308594,
+            713.198974609375
+          ],
+          "origin": [
+            157.86029052734375,
+            709.919677734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "243",
+      "spans": [
+        {
+          "text": "243",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

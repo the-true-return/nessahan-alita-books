@@ -1,0 +1,679 @@
+{
+  "page_number": 79,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        104.6982192993164,
+        516.173095703125,
+        118.37545776367188
+      ],
+      "text": "TENHO REPRESENTANTES25 PÚBLICOS EM LUGAR ALGUM",
+      "spans": [
+        {
+          "text": "TENHO REPRESENTANTES",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            104.6982192993164,
+            267.8600769042969,
+            118.37545776367188
+          ],
+          "origin": [
+            82.73999786376953,
+            115.6796875
+          ]
+        },
+        {
+          "text": "25",
+          "font": "BookmanOldStyle",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            268.8599853515625,
+            105.49714660644531,
+            278.4704895019531,
+            114.59233856201172
+          ],
+          "origin": [
+            268.8599853515625,
+            112.7996826171875
+          ]
+        },
+        {
+          "text": " PÚBLICOS EM LUGAR ALGUM ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            278.4599914550781,
+            104.6982192993164,
+            516.173095703125,
+            118.37545776367188
+          ],
+          "origin": [
+            278.4599914550781,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        125.27823638916016,
+        516.1663818359375,
+        138.95547485351562
+      ],
+      "text": "ATUALMENTE, NÃO VISO AUFERIR LUCROS, NÃO VENDO",
+      "spans": [
+        {
+          "text": "ATUALMENTE, NÃO VISO AUFERIR LUCROS, NÃO VENDO ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            125.27823638916016,
+            516.1663818359375,
+            138.95547485351562
+          ],
+          "origin": [
+            82.74008178710938,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        145.79873657226562,
+        316.1260681152344,
+        159.47598266601562
+      ],
+      "text": "LIVROS E NÃO DOU CONSULTAS.",
+      "spans": [
+        {
+          "text": "LIVROS E NÃO DOU CONSULTAS.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            145.79873657226562,
+            316.1260681152344,
+            159.47598266601562
+          ],
+          "origin": [
+            82.74008178710938,
+            156.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24010467529297,
+        178.01846313476562,
+        516.267822265625,
+        191.69570922851562
+      ],
+      "text": "Aproveito a oportunidade para agradecer às comunidades",
+      "spans": [
+        {
+          "text": "Aproveito a oportunidade para agradecer às comunidades ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24010467529297,
+            178.01846313476562,
+            516.267822265625,
+            191.69570922851562
+          ],
+          "origin": [
+            117.24010467529297,
+            188.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        198.53897094726562,
+        516.2384033203125,
+        212.21621704101562
+      ],
+      "text": "virtuais de leitores verdadeiros que estudam os meus livros e",
+      "spans": [
+        {
+          "text": "virtuais de leitores verdadeiros que estudam os meus livros e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            198.53897094726562,
+            516.2384033203125,
+            212.21621704101562
+          ],
+          "origin": [
+            82.74008178710938,
+            209.52044677734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        219.11898803710938,
+        516.195556640625,
+        232.79623413085938
+      ],
+      "text": "tentam \nsinceramente \nentendê-los. \nTenho \nvisto \nque \nvocês",
+      "spans": [
+        {
+          "text": "tentam ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            219.11898803710938,
+            132.6830291748047,
+            232.79623413085938
+          ],
+          "origin": [
+            82.74008178710938,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "sinceramente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            142.8102569580078,
+            219.11898803710938,
+            234.76400756835938,
+            232.79623413085938
+          ],
+          "origin": [
+            142.8102569580078,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "entendê-los. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            244.8912353515625,
+            219.11898803710938,
+            330.0846252441406,
+            232.79623413085938
+          ],
+          "origin": [
+            244.8912353515625,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "Tenho ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            340.1523132324219,
+            219.11898803710938,
+            383.9883728027344,
+            232.79623413085938
+          ],
+          "origin": [
+            340.1523132324219,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "visto ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            393.9965515136719,
+            219.11898803710938,
+            429.2481689453125,
+            232.79623413085938
+          ],
+          "origin": [
+            393.9965515136719,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            439.31585693359375,
+            219.11898803710938,
+            466.7462158203125,
+            232.79623413085938
+          ],
+          "origin": [
+            439.31585693359375,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "vocês ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            476.81390380859375,
+            219.11898803710938,
+            516.195556640625,
+            232.79623413085938
+          ],
+          "origin": [
+            476.81390380859375,
+            230.1004638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        239.69900512695312,
+        516.19873046875,
+        253.37625122070312
+      ],
+      "text": "defendem a interpretação correta contra os distorcedores e",
+      "spans": [
+        {
+          "text": "defendem a interpretação correta contra os distorcedores e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            239.69900512695312,
+            516.19873046875,
+            253.37625122070312
+          ],
+          "origin": [
+            82.74008178710938,
+            250.68048095703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        260.2195129394531,
+        516.1055297851562,
+        273.8967590332031
+      ],
+      "text": "farsantes. Eu os agradeço e parabenizo! Não mencionarei os",
+      "spans": [
+        {
+          "text": "farsantes. Eu os agradeço e parabenizo! Não mencionarei os ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            260.2195129394531,
+            516.1055297851562,
+            273.8967590332031
+          ],
+          "origin": [
+            82.74008178710938,
+            271.20098876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        280.7400207519531,
+        516.3213500976562,
+        294.4172668457031
+      ],
+      "text": "nomes dessas comunidades e boas pessoas porque são muitas e",
+      "spans": [
+        {
+          "text": "nomes dessas comunidades e boas pessoas porque são muitas e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            280.7400207519531,
+            516.3213500976562,
+            294.4172668457031
+          ],
+          "origin": [
+            82.74008178710938,
+            291.72149658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74008178710938,
+        301.3200378417969,
+        319.7601623535156,
+        314.9972839355469
+      ],
+      "text": "tenho medo de esquecer algumas...",
+      "spans": [
+        {
+          "text": "tenho medo de esquecer algumas... ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74008178710938,
+            301.3200378417969,
+            319.7601623535156,
+            314.9972839355469
+          ],
+          "origin": [
+            82.74008178710938,
+            312.301513671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        603.137451171875,
+        515.0693969726562,
+        736.9843139648438
+      ],
+      "text": "25 Embora eu tenha me valido deste termo no passado, atualmente optei por diferenciar o representante do \ncolaborador, para evitar confusões desagradáveis e indevidas. Algumas vezes designo amigos de confiança, \nque agem com desenvoltura na internet, para que publiquem meus textos, livros e mensagens. Eles são apenas \ncolaboradores voluntários, não cobram pelo trabalho, não respondem por minhas opiniões e não podem ser \nconsiderados meus representantes públicos “oficiais”, já que são apenas pessoas que se dispuseram a \ncolaborar transmitindo fielmente o que lhes peço. Entenda-se por “representante” uma pessoa autorizada a \nemitir opiniões em nome de outra. Uma coisa é emitir opiniões próprias em nome de outra pessoa e outra \ncoisa, por certo muito diferente, é transmitir fielmente as opiniões de um autor por solicitação deste último. \nAté o momento, não deleguei a autoria do que escrevo e meus colaboradores não devem, de modo algum, ser \nconfundidos com farsantes que, de vez em quando, tentam utilizar o nome alheio em benefício próprio.  Meus \ncolaboradores são auxiliares sinceros.",
+      "spans": [
+        {
+          "text": "25",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.301599979400635,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            612.9849853515625,
+            89.07058715820312,
+            619.9608764648438
+          ],
+          "origin": [
+            82.73999786376953,
+            618.5997314453125
+          ]
+        },
+        {
+          "text": " Embora eu tenha me valido deste termo no passado, atualmente optei por diferenciar o representante do ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            89.04000091552734,
+            614.2974853515625,
+            515.010009765625,
+            625.0845336914062
+          ],
+          "origin": [
+            89.04000091552734,
+            622.979736328125
+          ]
+        },
+        {
+          "text": "colaborador, para evitar confusões desagradáveis e indevidas. Algumas vezes designo amigos de confiança, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            625.5171508789062,
+            514.9750366210938,
+            636.30419921875
+          ],
+          "origin": [
+            82.74024963378906,
+            634.1994018554688
+          ]
+        },
+        {
+          "text": "que agem com desenvoltura na internet, para que publiquem meus textos, livros e mensagens. Eles são apenas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            636.6774291992188,
+            515.0374145507812,
+            647.4644775390625
+          ],
+          "origin": [
+            82.74024963378906,
+            645.3596801757812
+          ]
+        },
+        {
+          "text": "colaboradores voluntários, não cobram pelo trabalho, não respondem por minhas opiniões e não podem ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            647.837646484375,
+            514.9583740234375,
+            658.6246948242188
+          ],
+          "origin": [
+            82.74024963378906,
+            656.5198974609375
+          ]
+        },
+        {
+          "text": "considerados meus representantes públicos “oficiais”, já que são apenas pessoas que se dispuseram a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            659.057373046875,
+            515.0069580078125,
+            669.8444213867188
+          ],
+          "origin": [
+            82.74024963378906,
+            667.7396240234375
+          ]
+        },
+        {
+          "text": "colaborar transmitindo fielmente o que lhes peço. Entenda-se por “representante” uma pessoa autorizada a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            670.2176513671875,
+            515.0693969726562,
+            681.0046997070312
+          ],
+          "origin": [
+            82.74024963378906,
+            678.89990234375
+          ]
+        },
+        {
+          "text": "emitir opiniões em nome de outra. Uma coisa é emitir opiniões próprias em nome de outra pessoa e outra ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            681.4373168945312,
+            514.99609375,
+            692.224365234375
+          ],
+          "origin": [
+            82.74024963378906,
+            690.1195678710938
+          ]
+        },
+        {
+          "text": "coisa, por certo muito diferente, é transmitir fielmente as opiniões de um autor por solicitação deste último. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            692.5975952148438,
+            514.9738159179688,
+            703.3846435546875
+          ],
+          "origin": [
+            82.74024963378906,
+            701.2798461914062
+          ]
+        },
+        {
+          "text": "Até o momento, não deleguei a autoria do que escrevo e meus colaboradores não devem, de modo algum, ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            703.7578735351562,
+            514.9429931640625,
+            714.544921875
+          ],
+          "origin": [
+            82.74024963378906,
+            712.4401245117188
+          ]
+        },
+        {
+          "text": "confundidos com farsantes que, de vez em quando, tentam utilizar o nome alheio em benefício próprio.  Meus ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            714.9775390625,
+            514.9895629882812,
+            725.7645874023438
+          ],
+          "origin": [
+            82.74024963378906,
+            723.6597900390625
+          ]
+        },
+        {
+          "text": "colaboradores são auxiliares sinceros.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            726.197265625,
+            234.61842346191406,
+            736.9843139648438
+          ],
+          "origin": [
+            82.74024963378906,
+            734.8795166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "79",
+      "spans": [
+        {
+          "text": "79",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

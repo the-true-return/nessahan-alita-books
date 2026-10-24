@@ -1,0 +1,852 @@
+{
+  "page_number": 69,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        69.8741455078125,
+        405.7200012207031,
+        87.48676300048828
+      ],
+      "text": "passionais, a saber: o desejo, os afetos, a luxúria38.",
+      "spans": [
+        {
+          "text": "passionais, a saber: o desejo, os afetos, a luxúria",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            391.8009948730469,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        },
+        {
+          "text": "38",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            393.1199951171875,
+            69.8741455078125,
+            402.239990234375,
+            79.96997833251953
+          ],
+          "origin": [
+            393.1199951171875,
+            78.00006103515625
+          ]
+        },
+        {
+          "text": ".",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            402.239990234375,
+            72.07732391357422,
+            405.7200012207031,
+            87.48676300048828
+          ],
+          "origin": [
+            402.239990234375,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        108.07732391357422,
+        539.2951049804688,
+        123.48676300048828
+      ],
+      "text": "O comportamento das espertinhas é, muitas vezes, regido por um",
+      "spans": [
+        {
+          "text": "O comportamento das espertinhas é, muitas vezes, regido por um",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            108.07732391357422,
+            539.2951049804688,
+            123.48676300048828
+          ],
+          "origin": [
+            108.0,
+            120.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        132.3173065185547,
+        539.0252685546875,
+        147.72674560546875
+      ],
+      "text": "princípio que denomino \"egoísmo sentimental\". Para elas, não",
+      "spans": [
+        {
+          "text": "princípio que denomino \"egoísmo sentimental\". Para elas, não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            132.3173065185547,
+            539.0252685546875,
+            147.72674560546875
+          ],
+          "origin": [
+            72.0,
+            144.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        156.3173065185547,
+        538.9199829101562,
+        171.72674560546875
+      ],
+      "text": "importam os nossos sentimentos mas sim os delas e somente os delas.",
+      "spans": [
+        {
+          "text": "importam os nossos sentimentos mas sim os delas e somente os delas.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            156.3173065185547,
+            538.9199829101562,
+            171.72674560546875
+          ],
+          "origin": [
+            72.0,
+            168.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        180.5572967529297,
+        539.5497436523438,
+        195.96673583984375
+      ],
+      "text": "São absolutamente cegas para qualquer outra coisa. Consideram",
+      "spans": [
+        {
+          "text": "São absolutamente cegas para qualquer outra coisa. Consideram",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            180.5572967529297,
+            539.5497436523438,
+            195.96673583984375
+          ],
+          "origin": [
+            72.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        539.1993408203125,
+        220.20672607421875
+      ],
+      "text": "\"lógico\" aquilo que proporciona sentimentos desejáveis e \"ilógico\"",
+      "spans": [
+        {
+          "text": "\"lógico\" aquilo que proporciona sentimentos desejáveis e \"ilógico\"",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            539.1993408203125,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        538.9656982421875,
+        244.20672607421875
+      ],
+      "text": "aquilo que proporciona sentimentos indesejáveis. Aqui surge outra",
+      "spans": [
+        {
+          "text": "aquilo que proporciona sentimentos indesejáveis. Aqui surge outra",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            538.9656982421875,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        538.9348754882812,
+        268.44671630859375
+      ],
+      "text": "complicação e o caldo entorna de vez: nem sempre os sentimentos",
+      "spans": [
+        {
+          "text": "complicação e o caldo entorna de vez: nem sempre os sentimentos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            538.9348754882812,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        538.9805297851562,
+        292.68670654296875
+      ],
+      "text": "agradáveis são os desejáveis pois o inconsciente reage de forma",
+      "spans": [
+        {
+          "text": "agradáveis são os desejáveis pois o inconsciente reage de forma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            538.9805297851562,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        301.27728271484375,
+        315.72003173828125,
+        316.68670654296875
+      ],
+      "text": "distinta e até contrária à consciência.",
+      "spans": [
+        {
+          "text": "distinta e até contrária à consciência.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            301.27728271484375,
+            315.72003173828125,
+            316.68670654296875
+          ],
+          "origin": [
+            72.0,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        337.51727294921875,
+        539.1155395507812,
+        352.92669677734375
+      ],
+      "text": "O egoísmo sentimental as possui e as impele a satisfazer",
+      "spans": [
+        {
+          "text": "O egoísmo sentimental as possui e as impele a satisfazer",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            337.51727294921875,
+            539.1155395507812,
+            352.92669677734375
+          ],
+          "origin": [
+            108.0,
+            349.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        361.51727294921875,
+        538.9200439453125,
+        376.92669677734375
+      ],
+      "text": "constantemente a necessidade de constatar que sofremos de amor.",
+      "spans": [
+        {
+          "text": "constantemente a necessidade de constatar que sofremos de amor.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            361.51727294921875,
+            538.9200439453125,
+            376.92669677734375
+          ],
+          "origin": [
+            72.0,
+            373.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        385.75726318359375,
+        539.0401000976562,
+        401.16668701171875
+      ],
+      "text": "Quando não conseguem detectar nos parceiros indícios de sofrimento",
+      "spans": [
+        {
+          "text": "Quando não conseguem detectar nos parceiros indícios de sofrimento",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            385.75726318359375,
+            539.0401000976562,
+            401.16668701171875
+          ],
+          "origin": [
+            72.0,
+            398.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        409.99725341796875,
+        538.9992065429688,
+        425.40667724609375
+      ],
+      "text": "emocional, ficam tristes e dizem para si mesmas: \"Ele já não sofre",
+      "spans": [
+        {
+          "text": "emocional, ficam tristes e dizem para si mesmas: ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            409.99725341796875,
+            416.0400390625,
+            425.40667724609375
+          ],
+          "origin": [
+            72.0,
+            422.39996337890625
+          ]
+        },
+        {
+          "text": "\"Ele já não sofre",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            419.760009765625,
+            409.99725341796875,
+            538.9992065429688,
+            425.40667724609375
+          ],
+          "origin": [
+            419.760009765625,
+            422.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        433.99725341796875,
+        538.980712890625,
+        449.40667724609375
+      ],
+      "text": "mais por mim, devo estar ficando desinteressante e pouco atraente",
+      "spans": [
+        {
+          "text": "mais por mim, devo estar ficando desinteressante e pouco atraente",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            433.99725341796875,
+            538.980712890625,
+            449.40667724609375
+          ],
+          "origin": [
+            72.0,
+            446.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        458.23724365234375,
+        538.9200439453125,
+        473.64666748046875
+      ],
+      "text": "etc\". Comprazem-se em ver-nos sofrer com a raiva, irritação, ciúmes,",
+      "spans": [
+        {
+          "text": "etc\".",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            458.23724365234375,
+            101.40000915527344,
+            473.64666748046875
+          ],
+          "origin": [
+            72.0,
+            470.63995361328125
+          ]
+        },
+        {
+          "text": " Comprazem-se em ver-nos sofrer com a raiva, irritação, ciúmes,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            102.47999572753906,
+            458.23724365234375,
+            538.9200439453125,
+            473.64666748046875
+          ],
+          "origin": [
+            102.47999572753906,
+            470.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.9805908203125,
+        497.64666748046875
+      ],
+      "text": "saudade, tristeza, falta, apego, confusão, dúvida etc. Esta mesma",
+      "spans": [
+        {
+          "text": "saudade, tristeza, falta, apego, confusão, dúvida etc. Esta mesma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            538.9805908203125,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        539.309814453125,
+        521.8866577148438
+      ],
+      "text": "necessidade é que as fulmina de volta quando se deparam com um",
+      "spans": [
+        {
+          "text": "necessidade é que as fulmina de volta quando se deparam com um",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            539.309814453125,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.7172241210938,
+        539.0252075195312,
+        546.1266479492188
+      ],
+      "text": "homem refratário pois este não permite que sejam satisfeitas. Como o",
+      "spans": [
+        {
+          "text": "homem refratário pois este não permite que sejam satisfeitas. Como o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.7172241210938,
+            539.0252075195312,
+            546.1266479492188
+          ],
+          "origin": [
+            72.0,
+            543.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        554.7172241210938,
+        539.0400390625,
+        570.1266479492188
+      ],
+      "text": "desejo de comprovar nosso sofrimento emocional é muito forte, o",
+      "spans": [
+        {
+          "text": "desejo de comprovar nosso sofrimento emocional é muito forte, o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            554.7172241210938,
+            539.0400390625,
+            570.1266479492188
+          ],
+          "origin": [
+            72.0,
+            567.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        578.957275390625,
+        539.0401000976562,
+        594.36669921875
+      ],
+      "text": "mesmo se tranforma em um parasita interno que as traga vivas quando",
+      "spans": [
+        {
+          "text": "mesmo se tranforma em um parasita interno que as traga vivas quando",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            578.957275390625,
+            539.0401000976562,
+            594.36669921875
+          ],
+          "origin": [
+            72.0,
+            591.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        603.197265625,
+        538.9805297851562,
+        618.606689453125
+      ],
+      "text": "não é satisfeito pois a dor da insatisfação é proporcional à intensidade",
+      "spans": [
+        {
+          "text": "não é satisfeito pois a dor da insatisfação é proporcional à intensidade",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            603.197265625,
+            538.9805297851562,
+            618.606689453125
+          ],
+          "origin": [
+            72.0,
+            615.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        666.706298828125,
+        540.0778198242188,
+        690.7373046875
+      ],
+      "text": "38 É claro que, quando as mulheres também tomam consciência de suas fraquezas, as relações se tornam mais\nharmoniosas. A etapa animal começa então a ser transcendida e as contradições passam a outros níveis.",
+      "spans": [
+        {
+          "text": "38",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            666.706298828125,
+            78.5999984741211,
+            673.879638671875
+          ],
+          "origin": [
+            72.0,
+            672.47998046875
+          ]
+        },
+        {
+          "text": " É claro que, quando as mulheres também tomam consciência de suas fraquezas, as relações se tornam mais",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            78.72000122070312,
+            668.0587158203125,
+            540.0778198242188,
+            679.21728515625
+          ],
+          "origin": [
+            78.72000122070312,
+            677.0399780273438
+          ]
+        },
+        {
+          "text": "harmoniosas. A etapa animal começa então a ser transcendida e as contradições passam a outros níveis.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            679.5787353515625,
+            485.3900451660156,
+            690.7373046875
+          ],
+          "origin": [
+            72.0,
+            688.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "69",
+      "spans": [
+        {
+          "text": "69",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97891235351562,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

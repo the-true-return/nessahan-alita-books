@@ -1,0 +1,951 @@
+{
+  "page_number": 148,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        103.09149169921875,
+        515.4730224609375,
+        118.65927124023438
+      ],
+      "text": "São características que transmitem a idéia de segurança do homem",
+      "spans": [
+        {
+          "text": "São características que transmitem a idéia de segurança do homem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            103.09149169921875,
+            515.4730224609375,
+            118.65927124023438
+          ],
+          "origin": [
+            117.23980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4187622070312,
+        138.81906127929688
+      ],
+      "text": "por si mesmo: firmeza, determinação, objetividade, coragem, desapego,",
+      "spans": [
+        {
+          "text": "por si mesmo: firmeza, determinação, objetividade, coragem, desapego, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4187622070312,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        515.4346313476562,
+        158.97927856445312
+      ],
+      "text": "independência, liderança, insensibilidade, proteção, severidade, crueldade",
+      "spans": [
+        {
+          "text": "independência, liderança, insensibilidade, proteção, severidade, crueldade ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            515.4346313476562,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        162.2884979248047,
+        515.3768920898438,
+        179.07968139648438
+      ],
+      "text": "(que deve ser direcionada em favor das coisas boas e contra as coisas más)1,",
+      "spans": [
+        {
+          "text": "(que deve ser direcionada em favor das coisas boas e contra as coisas más)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.51190185546875,
+            503.8926086425781,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73980712890625,
+            175.8004150390625
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            504.59979248046875,
+            162.2884979248047,
+            508.47998046875,
+            172.64088439941406
+          ],
+          "origin": [
+            504.59979248046875,
+            170.460205078125
+          ]
+        },
+        {
+          "text": ", ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            508.4997863769531,
+            163.51153564453125,
+            515.3768920898438,
+            179.07931518554688
+          ],
+          "origin": [
+            508.4997863769531,
+            175.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        183.67132568359375,
+        515.4808959960938,
+        199.23910522460938
+      ],
+      "text": "falta de piedade, força e concentração, entre outras. Por outro lado,",
+      "spans": [
+        {
+          "text": "falta de piedade, força e concentração, entre outras. Por outro lado, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            183.67132568359375,
+            515.4808959960938,
+            199.23910522460938
+          ],
+          "origin": [
+            82.73977661132812,
+            195.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        203.77215576171875,
+        515.4976806640625,
+        219.33993530273438
+      ],
+      "text": "transmitem à mulher a idéia de que o homem é inseguro: romantismo,",
+      "spans": [
+        {
+          "text": "transmitem à mulher a idéia de que o homem é inseguro: romantismo, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            203.77215576171875,
+            515.4976806640625,
+            219.33993530273438
+          ],
+          "origin": [
+            82.73977661132812,
+            216.0606689453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        223.93194580078125,
+        515.4095458984375,
+        239.49972534179688
+      ],
+      "text": "sensibilidade, passividade, emotividade, fragilidade, carência afetiva,",
+      "spans": [
+        {
+          "text": "sensibilidade, passividade, emotividade, fragilidade, carência afetiva, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            223.93194580078125,
+            515.4095458984375,
+            239.49972534179688
+          ],
+          "origin": [
+            82.73977661132812,
+            236.220458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        244.0323486328125,
+        515.481201171875,
+        259.6001281738281
+      ],
+      "text": "apaixonamento, dependência, assédio, apego, medo, timidez, bondade,",
+      "spans": [
+        {
+          "text": "apaixonamento, dependência, assédio, apego, medo, timidez, bondade, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            244.0323486328125,
+            515.481201171875,
+            259.6001281738281
+          ],
+          "origin": [
+            82.73977661132812,
+            256.32086181640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        264.192138671875,
+        515.524658203125,
+        279.7599182128906
+      ],
+      "text": "temor de perder e a submissão. A crise dos valores masculinos pela qual a",
+      "spans": [
+        {
+          "text": "temor de perder e a submissão. A crise dos valores masculinos pela qual a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            264.192138671875,
+            515.524658203125,
+            279.7599182128906
+          ],
+          "origin": [
+            82.73977661132812,
+            276.48065185546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        284.29254150390625,
+        515.5222778320312,
+        299.8603210449219
+      ],
+      "text": "humanidade passa atualmente e que as atinge tão fortemente se origina da",
+      "spans": [
+        {
+          "text": "humanidade passa atualmente e que as atinge tão fortemente se origina da ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            284.29254150390625,
+            515.5222778320312,
+            299.8603210449219
+          ],
+          "origin": [
+            82.73977661132812,
+            296.5810546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        304.4527587890625,
+        515.4630737304688,
+        320.0205383300781
+      ],
+      "text": "confusão dos papéis. A confusão, por sua vez, provém da fragilização do",
+      "spans": [
+        {
+          "text": "confusão dos papéis. A confusão, por sua vez, provém da fragilização do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            304.4527587890625,
+            515.4630737304688,
+            320.0205383300781
+          ],
+          "origin": [
+            82.73977661132812,
+            316.74127197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        324.55316162109375,
+        258.1690368652344,
+        340.1209411621094
+      ],
+      "text": "masculino ainda na infância.",
+      "spans": [
+        {
+          "text": "masculino ainda na infância.    ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            324.55316162109375,
+            258.1690368652344,
+            340.1209411621094
+          ],
+          "origin": [
+            82.73977661132812,
+            336.8416748046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23977661132812,
+        356.29296875,
+        515.4213256835938,
+        371.8607482910156
+      ],
+      "text": "Embora dificilmente admitam, a observação revela que as fêmeas",
+      "spans": [
+        {
+          "text": "Embora dificilmente admitam, a observação revela que as fêmeas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23977661132812,
+            356.29296875,
+            515.4213256835938,
+            371.8607482910156
+          ],
+          "origin": [
+            117.23977661132812,
+            368.58148193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        376.4531555175781,
+        515.436279296875,
+        392.02093505859375
+      ],
+      "text": "humanas buscam homens emocionalmente fortes que as guiem, dominem e",
+      "spans": [
+        {
+          "text": "humanas buscam homens emocionalmente fortes que as guiem, dominem e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            376.4531555175781,
+            515.436279296875,
+            392.02093505859375
+          ],
+          "origin": [
+            82.73977661132812,
+            388.7416687011719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73977661132812,
+        396.5535583496094,
+        515.3862915039062,
+        412.121337890625
+      ],
+      "text": "protejam, nos sentidos já tão exaustivamente explicados neste livro. De",
+      "spans": [
+        {
+          "text": "protejam, nos sentidos já tão exaustivamente explicados neste livro. De ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73977661132812,
+            396.5535583496094,
+            515.3862915039062,
+            412.121337890625
+          ],
+          "origin": [
+            82.73977661132812,
+            408.8420715332031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        416.7133483886719,
+        515.4424438476562,
+        432.2811279296875
+      ],
+      "text": "nada adianta você ser alto, forte, rico e bonito se não tiver um coração",
+      "spans": [
+        {
+          "text": "nada adianta você ser alto, forte, rico e bonito se não tiver um coração ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            416.7133483886719,
+            515.4424438476562,
+            432.2811279296875
+          ],
+          "origin": [
+            82.73979187011719,
+            429.0018615722656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        436.8137512207031,
+        515.4573364257812,
+        452.38153076171875
+      ],
+      "text": "valente. Também não adianta ser valentão com outros homens, andar com",
+      "spans": [
+        {
+          "text": "valente. Também não adianta ser valentão com outros homens, andar com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            436.8137512207031,
+            515.4573364257812,
+            452.38153076171875
+          ],
+          "origin": [
+            82.73979187011719,
+            449.1022644042969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        456.9735412597656,
+        515.4495239257812,
+        472.54132080078125
+      ],
+      "text": "facas e ameaçar fisicamente os machos rivais. Ela se cansará de você do",
+      "spans": [
+        {
+          "text": "facas e ameaçar fisicamente os machos rivais. Ela se cansará de você do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            456.9735412597656,
+            515.4495239257812,
+            472.54132080078125
+          ],
+          "origin": [
+            82.73979187011719,
+            469.2620544433594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        477.0743408203125,
+        515.3751831054688,
+        492.6421203613281
+      ],
+      "text": "mesmo jeito, irá enjoar e meter-lhe chifres. E será bem feito porque você",
+      "spans": [
+        {
+          "text": "mesmo jeito, irá enjoar e meter-lhe chifres. E será bem feito porque você ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            477.0743408203125,
+            515.3751831054688,
+            492.6421203613281
+          ],
+          "origin": [
+            82.73979187011719,
+            489.36285400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        497.234130859375,
+        143.67604064941406,
+        512.8019409179688
+      ],
+      "text": "mereceu...",
+      "spans": [
+        {
+          "text": "mereceu... ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            497.234130859375,
+            143.67604064941406,
+            512.8019409179688
+          ],
+          "origin": [
+            82.73980712890625,
+            509.52264404296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        529.0337524414062,
+        515.4622802734375,
+        544.6015625
+      ],
+      "text": "Outra coisa: nunca fale em tom submisso e nem tampouco seja",
+      "spans": [
+        {
+          "text": "Outra coisa: nunca fale em tom submisso e nem tampouco seja ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            529.0337524414062,
+            515.4622802734375,
+            544.6015625
+          ],
+          "origin": [
+            117.23980712890625,
+            541.322265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        549.1340942382812,
+        515.5194702148438,
+        564.701904296875
+      ],
+      "text": "mandão. Fale concentrado, com o coração e sem vacilar. Use um tom de voz",
+      "spans": [
+        {
+          "text": "mandão. Fale concentrado, com o coração e sem vacilar. Use um tom de voz ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            549.1340942382812,
+            515.5194702148438,
+            564.701904296875
+          ],
+          "origin": [
+            82.73980712890625,
+            561.422607421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        569.2938842773438,
+        515.4710693359375,
+        584.8616943359375
+      ],
+      "text": "grave e não agudo. Não fique pedindo opiniões, perguntando coisas, dando",
+      "spans": [
+        {
+          "text": "grave e não agudo. Não fique pedindo opiniões, perguntando coisas, dando ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            569.2938842773438,
+            515.4710693359375,
+            584.8616943359375
+          ],
+          "origin": [
+            82.73980712890625,
+            581.5823974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        589.3943481445312,
+        515.5328369140625,
+        604.962158203125
+      ],
+      "text": "explicações todo o tempo etc. Simplesmente tome decisões acertadas e",
+      "spans": [
+        {
+          "text": "explicações todo o tempo etc. Simplesmente tome decisões acertadas e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            589.3943481445312,
+            515.5328369140625,
+            604.962158203125
+          ],
+          "origin": [
+            82.73980712890625,
+            601.682861328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        609.5545043945312,
+        515.5109252929688,
+        625.122314453125
+      ],
+      "text": "comunique. Se alguma explicação sobre sua conduta for solicitada, limite-se",
+      "spans": [
+        {
+          "text": "comunique. Se alguma explicação sobre sua conduta for solicitada, limite-se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            609.5545043945312,
+            515.5109252929688,
+            625.122314453125
+          ],
+          "origin": [
+            82.73980712890625,
+            621.843017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        629.6549072265625,
+        515.464111328125,
+        645.2227172851562
+      ],
+      "text": "a dá-la da forma curta e objetiva, preservando o mistério. É claro que",
+      "spans": [
+        {
+          "text": "a dá-la da forma curta e objetiva, preservando o mistério. É claro que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            629.6549072265625,
+            515.464111328125,
+            645.2227172851562
+          ],
+          "origin": [
+            82.73980712890625,
+            641.9434204101562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        649.8147583007812,
+        515.4100341796875,
+        665.382568359375
+      ],
+      "text": "quando você errar deverá reconhecer seu erro e se apressar em corrigí-lo",
+      "spans": [
+        {
+          "text": "quando você errar deverá reconhecer seu erro e se apressar em corrigí-lo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            649.8147583007812,
+            515.4100341796875,
+            665.382568359375
+          ],
+          "origin": [
+            82.73980712890625,
+            662.103271484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        670.1396484375,
+        514.7017211914062,
+        723.239990234375
+      ],
+      "text": "1 Pois o que convencionamos chamar de “mal”  são as forças instintivas e naturais do \ninconsciente que não encontram o seu lugar na consciência do homem moderno (SANFORD, \n1988). A vida “civilizada” não permite a expressão de todos os impulsos com os quais a \nnatureza nos dotou. Esses impulsos, banidos para o inconsciente, constituirão a sombra e se",
+      "spans": [
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            680.5557861328125,
+            85.65750885009766,
+            688.3396606445312
+          ],
+          "origin": [
+            82.74000549316406,
+            686.7000122070312
+          ]
+        },
+        {
+          "text": " Pois o que convencionamos chamar de “mal”  são as forças instintivas e naturais do ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68023681640625,
+            681.3836059570312,
+            514.7017211914062,
+            693.0594482421875
+          ],
+          "origin": [
+            85.68023681640625,
+            690.5999755859375
+          ]
+        },
+        {
+          "text": "inconsciente que não encontram o seu lugar na consciência do homem moderno (SANFORD, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            691.464111328125,
+            514.6370849609375,
+            703.1399536132812
+          ],
+          "origin": [
+            82.74039459228516,
+            700.6804809570312
+          ]
+        },
+        {
+          "text": "1988). A vida “civilizada” não permite a expressão de todos os impulsos com os quais a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            701.5442504882812,
+            514.696533203125,
+            713.2200927734375
+          ],
+          "origin": [
+            82.74038696289062,
+            710.7606201171875
+          ]
+        },
+        {
+          "text": "natureza nos dotou. Esses impulsos, banidos para o inconsciente, constituirão a sombra e se ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            711.5641479492188,
+            514.7003784179688,
+            723.239990234375
+          ],
+          "origin": [
+            82.74038696289062,
+            720.780517578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "148",
+      "spans": [
+        {
+          "text": "148",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

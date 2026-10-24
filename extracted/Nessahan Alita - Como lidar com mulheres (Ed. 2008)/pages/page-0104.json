@@ -1,0 +1,272 @@
+{
+  "page_number": 104,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4826049804688,
+        118.65927124023438
+      ],
+      "text": "decisivas que nos mostrem de uma vez por todas o que sentem e quem são",
+      "spans": [
+        {
+          "text": "decisivas que nos mostrem de uma vez por todas o que sentem e quem são ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.4826049804688,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.3900756835938,
+        138.81906127929688
+      ],
+      "text": "de fato. O apaixonado é, infelizmente, um miserável condenado a ser",
+      "spans": [
+        {
+          "text": "de fato. O apaixonado é, infelizmente, um miserável condenado a ser ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.3900756835938,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        142.1278533935547,
+        256.1170349121094,
+        158.97885131835938
+      ],
+      "text": "escravo e a carregar chifres15.",
+      "spans": [
+        {
+          "text": "escravo e a carregar chifres",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.41107177734375,
+            236.7068328857422,
+            158.97885131835938
+          ],
+          "origin": [
+            82.73980712890625,
+            155.6995849609375
+          ]
+        },
+        {
+          "text": "15",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            237.53981018066406,
+            142.1278533935547,
+            245.3203887939453,
+            152.48023986816406
+          ],
+          "origin": [
+            237.53981018066406,
+            150.299560546875
+          ]
+        },
+        {
+          "text": ".  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            245.33981323242188,
+            143.41107177734375,
+            256.1170349121094,
+            158.97885131835938
+          ],
+          "origin": [
+            245.33981323242188,
+            155.6995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7396240234375,
+        632.8787231445312,
+        514.8961181640625,
+        685.97998046875
+      ],
+      "text": "14 Sem simular mas transformando-se realmente. \n15 A mulher não se sente realizada quando descobre que seu homem é um simples escravo \nemocional. Poderá continuar com ele por conveniência mas continuará à procura de outro que a \nfaça sentir-se segura.",
+      "spans": [
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            643.2957763671875,
+            88.5977783203125,
+            651.0796508789062
+          ],
+          "origin": [
+            82.74002075195312,
+            649.4400024414062
+          ]
+        },
+        {
+          "text": " Sem simular mas transformando-se realmente. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56033325195312,
+            644.1235961914062,
+            298.4281005859375,
+            655.7994384765625
+          ],
+          "origin": [
+            88.56033325195312,
+            653.3399658203125
+          ]
+        },
+        {
+          "text": "15",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            653.315673828125,
+            88.5977783203125,
+            661.0995483398438
+          ],
+          "origin": [
+            82.74002075195312,
+            659.4598999023438
+          ]
+        },
+        {
+          "text": " A mulher não se sente realizada quando descobre que seu homem é um simples escravo ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56033325195312,
+            654.1435546875,
+            514.6311645507812,
+            665.8193969726562
+          ],
+          "origin": [
+            88.56033325195312,
+            663.3599243164062
+          ]
+        },
+        {
+          "text": "emocional. Poderá continuar com ele por conveniência mas continuará à procura de outro que a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73963165283203,
+            664.2236328125,
+            514.7919311523438,
+            675.8994750976562
+          ],
+          "origin": [
+            82.73963165283203,
+            673.4400024414062
+          ]
+        },
+        {
+          "text": "faça sentir-se segura.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7396240234375,
+            674.3041381835938,
+            183.15818786621094,
+            685.97998046875
+          ],
+          "origin": [
+            82.7396240234375,
+            683.5205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "104",
+      "spans": [
+        {
+          "text": "104",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

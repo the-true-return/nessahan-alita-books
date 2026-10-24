@@ -1,0 +1,1058 @@
+{
+  "page_number": 67,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        110.50640869140625,
+        258.50537109375,
+        126.44022369384766
+      ],
+      "text": "19. Do encantamento",
+      "spans": [
+        {
+          "text": "19. Do encantamento ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            110.50640869140625,
+            258.50537109375,
+            126.44022369384766
+          ],
+          "origin": [
+            82.73999786376953,
+            123.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        146.21823120117188,
+        516.2429809570312,
+        159.89547729492188
+      ],
+      "text": "Este é um aspecto “tático” que negligenciei. Pertence",
+      "spans": [
+        {
+          "text": "Este é um aspecto “tático” que negligenciei. Pertence ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            146.21823120117188,
+            516.2429809570312,
+            159.89547729492188
+          ],
+          "origin": [
+            117.23999786376953,
+            157.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.73873901367188,
+        516.1054077148438,
+        180.41598510742188
+      ],
+      "text": "principalmente \nao \nterceiro \nnível, \nmas \ntambém \ndeve \nser",
+      "spans": [
+        {
+          "text": "principalmente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.73873901367188,
+            186.0276336669922,
+            180.41598510742188
+          ],
+          "origin": [
+            82.73997497558594,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.45477294921875,
+            166.73873901367188,
+            215.4873809814453,
+            180.41598510742188
+          ],
+          "origin": [
+            196.45477294921875,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "terceiro ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            225.97520446777344,
+            166.73873901367188,
+            280.4402770996094,
+            180.41598510742188
+          ],
+          "origin": [
+            225.97520446777344,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "nível, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            290.819580078125,
+            166.73873901367188,
+            330.87921142578125,
+            180.41598510742188
+          ],
+          "origin": [
+            290.819580078125,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "mas ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            341.3063659667969,
+            166.73873901367188,
+            371.80120849609375,
+            180.41598510742188
+          ],
+          "origin": [
+            341.3063659667969,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "também ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            382.2283630371094,
+            166.73873901367188,
+            438.2478332519531,
+            180.41598510742188
+          ],
+          "origin": [
+            382.2283630371094,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "deve ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            448.67498779296875,
+            166.73873901367188,
+            481.8072814941406,
+            180.41598510742188
+          ],
+          "origin": [
+            448.67498779296875,
+            177.72021484375
+          ]
+        },
+        {
+          "text": "ser ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            492.23443603515625,
+            166.73873901367188,
+            516.1054077148438,
+            180.41598510742188
+          ],
+          "origin": [
+            492.23443603515625,
+            177.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        187.25924682617188,
+        328.4682312011719,
+        200.93649291992188
+      ],
+      "text": "esporadicamente adotado no quarto.",
+      "spans": [
+        {
+          "text": "esporadicamente adotado no quarto. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            187.25924682617188,
+            328.4682312011719,
+            200.93649291992188
+          ],
+          "origin": [
+            82.739990234375,
+            198.24072265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400131225586,
+        219.47897338867188,
+        516.25244140625,
+        233.15621948242188
+      ],
+      "text": "Sucede \nque \nnem \ntudo \né \nguerra \nno \nrelacionamento.",
+      "spans": [
+        {
+          "text": "Sucede ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400131225586,
+            219.47897338867188,
+            167.90414428710938,
+            233.15621948242188
+          ],
+          "origin": [
+            117.2400131225586,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            177.61123657226562,
+            219.47897338867188,
+            205.06607055664062,
+            233.15621948242188
+          ],
+          "origin": [
+            177.61123657226562,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "nem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            214.77316284179688,
+            219.47897338867188,
+            246.2039794921875,
+            233.15621948242188
+          ],
+          "origin": [
+            214.77316284179688,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "tudo ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            255.91107177734375,
+            219.47897338867188,
+            289.67822265625,
+            233.15621948242188
+          ],
+          "origin": [
+            255.91107177734375,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "é ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            299.44598388671875,
+            219.47897338867188,
+            310.2512512207031,
+            233.15621948242188
+          ],
+          "origin": [
+            299.44598388671875,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "guerra ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            319.9583435058594,
+            219.47897338867188,
+            367.0001525878906,
+            233.15621948242188
+          ],
+          "origin": [
+            319.9583435058594,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "no ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            376.6477355957031,
+            219.47897338867188,
+            396.62445068359375,
+            233.15621948242188
+          ],
+          "origin": [
+            376.6477355957031,
+            230.46044921875
+          ]
+        },
+        {
+          "text": "relacionamento. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            406.33154296875,
+            219.47897338867188,
+            516.25244140625,
+            233.15621948242188
+          ],
+          "origin": [
+            406.33154296875,
+            230.46044921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        240.05899047851562,
+        516.2058715820312,
+        253.73623657226562
+      ],
+      "text": "Devemos saber combinar opostos. Aos atos desarticulatórios",
+      "spans": [
+        {
+          "text": "Devemos saber combinar opostos. Aos atos desarticulatórios ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            240.05899047851562,
+            516.2058715820312,
+            253.73623657226562
+          ],
+          "origin": [
+            82.739990234375,
+            251.04046630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        260.5794982910156,
+        516.2420043945312,
+        274.2567443847656
+      ],
+      "text": "defensivos temos que acrescentar o ato de encantamento",
+      "spans": [
+        {
+          "text": "defensivos temos que acrescentar o ato de encantamento ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            260.5794982910156,
+            516.2420043945312,
+            274.2567443847656
+          ],
+          "origin": [
+            82.739990234375,
+            271.56097412109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        281.1595153808594,
+        516.3446044921875,
+        294.8367614746094
+      ],
+      "text": "romântico, em doses adequadas e nos momentos certos. Sim, há",
+      "spans": [
+        {
+          "text": "romântico, em doses adequadas e nos momentos certos. Sim, há ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            281.1595153808594,
+            516.3446044921875,
+            294.8367614746094
+          ],
+          "origin": [
+            82.739990234375,
+            292.1409912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        301.7395324707031,
+        516.3223876953125,
+        315.4167785644531
+      ],
+      "text": "momentos em que é preciso dizer-lhes, sem exagero, o quanto",
+      "spans": [
+        {
+          "text": "momentos em que é preciso dizer-lhes, sem exagero, o quanto ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            301.7395324707031,
+            516.3223876953125,
+            315.4167785644531
+          ],
+          "origin": [
+            82.739990234375,
+            312.72100830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        322.26007080078125,
+        516.18603515625,
+        335.93731689453125
+      ],
+      "text": "gostamos delas. Quais são os momentos corretos para se dizer",
+      "spans": [
+        {
+          "text": "gostamos delas. Quais são os momentos corretos para se dizer ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            322.26007080078125,
+            516.18603515625,
+            335.93731689453125
+          ],
+          "origin": [
+            82.739990234375,
+            333.2415466308594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        342.7806091308594,
+        516.1473999023438,
+        356.4578552246094
+      ],
+      "text": "isso? Ainda que sejam raros, são aqueles em que elas agem",
+      "spans": [
+        {
+          "text": "isso? Ainda que sejam raros, são aqueles em que elas agem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            342.7806091308594,
+            516.1473999023438,
+            356.4578552246094
+          ],
+          "origin": [
+            82.739990234375,
+            353.7620849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        363.3011474609375,
+        516.3258666992188,
+        376.9783935546875
+      ],
+      "text": "como mulheres de verdade e não como molecas. Há também",
+      "spans": [
+        {
+          "text": "como mulheres de verdade e não como molecas. Há também ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            363.3011474609375,
+            516.3258666992188,
+            376.9783935546875
+          ],
+          "origin": [
+            82.739990234375,
+            374.2826232910156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        383.8811950683594,
+        516.2734985351562,
+        397.5584411621094
+      ],
+      "text": "momentos em que temos que estreitar a simpatia com atitudes",
+      "spans": [
+        {
+          "text": "momentos em que temos que estreitar a simpatia com atitudes ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            383.8811950683594,
+            516.2734985351562,
+            397.5584411621094
+          ],
+          "origin": [
+            82.739990234375,
+            394.8626708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        404.4017333984375,
+        516.3072509765625,
+        418.0789794921875
+      ],
+      "text": "de demonstrem uma moderada afetividade e até simular que",
+      "spans": [
+        {
+          "text": "de demonstrem uma moderada afetividade e até simular que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            404.4017333984375,
+            516.3072509765625,
+            418.0789794921875
+          ],
+          "origin": [
+            82.739990234375,
+            415.3832092285156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        424.9817810058594,
+        410.4228210449219,
+        438.6590270996094
+      ],
+      "text": "estamos apaixonados (como elas fazem conosco).",
+      "spans": [
+        {
+          "text": "estamos apaixonados (como elas fazem conosco). ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            424.9817810058594,
+            410.4228210449219,
+            438.6590270996094
+          ],
+          "origin": [
+            82.739990234375,
+            435.9632568359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400131225586,
+        457.20147705078125,
+        516.1801147460938,
+        470.87872314453125
+      ],
+      "text": "A voz é a melhor ferramenta para o encantamento.",
+      "spans": [
+        {
+          "text": "A voz é a melhor ferramenta para o encantamento. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400131225586,
+            457.20147705078125,
+            516.1801147460938,
+            470.87872314453125
+          ],
+          "origin": [
+            117.2400131225586,
+            468.1829528808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        477.7815246582031,
+        516.2501831054688,
+        491.4587707519531
+      ],
+      "text": "Segundo Eliphas Lévi, não há instrumento mais encantador que",
+      "spans": [
+        {
+          "text": "Segundo Eliphas Lévi, não há instrumento mais encantador que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            477.7815246582031,
+            516.2501831054688,
+            491.4587707519531
+          ],
+          "origin": [
+            82.739990234375,
+            488.76300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        498.30206298828125,
+        516.289794921875,
+        511.97930908203125
+      ],
+      "text": "a voz humana. Certos tons românticos de voz combinados com",
+      "spans": [
+        {
+          "text": "a voz humana. Certos tons românticos de voz combinados com ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            498.30206298828125,
+            516.289794921875,
+            511.97930908203125
+          ],
+          "origin": [
+            82.739990234375,
+            509.2835388183594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        518.8226318359375,
+        516.2828979492188,
+        532.4998168945312
+      ],
+      "text": "palavras corretas podem ter um efeito muito interessante",
+      "spans": [
+        {
+          "text": "palavras corretas podem ter um efeito muito interessante ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            518.8226318359375,
+            516.2828979492188,
+            532.4998168945312
+          ],
+          "origin": [
+            82.739990234375,
+            529.8040771484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        539.4027099609375,
+        516.1859130859375,
+        553.0798950195312
+      ],
+      "text": "quando utilizados no momento adequado. O magnetismo da luz",
+      "spans": [
+        {
+          "text": "quando utilizados no momento adequado. O magnetismo da luz ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            539.4027099609375,
+            516.1859130859375,
+            553.0798950195312
+          ],
+          "origin": [
+            82.739990234375,
+            550.3841552734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        559.9232177734375,
+        516.2056884765625,
+        573.6004028320312
+      ],
+      "text": "astral flui principalmente pelos olhos, pela boca (e isso inclui a",
+      "spans": [
+        {
+          "text": "astral flui principalmente pelos olhos, pela boca (e isso inclui a ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            559.9232177734375,
+            516.2056884765625,
+            573.6004028320312
+          ],
+          "origin": [
+            82.739990234375,
+            570.9046630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        580.5032958984375,
+        516.3134155273438,
+        594.1804809570312
+      ],
+      "text": "voz), pelas mãos e pelos órgãos sexuais. É por isso que o",
+      "spans": [
+        {
+          "text": "voz), pelas mãos e pelos órgãos sexuais. É por isso que o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            580.5032958984375,
+            516.3134155273438,
+            594.1804809570312
+          ],
+          "origin": [
+            82.739990234375,
+            591.4847412109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        601.0238037109375,
+        516.2293701171875,
+        614.7009887695312
+      ],
+      "text": "encantamento no segundo e no terceiro níveis depende da forma",
+      "spans": [
+        {
+          "text": "encantamento no segundo e no terceiro níveis depende da forma ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            601.0238037109375,
+            516.2293701171875,
+            614.7009887695312
+          ],
+          "origin": [
+            82.739990234375,
+            612.0052490234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        621.6038208007812,
+        516.333984375,
+        635.281005859375
+      ],
+      "text": "de olhar e de falar. E é também por isso que o encantamento no",
+      "spans": [
+        {
+          "text": "de olhar e de falar. E é também por isso que o encantamento no ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            621.6038208007812,
+            516.333984375,
+            635.281005859375
+          ],
+          "origin": [
+            82.739990234375,
+            632.5852661132812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        642.1243896484375,
+        516.3026733398438,
+        655.8015747070312
+      ],
+      "text": "quarto nível depende do estreitamento da intimidade física. Se",
+      "spans": [
+        {
+          "text": "quarto nível depende do estreitamento da intimidade física. Se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            642.1243896484375,
+            516.3026733398438,
+            655.8015747070312
+          ],
+          "origin": [
+            82.739990234375,
+            653.1058349609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        662.6448974609375,
+        516.2291259765625,
+        676.3220825195312
+      ],
+      "text": "você se polarizar na frieza e nunca utilizar estas ferramentas,",
+      "spans": [
+        {
+          "text": "você se polarizar na frieza e nunca utilizar estas ferramentas, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            662.6448974609375,
+            516.2291259765625,
+            676.3220825195312
+          ],
+          "origin": [
+            82.739990234375,
+            673.6263427734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        683.2249145507812,
+        228.78070068359375,
+        696.902099609375
+      ],
+      "text": "não conseguirá nada.",
+      "spans": [
+        {
+          "text": "não conseguirá nada. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            683.2249145507812,
+            228.78070068359375,
+            696.902099609375
+          ],
+          "origin": [
+            82.739990234375,
+            694.2063598632812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "67",
+      "spans": [
+        {
+          "text": "67",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

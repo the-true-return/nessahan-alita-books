@@ -1,0 +1,1594 @@
+{
+  "page_number": 230,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        103.99347686767578,
+        126.4404067993164,
+        117.18739318847656
+      ],
+      "text": "f og o.",
+      "spans": [
+        {
+          "text": "f og o. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            103.99347686767578,
+            126.4404067993164,
+            117.18739318847656
+          ],
+          "origin": [
+            94.0198974609375,
+            114.41998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        292.260009765625,
+        133.39349365234375,
+        330.80029296875,
+        146.58741760253906
+      ],
+      "text": "* * * * *",
+      "spans": [
+        {
+          "text": "*",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            292.260009765625,
+            133.39349365234375,
+            296.0505676269531,
+            146.58741760253906
+          ],
+          "origin": [
+            292.260009765625,
+            143.82000732421875
+          ]
+        },
+        {
+          "text": "*",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            299.46209716796875,
+            133.39349365234375,
+            303.2526550292969,
+            146.58741760253906
+          ],
+          "origin": [
+            299.46209716796875,
+            143.82000732421875
+          ]
+        },
+        {
+          "text": "*",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            306.6642150878906,
+            133.39349365234375,
+            310.45477294921875,
+            146.58741760253906
+          ],
+          "origin": [
+            306.6642150878906,
+            143.82000732421875
+          ]
+        },
+        {
+          "text": "*",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            313.74639892578125,
+            133.39349365234375,
+            317.5369567871094,
+            146.58741760253906
+          ],
+          "origin": [
+            313.74639892578125,
+            143.82000732421875
+          ]
+        },
+        {
+          "text": "* ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            320.948486328125,
+            133.39349365234375,
+            330.80029296875,
+            146.58741760253906
+          ],
+          "origin": [
+            320.948486328125,
+            143.82000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        162.79345703125,
+        150.30880737304688,
+        175.9873809814453
+      ],
+      "text": "Ol á",
+      "spans": [
+        {
+          "text": "Ol á ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            162.79345703125,
+            150.30880737304688,
+            175.9873809814453
+          ],
+          "origin": [
+            128.4600067138672,
+            173.219970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        192.13348388671875,
+        529.1639404296875,
+        205.32740783691406
+      ],
+      "text": "Est es \nh om en s \nq u e \nsão \nf isg ad os \nsem \nsex o \nem \ng er al \nsão",
+      "spans": [
+        {
+          "text": "Est es ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            192.13348388671875,
+            162.01370239257812,
+            205.32740783691406
+          ],
+          "origin": [
+            128.4600067138672,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "h om en s ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            172.44898986816406,
+            192.13348388671875,
+            219.53579711914062,
+            205.32740783691406
+          ],
+          "origin": [
+            172.44898986816406,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "q u e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            229.9710693359375,
+            192.13348388671875,
+            253.66468811035156,
+            205.32740783691406
+          ],
+          "origin": [
+            229.9710693359375,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "são ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            264.0999755859375,
+            192.13348388671875,
+            286.50445556640625,
+            205.32740783691406
+          ],
+          "origin": [
+            264.0999755859375,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "f isg ad os ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            296.9397277832031,
+            192.13348388671875,
+            347.5201416015625,
+            205.32740783691406
+          ],
+          "origin": [
+            296.9397277832031,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "sem ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            357.8951416015625,
+            192.13348388671875,
+            383.8583679199219,
+            205.32740783691406
+          ],
+          "origin": [
+            357.8951416015625,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "sex o ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            394.2936096191406,
+            192.13348388671875,
+            423.39117431640625,
+            205.32740783691406
+          ],
+          "origin": [
+            394.2936096191406,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "em ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            433.8264465332031,
+            192.13348388671875,
+            453.7568054199219,
+            205.32740783691406
+          ],
+          "origin": [
+            433.8264465332031,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "g er al ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            464.1318054199219,
+            192.13348388671875,
+            496.208251953125,
+            205.32740783691406
+          ],
+          "origin": [
+            464.1318054199219,
+            202.55999755859375
+          ]
+        },
+        {
+          "text": "são ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            506.6435241699219,
+            192.13348388671875,
+            529.1639404296875,
+            205.32740783691406
+          ],
+          "origin": [
+            506.6435241699219,
+            202.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        209.89349365234375,
+        529.1259155273438,
+        223.08741760253906
+      ],
+      "text": "in f an t ili zad o s n a r el ação, p r en d en d o- se à m u lh er p elo sen t im en t o d e",
+      "spans": [
+        {
+          "text": "in f an t ili zad o s n a r el ação, p r en d en d o- se à m u lh er p elo sen t im en t o d e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            209.89349365234375,
+            529.1259155273438,
+            223.08741760253906
+          ],
+          "origin": [
+            94.0198974609375,
+            220.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        227.65350341796875,
+        529.1830444335938,
+        240.84742736816406
+      ],
+      "text": "ap eg o. Pel o m ed o d e \" p er d er a m am ãe\" si m u l am su p or t ar t al t o r t u r a",
+      "spans": [
+        {
+          "text": "ap eg o. Pel o m ed o d e \" p er d er a m am ãe\" si m u l am su p or t ar t al t o r t u r a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            227.65350341796875,
+            529.1830444335938,
+            240.84742736816406
+          ],
+          "origin": [
+            94.0198974609375,
+            238.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        245.353515625,
+        500.64495849609375,
+        258.54742431640625
+      ],
+      "text": "em b o r a q u ase sem p r e d êem v azão ao s seu s in st in t o s às escon d id as.",
+      "spans": [
+        {
+          "text": "em b o r a q u ase sem p r e d êem v azão ao s seu s in st in t o s às escon d id as.  ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            245.353515625,
+            500.64495849609375,
+            258.54742431640625
+          ],
+          "origin": [
+            94.0198974609375,
+            255.780029296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        274.75347900390625,
+        529.1469116210938,
+        287.9473876953125
+      ],
+      "text": "Os q u e se ap ai x o n am \" p ela car n e\" , com o v o cê d iz, co st u m am v er",
+      "spans": [
+        {
+          "text": "Os q u e se ap ai x o n am \" p ela car n e\" , com o v o cê d iz, co st u m am v er ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            274.75347900390625,
+            529.1469116210938,
+            287.9473876953125
+          ],
+          "origin": [
+            128.4600067138672,
+            285.17999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        292.4534912109375,
+        529.1942749023438,
+        305.64739990234375
+      ],
+      "text": "n a m u lh er alg u m a car act er íst ica f ísi ca q u e o s f ascin a e q u e, se f or",
+      "spans": [
+        {
+          "text": "n a m u lh er alg u m a car act er íst ica f ísi ca q u e o s f ascin a e q u e, se f or ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            292.4534912109375,
+            529.1942749023438,
+            305.64739990234375
+          ],
+          "origin": [
+            94.0198974609375,
+            302.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        310.21246337890625,
+        529.1795043945312,
+        323.4063720703125
+      ],
+      "text": "p er d i d a, p r ov o car á o d eslig am en t o. Qu an t o m ai s “ b o n i t a” f or a m u lh er ,",
+      "spans": [
+        {
+          "text": "p er d i d a, p r ov o car á o d eslig am en t o. Qu an t o m ai s “ b o n i t a” f or a m u lh er , ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            310.21246337890625,
+            529.1795043945312,
+            323.4063720703125
+          ],
+          "origin": [
+            94.0198974609375,
+            320.63897705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        327.9134826660156,
+        529.1583862304688,
+        341.1073913574219
+      ],
+      "text": "d en t r o d as co n d ições d o h om em em co n seg u ir m u lh er es b on it as, m ais",
+      "spans": [
+        {
+          "text": "d en t r o d as co n d ições d o h om em em co n seg u ir m u lh er es b on it as, m ais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            327.9134826660156,
+            529.1583862304688,
+            341.1073913574219
+          ],
+          "origin": [
+            94.0198974609375,
+            338.3399963378906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        345.6734924316406,
+        529.2316284179688,
+        358.8674011230469
+      ],
+      "text": "m ag n ét i ca ser á. É p o r isso q u e o s h om en s n ão o lh am p ar a as m u lh er es",
+      "spans": [
+        {
+          "text": "m ag n ét i ca ser á. É p o r isso q u e o s h om en s n ão o lh am p ar a as m u lh er es ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            345.6734924316406,
+            529.2316284179688,
+            358.8674011230469
+          ],
+          "origin": [
+            94.0198974609375,
+            356.1000061035156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        363.4334716796875,
+        529.1878662109375,
+        376.62738037109375
+      ],
+      "text": "m ais v elh as o u p ar a as con sid er ad as \" f eias\" . Aq u eles q u e o f azem são o s",
+      "spans": [
+        {
+          "text": "m ais v elh as o u p ar a as con sid er ad as \" f eias\" . Aq u eles q u e o f azem são o s ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            363.4334716796875,
+            529.1878662109375,
+            376.62738037109375
+          ],
+          "origin": [
+            94.0198974609375,
+            373.8599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        381.13348388671875,
+        529.2144775390625,
+        394.327392578125
+      ],
+      "text": "q u e se sen t em r ej eit ad o s e se t o r n am m en o s ex ig en t es. A ló g i ca b ásica e",
+      "spans": [
+        {
+          "text": "q u e se sen t em r ej eit ad o s e se t o r n am m en o s ex ig en t es. A ló g i ca b ásica e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            381.13348388671875,
+            529.2144775390625,
+            394.327392578125
+          ],
+          "origin": [
+            94.0198974609375,
+            391.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        398.83349609375,
+        529.1322021484375,
+        412.02740478515625
+      ],
+      "text": "p r eco n cei t u o sa é: q u an t o m ai or o d est aq u e so ci al d o h o m em , m ai s",
+      "spans": [
+        {
+          "text": "p r eco n cei t u o sa é: q u an t o m ai or o d est aq u e so ci al d o h o m em , m ai s ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            398.83349609375,
+            529.1322021484375,
+            412.02740478515625
+          ],
+          "origin": [
+            94.0198974609375,
+            409.260009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        416.5934753417969,
+        529.2167358398438,
+        429.7873840332031
+      ],
+      "text": "b on it as ser ão as m u lh er es q u e ele con seg u ir á. En t r et an t o , se elas f or em",
+      "spans": [
+        {
+          "text": "b on it as ser ão as m u lh er es q u e ele con seg u ir á. En t r et an t o , se elas f or em ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            416.5934753417969,
+            529.2167358398438,
+            429.7873840332031
+          ],
+          "origin": [
+            94.0198974609375,
+            427.0199890136719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        434.2934875488281,
+        529.1631469726562,
+        447.4873962402344
+      ],
+      "text": "in d i f er en t es \nao \nsex o, \nr esist en t es \nao \ner ot i sm o \no u \no \nco n si d er ar em",
+      "spans": [
+        {
+          "text": "in d i f er en t es ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            434.2934875488281,
+            165.9600830078125,
+            447.4873962402344
+          ],
+          "origin": [
+            94.0198974609375,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            174.71559143066406,
+            434.2934875488281,
+            191.11631774902344,
+            447.4873962402344
+          ],
+          "origin": [
+            174.71559143066406,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "sex o, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            199.871826171875,
+            434.2934875488281,
+            233.54991149902344,
+            447.4873962402344
+          ],
+          "origin": [
+            199.871826171875,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "r esist en t es ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            242.305419921875,
+            434.2934875488281,
+            308.95074462890625,
+            447.4873962402344
+          ],
+          "origin": [
+            242.305419921875,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "ao ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            317.6456298828125,
+            434.2934875488281,
+            334.1003723144531,
+            447.4873962402344
+          ],
+          "origin": [
+            317.6456298828125,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "er ot i sm o ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            342.7952880859375,
+            434.2934875488281,
+            396.1050720214844,
+            447.4873962402344
+          ],
+          "origin": [
+            342.7952880859375,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "o u ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            404.79998779296875,
+            434.2934875488281,
+            421.6116943359375,
+            447.4873962402344
+          ],
+          "origin": [
+            404.79998779296875,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            430.3066101074219,
+            434.2934875488281,
+            439.9163818359375,
+            447.4873962402344
+          ],
+          "origin": [
+            430.3066101074219,
+            444.7200012207031
+          ]
+        },
+        {
+          "text": "co n si d er ar em ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            448.6719055175781,
+            434.2934875488281,
+            529.1631469726562,
+            447.4873962402344
+          ],
+          "origin": [
+            448.6719055175781,
+            444.7200012207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        452.0534973144531,
+        529.171142578125,
+        465.2474060058594
+      ],
+      "text": "d i sp en sáv el, est ar ão d esclassif i cad as em seu co n ceit o e p o d er ão ser",
+      "spans": [
+        {
+          "text": "d i sp en sáv el, est ar ão d esclassif i cad as em seu co n ceit o e p o d er ão ser ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            452.0534973144531,
+            529.171142578125,
+            465.2474060058594
+          ],
+          "origin": [
+            94.0198974609375,
+            462.4800109863281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        469.8134765625,
+        171.42652893066406,
+        483.00738525390625
+      ],
+      "text": "su b st it u íd as.",
+      "spans": [
+        {
+          "text": "su b st it u íd as. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            469.8134765625,
+            171.42652893066406,
+            483.00738525390625
+          ],
+          "origin": [
+            94.0198974609375,
+            480.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.4600067138672,
+        499.2124938964844,
+        529.1895751953125,
+        512.4064331054688
+      ],
+      "text": "O h o m em v er d ad eir am en t e ap aix on ad o v ê a m u l h er co m o u m a",
+      "spans": [
+        {
+          "text": "O h o m em v er d ad eir am en t e ap aix on ad o v ê a m u l h er co m o u m a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            128.4600067138672,
+            499.2124938964844,
+            529.1895751953125,
+            512.4064331054688
+          ],
+          "origin": [
+            128.4600067138672,
+            509.6390075683594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        516.853515625,
+        529.1859741210938,
+        530.0474243164062
+      ],
+      "text": "d eu sa, u m ser su p er io r q u e p r ecisa ser ad or ad o p ar a n ão ser p er d i d o.",
+      "spans": [
+        {
+          "text": "d eu sa, u m ser su p er io r q u e p r ecisa ser ad or ad o p ar a n ão ser p er d i d o. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            516.853515625,
+            529.1859741210938,
+            530.0474243164062
+          ],
+          "origin": [
+            94.0198974609375,
+            527.280029296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        534.6124877929688,
+        529.2090454101562,
+        547.806396484375
+      ],
+      "text": "Est r em ece so m en t e d e p en sar q u e su a i m ag em p er an t e a d eu sa f i q u e",
+      "spans": [
+        {
+          "text": "Est r em ece so m en t e d e p en sar q u e su a i m ag em p er an t e a d eu sa f i q u e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            534.6124877929688,
+            529.2090454101562,
+            547.806396484375
+          ],
+          "origin": [
+            94.0198974609375,
+            545.0390014648438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        552.3734741210938,
+        529.2191162109375,
+        565.5673828125
+      ],
+      "text": "com p r o m et i d a p or u m seg u n d o e q u e p ossa ser ab an d on ad o. É u m a p r esa",
+      "spans": [
+        {
+          "text": "com p r o m et i d a p or u m seg u n d o e q u e p ossa ser ab an d on ad o. É u m a p r esa ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            552.3734741210938,
+            529.2191162109375,
+            565.5673828125
+          ],
+          "origin": [
+            94.0198974609375,
+            562.7999877929688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        570.073486328125,
+        529.2818603515625,
+        583.2673950195312
+      ],
+      "text": "f ácil. Qu an d o a m u lh er sen t e q u e o h om em est á assim , t r at a d e",
+      "spans": [
+        {
+          "text": "f ácil. Qu an d o a m u lh er sen t e q u e o h om em est á assim , t r at a d e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            570.073486328125,
+            529.2818603515625,
+            583.2673950195312
+          ],
+          "origin": [
+            94.0198974609375,
+            580.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        587.83349609375,
+        524.4329833984375,
+        601.0274047851562
+      ],
+      "text": "ad m i n ist r ar esse sen t im en t o, ex cit an d o su a p aix ão e n u n ca sat i sf azen d o-",
+      "spans": [
+        {
+          "text": "ad m i n ist r ar esse sen t im en t o, ex cit an d o su a p aix ão e n u n ca sat i sf azen d o-",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            587.83349609375,
+            524.4329833984375,
+            601.0274047851562
+          ],
+          "origin": [
+            94.0198974609375,
+            598.260009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        605.593505859375,
+        529.1702270507812,
+        618.7874145507812
+      ],
+      "text": "a. Nest es caso s, elas n ão d ão car i n h o e n ão se en t r eg am p or q u e sab em",
+      "spans": [
+        {
+          "text": "a. Nest es caso s, elas n ão d ão car i n h o e n ão se en t r eg am p or q u e sab em ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            605.593505859375,
+            529.1702270507812,
+            618.7874145507812
+          ],
+          "origin": [
+            94.0198974609375,
+            616.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        623.2335205078125,
+        529.2144775390625,
+        636.4274291992188
+      ],
+      "text": "in st in t iv am en t e ( e aí v em os n o v am en t e o an im al : i n st i n t o ) q u e se o",
+      "spans": [
+        {
+          "text": "in st in t iv am en t e ( e aí v em os n o v am en t e o an im al : i n st i n t o ) q u e se o ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            623.2335205078125,
+            529.2144775390625,
+            636.4274291992188
+          ],
+          "origin": [
+            94.0198974609375,
+            633.6600341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        640.9934692382812,
+        529.1976318359375,
+        654.1873779296875
+      ],
+      "text": "f izer em o h o m em sair á d aq u ele est ad o p assiv o . A m u l h er ap en as se",
+      "spans": [
+        {
+          "text": "f izer em o h o m em sair á d aq u ele est ad o p assiv o . A m u l h er ap en as se ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            640.9934692382812,
+            529.1976318359375,
+            654.1873779296875
+          ],
+          "origin": [
+            94.0198974609375,
+            651.4199829101562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        658.7534790039062,
+        529.2330932617188,
+        671.9473876953125
+      ],
+      "text": "en t r eg a e d á car in h o p len o q u an d o t em e q u e o h o m em n ão a am e ou",
+      "spans": [
+        {
+          "text": "en t r eg a e d á car in h o p len o q u an d o t em e q u e o h o m em n ão a am e ou ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            658.7534790039062,
+            529.2330932617188,
+            671.9473876953125
+          ],
+          "origin": [
+            94.0198974609375,
+            669.1799926757812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        676.4534912109375,
+        529.310546875,
+        689.6473999023438
+      ],
+      "text": "r ej eit e \nsu a \nsex u ali d ad e \np or \nou t r as \nf êm eas \nm ais \nin t er essan t es.",
+      "spans": [
+        {
+          "text": "r ej eit e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            676.4534912109375,
+            134.95037841796875,
+            689.6473999023438
+          ],
+          "origin": [
+            94.0198974609375,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "su a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            146.46533203125,
+            676.4534912109375,
+            169.10032653808594,
+            689.6473999023438
+          ],
+          "origin": [
+            146.46533203125,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "sex u ali d ad e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            180.6152801513672,
+            676.4534912109375,
+            251.81582641601562,
+            689.6473999023438
+          ],
+          "origin": [
+            180.6152801513672,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "p or ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            263.2714538574219,
+            676.4534912109375,
+            285.0325012207031,
+            689.6473999023438
+          ],
+          "origin": [
+            263.2714538574219,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "ou t r as ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            296.5474548339844,
+            676.4534912109375,
+            336.06488037109375,
+            689.6473999023438
+          ],
+          "origin": [
+            296.5474548339844,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "f êm eas ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            347.579833984375,
+            676.4534912109375,
+            391.51458740234375,
+            689.6473999023438
+          ],
+          "origin": [
+            347.579833984375,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "m ais ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            403.029541015625,
+            676.4534912109375,
+            432.65179443359375,
+            689.6473999023438
+          ],
+          "origin": [
+            403.029541015625,
+            686.8800048828125
+          ]
+        },
+        {
+          "text": "in t er essan t es. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            444.2272033691406,
+            676.4534912109375,
+            529.310546875,
+            689.6473999023438
+          ],
+          "origin": [
+            444.2272033691406,
+            686.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        694.2125244140625,
+        529.1599731445312,
+        707.4064331054688
+      ],
+      "text": "En t r et an t o , se h om em p er m it ir q u e a r elação se p olar ize n a f r ieza,",
+      "spans": [
+        {
+          "text": "En t r et an t o , se h om em p er m it ir q u e a r elação se p olar ize n a f r ieza, ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            694.2125244140625,
+            529.1599731445312,
+            707.4064331054688
+          ],
+          "origin": [
+            94.0198974609375,
+            704.6390380859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        94.0198974609375,
+        711.9134521484375,
+        529.2061767578125,
+        725.1073608398438
+      ],
+      "text": "ig u alm en t e \na \nm u lh er \nesf r iar á. \nLog o , \na \nsolu ção \né \nal t er n ar \nen t r e",
+      "spans": [
+        {
+          "text": "ig u alm en t e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            94.0198974609375,
+            711.9134521484375,
+            160.87652587890625,
+            725.1073608398438
+          ],
+          "origin": [
+            94.0198974609375,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            170.0519561767578,
+            711.9134521484375,
+            179.5537109375,
+            725.1073608398438
+          ],
+          "origin": [
+            170.0519561767578,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "m u lh er ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            188.6686248779297,
+            711.9134521484375,
+            231.65309143066406,
+            725.1073608398438
+          ],
+          "origin": [
+            188.6686248779297,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "esf r iar á. ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            240.7680206298828,
+            711.9134521484375,
+            292.6693115234375,
+            725.1073608398438
+          ],
+          "origin": [
+            240.7680206298828,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "Log o , ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            301.84454345703125,
+            711.9134521484375,
+            336.2784423828125,
+            725.1073608398438
+          ],
+          "origin": [
+            301.84454345703125,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            345.39337158203125,
+            711.9134521484375,
+            354.9468078613281,
+            725.1073608398438
+          ],
+          "origin": [
+            345.39337158203125,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "solu ção ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            364.0617370605469,
+            711.9134521484375,
+            410.1381530761719,
+            725.1073608398438
+          ],
+          "origin": [
+            364.0617370605469,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "é ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            419.1936340332031,
+            711.9134521484375,
+            428.7451171875,
+            725.1073608398438
+          ],
+          "origin": [
+            419.1936340332031,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "al t er n ar ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            437.86004638671875,
+            711.9134521484375,
+            486.8317565917969,
+            725.1073608398438
+          ],
+          "origin": [
+            437.86004638671875,
+            722.3399658203125
+          ]
+        },
+        {
+          "text": "en t r e ",
+          "font": "Helvetica-Oblique",
+          "size": 9.744400024414062,
+          "flags": 2,
+          "color": 0,
+          "bbox": [
+            495.8872375488281,
+            711.9134521484375,
+            529.2061767578125,
+            725.1073608398438
+          ],
+          "origin": [
+            495.8872375488281,
+            722.3399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "230",
+      "spans": [
+        {
+          "text": "230",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

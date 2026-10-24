@@ -1,0 +1,855 @@
+{
+  "page_number": 95,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9806518554688,
+        87.48676300048828
+      ],
+      "text": "pessoa mentirosa quando ela se descobrir apanhada na mentira. De",
+      "spans": [
+        {
+          "text": "pessoa mentirosa quando ela se descobrir apanhada na mentira. De",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9806518554688,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9806518554688,
+        111.48676300048828
+      ],
+      "text": "modo que, em última instância, não caímos tão baixo no abismo vil da",
+      "spans": [
+        {
+          "text": "modo que, em última instância, não caímos tão baixo no abismo vil da",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.9806518554688,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        393.4652099609375,
+        135.72674560546875
+      ],
+      "text": "mentira ao buscarmos a revelação das falsidades.",
+      "spans": [
+        {
+          "text": "mentira ao buscarmos a revelação das falsidades.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            393.4652099609375,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        156.3173065185547,
+        538.9349365234375,
+        171.72674560546875
+      ],
+      "text": "Uma característica comum às mentiras e que muitas vezes",
+      "spans": [
+        {
+          "text": "Uma característica comum às mentiras e que muitas vezes",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            156.3173065185547,
+            538.9349365234375,
+            171.72674560546875
+          ],
+          "origin": [
+            108.0,
+            168.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        180.5572967529297,
+        539.0400390625,
+        195.96673583984375
+      ],
+      "text": "permite sua rápida detecção é a tendência em evitar determinado",
+      "spans": [
+        {
+          "text": "permite sua rápida detecção é a tendência em evitar determinado",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            180.5572967529297,
+            539.0400390625,
+            195.96673583984375
+          ],
+          "origin": [
+            72.0,
+            192.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.7972869873047,
+        538.9806518554688,
+        220.20672607421875
+      ],
+      "text": "assunto e sua resistência em abordá-lo, dar explicações etc. Se você",
+      "spans": [
+        {
+          "text": "assunto e sua resistência em abordá-lo, dar explicações etc. Se você",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.7972869873047,
+            538.9806518554688,
+            220.20672607421875
+          ],
+          "origin": [
+            72.0,
+            217.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        228.7972869873047,
+        538.9806518554688,
+        244.20672607421875
+      ],
+      "text": "mencionar determinado \nfato, \nlocal \nou pessoa \ne \na \nespertinha",
+      "spans": [
+        {
+          "text": "mencionar determinado ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            228.7972869873047,
+            238.67999267578125,
+            244.20672607421875
+          ],
+          "origin": [
+            72.0,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "fato, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            249.83999633789062,
+            228.7972869873047,
+            283.3200378417969,
+            244.20672607421875
+          ],
+          "origin": [
+            249.83999633789062,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "local ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            294.48004150390625,
+            228.7972869873047,
+            329.64007568359375,
+            244.20672607421875
+          ],
+          "origin": [
+            294.48004150390625,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "ou pessoa ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            340.800048828125,
+            228.7972869873047,
+            417.7201232910156,
+            244.20672607421875
+          ],
+          "origin": [
+            340.800048828125,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            428.880126953125,
+            228.7972869873047,
+            439.5601501464844,
+            244.20672607421875
+          ],
+          "origin": [
+            428.880126953125,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            450.72015380859375,
+            228.7972869873047,
+            461.4001770019531,
+            244.20672607421875
+          ],
+          "origin": [
+            450.72015380859375,
+            241.20001220703125
+          ]
+        },
+        {
+          "text": "espertinha",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            472.5601806640625,
+            228.7972869873047,
+            538.9806518554688,
+            244.20672607421875
+          ],
+          "origin": [
+            472.5601806640625,
+            241.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        253.0372772216797,
+        538.9805908203125,
+        268.44671630859375
+      ],
+      "text": "rapidamente tentar desconversar ou mudar de assunto, isso indica que",
+      "spans": [
+        {
+          "text": "rapidamente tentar desconversar ou mudar de assunto, isso indica que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            253.0372772216797,
+            538.9805908203125,
+            268.44671630859375
+          ],
+          "origin": [
+            72.0,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        277.27728271484375,
+        538.9805908203125,
+        292.68670654296875
+      ],
+      "text": "há alguma coisa errada relacionada com o mesmo e que algo está",
+      "spans": [
+        {
+          "text": "há alguma coisa errada relacionada com o mesmo e que algo está",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            277.27728271484375,
+            538.9805908203125,
+            292.68670654296875
+          ],
+          "origin": [
+            72.0,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        301.27728271484375,
+        538.98046875,
+        316.68670654296875
+      ],
+      "text": "sendo escondido.   A insistência em evitar um ponto é forte indício de",
+      "spans": [
+        {
+          "text": "sendo escondido.   A insistência em evitar um ponto é forte indício de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            301.27728271484375,
+            538.98046875,
+            316.68670654296875
+          ],
+          "origin": [
+            72.0,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        325.51727294921875,
+        437.88006591796875,
+        340.92669677734375
+      ],
+      "text": "que uma mentira está em curso ou prestes a ser emitida.",
+      "spans": [
+        {
+          "text": "que uma mentira está em curso ou prestes a ser emitida.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            325.51727294921875,
+            437.88006591796875,
+            340.92669677734375
+          ],
+          "origin": [
+            72.0,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        361.51727294921875,
+        539.0549926757812,
+        376.92669677734375
+      ],
+      "text": "A dissimulação feminina é e sempre foi o grande problema para o",
+      "spans": [
+        {
+          "text": "A dissimulação feminina é e sempre foi o grande problema para o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            361.51727294921875,
+            539.0549926757812,
+            376.92669677734375
+          ],
+          "origin": [
+            108.0,
+            373.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        385.75726318359375,
+        538.9805908203125,
+        401.16668701171875
+      ],
+      "text": "homem por não permitir saber com quem se está lidando, o que se",
+      "spans": [
+        {
+          "text": "homem por não permitir saber com quem se está lidando, o que se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            385.75726318359375,
+            538.9805908203125,
+            401.16668701171875
+          ],
+          "origin": [
+            72.0,
+            398.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        409.99725341796875,
+        539.3099365234375,
+        425.40667724609375
+      ],
+      "text": "deve esperar, que expectativas nutrir etc. Pelo caminho que aqui",
+      "spans": [
+        {
+          "text": "deve esperar, que expectativas nutrir etc. Pelo caminho que aqui",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            409.99725341796875,
+            539.3099365234375,
+            425.40667724609375
+          ],
+          "origin": [
+            72.0,
+            422.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        433.99725341796875,
+        538.920166015625,
+        449.40667724609375
+      ],
+      "text": "apontado, entretanto, pode-se vencê-la se tivermos a calma necessária.",
+      "spans": [
+        {
+          "text": "apontado, entretanto, pode-se vencê-la se tivermos a calma necessária.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            433.99725341796875,
+            538.920166015625,
+            449.40667724609375
+          ],
+          "origin": [
+            72.0,
+            446.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        458.23724365234375,
+        538.9349975585938,
+        473.64666748046875
+      ],
+      "text": "Devo acrescentar que homens descontrolados acabam dando motivos",
+      "spans": [
+        {
+          "text": "Devo acrescentar que homens descontrolados acabam dando motivos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            458.23724365234375,
+            538.9349975585938,
+            473.64666748046875
+          ],
+          "origin": [
+            72.0,
+            470.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        482.23724365234375,
+        538.9201049804688,
+        497.64666748046875
+      ],
+      "text": "para \nserem \nenganados. \nFelizmente, \nas \nespertinhas \nsão \nmais",
+      "spans": [
+        {
+          "text": "para ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            482.23724365234375,
+            103.31999969482422,
+            497.64666748046875
+          ],
+          "origin": [
+            72.0,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "serem ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            115.91999816894531,
+            482.23724365234375,
+            157.80001831054688,
+            497.64666748046875
+          ],
+          "origin": [
+            115.91999816894531,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "enganados. ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            170.4000244140625,
+            482.23724365234375,
+            246.3451385498047,
+            497.64666748046875
+          ],
+          "origin": [
+            170.4000244140625,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "Felizmente, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            259.1851501464844,
+            482.23724365234375,
+            339.2251281738281,
+            497.64666748046875
+          ],
+          "origin": [
+            259.1851501464844,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "as ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            351.8251037597656,
+            482.23724365234375,
+            368.9851379394531,
+            497.64666748046875
+          ],
+          "origin": [
+            351.8251037597656,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "espertinhas ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            381.82513427734375,
+            482.23724365234375,
+            458.9852294921875,
+            497.64666748046875
+          ],
+          "origin": [
+            381.82513427734375,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "são ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            471.8252258300781,
+            482.23724365234375,
+            496.9052734375,
+            497.64666748046875
+          ],
+          "origin": [
+            471.8252258300781,
+            494.63995361328125
+          ]
+        },
+        {
+          "text": "mais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            509.9852600097656,
+            482.23724365234375,
+            538.9201049804688,
+            497.64666748046875
+          ],
+          "origin": [
+            509.9852600097656,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        538.93505859375,
+        521.8866577148438
+      ],
+      "text": "especializadas em atenuar as desconfianças do que em sustentar as",
+      "spans": [
+        {
+          "text": "especializadas em atenuar as desconfianças do que em sustentar as",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            538.93505859375,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.7172241210938,
+        131.40000915527344,
+        546.1266479492188
+      ],
+      "text": "mentiras.",
+      "spans": [
+        {
+          "text": "mentiras.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.7172241210938,
+            131.40000915527344,
+            546.1266479492188
+          ],
+          "origin": [
+            72.0,
+            543.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "95",
+      "spans": [
+        {
+          "text": "95",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

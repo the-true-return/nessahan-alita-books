@@ -1,0 +1,903 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "06",
+  "title": "5. Principais artimanhas e as soluções correspondentes",
+  "pages": [
+    9,
+    10
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "5. Principais artimanhas e as soluções correspondentes",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0001",
+      "hash": "978955af"
+    },
+    {
+      "type": "paragraph",
+      "text": "Segue uma lista das artimanhas mais comuns nos joguinhos femininos e dos principais meios de nos prevenirmos e de desarticulá-las.",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0002",
+      "hash": "deff2c2e"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artimanha Solução",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0003",
+      "hash": "b389de23"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desaparecimento súbito Antecipação[^3]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0004",
+      "hash": "f1e7bbbd"
+    },
+    {
+      "type": "footnote",
+      "text": "Esta estratégia consiste em informar antecipadamente à mulher que estamos cientes dos fatos desagradáveis que estão por vir, de modo a mostrar-lhe que já os esperamos e não seremos surpreendidos. A comunicação antecipada esvazia o sentido da artimanha porque a mesma necessita da surpresa para exercer seu efeito frustrante.",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 3,
+      "id": "06-0005",
+      "hash": "68215cb4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento[^4]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0006",
+      "hash": "e560c018"
+    },
+    {
+      "type": "footnote",
+      "text": "Consiste em criar uma situação definitiva em que até mesmo condutas altamente ambíguas revelem intenções reais ocultas por trás de comportamentos dissimulados. Exemplo: “Se você não me telefonar em três dias não precisa me ligar nunca mais.”",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 4,
+      "id": "06-0007",
+      "hash": "56e87444"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pedir o número do telefone e não ligar Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0008",
+      "hash": "1c1226c3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0009",
+      "hash": "3e79e897"
+    },
+    {
+      "type": "paragraph",
+      "text": "Insistência inesperada[^5]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0010",
+      "hash": "a4954761"
+    },
+    {
+      "type": "footnote",
+      "text": "Trata-se de uma insistência em direção ao pólo negativo do problema, isto é, ao pólo que, para nós, é indesejável. Elas jamais esperam que forcemos nesta direção!",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 5,
+      "id": "06-0011",
+      "hash": "771dfbf8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fornecer o número do telefone e não atender Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0012",
+      "hash": "2c4b5926"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0013",
+      "hash": "3e79e897"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adiamento infinito Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0014",
+      "hash": "b626a1c6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultimatum[^6]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0015",
+      "hash": "6edd3df9"
+    },
+    {
+      "type": "footnote",
+      "text": "Consiste em dar um prazo para que a pessoa adote uma atitude clara, após o qual adotaremos medidas unilaterais que resolvam o problema. É uma forma de encurralamento.",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 6,
+      "id": "06-0016",
+      "hash": "54624604"
+    },
+    {
+      "type": "paragraph",
+      "text": "Insistência inesperada",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0017",
+      "hash": "5e18fd6b"
+    },
+    {
+      "type": "paragraph",
+      "text": "Provocar o desejo e fugir Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0018",
+      "hash": "8c49f056"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0019",
+      "hash": "3e79e897"
+    },
+    {
+      "type": "paragraph",
+      "text": "Provocar o desejo e frustrar Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0020",
+      "hash": "dd11479f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ceticismo[^7]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0021",
+      "hash": "6204f00f"
+    },
+    {
+      "type": "footnote",
+      "text": "Consiste em não se acreditar em nada do que a pessoa diz ou promete, considerando antecipadamente tudo mentira, até prova em contrário.",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 7,
+      "id": "06-0022",
+      "hash": "990dc29c"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desmascaramento[^8]",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0023",
+      "hash": "5e26718f"
+    },
+    {
+      "type": "footnote",
+      "text": "Consiste em explicitar aquilo que se está vendo e que a pessoa julga estar escondendo. Deve ser amigável.",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "fn": 8,
+      "id": "06-0024",
+      "hash": "f457b775"
+    },
+    {
+      "type": "paragraph",
+      "text": "Provocar o desejo para acusar de assédio Antecipação",
+      "pages": [
+        9
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0025",
+      "hash": "c293188f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desmascaramento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0026",
+      "hash": "9ad6ea29"
+    },
+    {
+      "type": "paragraph",
+      "text": "Simulação de apaixonamento Ceticismo",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0027",
+      "hash": "e3f5adb3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0028",
+      "hash": "3e79e897"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desmascaramento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0029",
+      "hash": "9ad6ea29"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dissimulação das intenções reais Ceticismo",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0030",
+      "hash": "da1bba63"
+    },
+    {
+      "type": "paragraph",
+      "text": "Encurralamento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0031",
+      "hash": "3e79e897"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desmascaramento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0032",
+      "hash": "9ad6ea29"
+    },
+    {
+      "type": "paragraph",
+      "text": "Provocação de ciúmes Desmascaramento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0033",
+      "hash": "ae088deb"
+    },
+    {
+      "type": "paragraph",
+      "text": "Provocação de raiva Desmascaramento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0034",
+      "hash": "7bb79534"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ataques histéricos Silêncio",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0035",
+      "hash": "8821aa9e"
+    },
+    {
+      "type": "paragraph",
+      "text": "Afastamento",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0036",
+      "hash": "89cf93b1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ruptura",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0037",
+      "hash": "e4b175a6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traições leves Desfrute do possível",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0038",
+      "hash": "7ea8f4f4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Término do compromisso",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0039",
+      "hash": "3a5168bd"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ruptura",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 259.6,
+        "left": 259.6,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0040",
+      "hash": "e4b175a6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traições pesadas Ruptura definitiva",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "Georgia",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -1.8,
+        "left": -1.8,
+        "color": 0
+      },
+      "warnings": [
+        "wide gap inside a line: possible table or columns"
+      ],
+      "id": "06-0041",
+      "hash": "21e3d9a4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Não consideremos as soluções acima como receitas prontas a serem aplicadas mecanicamente. São somente sugestões que requerem critério e bom senso ao serem utilizadas. Não há garantia total de eficácia, pois, nos joguinhos da guerra da paixão, nunca há garantia total de nada. Apenas podemos dizer que as chances de resolver nossos problemas aumentam quando passamos a considerar as soluções aqui propostas como possíveis meios para desarticulação das situações indicadas.",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0042",
+      "hash": "ede5c127"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para cada problema há múltiplas soluções possíveis. Obviamente, não listei todos os problemas e nem tampouco todas as soluções existentes, apenas apontei alguns.",
+      "pages": [
+        10
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "06-0043",
+      "hash": "38113efa"
+    }
+  ]
+}

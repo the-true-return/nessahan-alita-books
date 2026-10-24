@@ -1,0 +1,881 @@
+{
+  "page_number": 102,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        267.6000061035156,
+        78.31731414794922,
+        343.09490966796875,
+        93.72675323486328
+      ],
+      "text": "Conclusões",
+      "spans": [
+        {
+          "text": "Conclusões",
+          "font": "TimesNewRoman,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            267.6000061035156,
+            78.31731414794922,
+            343.09490966796875,
+            93.72675323486328
+          ],
+          "origin": [
+            267.6000061035156,
+            90.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        114.07732391357422,
+        539.0400390625,
+        129.48675537109375
+      ],
+      "text": "Após a leitura deste volume, espero que o leitor tenha percebido",
+      "spans": [
+        {
+          "text": "Após a leitura deste volume, espero que o leitor tenha percebido",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            114.07732391357422,
+            539.0400390625,
+            129.48675537109375
+          ],
+          "origin": [
+            108.0,
+            126.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        138.3173065185547,
+        539.280029296875,
+        153.72674560546875
+      ],
+      "text": "que nós (o autor deste livro e os autores em quem ele se inspirou",
+      "spans": [
+        {
+          "text": "que nós (o autor deste livro e os autores em quem ele se inspirou",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            138.3173065185547,
+            539.280029296875,
+            153.72674560546875
+          ],
+          "origin": [
+            72.0,
+            150.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        162.3173065185547,
+        538.9805908203125,
+        177.72674560546875
+      ],
+      "text": "desde o primeiro volume) propomos a resistência pacífica e a",
+      "spans": [
+        {
+          "text": "desde o primeiro volume) propomos a resistência pacífica e a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            162.3173065185547,
+            538.9805908203125,
+            177.72674560546875
+          ],
+          "origin": [
+            72.0,
+            174.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        186.5572967529297,
+        538.9805297851562,
+        201.96673583984375
+      ],
+      "text": "tranquilidade interior como estratégias para desarticular a perfídia",
+      "spans": [
+        {
+          "text": "tranquilidade interior como estratégias para desarticular a perfídia",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            186.5572967529297,
+            538.9805297851562,
+            201.96673583984375
+          ],
+          "origin": [
+            72.0,
+            198.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        210.7972869873047,
+        538.9052124023438,
+        226.20672607421875
+      ],
+      "text": "feminina. \nPropomos \num \nboicote \naos \njoguinhos, \nmanipulações,",
+      "spans": [
+        {
+          "text": "feminina. ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            210.7972869873047,
+            137.63999938964844,
+            226.20672607421875
+          ],
+          "origin": [
+            72.0,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "Propomos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            149.04000854492188,
+            210.7972869873047,
+            217.07998657226562,
+            226.20672607421875
+          ],
+          "origin": [
+            149.04000854492188,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "um ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            228.71998596191406,
+            210.7972869873047,
+            251.63998413085938,
+            226.20672607421875
+          ],
+          "origin": [
+            228.71998596191406,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "boicote ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            263.2799987792969,
+            210.7972869873047,
+            314.7600402832031,
+            226.20672607421875
+          ],
+          "origin": [
+            263.2799987792969,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "aos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            326.1600341796875,
+            210.7972869873047,
+            351.2400817871094,
+            226.20672607421875
+          ],
+          "origin": [
+            326.1600341796875,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "joguinhos, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            362.64007568359375,
+            210.7972869873047,
+            434.9852600097656,
+            226.20672607421875
+          ],
+          "origin": [
+            362.64007568359375,
+            223.20001220703125
+          ]
+        },
+        {
+          "text": "manipulações,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            446.865234375,
+            210.7972869873047,
+            538.9052124023438,
+            226.20672607421875
+          ],
+          "origin": [
+            446.865234375,
+            223.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        234.7972869873047,
+        539.1006469726562,
+        250.20672607421875
+      ],
+      "text": "artimanhas e ardis. Este boicote somente pode ser levado a cabo por",
+      "spans": [
+        {
+          "text": "artimanhas e ardis. Este boicote somente pode ser levado a cabo por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            234.7972869873047,
+            539.1006469726562,
+            250.20672607421875
+          ],
+          "origin": [
+            72.0,
+            247.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        259.03729248046875,
+        538.9806518554688,
+        274.44671630859375
+      ],
+      "text": "meio da não-ação, a qual exigirá de nós a capacidade de aceitar tudo e",
+      "spans": [
+        {
+          "text": "meio da não-ação, a qual exigirá de nós a capacidade de aceitar tudo e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            259.03729248046875,
+            538.9806518554688,
+            274.44671630859375
+          ],
+          "origin": [
+            72.0,
+            271.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        283.27728271484375,
+        538.9349975585938,
+        298.68670654296875
+      ],
+      "text": "devolver as consequências de forma justa. A estratégia que propomos",
+      "spans": [
+        {
+          "text": "devolver as consequências de forma justa. A estratégia que propomos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            283.27728271484375,
+            538.9349975585938,
+            298.68670654296875
+          ],
+          "origin": [
+            72.0,
+            295.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        307.27728271484375,
+        456.3600158691406,
+        322.68670654296875
+      ],
+      "text": "é a mesma de Gandhi: boicotar pelo silêncio e pela recusa.",
+      "spans": [
+        {
+          "text": "é a mesma de Gandhi: boicotar pelo silêncio e pela recusa.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            307.27728271484375,
+            456.3600158691406,
+            322.68670654296875
+          ],
+          "origin": [
+            72.0,
+            319.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        343.51727294921875,
+        538.9191284179688,
+        358.92669677734375
+      ],
+      "text": "Como o leitor atento já deve ter percebido, não argumentamos",
+      "spans": [
+        {
+          "text": "Como o leitor atento já deve ter percebido, não argumentamos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            343.51727294921875,
+            538.9191284179688,
+            358.92669677734375
+          ],
+          "origin": [
+            108.0,
+            355.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        367.51727294921875,
+        538.9348754882812,
+        382.92669677734375
+      ],
+      "text": "em favor de sentimentos negativos e nem de sentimentalismos",
+      "spans": [
+        {
+          "text": "em favor de sentimentos negativos e nem de sentimentalismos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            367.51727294921875,
+            538.9348754882812,
+            382.92669677734375
+          ],
+          "origin": [
+            72.0,
+            379.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        391.75726318359375,
+        539.3098754882812,
+        407.16668701171875
+      ],
+      "text": "misóginos de nenhuma espécie. Argumentamos contra a paixão e em",
+      "spans": [
+        {
+          "text": "misóginos de nenhuma espécie. Argumentamos contra a paixão e em",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            391.75726318359375,
+            539.3098754882812,
+            407.16668701171875
+          ],
+          "origin": [
+            72.0,
+            404.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        415.99725341796875,
+        539.1154174804688,
+        431.40667724609375
+      ],
+      "text": "favor do questionamento e do ceticismo em relação ao mito da mulher",
+      "spans": [
+        {
+          "text": "favor do questionamento e do ceticismo em relação ao mito da mulher",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            415.99725341796875,
+            539.1154174804688,
+            431.40667724609375
+          ],
+          "origin": [
+            72.0,
+            428.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        439.99725341796875,
+        538.9805297851562,
+        455.40667724609375
+      ],
+      "text": "indefesa, frágil, inferior e inofensiva. Aqueles que concluírem que",
+      "spans": [
+        {
+          "text": "indefesa, frágil, inferior e inofensiva. Aqueles que concluírem que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            439.99725341796875,
+            538.9805297851562,
+            455.40667724609375
+          ],
+          "origin": [
+            72.0,
+            452.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        464.23724365234375,
+        538.9052124023438,
+        479.64666748046875
+      ],
+      "text": "somos favoráveis aos sentimentos negativos, terão distorcido a obra.",
+      "spans": [
+        {
+          "text": "somos favoráveis aos sentimentos negativos, terão distorcido a obra.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            464.23724365234375,
+            538.9052124023438,
+            479.64666748046875
+          ],
+          "origin": [
+            72.0,
+            476.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        488.23724365234375,
+        538.9200439453125,
+        503.64666748046875
+      ],
+      "text": "Ser desapaixonado não é ser egoísta, arrogante, manipulador,",
+      "spans": [
+        {
+          "text": "Ser desapaixonado não é ser egoísta, arrogante, manipulador,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            488.23724365234375,
+            538.9200439453125,
+            503.64666748046875
+          ],
+          "origin": [
+            72.0,
+            500.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        512.4772338867188,
+        539.5499267578125,
+        527.8866577148438
+      ],
+      "text": "vingativo, iracundo e nem furioso. Os sentimentos negativos também",
+      "spans": [
+        {
+          "text": "vingativo, iracundo e nem furioso. Os sentimentos negativos também",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            512.4772338867188,
+            539.5499267578125,
+            527.8866577148438
+          ],
+          "origin": [
+            72.0,
+            524.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        536.7172241210938,
+        151.0800018310547,
+        552.1266479492188
+      ],
+      "text": "são paixões.",
+      "spans": [
+        {
+          "text": "são paixões.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            536.7172241210938,
+            151.0800018310547,
+            552.1266479492188
+          ],
+          "origin": [
+            72.0,
+            549.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        572.7172241210938,
+        538.9199829101562,
+        588.1266479492188
+      ],
+      "text": "Quando uma hipótese ou uma idéia polêmica provoca incômodo,",
+      "spans": [
+        {
+          "text": "Quando uma hipótese ou uma idéia polêmica provoca incômodo,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            572.7172241210938,
+            538.9199829101562,
+            588.1266479492188
+          ],
+          "origin": [
+            108.0,
+            585.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        596.957275390625,
+        538.9348754882812,
+        612.36669921875
+      ],
+      "text": "ela deve ser refutada corretamente, mediante a demonstração das",
+      "spans": [
+        {
+          "text": "ela deve ser refutada corretamente, mediante a demonstração das",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            596.957275390625,
+            538.9348754882812,
+            612.36669921875
+          ],
+          "origin": [
+            72.0,
+            609.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        621.197265625,
+        539.2800903320312,
+        636.606689453125
+      ],
+      "text": "falhas em que se baseia, de suas incoerências lógicas internas e de seu",
+      "spans": [
+        {
+          "text": "falhas em que se baseia, de suas incoerências lógicas internas e de seu",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            621.197265625,
+            539.2800903320312,
+            636.606689453125
+          ],
+          "origin": [
+            72.0,
+            633.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        645.197265625,
+        538.9806518554688,
+        660.606689453125
+      ],
+      "text": "baixo poder explicativo, ao invés de ser simplesmente depreciada. Há",
+      "spans": [
+        {
+          "text": "baixo poder explicativo, ao invés de ser simplesmente depreciada. Há",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            645.197265625,
+            538.9806518554688,
+            660.606689453125
+          ],
+          "origin": [
+            72.0,
+            657.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        669.437255859375,
+        539.2503662109375,
+        684.8466796875
+      ],
+      "text": "uma diferença entre refutar um conjunto de idéias e depreciá-lo. A",
+      "spans": [
+        {
+          "text": "uma diferença entre refutar um conjunto de idéias e depreciá-lo. A",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            669.437255859375,
+            539.2503662109375,
+            684.8466796875
+          ],
+          "origin": [
+            72.0,
+            681.8399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        522.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "102",
+      "spans": [
+        {
+          "text": "102",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            522.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            522.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

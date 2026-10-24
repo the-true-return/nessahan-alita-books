@@ -1,0 +1,286 @@
+{
+  "page_number": 1,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        104.04000091552734,
+        71.79598999023438,
+        507.1270446777344,
+        98.3639907836914
+      ],
+      "text": "O Magnetismo nas Relações Sociais",
+      "spans": [
+        {
+          "text": "O Magnetismo nas Relações Sociais ",
+          "font": "TimesNewRoman,Bold",
+          "size": 24.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            104.04000091552734,
+            71.79598999023438,
+            507.1270446777344,
+            98.3639907836914
+          ],
+          "origin": [
+            104.04000091552734,
+            93.17999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        89.4000015258789,
+        112.86619567871094,
+        521.7139282226562,
+        130.600341796875
+      ],
+      "text": "A Submissão do Ser Humano através de suas Fraquezas",
+      "spans": [
+        {
+          "text": "A Submissão do Ser Humano através de suas Fraquezas",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.020000457763672,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            89.4000015258789,
+            112.86619567871094,
+            521.7139282226562,
+            130.600341796875
+          ],
+          "origin": [
+            89.4000015258789,
+            127.1400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        247.67999267578125,
+        140.32801818847656,
+        363.38140869140625,
+        153.6120147705078
+      ],
+      "text": "Por Nessahan Alita",
+      "spans": [
+        {
+          "text": "Por Nessahan Alita",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            247.67999267578125,
+            140.32801818847656,
+            363.38140869140625,
+            153.6120147705078
+          ],
+          "origin": [
+            247.67999267578125,
+            151.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        183.83999633789062,
+        161.02796936035156,
+        427.1388854980469,
+        174.3119659423828
+      ],
+      "text": "(Inspirado em um livro de Eliphas Lévi)",
+      "spans": [
+        {
+          "text": "(Inspirado em um livro de Eliphas Lévi)",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            183.83999633789062,
+            161.02796936035156,
+            427.1388854980469,
+            174.3119659423828
+          ],
+          "origin": [
+            183.83999633789062,
+            171.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        249.77999877929688,
+        195.41683959960938,
+        361.35107421875,
+        207.57168579101562
+      ],
+      "text": "Dados para citação:",
+      "spans": [
+        {
+          "text": "Dados para citação:",
+          "font": "TimesNewRoman,Bold",
+          "size": 10.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            249.77999877929688,
+            195.41683959960938,
+            361.35107421875,
+            207.57168579101562
+          ],
+          "origin": [
+            249.77999877929688,
+            205.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        220.57217407226562,
+        525.9200439453125,
+        243.18434143066406
+      ],
+      "text": "ALITA, Nessahan (2002). O Magnetismo nas Relações Sociais: A Submissão do Ser\nHumano através de suas Fraquezas. Edição virtual independente de 2008.",
+      "spans": [
+        {
+          "text": "ALITA, Nessahan (2002). O Magnetismo nas Relações Sociais: A Submissão do Ser",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            220.57217407226562,
+            525.9200439453125,
+            231.66432189941406
+          ],
+          "origin": [
+            85.08000183105469,
+            229.5
+          ]
+        },
+        {
+          "text": "Humano através de suas Fraquezas. Edição virtual independente de 2008.",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            232.09219360351562,
+            448.27374267578125,
+            243.18434143066406
+          ],
+          "origin": [
+            85.08000183105469,
+            241.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        260.94000244140625,
+        270.1768493652344,
+        350.1217956542969,
+        282.3316955566406
+      ],
+      "text": "Palavras-chave:",
+      "spans": [
+        {
+          "text": "Palavras-chave:",
+          "font": "TimesNewRoman,Bold",
+          "size": 10.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            260.94000244140625,
+            270.1768493652344,
+            350.1217956542969,
+            282.3316955566406
+          ],
+          "origin": [
+            260.94000244140625,
+            279.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        164.10000610351562,
+        296.53216552734375,
+        447.0000305175781,
+        307.6242980957031
+      ],
+      "text": "magnetismo - atração - encantamento - paixões - vontade",
+      "spans": [
+        {
+          "text": "magnetismo - atração - encantamento - paixões - vontade",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            164.10000610351562,
+            296.53216552734375,
+            447.0000305175781,
+            307.6242980957031
+          ],
+          "origin": [
+            164.10000610351562,
+            305.4599914550781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        303.4800109863281,
+        743.1121215820312,
+        308.4900207519531,
+        754.2042236328125
+      ],
+      "text": "1",
+      "spans": [
+        {
+          "text": "1",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            303.4800109863281,
+            743.1121215820312,
+            308.4900207519531,
+            754.2042236328125
+          ],
+          "origin": [
+            303.4800109863281,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

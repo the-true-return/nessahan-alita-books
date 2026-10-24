@@ -1,0 +1,949 @@
+{
+  "page_number": 2,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        258.4200134277344,
+        111.15843200683594,
+        340.6752014160156,
+        128.40481567382812
+      ],
+      "text": "ATENÇÃO!",
+      "spans": [
+        {
+          "text": "A",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 15.579400062561035,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            258.4200134277344,
+            111.15843200683594,
+            269.6683349609375,
+            128.40481567382812
+          ],
+          "origin": [
+            258.4200134277344,
+            125.0396728515625
+          ]
+        },
+        {
+          "text": "TENÇÃO",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.66189956665039,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            270.6000061035156,
+            113.75791931152344,
+            329.58416748046875,
+            127.77464294433594
+          ],
+          "origin": [
+            270.6000061035156,
+            125.0396728515625
+          ]
+        },
+        {
+          "text": "! ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 15.579400062561035,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            330.6000061035156,
+            111.15843200683594,
+            340.6752014160156,
+            128.40481567382812
+          ],
+          "origin": [
+            330.6000061035156,
+            125.0396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        143.5017547607422,
+        515.4705810546875,
+        196.68081665039062
+      ],
+      "text": "Este é um livro gratuito. Se você pagou por ele, você foi roubado. \nNão existem complementos, outras versões e nem outras edições autorizadas ou que \nestejam sendo comercializadas. Todas as versões que não sejam a presente estão \ndesautorizadas, podendo estar adulteradas.",
+      "spans": [
+        {
+          "text": "Este é um livro gratuito. Se você pagou por ele, você foi roubado. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            143.5017547607422,
+            427.1521301269531,
+            156.42044067382812
+          ],
+          "origin": [
+            117.23999786376953,
+            153.89971923828125
+          ]
+        },
+        {
+          "text": "Não existem complementos, outras versões e nem outras edições autorizadas ou que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            156.94212341308594,
+            515.4693603515625,
+            169.86080932617188
+          ],
+          "origin": [
+            117.23999786376953,
+            167.340087890625
+          ]
+        },
+        {
+          "text": "estejam sendo comercializadas. Todas as versões que não sejam a presente estão ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            170.3824920654297,
+            515.4705810546875,
+            183.30117797851562
+          ],
+          "origin": [
+            82.73997497558594,
+            180.78045654296875
+          ]
+        },
+        {
+          "text": "desautorizadas, podendo estar adulteradas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            183.7621307373047,
+            284.3497619628906,
+            196.68081665039062
+          ],
+          "origin": [
+            82.73997497558594,
+            194.16009521484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        197.20249938964844,
+        515.4937133789062,
+        250.38156127929688
+      ],
+      "text": "Você NÃO TEM PERMISSÃO para vender, editar, inserir comentários, ampliar, \nreduzir, adulterar, plagiar, traduzir, inserir imagens e nem disponibilizar comercialmente \nem nenhum lugar este livro. Nenhuma alteração do seu conteúdo, linguagem ou título está \nautorizada.",
+      "spans": [
+        {
+          "text": "Você NÃO TEM PERMISSÃO para vender, editar, inserir comentários, ampliar, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            197.20249938964844,
+            515.4937133789062,
+            210.12118530273438
+          ],
+          "origin": [
+            117.23999786376953,
+            207.6004638671875
+          ]
+        },
+        {
+          "text": "reduzir, adulterar, plagiar, traduzir, inserir imagens e nem disponibilizar comercialmente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            210.6428680419922,
+            515.4856567382812,
+            223.56155395507812
+          ],
+          "origin": [
+            82.73997497558594,
+            221.04083251953125
+          ]
+        },
+        {
+          "text": "em nenhum lugar este livro. Nenhuma alteração do seu conteúdo, linguagem ou título está ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            224.0225067138672,
+            515.3815307617188,
+            236.94119262695312
+          ],
+          "origin": [
+            82.73997497558594,
+            234.42047119140625
+          ]
+        },
+        {
+          "text": "autorizada. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            237.46287536621094,
+            137.283203125,
+            250.38156127929688
+          ],
+          "origin": [
+            82.73997497558594,
+            247.86083984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        250.9032440185547,
+        240.790283203125,
+        277.2015686035156
+      ],
+      "text": "Respeite o direito autoral.",
+      "spans": [
+        {
+          "text": "Respeite o direito autoral. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            250.9032440185547,
+            240.790283203125,
+            263.8219299316406
+          ],
+          "origin": [
+            117.23999786376953,
+            261.30120849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73970031738281,
+        277.366455078125,
+        515.8855590820312,
+        345.6064147949219
+      ],
+      "text": "Advertência \n \nEsta obra deve ser lida sob a perspectiva do humor e da \nsolidariedade, jamais da revolta.",
+      "spans": [
+        {
+          "text": "Advertência ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 13.595399856567383,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            249.7197265625,
+            293.32611083984375,
+            350.0551452636719,
+            309.2599182128906
+          ],
+          "origin": [
+            249.7197265625,
+            306.119384765625
+          ]
+        },
+        {
+          "text": "Esta obra deve ser lida sob a perspectiva do humor e da ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            320.5517883300781,
+            515.8855590820312,
+            333.0662841796875
+          ],
+          "origin": [
+            117.23999786376953,
+            330.5997009277344
+          ]
+        },
+        {
+          "text": "solidariedade, jamais da revolta. ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            333.0919189453125,
+            287.33892822265625,
+            345.6064147949219
+          ],
+          "origin": [
+            82.73970031738281,
+            343.13983154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73970031738281,
+        345.6320495605469,
+        515.9539184570312,
+        433.5666809082031
+      ],
+      "text": "Este livro ensina a arte da desarticular e neutralizar as \nartimanhas femininas no amor e como preservar-se contra os danos \nemocionais da paixão, não podendo ser evocado como incentivo ou \nrespaldo a quaisquer outros atos. Seu tom crítico, direto, irônico e \nincisivo \nreflete \nsomente \no \napontamento \nde \nfalhas, \nerros \ne \nartimanhas, não significando respaldo a quaisquer sentimentos \nnegativos.",
+      "spans": [
+        {
+          "text": "Este livro ensina a arte da desarticular e neutralizar as ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.239990234375,
+            345.6320495605469,
+            515.8277587890625,
+            358.14654541015625
+          ],
+          "origin": [
+            117.239990234375,
+            355.6799621582031
+          ]
+        },
+        {
+          "text": "artimanhas femininas no amor e como preservar-se contra os danos ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            358.2319641113281,
+            515.9539184570312,
+            370.7464599609375
+          ],
+          "origin": [
+            82.73970031738281,
+            368.2798767089844
+          ]
+        },
+        {
+          "text": "emocionais da paixão, não podendo ser evocado como incentivo ou ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            370.7720947265625,
+            515.9046630859375,
+            383.2865905761719
+          ],
+          "origin": [
+            82.73970031738281,
+            380.82000732421875
+          ]
+        },
+        {
+          "text": "respaldo a quaisquer outros atos. Seu tom crítico, direto, irônico e ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            383.3122253417969,
+            515.8919067382812,
+            395.82672119140625
+          ],
+          "origin": [
+            82.73970031738281,
+            393.3601379394531
+          ]
+        },
+        {
+          "text": "incisivo ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            395.9121398925781,
+            133.29103088378906,
+            408.4266357421875
+          ],
+          "origin": [
+            82.73970031738281,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "reflete ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            143.91554260253906,
+            395.9121398925781,
+            186.30148315429688,
+            408.4266357421875
+          ],
+          "origin": [
+            143.91554260253906,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "somente ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.92599487304688,
+            395.9121398925781,
+            251.02880859375,
+            408.4266357421875
+          ],
+          "origin": [
+            196.92599487304688,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            261.6533203125,
+            395.9121398925781,
+            272.0301208496094,
+            408.4266357421875
+          ],
+          "origin": [
+            261.6533203125,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "apontamento ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            282.7154846191406,
+            395.9121398925781,
+            365.6816711425781,
+            408.4266357421875
+          ],
+          "origin": [
+            282.7154846191406,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            376.3670349121094,
+            395.9121398925781,
+            393.94287109375,
+            408.4266357421875
+          ],
+          "origin": [
+            376.3670349121094,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "falhas, ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            404.5075988769531,
+            395.9121398925781,
+            449.94635009765625,
+            408.4266357421875
+          ],
+          "origin": [
+            404.5075988769531,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "erros ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            460.5110778808594,
+            395.9121398925781,
+            495.384033203125,
+            408.4266357421875
+          ],
+          "origin": [
+            460.5110778808594,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            506.008544921875,
+            395.9121398925781,
+            515.9048461914062,
+            408.4266357421875
+          ],
+          "origin": [
+            506.008544921875,
+            405.9600524902344
+          ]
+        },
+        {
+          "text": "artimanhas, não significando respaldo a quaisquer sentimentos ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            408.4522705078125,
+            515.9508056640625,
+            420.9667663574219
+          ],
+          "origin": [
+            82.73970031738281,
+            418.50018310546875
+          ]
+        },
+        {
+          "text": "negativos.  ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            421.05218505859375,
+            152.83050537109375,
+            433.5666809082031
+          ],
+          "origin": [
+            82.73970031738281,
+            431.10009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        433.5923156738281,
+        515.9562377929688,
+        521.4066162109375
+      ],
+      "text": "As artimanhas aqui denunciadas, desmascaradas e descritas \ncorrespondem a expressões femininas, inconscientes em grande \nparte, de traços comportamentais comuns a ambos os gêneros. O \nperfil delineado corresponde a um tipo específico de mulher: aquela \nque é regida pelo egoísmo sentimental. O autor não se pronuncia a \nrespeito do percentual de incidência deste perfil na população \nfeminina dos diversos países.",
+      "spans": [
+        {
+          "text": "As artimanhas aqui denunciadas, desmascaradas e descritas ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.239990234375,
+            433.5923156738281,
+            515.8812255859375,
+            446.1068115234375
+          ],
+          "origin": [
+            117.239990234375,
+            443.6402282714844
+          ]
+        },
+        {
+          "text": "correspondem a expressões femininas, inconscientes em grande ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73970031738281,
+            446.1324462890625,
+            515.8919677734375,
+            458.6469421386719
+          ],
+          "origin": [
+            82.73970031738281,
+            456.18035888671875
+          ]
+        },
+        {
+          "text": "parte, de traços comportamentais comuns a ambos os gêneros. O ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            458.6717834472656,
+            515.9423217773438,
+            471.18707275390625
+          ],
+          "origin": [
+            82.73968505859375,
+            468.7204895019531
+          ]
+        },
+        {
+          "text": "perfil delineado corresponde a um tipo específico de mulher: aquela ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            471.2119140625,
+            515.851318359375,
+            483.7264099121094
+          ],
+          "origin": [
+            82.73992919921875,
+            481.25982666015625
+          ]
+        },
+        {
+          "text": "que é regida pelo egoísmo sentimental. O autor não se pronuncia a ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            483.81182861328125,
+            515.9562377929688,
+            496.3263244628906
+          ],
+          "origin": [
+            82.73992919921875,
+            493.8597412109375
+          ]
+        },
+        {
+          "text": "respeito do percentual de incidência deste perfil na população ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            496.3519592285156,
+            515.821533203125,
+            508.866455078125
+          ],
+          "origin": [
+            82.73992919921875,
+            506.3998718261719
+          ]
+        },
+        {
+          "text": "feminina dos diversos países. ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73992919921875,
+            508.89208984375,
+            267.5989685058594,
+            521.4066162109375
+          ],
+          "origin": [
+            82.73992919921875,
+            518.9400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73991394042969,
+        521.4321899414062,
+        515.9478149414062,
+        596.7670288085938
+      ],
+      "text": "O autor também não se responsabiliza por más interpretações, \nleituras \ntendenciosas, \ngeneralizações \nindevidas \nou \ndistorções \nintencionais que possam ser feitas sob quaisquer alegações e nem \ntampouco por más utilizações deste conhecimento. Aqueles que \ndistorcerem-no ou utilizarem-no indevidamente, terão que responder \nsozinhos por seus atos.",
+      "spans": [
+        {
+          "text": "O autor também não se responsabiliza por más interpretações, ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24021911621094,
+            521.4321899414062,
+            515.9478149414062,
+            533.9467163085938
+          ],
+          "origin": [
+            117.24021911621094,
+            531.4801025390625
+          ]
+        },
+        {
+          "text": "leituras ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73991394042969,
+            533.9723510742188,
+            133.78561401367188,
+            546.4868774414062
+          ],
+          "origin": [
+            82.73991394042969,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "tendenciosas, ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.95042419433594,
+            533.9723510742188,
+            232.5145263671875,
+            546.4868774414062
+          ],
+          "origin": [
+            144.95042419433594,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "generalizações ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            243.61953735351562,
+            533.9723510742188,
+            336.0443115234375,
+            546.4868774414062
+          ],
+          "origin": [
+            243.61953735351562,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "indevidas ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            347.2091064453125,
+            533.9723510742188,
+            409.0095520019531,
+            546.4868774414062
+          ],
+          "origin": [
+            347.2091064453125,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "ou ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            420.1743469238281,
+            533.9723510742188,
+            438.8286437988281,
+            546.4868774414062
+          ],
+          "origin": [
+            420.1743469238281,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "distorções ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            449.9934387207031,
+            533.9723510742188,
+            515.85693359375,
+            546.4868774414062
+          ],
+          "origin": [
+            449.9934387207031,
+            544.020263671875
+          ]
+        },
+        {
+          "text": "intencionais que possam ser feitas sob quaisquer alegações e nem ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73991394042969,
+            546.632080078125,
+            515.7875366210938,
+            559.1466064453125
+          ],
+          "origin": [
+            82.73991394042969,
+            556.6799926757812
+          ]
+        },
+        {
+          "text": "tampouco por más utilizações deste conhecimento. Aqueles que ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73991394042969,
+            559.1721801757812,
+            515.893310546875,
+            571.6867065429688
+          ],
+          "origin": [
+            82.73991394042969,
+            569.2200927734375
+          ]
+        },
+        {
+          "text": "distorcerem-no ou utilizarem-no indevidamente, terão que responder ",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73991394042969,
+            571.7123413085938,
+            515.8633422851562,
+            584.2268676757812
+          ],
+          "origin": [
+            82.73991394042969,
+            581.76025390625
+          ]
+        },
+        {
+          "text": "sozinhos por seus atos.",
+          "font": "BookmanOldStyle",
+          "size": 10.677900314331055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73991394042969,
+            584.2525024414062,
+            226.5135955810547,
+            596.7670288085938
+          ],
+          "origin": [
+            82.73991394042969,
+            594.3004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.473876953125,
+        770.8849487304688
+      ],
+      "text": "2",
+      "spans": [
+        {
+          "text": "2",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            507.6016845703125,
+            760.097900390625,
+            512.473876953125,
+            770.8849487304688
+          ],
+          "origin": [
+            507.6016845703125,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

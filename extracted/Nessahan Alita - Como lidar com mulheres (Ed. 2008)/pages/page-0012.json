@@ -1,0 +1,1072 @@
+{
+  "page_number": 12,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        132.72000122070312,
+        107.87812042236328,
+        465.3374938964844,
+        125.3594741821289
+      ],
+      "text": "1. Características do falsamente chamado “sexo frágil”1",
+      "spans": [
+        {
+          "text": "1. Características do falsamente chamado “sexo frágil”",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            132.72000122070312,
+            109.19652557373047,
+            457.5290222167969,
+            125.3594741821289
+          ],
+          "origin": [
+            132.72000122070312,
+            121.3800048828125
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Times-Bold",
+          "size": 7.76039981842041,
+          "flags": 21,
+          "color": 0,
+          "bbox": [
+            458.5199890136719,
+            107.87812042236328,
+            462.4001770019531,
+            118.62627410888672
+          ],
+          "origin": [
+            458.5199890136719,
+            115.97998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.239990234375,
+        140.51406860351562,
+        340.9822692871094,
+        156.5486602783203
+      ],
+      "text": "1. \nComparam-se umas com as outras.",
+      "spans": [
+        {
+          "text": "1.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.239990234375,
+            140.77081298828125,
+            126.99728393554688,
+            156.33859252929688
+          ],
+          "origin": [
+            117.239990234375,
+            153.059326171875
+          ]
+        },
+        {
+          "text": "Comparam-se umas com as outras. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.77989196777344,
+            140.77081298828125,
+            340.9822692871094,
+            156.33859252929688
+          ],
+          "origin": [
+            144.77989196777344,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2400894165039,
+        172.31369018554688,
+        305.2567138671875,
+        188.34828186035156
+      ],
+      "text": "2. \nSão altamente competitivas.",
+      "spans": [
+        {
+          "text": "2.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2400894165039,
+            172.5704345703125,
+            126.99738311767578,
+            188.13821411132812
+          ],
+          "origin": [
+            117.2400894165039,
+            184.85894775390625
+          ]
+        },
+        {
+          "text": "São altamente competitivas. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7799835205078,
+            172.5704345703125,
+            305.2567138671875,
+            188.13821411132812
+          ],
+          "origin": [
+            144.7799835205078,
+            184.85894775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24018096923828,
+        204.11331176757812,
+        450.17486572265625,
+        220.1479034423828
+      ],
+      "text": "3. \nLutam para conquistar o homem de uma mulher linda.",
+      "spans": [
+        {
+          "text": "3.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24018096923828,
+            204.37005615234375,
+            126.99747467041016,
+            219.93783569335938
+          ],
+          "origin": [
+            117.24018096923828,
+            216.6585693359375
+          ]
+        },
+        {
+          "text": "Lutam para conquistar o homem de uma mulher linda. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7800750732422,
+            204.37005615234375,
+            450.17486572265625,
+            219.93783569335938
+          ],
+          "origin": [
+            144.7800750732422,
+            216.6585693359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24027252197266,
+        235.91293334960938,
+        356.7275085449219,
+        251.94752502441406
+      ],
+      "text": "4. \nSão naturalmente adaptadas à espera.",
+      "spans": [
+        {
+          "text": "4.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24027252197266,
+            236.169677734375,
+            126.99756622314453,
+            251.73745727539062
+          ],
+          "origin": [
+            117.24027252197266,
+            248.45819091796875
+          ]
+        },
+        {
+          "text": "São naturalmente adaptadas à espera. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.78016662597656,
+            236.169677734375,
+            356.7275085449219,
+            251.73745727539062
+          ],
+          "origin": [
+            144.78016662597656,
+            248.45819091796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24036407470703,
+        267.7125549316406,
+        367.4261474609375,
+        283.74713134765625
+      ],
+      "text": "5. \nDetestam homens débeis e fracassados.",
+      "spans": [
+        {
+          "text": "5.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24036407470703,
+            267.96929931640625,
+            126.9976577758789,
+            283.5370788574219
+          ],
+          "origin": [
+            117.24036407470703,
+            280.2578125
+          ]
+        },
+        {
+          "text": "Detestam homens débeis e fracassados. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.78025817871094,
+            267.96929931640625,
+            367.4261474609375,
+            283.5370788574219
+          ],
+          "origin": [
+            144.78025817871094,
+            280.2578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2404556274414,
+        299.5121765136719,
+        515.4754028320312,
+        315.5467529296875
+      ],
+      "text": "6. \nSe dão bem apenas com homens que ignoram suas flutuações de",
+      "spans": [
+        {
+          "text": "6.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2404556274414,
+            299.7689208984375,
+            126.99774932861328,
+            315.3367004394531
+          ],
+          "origin": [
+            117.2404556274414,
+            312.05743408203125
+          ]
+        },
+        {
+          "text": "Se dão bem apenas com homens que ignoram suas flutuações de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7803497314453,
+            299.7689208984375,
+            515.4754028320312,
+            315.3367004394531
+          ],
+          "origin": [
+            144.7803497314453,
+            312.05743408203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        144.7803497314453,
+        319.86932373046875,
+        298.8443908691406,
+        335.4371032714844
+      ],
+      "text": "humor e seguem seu ritmo.",
+      "spans": [
+        {
+          "text": "humor e seguem seu ritmo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7803497314453,
+            319.86932373046875,
+            298.8443908691406,
+            335.4371032714844
+          ],
+          "origin": [
+            144.7803497314453,
+            332.1578369140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24054718017578,
+        350.4482421875,
+        515.448486328125,
+        367.4467468261719
+      ],
+      "text": "7. \nNunca deixam o homem concluir se são santas ou “vadias”2 para",
+      "spans": [
+        {
+          "text": "7.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24054718017578,
+            351.6689147949219,
+            126.99784088134766,
+            367.2366943359375
+          ],
+          "origin": [
+            117.24054718017578,
+            363.9574279785156
+          ]
+        },
+        {
+          "text": "Nunca deixam o homem concluir se são santas ou “vadias”",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7804412841797,
+            351.6689147949219,
+            479.2134704589844,
+            367.2366943359375
+          ],
+          "origin": [
+            144.7804412841797,
+            363.9574279785156
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            480.0604248046875,
+            350.4482421875,
+            483.94061279296875,
+            360.80059814453125
+          ],
+          "origin": [
+            480.0604248046875,
+            358.61993408203125
+          ]
+        },
+        {
+          "text": " para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            483.9604187011719,
+            351.6716613769531,
+            515.448486328125,
+            367.23944091796875
+          ],
+          "origin": [
+            483.9604187011719,
+            363.9601745605469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        144.78042602539062,
+        371.8314514160156,
+        291.3369445800781,
+        387.39923095703125
+      ],
+      "text": "que ele não arranje outra.",
+      "spans": [
+        {
+          "text": "que ele não arranje outra. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.78042602539062,
+            371.8314514160156,
+            291.3369445800781,
+            387.39923095703125
+          ],
+          "origin": [
+            144.78042602539062,
+            384.1199645996094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24022674560547,
+        403.3742980957031,
+        357.5032653808594,
+        419.40887451171875
+      ],
+      "text": "8. \nInstrumentalizam o ciúme masculino.",
+      "spans": [
+        {
+          "text": "8.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24022674560547,
+            403.63104248046875,
+            126.99752044677734,
+            419.1988220214844
+          ],
+          "origin": [
+            117.24022674560547,
+            415.9195556640625
+          ]
+        },
+        {
+          "text": "Instrumentalizam o ciúme masculino. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.78053283691406,
+            403.63104248046875,
+            357.5032653808594,
+            419.1988220214844
+          ],
+          "origin": [
+            144.78053283691406,
+            415.9195556640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2403335571289,
+        435.17388916015625,
+        515.3984985351562,
+        451.2084655761719
+      ],
+      "text": "9. \nSe auto-afirmam por meio do sofrimento masculino que se",
+      "spans": [
+        {
+          "text": "9.",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2403335571289,
+            435.4306335449219,
+            126.99762725830078,
+            450.9984130859375
+          ],
+          "origin": [
+            117.2403335571289,
+            447.7191467285156
+          ]
+        },
+        {
+          "text": "Se auto-afirmam por meio do sofrimento masculino que se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7806396484375,
+            435.4306335449219,
+            515.3984985351562,
+            450.9984130859375
+          ],
+          "origin": [
+            144.7806396484375,
+            447.7191467285156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        144.7806396484375,
+        455.4704284667969,
+        515.4319458007812,
+        471.0382080078125
+      ],
+      "text": "origina do desejo ou do amor (se culminar em suicídio, nenhuma",
+      "spans": [
+        {
+          "text": "origina do desejo ou do amor (se culminar em suicídio, nenhuma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7806396484375,
+            455.4704284667969,
+            515.4319458007812,
+            471.0382080078125
+          ],
+          "origin": [
+            144.7806396484375,
+            467.7589416503906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        144.7806396484375,
+        475.6302185058594,
+        273.8233947753906,
+        491.197998046875
+      ],
+      "text": "piedade será sentida).",
+      "spans": [
+        {
+          "text": "piedade será sentida).  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.7806396484375,
+            475.6302185058594,
+            273.8233947753906,
+            491.197998046875
+          ],
+          "origin": [
+            144.7806396484375,
+            487.9187316894531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        502.0191650390625,
+        514.7317504882812,
+        737.4022216796875
+      ],
+      "text": "1 O exposto aqui  não se aplica a todas as mulheres da Terra ao longo de toda a história passada, \npresente e futura da humanidade mas apenas às espertinhas que gostam de trapacear no amor. \nSuspeito que as espertinhas sejam maioria nos dias atuais mas não estou certo disso pois nunca \ntive a chance de observar todas as fêmeas do homo sapiens que respiram atualmente sobre o \nnosso aflito planeta. \n2 A palavra é aqui empregada apenas no sentido de uma pessoa desocupada e ociosa, tal como a \ndefinem os dicionários Aurélio (FERREIRA, 1995) e Michaelis (1995), e não em qualquer outro \nsentido. Para mim, toda pessoa que brinca com os sentimentos alheios é uma pessoa vadia, \nindependentemente do sexo e do número de parceiros sexuais. E o que mais poderia ser alguém \nque brinca com a sinceridade dos outros senão desocupado por não ter algo mais importante a \nfazer? Aqui, a palavra tem um emprego mais ou menos próximo ao da palavra \"megera\" e \ntambém e é quase um equivalente feminino da palavra \"cafajeste\", muito comumente utilizada \npara designar homens que trapaceiam no amor. Enquadram-se neste termo aquelas pessoas que \ncometem adultério sem o cônjuge merecer, que induzem uma pessoa ao apaixonamento com o \nexclusivo intuito de abandoná-la em seguida, que retribuem uma manifestação de amor sincero \ncom uma acusação caluniosa de assédio sexual etc. Esta palavra não é empregada com o mesmo \nsentido pejorativo em todos os países de língua portuguesa e nem possui somente o significado \nque lhe dá algumas vezes a cultura popular. Um exemplo típico de \"vadia\" é a personagem \nTeodora, do romance \"Amor de Salvação\", de Camilo Castelo Branco. Neste romance, Teodora, \numa espertinha dissimulada e manipuladora, se aproveita dos homens que a amam e os leva ao \ndesespero e à ruína. Afonso, uma de suas vítimas, afunda-se nos vícios e chega à beira de um \nsuicídio, mas é salvo da destruição amorosa por sua prima, uma mulher virtuosa e sincera.",
+      "spans": [
+        {
+          "text": "1",
+          "font": "Times-Roman",
+          "size": 6.301599979400635,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            512.4244995117188,
+            85.89080810546875,
+            520.830810546875
+          ],
+          "origin": [
+            82.74000549316406,
+            519.06005859375
+          ]
+        },
+        {
+          "text": " O exposto aqui  não se aplica a todas as mulheres da Terra ao longo de toda a história passada, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.92008209228516,
+            514.2234497070312,
+            514.5394287109375,
+            525.8992919921875
+          ],
+          "origin": [
+            85.92008209228516,
+            523.4398193359375
+          ]
+        },
+        {
+          "text": "presente e futura da humanidade mas apenas às espertinhas que gostam de trapacear no amor. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74039459228516,
+            524.423828125,
+            514.7158813476562,
+            536.0996704101562
+          ],
+          "origin": [
+            82.74039459228516,
+            533.6401977539062
+          ]
+        },
+        {
+          "text": "Suspeito que as espertinhas sejam maioria nos dias atuais mas não estou certo disso pois nunca ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            534.5039672851562,
+            514.6350708007812,
+            546.1798095703125
+          ],
+          "origin": [
+            82.74038696289062,
+            543.7203369140625
+          ]
+        },
+        {
+          "text": "tive a chance de observar todas as fêmeas do ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            544.5844116210938,
+            295.3098449707031,
+            556.26025390625
+          ],
+          "origin": [
+            82.74038696289062,
+            553.80078125
+          ]
+        },
+        {
+          "text": "homo sapiens",
+          "font": "Times-Italic",
+          "size": 8.7524995803833,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            297.60040283203125,
+            545.4771728515625,
+            357.5331115722656,
+            556.1639404296875
+          ],
+          "origin": [
+            297.60040283203125,
+            553.80078125
+          ]
+        },
+        {
+          "text": " que respiram atualmente sobre o ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            358.5609130859375,
+            544.5844116210938,
+            514.6773071289062,
+            556.26025390625
+          ],
+          "origin": [
+            358.5609130859375,
+            553.80078125
+          ]
+        },
+        {
+          "text": "nosso aflito planeta. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74090576171875,
+            554.6043090820312,
+            175.68734741210938,
+            566.2801513671875
+          ],
+          "origin": [
+            82.74090576171875,
+            563.8206787109375
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74090576171875,
+            563.8557739257812,
+            85.65840911865234,
+            571.6396484375
+          ],
+          "origin": [
+            82.74090576171875,
+            570.0
+          ]
+        },
+        {
+          "text": " A palavra é aqui empregada apenas no sentido de uma pessoa desocupada e ociosa, tal como a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.68113708496094,
+            564.6836547851562,
+            514.6959838867188,
+            576.3594970703125
+          ],
+          "origin": [
+            85.68113708496094,
+            573.9000244140625
+          ]
+        },
+        {
+          "text": "definem os dicionários Aurélio (FERREIRA, 1995) e Michaelis (1995), e não em qualquer outro ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            574.7640991210938,
+            514.6204833984375,
+            586.43994140625
+          ],
+          "origin": [
+            82.74114990234375,
+            583.98046875
+          ]
+        },
+        {
+          "text": "sentido. Para mim, toda pessoa que brinca com os sentimentos alheios é uma pessoa vadia, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            584.84423828125,
+            514.6580810546875,
+            596.5200805664062
+          ],
+          "origin": [
+            82.74114990234375,
+            594.0606079101562
+          ]
+        },
+        {
+          "text": "independentemente do sexo e do número de parceiros sexuais. E o que mais poderia ser alguém ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            594.8641357421875,
+            514.7317504882812,
+            606.5399780273438
+          ],
+          "origin": [
+            82.74114990234375,
+            604.0805053710938
+          ]
+        },
+        {
+          "text": "que brinca com a sinceridade dos outros senão desocupado por não ter algo mais importante a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            604.9442138671875,
+            514.6475219726562,
+            616.6200561523438
+          ],
+          "origin": [
+            82.74114990234375,
+            614.1605834960938
+          ]
+        },
+        {
+          "text": "fazer? Aqui, a palavra tem um emprego mais ou menos próximo ao da palavra \"megera\" e ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            615.0247192382812,
+            514.69775390625,
+            626.7005615234375
+          ],
+          "origin": [
+            82.74114990234375,
+            624.2410888671875
+          ]
+        },
+        {
+          "text": "também e é quase um equivalente feminino da palavra \"cafajeste\", muito comumente utilizada ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            625.1047973632812,
+            514.716552734375,
+            636.7806396484375
+          ],
+          "origin": [
+            82.74114990234375,
+            634.3211669921875
+          ]
+        },
+        {
+          "text": "para designar homens que trapaceiam no amor. Enquadram-se neste termo aquelas pessoas que ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            635.1246948242188,
+            514.7067260742188,
+            646.800537109375
+          ],
+          "origin": [
+            82.74114990234375,
+            644.341064453125
+          ]
+        },
+        {
+          "text": "cometem adultério sem o cônjuge merecer, que induzem uma pessoa ao apaixonamento com o ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            645.2052001953125,
+            514.6574096679688,
+            656.8810424804688
+          ],
+          "origin": [
+            82.74114990234375,
+            654.4215698242188
+          ]
+        },
+        {
+          "text": "exclusivo intuito de abandoná-la em seguida, que retribuem uma manifestação de amor sincero ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74114990234375,
+            655.2857055664062,
+            514.645751953125,
+            666.9615478515625
+          ],
+          "origin": [
+            82.74114990234375,
+            664.5020751953125
+          ]
+        },
+        {
+          "text": "com uma acusação caluniosa de assédio sexual etc. Esta palavra não é empregada com o mesmo ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            665.3662109375,
+            514.6401977539062,
+            677.0420532226562
+          ],
+          "origin": [
+            82.74113464355469,
+            674.5825805664062
+          ]
+        },
+        {
+          "text": "sentido pejorativo em todos os países de língua portuguesa e nem possui somente o significado ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            675.3861083984375,
+            514.6437377929688,
+            687.0619506835938
+          ],
+          "origin": [
+            82.74113464355469,
+            684.6024780273438
+          ]
+        },
+        {
+          "text": "que lhe dá algumas vezes a cultura popular. Um exemplo típico de \"vadia\" é a personagem ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            685.4662475585938,
+            514.716552734375,
+            697.14208984375
+          ],
+          "origin": [
+            82.74113464355469,
+            694.6826171875
+          ]
+        },
+        {
+          "text": "Teodora, do romance \"Amor de Salvação\", de Camilo Castelo Branco. Neste romance, Teodora, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            695.5463256835938,
+            514.6840209960938,
+            707.22216796875
+          ],
+          "origin": [
+            82.74113464355469,
+            704.7626953125
+          ]
+        },
+        {
+          "text": "uma espertinha dissimulada e manipuladora, se aproveita dos homens que a amam e os leva ao ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            705.6264038085938,
+            514.6940307617188,
+            717.30224609375
+          ],
+          "origin": [
+            82.74113464355469,
+            714.8427734375
+          ]
+        },
+        {
+          "text": "desespero e à ruína. Afonso, uma de suas vítimas, afunda-se nos vícios e chega à beira de um ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            715.6463012695312,
+            514.721435546875,
+            727.3221435546875
+          ],
+          "origin": [
+            82.74113464355469,
+            724.8626708984375
+          ]
+        },
+        {
+          "text": "suicídio, mas é salvo da destruição amorosa por sua prima, uma mulher virtuosa e sincera.  ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74113464355469,
+            725.7263793945312,
+            490.4600830078125,
+            737.4022216796875
+          ],
+          "origin": [
+            82.74113464355469,
+            734.9427490234375
+          ]
+        }
+      ]
+    }
+  ]
+}

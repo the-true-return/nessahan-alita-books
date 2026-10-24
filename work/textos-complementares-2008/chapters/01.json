@@ -1,0 +1,111 @@
+{
+  "book": "textos-complementares-2008",
+  "chapter": "01",
+  "title": "Introdução",
+  "pages": [
+    3,
+    3
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Introdução",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "BookmanOldStyle-Bold",
+        "size": 13.6,
+        "bold": true,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -0.3,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0001",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Com o intuito de auxiliar aqueles que sinceramente estudam os meus livros visando entendê-los, e não distorcê-los, elaborei explicações adicionais visando tornar seus conteúdos mais claros e compreensíveis.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0002",
+      "hash": "c9092f01"
+    },
+    {
+      "type": "paragraph",
+      "text": "Agradeço e parabenizo sinceramente a todos os leitores, comunidades e grupos que estão se esforçando para defender a correta interpretação dos meus textos.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0003",
+      "hash": "85f4deb3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Espero ter contribuído, assim, um pouco mais para o bom andamento dos estudos.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": -0.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0004",
+      "hash": "5a599029"
+    },
+    {
+      "type": "paragraph",
+      "text": "Não direi mais nada por enquanto.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 34.2,
+        "left": 34.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0005",
+      "hash": "7099eb67"
+    }
+  ]
+}

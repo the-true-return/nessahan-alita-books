@@ -1,0 +1,95 @@
+{
+  "page_number": 32,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20802307128906,
+        525.9647216796875,
+        84.49202728271484
+      ],
+      "text": "poderá excitar suas paixões e levá-lo a se auto-destruir, como uma pessoa",
+      "spans": [
+        {
+          "text": "poderá excitar suas paixões e levá-lo a se auto-destruir, como uma pessoa",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20802307128906,
+            525.9647216796875,
+            84.49202728271484
+          ],
+          "origin": [
+            85.08000183105469,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        91.90803527832031,
+        444.02642822265625,
+        105.1920394897461
+      ],
+      "text": "que é atingida na cabeça pelo próprio bumerangue que lançou.",
+      "spans": [
+        {
+          "text": "que é atingida na cabeça pelo próprio bumerangue que lançou.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            91.90803527832031,
+            444.02642822265625,
+            105.1920394897461
+          ],
+          "origin": [
+            85.08000183105469,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "32",
+      "spans": [
+        {
+          "text": "32",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

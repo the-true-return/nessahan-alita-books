@@ -1,0 +1,954 @@
+{
+  "page_number": 30,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        199.20001220703125,
+        78.31273651123047,
+        447.6151123046875,
+        96.11329650878906
+      ],
+      "text": "6. A frustração das expectativas",
+      "spans": [
+        {
+          "text": "6. A frustração das expectativas",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            199.20001220703125,
+            78.31273651123047,
+            447.6151123046875,
+            96.11329650878906
+          ],
+          "origin": [
+            199.20001220703125,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        538.9805297851562,
+        133.08673095703125
+      ],
+      "text": "O egoísmo das espertinhas as leva incessantemente a prometer e",
+      "spans": [
+        {
+          "text": "O egoísmo das espertinhas as leva incessantemente a prometer e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            538.9805297851562,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        538.9199829101562,
+        157.08673095703125
+      ],
+      "text": "a não cumprir o prometido para desfrutarem de nossa frustração.",
+      "spans": [
+        {
+          "text": "a não cumprir o prometido para desfrutarem de nossa frustração.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            538.9199829101562,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        538.980712890625,
+        181.32672119140625
+      ],
+      "text": "Costumam acender nossos desejos para em seguida se esquivarem de",
+      "spans": [
+        {
+          "text": "Costumam acender nossos desejos para em seguida se esquivarem de",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            538.980712890625,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        189.9172821044922,
+        539.2801513671875,
+        205.32672119140625
+      ],
+      "text": "satisfazê-los, com o intuito de mantê-los vivos. Deste modo, obtêm",
+      "spans": [
+        {
+          "text": "satisfazê-los, com o intuito de mantê-los vivos. Deste modo, obtêm",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            189.9172821044922,
+            539.2801513671875,
+            205.32672119140625
+          ],
+          "origin": [
+            72.0,
+            202.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        214.1572723388672,
+        538.93505859375,
+        229.56671142578125
+      ],
+      "text": "uma medida altamente precisa de nossa dependência e de seus próprios",
+      "spans": [
+        {
+          "text": "uma medida altamente precisa de nossa dependência e de seus próprios",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            214.1572723388672,
+            538.93505859375,
+            229.56671142578125
+          ],
+          "origin": [
+            72.0,
+            226.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        238.3972625732422,
+        249.24000549316406,
+        253.80670166015625
+      ],
+      "text": "poderes de seduzir e atrair.",
+      "spans": [
+        {
+          "text": "poderes de seduzir e atrair.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            238.3972625732422,
+            249.24000549316406,
+            253.80670166015625
+          ],
+          "origin": [
+            72.0,
+            250.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        274.39727783203125,
+        538.9190673828125,
+        289.80670166015625
+      ],
+      "text": "Podemos desarticular este mecanismo quando identificamos os",
+      "spans": [
+        {
+          "text": "Podemos desarticular este mecanismo quando identificamos os",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            274.39727783203125,
+            538.9190673828125,
+            289.80670166015625
+          ],
+          "origin": [
+            108.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        298.63726806640625,
+        539.5498657226562,
+        314.04669189453125
+      ],
+      "text": "comportamentos que criam as expectativas que se transformam em",
+      "spans": [
+        {
+          "text": "comportamentos que criam as expectativas que se transformam em",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            298.63726806640625,
+            539.5498657226562,
+            314.04669189453125
+          ],
+          "origin": [
+            72.0,
+            311.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        322.87725830078125,
+        538.9805908203125,
+        338.28668212890625
+      ],
+      "text": "frustração e nos antecipamos aos mesmos demonstrando que já",
+      "spans": [
+        {
+          "text": "frustração e nos antecipamos aos mesmos demonstrando que já",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            322.87725830078125,
+            538.9805908203125,
+            338.28668212890625
+          ],
+          "origin": [
+            72.0,
+            335.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        346.87725830078125,
+        538.9805297851562,
+        362.28668212890625
+      ],
+      "text": "sabemos o que ocultam realmente. Diante de comportamentos que",
+      "spans": [
+        {
+          "text": "sabemos o que ocultam realmente. Diante de comportamentos que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            346.87725830078125,
+            538.9805297851562,
+            362.28668212890625
+          ],
+          "origin": [
+            72.0,
+            359.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        371.11724853515625,
+        539.1154174804688,
+        386.52667236328125
+      ],
+      "text": "prometem o que desejamos \nmuito \nnão \ndevemos \nnos \nmostrar",
+      "spans": [
+        {
+          "text": "prometem o que desejamos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            371.11724853515625,
+            281.6400146484375,
+            386.52667236328125
+          ],
+          "origin": [
+            72.0,
+            383.51995849609375
+          ]
+        },
+        {
+          "text": "muito ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            292.79998779296875,
+            371.11724853515625,
+            333.4800109863281,
+            386.52667236328125
+          ],
+          "origin": [
+            292.79998779296875,
+            383.51995849609375
+          ]
+        },
+        {
+          "text": "não ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            344.6400146484375,
+            371.11724853515625,
+            370.9200439453125,
+            386.52667236328125
+          ],
+          "origin": [
+            344.6400146484375,
+            383.51995849609375
+          ]
+        },
+        {
+          "text": "devemos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            382.08001708984375,
+            371.11724853515625,
+            442.2000427246094,
+            386.52667236328125
+          ],
+          "origin": [
+            382.08001708984375,
+            383.51995849609375
+          ]
+        },
+        {
+          "text": "nos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            453.60003662109375,
+            371.11724853515625,
+            479.1600646972656,
+            386.52667236328125
+          ],
+          "origin": [
+            453.60003662109375,
+            383.51995849609375
+          ]
+        },
+        {
+          "text": "mostrar",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            490.56005859375,
+            371.11724853515625,
+            539.1154174804688,
+            386.52667236328125
+          ],
+          "origin": [
+            490.56005859375,
+            383.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        395.11724853515625,
+        539.0401000976562,
+        410.52667236328125
+      ],
+      "text": "entusiasmados \nmas \nsim \ndecepcionados \npor \nsabermos \nque \nsão",
+      "spans": [
+        {
+          "text": "entusiasmados ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            395.11724853515625,
+            169.7999725341797,
+            410.52667236328125
+          ],
+          "origin": [
+            72.0,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "mas ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            181.43997192382812,
+            395.11724853515625,
+            210.11996459960938,
+            410.52667236328125
+          ],
+          "origin": [
+            181.43997192382812,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "sim ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            221.27996826171875,
+            395.11724853515625,
+            247.7999725341797,
+            410.52667236328125
+          ],
+          "origin": [
+            221.27996826171875,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "decepcionados ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            258.9599609375,
+            395.11724853515625,
+            357.7200927734375,
+            410.52667236328125
+          ],
+          "origin": [
+            258.9599609375,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "por ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            368.88006591796875,
+            395.11724853515625,
+            393.9600830078125,
+            410.52667236328125
+          ],
+          "origin": [
+            368.88006591796875,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "sabermos ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            405.12005615234375,
+            395.11724853515625,
+            469.56011962890625,
+            410.52667236328125
+          ],
+          "origin": [
+            405.12005615234375,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            480.7200927734375,
+            395.11724853515625,
+            507.2401123046875,
+            410.52667236328125
+          ],
+          "origin": [
+            480.7200927734375,
+            407.51995849609375
+          ]
+        },
+        {
+          "text": "são",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            518.4000854492188,
+            395.11724853515625,
+            539.0401000976562,
+            410.52667236328125
+          ],
+          "origin": [
+            518.4000854492188,
+            407.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        419.35723876953125,
+        304.1702575683594,
+        434.76666259765625
+      ],
+      "text": "enganosos, meras promessas falsas.",
+      "spans": [
+        {
+          "text": "enganosos, meras promessas falsas.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            419.35723876953125,
+            304.1702575683594,
+            434.76666259765625
+          ],
+          "origin": [
+            72.0,
+            431.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        455.59722900390625,
+        539.115478515625,
+        471.00665283203125
+      ],
+      "text": "A frustração masculina lhes causa grande satisfação por",
+      "spans": [
+        {
+          "text": "A frustração masculina lhes causa grande satisfação por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            455.59722900390625,
+            539.115478515625,
+            471.00665283203125
+          ],
+          "origin": [
+            108.0,
+            467.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        479.59722900390625,
+        539.0401000976562,
+        495.00665283203125
+      ],
+      "text": "revelarem o que sentimos e fornecerem provas de que valorizamos o",
+      "spans": [
+        {
+          "text": "revelarem o que sentimos e fornecerem provas de que valorizamos o",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            479.59722900390625,
+            539.0401000976562,
+            495.00665283203125
+          ],
+          "origin": [
+            72.0,
+            491.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        503.83721923828125,
+        538.9658203125,
+        519.2466430664062
+      ],
+      "text": "que possuem para oferecer. Não devemos, portanto, depender do que",
+      "spans": [
+        {
+          "text": "que possuem para oferecer. Não devemos, portanto, depender do que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            503.83721923828125,
+            538.9658203125,
+            519.2466430664062
+          ],
+          "origin": [
+            72.0,
+            516.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        527.8372192382812,
+        539.1005859375,
+        543.2466430664062
+      ],
+      "text": "essas mulheres oferecem para sermos felizes. A felicidade deve ser",
+      "spans": [
+        {
+          "text": "essas mulheres oferecem para sermos felizes. A felicidade deve ser",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            527.8372192382812,
+            539.1005859375,
+            543.2466430664062
+          ],
+          "origin": [
+            72.0,
+            540.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        552.0772094726562,
+        446.2502136230469,
+        567.4866333007812
+      ],
+      "text": "buscada em nós mesmos, o que é realmente muito difícil.",
+      "spans": [
+        {
+          "text": "buscada em nós mesmos, o que é realmente muito difícil.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            552.0772094726562,
+            446.2502136230469,
+            567.4866333007812
+          ],
+          "origin": [
+            72.0,
+            564.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        588.3172607421875,
+        538.98046875,
+        603.7266845703125
+      ],
+      "text": "Mantenha-se constantemente em alerta com relação a tudo o que",
+      "spans": [
+        {
+          "text": "Mantenha-se constantemente em alerta com relação a tudo o que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            588.3172607421875,
+            538.98046875,
+            603.7266845703125
+          ],
+          "origin": [
+            108.0,
+            600.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        612.3172607421875,
+        538.9349975585938,
+        627.7266845703125
+      ],
+      "text": "elas prometerem. Há dois tipos de promessas: as explícitas e as",
+      "spans": [
+        {
+          "text": "elas prometerem. Há dois tipos de promessas: as explícitas e as",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            612.3172607421875,
+            538.9349975585938,
+            627.7266845703125
+          ],
+          "origin": [
+            72.0,
+            624.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        636.5572509765625,
+        538.9201049804688,
+        651.9666748046875
+      ],
+      "text": "implícitas. As promessas explícitas são articuladas verbalmente e as",
+      "spans": [
+        {
+          "text": "implícitas. As promessas explícitas são articuladas verbalmente e as",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            636.5572509765625,
+            538.9201049804688,
+            651.9666748046875
+          ],
+          "origin": [
+            72.0,
+            648.9599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        660.7972412109375,
+        538.9656982421875,
+        676.2066650390625
+      ],
+      "text": "implícitas são as piores, aquelas que se deixam entrever nas atitudes e",
+      "spans": [
+        {
+          "text": "implícitas são as piores, aquelas que se deixam entrever nas atitudes e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            660.7972412109375,
+            538.9656982421875,
+            676.2066650390625
+          ],
+          "origin": [
+            72.0,
+            673.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "30",
+      "spans": [
+        {
+          "text": "30",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

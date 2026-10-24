@@ -1,0 +1,591 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "00",
+  "title": "(front matter)",
+  "pages": [
+    1,
+    2
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Textos Complementares II",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "BookmanOldStyle-Bold",
+        "size": 18.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 89.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0001",
+      "hash": "bfe37d66"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por Nessahan Alita",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 157.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0002",
+      "hash": "2bdfb41e"
+    },
+    {
+      "type": "heading",
+      "text": "Dados para citação:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 161.7,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0003",
+      "hash": "6d7903f0"
+    },
+    {
+      "type": "paragraph",
+      "text": "ALITA, Nessahan (2009). Textos Complementares II. Edição virtual independente.",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0004",
+      "hash": "b3933bbe"
+    },
+    {
+      "type": "heading",
+      "text": "Palavras-chave:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 171.7,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0005",
+      "hash": "b3b0a10a"
+    },
+    {
+      "type": "paragraph",
+      "text": "desenvolvimento interior - sexualidade - sentimentos",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 85.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0006",
+      "hash": "25b4636f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introdução",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0007",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Correto entendimento do “sexo selvagem”",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0008",
+      "hash": "961e2ce5"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Sobre a magia sexual",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0009",
+      "hash": "578a3e72"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Ejaculação precoce e retardada",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0010",
+      "hash": "066d561b"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Correto entendimento da teoria",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0011",
+      "hash": "d5317612"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Principais artimanhas e soluções correspondentes",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0012",
+      "hash": "d9d56882"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Dois caminhos possíveis",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0013",
+      "hash": "94764854"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Um tipo de mulher que merece confiança",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0014",
+      "hash": "378844ff"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Uma guerra por um prêmio",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0015",
+      "hash": "2ae35318"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Desarticulação antecipada",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0016",
+      "hash": "ed8654ee"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. Lidando com os sinais contraditórios",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0017",
+      "hash": "6fbd2d7c"
+    },
+    {
+      "type": "paragraph",
+      "text": "11. Dois referenciais",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0018",
+      "hash": "4f97c87f"
+    },
+    {
+      "type": "paragraph",
+      "text": "12. Dor de amor",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0019",
+      "hash": "957227d7"
+    },
+    {
+      "type": "paragraph",
+      "text": "13. A mescla de pólos opostos simultâneos",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0020",
+      "hash": "35137224"
+    },
+    {
+      "type": "paragraph",
+      "text": "14. Amor inimigo",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0021",
+      "hash": "b232c198"
+    },
+    {
+      "type": "paragraph",
+      "text": "15. Sobre galanteios e atração",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0022",
+      "hash": "635a886e"
+    },
+    {
+      "type": "paragraph",
+      "text": "16. Algumas (in)definições e (in)certezas a serem estabelecidas",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0023",
+      "hash": "5eab963c"
+    },
+    {
+      "type": "paragraph",
+      "text": "17. Guerra de mentes",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0024",
+      "hash": "2ac1fa52"
+    },
+    {
+      "type": "paragraph",
+      "text": "18. A dedicação do cafajeste",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0025",
+      "hash": "a7e94548"
+    },
+    {
+      "type": "paragraph",
+      "text": "19. Libertando a alma",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0026",
+      "hash": "2637a612"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Indo além",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0027",
+      "hash": "3b61fbcc"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aforismos",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0028",
+      "hash": "8e13256f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sobre traduções e impressões",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0029",
+      "hash": "51233752"
+    }
+  ]
+}

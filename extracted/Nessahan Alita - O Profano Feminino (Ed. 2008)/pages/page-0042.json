@@ -1,0 +1,1002 @@
+{
+  "page_number": 42,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        138.5399932861328,
+        70.73968505859375,
+        346.51806640625,
+        85.42768096923828
+      ],
+      "text": "• Ficar sem telefonar por mais de n dias;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.5399932861328,
+            70.73968505859375,
+            144.05999755859375,
+            85.42768096923828
+          ],
+          "origin": [
+            138.5399932861328,
+            82.7996826171875
+          ]
+        },
+        {
+          "text": "Ficar sem telefonar por mais de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            72.10768127441406,
+            311.1850891113281,
+            85.39168548583984
+          ],
+          "origin": [
+            156.5399932861328,
+            82.7996826171875
+          ]
+        },
+        {
+          "text": "n",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            311.15997314453125,
+            72.10768127441406,
+            317.83197021484375,
+            85.39168548583984
+          ],
+          "origin": [
+            311.15997314453125,
+            82.7996826171875
+          ]
+        },
+        {
+          "text": " dias; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            317.82000732421875,
+            72.10768127441406,
+            346.51806640625,
+            85.39168548583984
+          ],
+          "origin": [
+            317.82000732421875,
+            82.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.54000854492188,
+        104.2796630859375,
+        489.4857482910156,
+        118.96765899658203
+      ],
+      "text": "• Não atender às ligações sem que haja impedimento real para fazê-lo;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.54000854492188,
+            104.2796630859375,
+            144.0600128173828,
+            118.96765899658203
+          ],
+          "origin": [
+            138.54000854492188,
+            116.33966064453125
+          ]
+        },
+        {
+          "text": "Não atender às ligações sem que haja impedimento real para fazê-lo; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.54000854492188,
+            105.64765930175781,
+            489.4857482910156,
+            118.9316635131836
+          ],
+          "origin": [
+            156.54000854492188,
+            116.33966064453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.54000854492188,
+        137.81964111328125,
+        439.21929931640625,
+        152.5076446533203
+      ],
+      "text": "• Prometer algo (telefonar, encontrar-se etc.) e não cumprir;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.54000854492188,
+            137.81964111328125,
+            144.0600128173828,
+            152.5076446533203
+          ],
+          "origin": [
+            138.54000854492188,
+            149.879638671875
+          ]
+        },
+        {
+          "text": "Prometer algo (telefonar, encontrar-se etc.) e não cumprir; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.54000854492188,
+            139.18763732910156,
+            439.21929931640625,
+            152.4716339111328
+          ],
+          "origin": [
+            156.54000854492188,
+            149.879638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.54002380371094,
+        171.41961669921875,
+        374.0929260253906,
+        186.1076202392578
+      ],
+      "text": "• Desaparecer subitamente sem dar satisfação;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.54002380371094,
+            171.41961669921875,
+            144.06002807617188,
+            186.1076202392578
+          ],
+          "origin": [
+            138.54002380371094,
+            183.4796142578125
+          ]
+        },
+        {
+          "text": "Desaparecer subitamente sem dar satisfação; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.54002380371094,
+            172.78761291503906,
+            374.0929260253906,
+            186.0716094970703
+          ],
+          "origin": [
+            156.54002380371094,
+            183.4796142578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.54002380371094,
+        204.9595947265625,
+        513.382080078125,
+        219.64759826660156
+      ],
+      "text": "• Ser amigável com pretendentes (machos interessados que fazem “cara de",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.54002380371094,
+            204.9595947265625,
+            144.06002807617188,
+            219.64759826660156
+          ],
+          "origin": [
+            138.54002380371094,
+            217.01959228515625
+          ]
+        },
+        {
+          "text": "Ser amigável com pretendentes (machos interessados que fazem “cara de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.54002380371094,
+            206.3275909423828,
+            513.382080078125,
+            219.61158752441406
+          ],
+          "origin": [
+            156.54002380371094,
+            217.01959228515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        156.5400390625,
+        226.9676055908203,
+        443.62200927734375,
+        240.25160217285156
+      ],
+      "text": "bonzinhos” mas que na verdade querem mesmo é traçá-la);",
+      "spans": [
+        {
+          "text": "bonzinhos” mas que na verdade querem mesmo é traçá-la); ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5400390625,
+            226.9676055908203,
+            443.62200927734375,
+            240.25160217285156
+          ],
+          "origin": [
+            156.5400390625,
+            237.65960693359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5400390625,
+        259.1995849609375,
+        282.9480895996094,
+        273.8875732421875
+      ],
+      "text": "• Ficar escutando cantadas;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.5400390625,
+            259.1995849609375,
+            144.06004333496094,
+            273.8875732421875
+          ],
+          "origin": [
+            138.5400390625,
+            271.25958251953125
+          ]
+        },
+        {
+          "text": "Ficar escutando cantadas; ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5400390625,
+            260.5675964355469,
+            282.9480895996094,
+            273.8515930175781
+          ],
+          "origin": [
+            156.5400390625,
+            271.25958251953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5400390625,
+        292.799560546875,
+        402.5030212402344,
+        307.487548828125
+      ],
+      "text": "• Fazer vingancinhas em retaliação à nossa rebeldia.",
+      "spans": [
+        {
+          "text": "•",
+          "font": "SymbolMT",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            138.5400390625,
+            292.799560546875,
+            144.06004333496094,
+            307.487548828125
+          ],
+          "origin": [
+            138.5400390625,
+            304.85955810546875
+          ]
+        },
+        {
+          "text": "Fazer vingancinhas em retaliação à nossa rebeldia. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5400390625,
+            294.1675720214844,
+            402.5030212402344,
+            307.4515686035156
+          ],
+          "origin": [
+            156.5400390625,
+            304.85955810546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54005432128906,
+        326.8075866699219,
+        513.393310546875,
+        340.0915832519531
+      ],
+      "text": "A \"punição\" para todas essas pilantragens sentimentais deve ser o fim definitivo",
+      "spans": [
+        {
+          "text": "A \"punição\" para todas essas pilantragens sentimentais deve ser o fim definitivo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54005432128906,
+            326.8075866699219,
+            513.393310546875,
+            340.0915832519531
+          ],
+          "origin": [
+            120.54005432128906,
+            337.49957275390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        347.5075988769531,
+        513.43212890625,
+        360.7915954589844
+      ],
+      "text": "da relação, porém a espertinha deve ser comunicada antecipadamente para que não",
+      "spans": [
+        {
+          "text": "da relação, porém a espertinha deve ser comunicada antecipadamente para que não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            347.5075988769531,
+            513.43212890625,
+            360.7915954589844
+          ],
+          "origin": [
+            85.08004760742188,
+            358.1995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        368.2076110839844,
+        513.4464721679688,
+        381.4916076660156
+      ],
+      "text": "possa alegar desconhecimento. Se dermos qualquer brecha para que esta alegação seja",
+      "spans": [
+        {
+          "text": "possa alegar desconhecimento. Se dermos qualquer brecha para que esta alegação seja ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            368.2076110839844,
+            513.4464721679688,
+            381.4916076660156
+          ],
+          "origin": [
+            85.08003234863281,
+            378.89959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        388.9076232910156,
+        513.42236328125,
+        402.1916198730469
+      ],
+      "text": "utilizada, a infernização continuará.  Se dermos a mínima brecha para que a decisão",
+      "spans": [
+        {
+          "text": "utilizada, a infernização continuará.  Se dermos a mínima brecha para que a decisão ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            388.9076232910156,
+            513.42236328125,
+            402.1916198730469
+          ],
+          "origin": [
+            85.08004760742188,
+            399.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        409.6076354980469,
+        513.3634033203125,
+        422.8916320800781
+      ],
+      "text": "pelo término pareça ter partido de nós, o tiro sairá pela culatra pois ela irá sentir-se livre",
+      "spans": [
+        {
+          "text": "pelo término pareça ter partido de nós, o tiro sairá pela culatra pois ela irá sentir-se livre ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            409.6076354980469,
+            513.3634033203125,
+            422.8916320800781
+          ],
+          "origin": [
+            85.08004760742188,
+            420.29962158203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        430.3076477050781,
+        513.4175415039062,
+        443.5916442871094
+      ],
+      "text": "de culpa. Logo, é importante não discutir mas apenas comunicar de forma unilateral e",
+      "spans": [
+        {
+          "text": "de culpa. Logo, é importante não discutir mas apenas comunicar de forma unilateral e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            430.3076477050781,
+            513.4175415039062,
+            443.5916442871094
+          ],
+          "origin": [
+            85.080078125,
+            440.9996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        451.0076599121094,
+        513.3851928710938,
+        464.2916564941406
+      ],
+      "text": "absolutamente clara que a decisão está nas mãos dela, já que serão suas atitudes que",
+      "spans": [
+        {
+          "text": "absolutamente clara que a decisão está nas mãos dela, já que serão suas atitudes que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            451.0076599121094,
+            513.3851928710938,
+            464.2916564941406
+          ],
+          "origin": [
+            85.080078125,
+            461.69964599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        471.7076721191406,
+        513.459716796875,
+        484.9916687011719
+      ],
+      "text": "definirão o rumo do relacionamento. Em casos de estelionato sentimental, uma terrível",
+      "spans": [
+        {
+          "text": "definirão o rumo do relacionamento. Em casos de estelionato sentimental, uma terrível ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            471.7076721191406,
+            513.459716796875,
+            484.9916687011719
+          ],
+          "origin": [
+            85.080078125,
+            482.399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        492.4076843261719,
+        513.3960571289062,
+        505.6916809082031
+      ],
+      "text": "carta de aviso que informe corretamente surte mais efeito do que mil cartas de amor já",
+      "spans": [
+        {
+          "text": "carta de aviso que informe corretamente surte mais efeito do que mil cartas de amor já ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            492.4076843261719,
+            513.3960571289062,
+            505.6916809082031
+          ],
+          "origin": [
+            85.08004760742188,
+            503.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        513.107666015625,
+        323.9928894042969,
+        526.3916625976562
+      ],
+      "text": "que as fêmeas não são suscetíveis ao bom senso.",
+      "spans": [
+        {
+          "text": "que as fêmeas não são suscetíveis ao bom senso.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            513.107666015625,
+            323.9928894042969,
+            526.3916625976562
+          ],
+          "origin": [
+            85.08004760742188,
+            523.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54006958007812,
+        545.8076782226562,
+        513.3362426757812,
+        559.0916748046875
+      ],
+      "text": "Se você for habilidoso e sua manobra houver sido correta, a ansiedade e a dúvida",
+      "spans": [
+        {
+          "text": "Se você for habilidoso e sua manobra houver sido correta, a ansiedade e a dúvida ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54006958007812,
+            545.8076782226562,
+            513.3362426757812,
+            559.0916748046875
+          ],
+          "origin": [
+            120.54006958007812,
+            556.4996948242188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08010864257812,
+        566.5076904296875,
+        513.4322509765625,
+        579.7916870117188
+      ],
+      "text": "que haviam sido destinadas a você serão imediatamente transferidas de volta para o",
+      "spans": [
+        {
+          "text": "que haviam sido destinadas a você serão imediatamente transferidas de volta para o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08010864257812,
+            566.5076904296875,
+            513.4322509765625,
+            579.7916870117188
+          ],
+          "origin": [
+            85.08010864257812,
+            577.19970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        587.2077026367188,
+        513.62109375,
+        600.49169921875
+      ],
+      "text": "outro lado e passarão a atormentá-la. Para que esta manobra funcione, a razão e a justiça",
+      "spans": [
+        {
+          "text": "outro lado e passarão a atormentá-la. Para que esta manobra funcione, a razão e a justiça ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            587.2077026367188,
+            513.62109375,
+            600.49169921875
+          ],
+          "origin": [
+            85.080078125,
+            597.8997192382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        607.90771484375,
+        513.3538818359375,
+        621.1917114257812
+      ],
+      "text": "devem estar ao seu lado. Aquele que tentar realizar esta contra-manipulação de forma",
+      "spans": [
+        {
+          "text": "devem estar ao seu lado. Aquele que tentar realizar esta contra-manipulação de forma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            607.90771484375,
+            513.3538818359375,
+            621.1917114257812
+          ],
+          "origin": [
+            85.080078125,
+            618.5997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        628.607666015625,
+        513.335693359375,
+        641.8916625976562
+      ],
+      "text": "injusta sofrerá as conseqüências do tiro que sairá pela culatra. Não tente ser",
+      "spans": [
+        {
+          "text": "injusta sofrerá as conseqüências do tiro que sairá pela culatra. Não tente ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            628.607666015625,
+            513.335693359375,
+            641.8916625976562
+          ],
+          "origin": [
+            85.08004760742188,
+            639.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        649.3076782226562,
+        420.6564025878906,
+        662.5916748046875
+      ],
+      "text": "manipulador, apenas se defenda implacavelmente quando necessário.",
+      "spans": [
+        {
+          "text": "manipulador, apenas se defenda implacavelmente quando necessário. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            649.3076782226562,
+            420.6564025878906,
+            662.5916748046875
+          ],
+          "origin": [
+            85.08001708984375,
+            659.9996948242188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000854492188,
+        682.0076904296875,
+        513.4010009765625,
+        695.2916870117188
+      ],
+      "text": "Eis uma característica invariável que sintetiza a esperteza feminina: as",
+      "spans": [
+        {
+          "text": "Eis uma característica invariável que sintetiza a esperteza feminina: as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000854492188,
+            682.0076904296875,
+            513.4010009765625,
+            695.2916870117188
+          ],
+          "origin": [
+            120.54000854492188,
+            692.69970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        702.7076416015625,
+        513.3837890625,
+        715.9916381835938
+      ],
+      "text": "artimanhas e os joguinhos visam ocultar os sentimentos e intenções reais da mulher, ao",
+      "spans": [
+        {
+          "text": "artimanhas e os joguinhos visam ocultar os sentimentos e intenções reais da mulher, ao ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            702.7076416015625,
+            513.3837890625,
+            715.9916381835938
+          ],
+          "origin": [
+            85.07998657226562,
+            713.399658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        723.4076538085938,
+        513.4176635742188,
+        736.691650390625
+      ],
+      "text": "mesmo tempo em que manipulam e testam os sentimentos e intenções reais do homem.",
+      "spans": [
+        {
+          "text": "mesmo tempo em que manipulam e testam os sentimentos e intenções reais do homem. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            723.4076538085938,
+            513.4176635742188,
+            736.691650390625
+          ],
+          "origin": [
+            85.07998657226562,
+            734.0996704101562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        744.107666015625,
+        513.360107421875,
+        757.3916625976562
+      ],
+      "text": "Elas querem descobrir o que sentimos e esconder o que sentem. É por isso que nos",
+      "spans": [
+        {
+          "text": "Elas querem descobrir o que sentimos e esconder o que sentem. É por isso que nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            744.107666015625,
+            513.360107421875,
+            757.3916625976562
+          ],
+          "origin": [
+            85.07998657226562,
+            754.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "42",
+      "spans": [
+        {
+          "text": "42",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

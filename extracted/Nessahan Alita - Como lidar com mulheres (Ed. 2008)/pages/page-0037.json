@@ -1,0 +1,1046 @@
+{
+  "page_number": 37,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4127807617188,
+        118.65927124023438
+      ],
+      "text": "superioridade: as operárias desejam o dono da empresa, as pacientes",
+      "spans": [
+        {
+          "text": "superioridade: as operárias desejam o dono da empresa, as pacientes ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.4127807617188,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.349853515625,
+        138.81906127929688
+      ],
+      "text": "desejam o médico, as alunas desejam o professor, as fãs desejam o artista,",
+      "spans": [
+        {
+          "text": "desejam o médico, as alunas desejam o professor, as fãs desejam o artista, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.349853515625,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.41107177734375,
+        515.4434204101562,
+        158.97885131835938
+      ],
+      "text": "as baixas desejam os altos e as altas desejam os mais altos ainda! As alemãs",
+      "spans": [
+        {
+          "text": "as baixas desejam os altos e as altas desejam os mais altos ainda! As alemãs ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.41107177734375,
+            515.4434204101562,
+            158.97885131835938
+          ],
+          "origin": [
+            82.73980712890625,
+            155.6995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.511474609375,
+        515.3912353515625,
+        179.07925415039062
+      ],
+      "text": "desejavam Hitler e as russas, Stalin (ALBERONI, 1986/sem data). Quanto",
+      "spans": [
+        {
+          "text": "desejavam Hitler e as russas, Stalin (ALBERONI, 1986/sem data). Quanto ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.511474609375,
+            515.3912353515625,
+            179.07925415039062
+          ],
+          "origin": [
+            82.73980712890625,
+            175.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        183.6712646484375,
+        515.45068359375,
+        199.23904418945312
+      ],
+      "text": "maior for a distância, maior será o desejo, o que explica os gritos histéricos",
+      "spans": [
+        {
+          "text": "maior for a distância, maior será o desejo, o que explica os gritos histéricos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            183.6712646484375,
+            515.45068359375,
+            199.23904418945312
+          ],
+          "origin": [
+            82.73980712890625,
+            195.95977783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        202.54783630371094,
+        515.4633178710938,
+        219.33944702148438
+      ],
+      "text": "e desmaios de mulheres em shows. Os “inferiores”13 são rejeitados. A",
+      "spans": [
+        {
+          "text": "e desmaios de mulheres em shows. Os “inferiores”",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            203.77166748046875,
+            393.4227600097656,
+            219.33944702148438
+          ],
+          "origin": [
+            82.73980712890625,
+            216.0601806640625
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            394.3197937011719,
+            202.54783630371094,
+            402.1003723144531,
+            212.9002227783203
+          ],
+          "origin": [
+            394.3197937011719,
+            210.71954345703125
+          ]
+        },
+        {
+          "text": " são rejeitados. A ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            402.1799621582031,
+            203.771240234375,
+            515.4633178710938,
+            219.33901977539062
+          ],
+          "origin": [
+            402.1799621582031,
+            216.05975341796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        223.9310302734375,
+        346.3038024902344,
+        239.49880981445312
+      ],
+      "text": "superioridade é definida pelo contexto social.",
+      "spans": [
+        {
+          "text": "superioridade é definida pelo contexto social.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            223.9310302734375,
+            346.3038024902344,
+            239.49880981445312
+          ],
+          "origin": [
+            82.73895263671875,
+            236.21954345703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        255.73065185546875,
+        515.4630126953125,
+        271.2984313964844
+      ],
+      "text": "Não cuidarão de preservar o macho ao seu lado caso se sintam",
+      "spans": [
+        {
+          "text": "Não cuidarão de preservar o macho ao seu lado caso se sintam ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23896789550781,
+            255.73065185546875,
+            515.4630126953125,
+            271.2984313964844
+          ],
+          "origin": [
+            117.23896789550781,
+            268.0191650390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        275.8310546875,
+        515.4945678710938,
+        291.3988342285156
+      ],
+      "text": "seguras. Apenas o farão antes de conquistá-lo ou sob a ameaça real de",
+      "spans": [
+        {
+          "text": "seguras. Apenas o farão antes de conquistá-lo ou sob a ameaça real de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            275.8310546875,
+            515.4945678710938,
+            291.3988342285156
+          ],
+          "origin": [
+            82.73895263671875,
+            288.11956787109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        295.9908447265625,
+        515.4485473632812,
+        311.5586242675781
+      ],
+      "text": "perdê-lo. Somente entregam seus tesouros em situações extremas. O amor",
+      "spans": [
+        {
+          "text": "perdê-lo. Somente entregam seus tesouros em situações extremas. O amor ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            295.9908447265625,
+            515.4485473632812,
+            311.5586242675781
+          ],
+          "origin": [
+            82.73895263671875,
+            308.27935791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        316.09124755859375,
+        344.96759033203125,
+        331.6590270996094
+      ],
+      "text": "que oferecem em situações normais é um lixo.",
+      "spans": [
+        {
+          "text": "que oferecem em situações normais é um lixo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            316.09124755859375,
+            344.96759033203125,
+            331.6590270996094
+          ],
+          "origin": [
+            82.73895263671875,
+            328.3797607421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23895263671875,
+        347.8908386230469,
+        515.4711303710938,
+        363.4586181640625
+      ],
+      "text": "As traições femininas principiam quase sempre pelo sentimento como",
+      "spans": [
+        {
+          "text": "As traições femininas principiam quase sempre pelo sentimento como ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23895263671875,
+            347.8908386230469,
+            515.4711303710938,
+            363.4586181640625
+          ],
+          "origin": [
+            117.23895263671875,
+            360.1793518066406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        367.9912414550781,
+        515.4500122070312,
+        383.55902099609375
+      ],
+      "text": "algo “sem maldade” e não pelo desejo carnal, o qual é para elas",
+      "spans": [
+        {
+          "text": "algo “sem maldade” e não pelo desejo carnal, o qual é para elas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            367.9912414550781,
+            515.4500122070312,
+            383.55902099609375
+          ],
+          "origin": [
+            82.73895263671875,
+            380.2797546386719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        388.0916442871094,
+        515.4203491210938,
+        403.659423828125
+      ],
+      "text": "complemento e não ingrediente central do amor. Por tal razão, é muito fácil",
+      "spans": [
+        {
+          "text": "complemento e não ingrediente central do amor. Por tal razão, é muito fácil ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            388.0916442871094,
+            515.4203491210938,
+            403.659423828125
+          ],
+          "origin": [
+            82.73895263671875,
+            400.3801574707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        408.2518310546875,
+        515.469482421875,
+        423.8196105957031
+      ],
+      "text": "para elas se defenderem quando as apanhamos em condutas suspeitas",
+      "spans": [
+        {
+          "text": "para elas se defenderem quando as apanhamos em condutas suspeitas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            408.2518310546875,
+            515.469482421875,
+            423.8196105957031
+          ],
+          "origin": [
+            82.73895263671875,
+            420.54034423828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        428.35223388671875,
+        515.403564453125,
+        443.9200134277344
+      ],
+      "text": "dizendo coisas do tipo: \"Você é maldoso, a maldade só existe em sua",
+      "spans": [
+        {
+          "text": "dizendo coisas do tipo: ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            428.35223388671875,
+            225.98802185058594,
+            443.9200134277344
+          ],
+          "origin": [
+            82.73895263671875,
+            440.6407470703125
+          ]
+        },
+        {
+          "text": "\"Você é maldoso, a maldade só existe em sua ",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            230.3999481201172,
+            429.5425720214844,
+            515.403564453125,
+            443.7916564941406
+          ],
+          "origin": [
+            230.3999481201172,
+            440.6407470703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73895263671875,
+        448.51202392578125,
+        515.4663696289062,
+        464.0798034667969
+      ],
+      "text": "cabeça etc.\" Costumam camuflar seus casos ou flertes nas amizades e até",
+      "spans": [
+        {
+          "text": "cabeça etc.\"",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.73895263671875,
+            449.7023620605469,
+            152.5079345703125,
+            463.9514465332031
+          ],
+          "origin": [
+            82.73895263671875,
+            460.800537109375
+          ]
+        },
+        {
+          "text": " Costumam camuflar seus casos ou flertes nas amizades e até ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            153.53854370117188,
+            448.51202392578125,
+            515.4663696289062,
+            464.0798034667969
+          ],
+          "origin": [
+            153.53854370117188,
+            460.800537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73894500732422,
+        468.6124267578125,
+        515.4805908203125,
+        484.1802062988281
+      ],
+      "text": "unir ambos, motivo pelo qual devemos  estar atentos e desconfiar de",
+      "spans": [
+        {
+          "text": "unir ambos, motivo pelo qual devemos  estar atentos e desconfiar de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73894500732422,
+            468.6124267578125,
+            515.4805908203125,
+            484.1802062988281
+          ],
+          "origin": [
+            82.73894500732422,
+            480.90093994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73894500732422,
+        488.7726135253906,
+        515.4553833007812,
+        504.34039306640625
+      ],
+      "text": "gentilezas, admirações, cuidados e atenções que elas dão a certos homens",
+      "spans": [
+        {
+          "text": "gentilezas, admirações, cuidados e atenções que elas dão a certos homens ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73894500732422,
+            488.7726135253906,
+            515.4553833007812,
+            504.34039306640625
+          ],
+          "origin": [
+            82.73894500732422,
+            501.0611267089844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73894500732422,
+        508.87298583984375,
+        172.87347412109375,
+        524.4407958984375
+      ],
+      "text": "que escolhem.",
+      "spans": [
+        {
+          "text": "que escolhem.   ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73894500732422,
+            508.87298583984375,
+            172.87347412109375,
+            524.4407958984375
+          ],
+          "origin": [
+            82.73894500732422,
+            521.1614990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73894500732422,
+        540.672607421875,
+        515.4202880859375,
+        556.2404174804688
+      ],
+      "text": "Há uma personalidade específica, um tipo especial de homem que as",
+      "spans": [
+        {
+          "text": "Há uma personalidade específica, um tipo especial de homem que as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23896789550781,
+            540.672607421875,
+            515.4202880859375,
+            556.2404174804688
+          ],
+          "origin": [
+            117.23896789550781,
+            552.9611206054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73894500732422,
+        559.5480346679688,
+        515.4606323242188,
+        576.4002075195312
+      ],
+      "text": "mulheres assediam: o cafajeste14, aquele que se aprimorou na arte de",
+      "spans": [
+        {
+          "text": "mulheres assediam: o cafajeste",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73894500732422,
+            560.8323974609375,
+            268.6800842285156,
+            576.4002075195312
+          ],
+          "origin": [
+            82.73894500732422,
+            573.1209106445312
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            269.6389465332031,
+            559.5480346679688,
+            277.4187316894531,
+            569.900390625
+          ],
+          "origin": [
+            269.6389465332031,
+            567.7197265625
+          ]
+        },
+        {
+          "text": ", aquele que se aprimorou na arte de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            277.4389343261719,
+            560.8312377929688,
+            515.4606323242188,
+            576.3990478515625
+          ],
+          "origin": [
+            277.4389343261719,
+            573.1197509765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73893737792969,
+        580.9315795898438,
+        515.4912719726562,
+        596.4993896484375
+      ],
+      "text": "representar o apaixonamento para convencer e que, ao mesmo tempo, nada",
+      "spans": [
+        {
+          "text": "representar o apaixonamento para convencer e que, ao mesmo tempo, nada ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73893737792969,
+            580.9315795898438,
+            515.4912719726562,
+            596.4993896484375
+          ],
+          "origin": [
+            82.73893737792969,
+            593.2200927734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73893737792969,
+        601.0914306640625,
+        515.4371337890625,
+        616.6592407226562
+      ],
+      "text": "sente. Se o amor for real, será desinteressante. O cafajeste não se apaixona",
+      "spans": [
+        {
+          "text": "sente. Se o amor for real, será desinteressante. O cafajeste não se apaixona ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73893737792969,
+            601.0914306640625,
+            515.4371337890625,
+            616.6592407226562
+          ],
+          "origin": [
+            82.73893737792969,
+            613.3799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73893737792969,
+        621.1918334960938,
+        515.45068359375,
+        636.7596435546875
+      ],
+      "text": "e ao mesmo tempo encarna a fantasia feminina. Transmite a falsa impressão",
+      "spans": [
+        {
+          "text": "e ao mesmo tempo encarna a fantasia feminina. Transmite a falsa impressão ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73893737792969,
+            621.1918334960938,
+            515.45068359375,
+            636.7596435546875
+          ],
+          "origin": [
+            82.73893737792969,
+            633.4803466796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73893737792969,
+        654.11865234375,
+        514.8961181640625,
+        737.4000244140625
+      ],
+      "text": "12 Às vezes utilizo termos “crus” porque meu público alvo são os homens heterossexuais \nadultos. Não tenho porque ser delicado. \n13 Aos olhos femininos, obviamente. \n14 Os cafajestes são autênticos estelionatários emocionais. Nessahan Alita não aprova a sua \nconduta mas infelizmente observou que eles são bem sucedidos com as mulheres. Provavelmente \npor motivos inconscientes, elas parecem ter predileção especial por este tipo de homem, fato \nque as prejudica.",
+      "spans": [
+        {
+          "text": "12",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            664.5357666015625,
+            88.5977783203125,
+            672.3196411132812
+          ],
+          "origin": [
+            82.74002075195312,
+            670.6799926757812
+          ]
+        },
+        {
+          "text": " Às vezes utilizo termos “crus” porque meu público alvo são os homens heterossexuais ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56033325195312,
+            665.3636474609375,
+            514.6835327148438,
+            677.0394897460938
+          ],
+          "origin": [
+            88.56033325195312,
+            674.5800170898438
+          ]
+        },
+        {
+          "text": "adultos. Não tenho porque ser delicado. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74032592773438,
+            675.383544921875,
+            261.6800842285156,
+            687.0593872070312
+          ],
+          "origin": [
+            82.74032592773438,
+            684.5999145507812
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74032592773438,
+            684.6357421875,
+            88.59808349609375,
+            692.4196166992188
+          ],
+          "origin": [
+            82.74032592773438,
+            690.7799682617188
+          ]
+        },
+        {
+          "text": " Aos olhos femininos, obviamente. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56063842773438,
+            685.463623046875,
+            244.9546356201172,
+            697.1394653320312
+          ],
+          "origin": [
+            88.56063842773438,
+            694.6799926757812
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74032592773438,
+            694.7158203125,
+            88.59808349609375,
+            702.4996948242188
+          ],
+          "origin": [
+            82.74032592773438,
+            700.8600463867188
+          ]
+        },
+        {
+          "text": " Os cafajestes são autênticos estelionatários emocionais. Nessahan Alita não aprova a sua ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56063842773438,
+            695.543701171875,
+            514.6863403320312,
+            707.2195434570312
+          ],
+          "origin": [
+            88.56063842773438,
+            704.7600708007812
+          ]
+        },
+        {
+          "text": "conduta mas infelizmente observou que eles são bem sucedidos com as mulheres. Provavelmente ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7396240234375,
+            705.623779296875,
+            514.6220703125,
+            717.2996215820312
+          ],
+          "origin": [
+            82.7396240234375,
+            714.8401489257812
+          ]
+        },
+        {
+          "text": "por motivos inconscientes, elas parecem ter predileção especial por este tipo de homem, fato ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7396240234375,
+            715.6436767578125,
+            514.7048950195312,
+            727.3195190429688
+          ],
+          "origin": [
+            82.7396240234375,
+            724.8600463867188
+          ]
+        },
+        {
+          "text": "que as prejudica. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7396240234375,
+            725.7241821289062,
+            160.53695678710938,
+            737.4000244140625
+          ],
+          "origin": [
+            82.7396240234375,
+            734.9405517578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "37",
+      "spans": [
+        {
+          "text": "37",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

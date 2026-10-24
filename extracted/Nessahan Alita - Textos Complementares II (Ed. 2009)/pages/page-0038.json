@@ -1,0 +1,846 @@
+{
+  "page_number": 38,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        188.9595184326172,
+        92.95938110351562
+      ],
+      "text": "Aforismos",
+      "spans": [
+        {
+          "text": "Aforismos  ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            188.9595184326172,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        105.40766906738281,
+        205.55160522460938,
+        118.6916732788086
+      ],
+      "text": "Atos de vontade",
+      "spans": [
+        {
+          "text": "Atos de vontade ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.40766906738281,
+            205.55160522460938,
+            118.6916732788086
+          ],
+          "origin": [
+            120.54000091552734,
+            116.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        131.08766174316406,
+        513.362060546875,
+        199.5716094970703
+      ],
+      "text": "A vontade se confirma por atos e não por simples pensamentos ou intenções. \nNão conseguiremos modificar nossos comportamentos, pensamentos e sentimentos \nsimplesmente fazendo esforços sobre nós mesmos sem confirmá-los com atitudes que \ncorrespondam aos novos padrões. Fazer esforços corretos é importante, mas cooperar \ncom tais esforços atuando conforme um novo comportamento é imprescindível.",
+      "spans": [
+        {
+          "text": "A vontade se confirma por atos e não por simples pensamentos ou intenções. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            131.08766174316406,
+            513.362060546875,
+            144.3716583251953
+          ],
+          "origin": [
+            120.54000091552734,
+            141.7796630859375
+          ]
+        },
+        {
+          "text": "Não conseguiremos modificar nossos comportamentos, pensamentos e sentimentos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            144.8876495361328,
+            513.3363037109375,
+            158.17164611816406
+          ],
+          "origin": [
+            85.08001708984375,
+            155.57965087890625
+          ]
+        },
+        {
+          "text": "simplesmente fazendo esforços sobre nós mesmos sem confirmá-los com atitudes que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            158.68763732910156,
+            513.3477172851562,
+            171.9716339111328
+          ],
+          "origin": [
+            85.08001708984375,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "correspondam aos novos padrões. Fazer esforços corretos é importante, mas cooperar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            172.4876251220703,
+            513.3052368164062,
+            185.77162170410156
+          ],
+          "origin": [
+            85.08001708984375,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "com tais esforços atuando conforme um novo comportamento é imprescindível. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            186.28761291503906,
+            470.69439697265625,
+            199.5716094970703
+          ],
+          "origin": [
+            85.08001708984375,
+            196.9796142578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        212.0876007080078,
+        513.30078125,
+        239.1715850830078
+      ],
+      "text": "Quanto mais reiteramos um novo comportamento, tanto mais ele se consolida \nem nossa natureza.",
+      "spans": [
+        {
+          "text": "Quanto mais reiteramos um novo comportamento, tanto mais ele se consolida ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            212.0876007080078,
+            513.30078125,
+            225.37159729003906
+          ],
+          "origin": [
+            120.5400161743164,
+            222.77960205078125
+          ]
+        },
+        {
+          "text": "em nossa natureza. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            225.88758850097656,
+            179.1048126220703,
+            239.1715850830078
+          ],
+          "origin": [
+            85.08001708984375,
+            236.57958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        251.6875762939453,
+        513.3423461914062,
+        278.7715759277344
+      ],
+      "text": "A modificação do comportamento é algo gradativo. Exige paciência e \npersistência. Ninguém vira o oposto do que é de um momento para outro.",
+      "spans": [
+        {
+          "text": "A modificação do comportamento é algo gradativo. Exige paciência e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            251.6875762939453,
+            513.3423461914062,
+            264.9715881347656
+          ],
+          "origin": [
+            120.5400161743164,
+            262.37957763671875
+          ]
+        },
+        {
+          "text": "persistência. Ninguém vira o oposto do que é de um momento para outro. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            265.4875793457031,
+            440.65802001953125,
+            278.7715759277344
+          ],
+          "origin": [
+            85.08001708984375,
+            276.1795654296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53999328613281,
+        291.4075622558594,
+        194.21998596191406,
+        304.6915588378906
+      ],
+      "text": "Solidariedade",
+      "spans": [
+        {
+          "text": "Solidariedade ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            291.4075622558594,
+            194.21998596191406,
+            304.6915588378906
+          ],
+          "origin": [
+            120.53999328613281,
+            302.09954833984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        317.0875549316406,
+        513.362548828125,
+        357.9715270996094
+      ],
+      "text": "Devemos ser solidários com os fracos, não desdenhar deles, e compreender que \ncada um está em seu próprio nível. O que para um é algo fácil de ser conseguido, para \noutro pode ser sumamente difícil.",
+      "spans": [
+        {
+          "text": "Devemos ser solidários com os fracos, não desdenhar deles, e compreender que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            317.0875549316406,
+            513.34423828125,
+            330.3715515136719
+          ],
+          "origin": [
+            120.53999328613281,
+            327.779541015625
+          ]
+        },
+        {
+          "text": "cada um está em seu próprio nível. O que para um é algo fácil de ser conseguido, para ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            330.8875427246094,
+            513.362548828125,
+            344.1715393066406
+          ],
+          "origin": [
+            85.07998657226562,
+            341.57952880859375
+          ]
+        },
+        {
+          "text": "outro pode ser sumamente difícil.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            344.6875305175781,
+            252.16085815429688,
+            357.9715270996094
+          ],
+          "origin": [
+            85.07998657226562,
+            355.3795166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53998565673828,
+        370.6075439453125,
+        236.95082092285156,
+        383.89154052734375
+      ],
+      "text": "Atenuando a irritação",
+      "spans": [
+        {
+          "text": "Atenuando a irritação ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            370.6075439453125,
+            236.95082092285156,
+            383.89154052734375
+          ],
+          "origin": [
+            120.53998565673828,
+            381.2995300292969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        396.28753662109375,
+        513.40771484375,
+        450.97149658203125
+      ],
+      "text": "Quando uma pessoa nos irrita, podemos atenuar a irritação mantendo viva na \nconsciência a recordação de que há nela outra parte diferente daquela que hora se \nmanifesta. Com isso, nos colocamos acima da situação, nos protegemos e até podemos \nauxiliá-la. Esta é uma boa forma de evitar brigas com a parceira.",
+      "spans": [
+        {
+          "text": "Quando uma pessoa nos irrita, podemos atenuar a irritação mantendo viva na ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            396.28753662109375,
+            513.33837890625,
+            409.571533203125
+          ],
+          "origin": [
+            120.53998565673828,
+            406.9795227050781
+          ]
+        },
+        {
+          "text": "consciência a recordação de que há nela outra parte diferente daquela que hora se ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            410.0875244140625,
+            513.40771484375,
+            423.37152099609375
+          ],
+          "origin": [
+            85.07997131347656,
+            420.7795104980469
+          ]
+        },
+        {
+          "text": "manifesta. Com isso, nos colocamos acima da situação, nos protegemos e até podemos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            423.88751220703125,
+            513.333740234375,
+            437.1715087890625
+          ],
+          "origin": [
+            85.07997131347656,
+            434.5794982910156
+          ]
+        },
+        {
+          "text": "auxiliá-la. Esta é uma boa forma de evitar brigas com a parceira. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            437.6875,
+            397.63946533203125,
+            450.97149658203125
+          ],
+          "origin": [
+            85.07997131347656,
+            448.3794860839844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        463.48748779296875,
+        513.3837890625,
+        504.3714599609375
+      ],
+      "text": "Enxerguemos além da pessoa que age de forma que não gostamos, buscando o \nseu verdadeiro Ser. Toda pessoa possui uma parte superior que pode se manifestar \natravés dela em diversos graus.",
+      "spans": [
+        {
+          "text": "Enxerguemos além da pessoa que age de forma que não gostamos, buscando o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997039794922,
+            463.48748779296875,
+            513.3837890625,
+            476.771484375
+          ],
+          "origin": [
+            120.53997039794922,
+            474.1794738769531
+          ]
+        },
+        {
+          "text": "seu verdadeiro Ser. Toda pessoa possui uma parte superior que pode se manifestar ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            477.2874755859375,
+            513.3291015625,
+            490.57147216796875
+          ],
+          "origin": [
+            85.07997131347656,
+            487.9794616699219
+          ]
+        },
+        {
+          "text": "através dela em diversos graus. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            491.08746337890625,
+            237.68402099609375,
+            504.3714599609375
+          ],
+          "origin": [
+            85.0799560546875,
+            501.7794494628906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53995513916016,
+        517.0074462890625,
+        214.24794006347656,
+        530.2914428710938
+      ],
+      "text": "Ponto de ebulição",
+      "spans": [
+        {
+          "text": "Ponto de ebulição ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            517.0074462890625,
+            214.24794006347656,
+            530.2914428710938
+          ],
+          "origin": [
+            120.53995513916016,
+            527.699462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        542.6874389648438,
+        513.3524169921875,
+        569.7714233398438
+      ],
+      "text": "A alma que alcança a compreensão profunda de que é escrava de um desejo que \na prejudica pode chegar ao ponto de chorar.",
+      "spans": [
+        {
+          "text": "A alma que alcança a compreensão profunda de que é escrava de um desejo que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            542.6874389648438,
+            513.3524169921875,
+            555.971435546875
+          ],
+          "origin": [
+            120.53995513916016,
+            553.3794555664062
+          ]
+        },
+        {
+          "text": "a prejudica pode chegar ao ponto de chorar. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            556.4874267578125,
+            297.9599609375,
+            569.7714233398438
+          ],
+          "origin": [
+            85.0799560546875,
+            567.179443359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53996276855469,
+        582.4074096679688,
+        323.88470458984375,
+        595.69140625
+      ],
+      "text": "Mulheres que nadam contra a corrente",
+      "spans": [
+        {
+          "text": "Mulheres que nadam contra a corrente ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53996276855469,
+            582.4074096679688,
+            323.88470458984375,
+            595.69140625
+          ],
+          "origin": [
+            120.53996276855469,
+            593.0994262695312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07994079589844,
+        608.08740234375,
+        513.3648681640625,
+        704.1716918945312
+      ],
+      "text": "O mundo está perdido e a maldade humana parece não ter mais fim. Entretanto, \nainda há pessoas de ambos os sexos com bondade dentro de si. Há mulheres que não \nabandonam seus homens e permanecem com eles até o final, mesmo nas doenças. \nEntretanto, elas não são muitas por um simples motivo: nas pessoas de ambos os sexos \nprevalece o egoísmo. Ainda assim devemos amar a humanidade e auxiliá-la, pois, no \nfundo, o ser humano não compreende o que faz. O ser humano é ignorante e não \nenxerga que, ao prejudicar o próximo, está prejudicando a si mesmo.",
+      "spans": [
+        {
+          "text": "O mundo está perdido e a maldade humana parece não ter mais fim. Entretanto, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53996276855469,
+            608.08740234375,
+            513.2510986328125,
+            621.3713989257812
+          ],
+          "origin": [
+            120.53996276855469,
+            618.7794189453125
+          ]
+        },
+        {
+          "text": "ainda há pessoas de ambos os sexos com bondade dentro de si. Há mulheres que não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            621.887451171875,
+            513.3648681640625,
+            635.1714477539062
+          ],
+          "origin": [
+            85.07994079589844,
+            632.5794677734375
+          ]
+        },
+        {
+          "text": "abandonam seus homens e permanecem com eles até o final, mesmo nas doenças. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            635.6874389648438,
+            513.2999877929688,
+            648.9716796875
+          ],
+          "origin": [
+            85.07994079589844,
+            646.3794555664062
+          ]
+        },
+        {
+          "text": "Entretanto, elas não são muitas por um simples motivo: nas pessoas de ambos os sexos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            649.4876708984375,
+            513.2996826171875,
+            662.7716674804688
+          ],
+          "origin": [
+            85.0799560546875,
+            660.1796875
+          ]
+        },
+        {
+          "text": "prevalece o egoísmo. Ainda assim devemos amar a humanidade e auxiliá-la, pois, no ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            663.2877197265625,
+            513.328857421875,
+            676.5717163085938
+          ],
+          "origin": [
+            85.07998657226562,
+            673.979736328125
+          ]
+        },
+        {
+          "text": "fundo, o ser humano não compreende o que faz. O ser humano é ignorante e não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            677.0877075195312,
+            513.2567138671875,
+            690.3717041015625
+          ],
+          "origin": [
+            85.07998657226562,
+            687.7797241210938
+          ]
+        },
+        {
+          "text": "enxerga que, ao prejudicar o próximo, está prejudicando a si mesmo. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            690.8876953125,
+            418.2239990234375,
+            704.1716918945312
+          ],
+          "origin": [
+            85.07998657226562,
+            701.5797119140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07999420166016,
+        716.6876831054688,
+        513.4051513671875,
+        757.5116577148438
+      ],
+      "text": "Parece-me que a maldade feminina é exercida mais no âmbito do egoísmo \nsentimental enquanto a maldade masculina é exercida e sofisticada em outros campos e \ntem, por tal razão, um espectro mais amplo. As mulheres que se diferenciam destoam da",
+      "spans": [
+        {
+          "text": "Parece-me que a maldade feminina é exercida mais no âmbito do egoísmo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            716.6876831054688,
+            513.3580322265625,
+            729.9716796875
+          ],
+          "origin": [
+            120.53999328613281,
+            727.3796997070312
+          ]
+        },
+        {
+          "text": "sentimental enquanto a maldade masculina é exercida e sofisticada em outros campos e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07999420166016,
+            730.4276733398438,
+            513.3411254882812,
+            743.711669921875
+          ],
+          "origin": [
+            85.07999420166016,
+            741.1196899414062
+          ]
+        },
+        {
+          "text": "tem, por tal razão, um espectro mais amplo. As mulheres que se diferenciam destoam da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            744.2276611328125,
+            513.4051513671875,
+            757.5116577148438
+          ],
+          "origin": [
+            85.08000183105469,
+            754.919677734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "38",
+      "spans": [
+        {
+          "text": "38",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

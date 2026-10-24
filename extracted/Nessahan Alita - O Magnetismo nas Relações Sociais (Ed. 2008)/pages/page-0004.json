@@ -1,0 +1,893 @@
+{
+  "page_number": 4,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        227.8800048828125,
+        77.32801818847656,
+        383.1840515136719,
+        90.61202239990234
+      ],
+      "text": "1. As atrações e repulsões",
+      "spans": [
+        {
+          "text": "1. As atrações e repulsões",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            227.8800048828125,
+            77.32801818847656,
+            383.1840515136719,
+            90.61202239990234
+          ],
+          "origin": [
+            227.8800048828125,
+            88.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        222.72000122070312,
+        109.90797424316406,
+        388.40869140625,
+        123.19197845458984
+      ],
+      "text": "Em 29 de dezembro de 2002.",
+      "spans": [
+        {
+          "text": "Em 29 de dezembro de 2002.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            222.72000122070312,
+            109.90797424316406,
+            388.40869140625,
+            123.19197845458984
+          ],
+          "origin": [
+            222.72000122070312,
+            120.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        142.6079864501953,
+        526.0835571289062,
+        155.89198303222656
+      ],
+      "text": "As relações sociais obedecem a princípios magnéticos como o fazem",
+      "spans": [
+        {
+          "text": "As relações sociais obedecem a princípios magnéticos como o fazem",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            142.6079864501953,
+            526.0835571289062,
+            155.89198303222656
+          ],
+          "origin": [
+            120.54000091552734,
+            153.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        163.30799865722656,
+        212.1143341064453,
+        176.5919952392578
+      ],
+      "text": "os corpos inanimados.",
+      "spans": [
+        {
+          "text": "os corpos inanimados.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            163.30799865722656,
+            212.1143341064453,
+            176.5919952392578
+          ],
+          "origin": [
+            85.07998657226562,
+            174.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        196.0080108642578,
+        525.94091796875,
+        209.29200744628906
+      ],
+      "text": "Os seres humanos instalam entre si e com o mundo relações de",
+      "spans": [
+        {
+          "text": "Os seres humanos instalam entre si e com o mundo relações de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            196.0080108642578,
+            525.94091796875,
+            209.29200744628906
+          ],
+          "origin": [
+            120.54000091552734,
+            206.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        216.70802307128906,
+        525.9564208984375,
+        229.9920196533203
+      ],
+      "text": "atração e repulsão: são atraídos pelo que gostam e repelidos pelo que",
+      "spans": [
+        {
+          "text": "atração e repulsão: são atraídos pelo que gostam e repelidos pelo que",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            216.70802307128906,
+            525.9564208984375,
+            229.9920196533203
+          ],
+          "origin": [
+            85.08004760742188,
+            227.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        237.4080352783203,
+        525.9938354492188,
+        250.69203186035156
+      ],
+      "text": "detestam. Quando são irresistivelmente atraídos ou repelidos, atua o",
+      "spans": [
+        {
+          "text": "detestam. Quando são irresistivelmente atraídos ou repelidos, atua o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            237.4080352783203,
+            525.9938354492188,
+            250.69203186035156
+          ],
+          "origin": [
+            85.08004760742188,
+            248.10003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.080078125,
+        258.1080627441406,
+        213.78721618652344,
+        271.3920593261719
+      ],
+      "text": "magnetismo universal.",
+      "spans": [
+        {
+          "text": "magnetismo universal.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.080078125,
+            258.1080627441406,
+            213.78721618652344,
+            271.3920593261719
+          ],
+          "origin": [
+            85.080078125,
+            268.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        290.8080139160156,
+        525.9879150390625,
+        304.0920104980469
+      ],
+      "text": "Por trás das influências magnéticas estão as fascinações. A qualidade",
+      "spans": [
+        {
+          "text": "Por trás das influências magnéticas estão as fascinações. A qualidade",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            290.8080139160156,
+            525.9879150390625,
+            304.0920104980469
+          ],
+          "origin": [
+            120.54000091552734,
+            301.5
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        311.5080261230469,
+        525.9612426757812,
+        324.7920227050781
+      ],
+      "text": "das mesmas determinam o que será atraente ou repelente. Quanto mais",
+      "spans": [
+        {
+          "text": "das mesmas determinam o que será atraente ou repelente. Quanto mais",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            311.5080261230469,
+            525.9612426757812,
+            324.7920227050781
+          ],
+          "origin": [
+            85.08000183105469,
+            322.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        332.2080383300781,
+        525.9622802734375,
+        345.4920349121094
+      ],
+      "text": "expostos à fascinação estivermos, mais vitimados pelas circunstâncias",
+      "spans": [
+        {
+          "text": "expostos à fascinação estivermos, mais vitimados pelas circunstâncias",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            332.2080383300781,
+            525.9622802734375,
+            345.4920349121094
+          ],
+          "origin": [
+            85.07998657226562,
+            342.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        352.8480529785156,
+        138.4283905029297,
+        366.1320495605469
+      ],
+      "text": "seremos.",
+      "spans": [
+        {
+          "text": "seremos. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            352.8480529785156,
+            138.4283905029297,
+            366.1320495605469
+          ],
+          "origin": [
+            85.07998657226562,
+            363.5400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        385.5480041503906,
+        526.082275390625,
+        398.8320007324219
+      ],
+      "text": "Os fluxos magnéticos formam estruturas sociais que vão dos pares de",
+      "spans": [
+        {
+          "text": "Os fluxos magnéticos formam estruturas sociais que vão dos pares de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            385.5480041503906,
+            526.082275390625,
+            398.8320007324219
+          ],
+          "origin": [
+            120.54000091552734,
+            396.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        406.2480163574219,
+        459.3634948730469,
+        419.5320129394531
+      ],
+      "text": "casais, famílias ou parcerias de amigos até a humanidade inteira.",
+      "spans": [
+        {
+          "text": "casais, famílias ou parcerias de amigos até a humanidade inteira.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            406.2480163574219,
+            459.3634948730469,
+            419.5320129394531
+          ],
+          "origin": [
+            85.07998657226562,
+            416.94000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        438.9480285644531,
+        526.0416870117188,
+        452.2320251464844
+      ],
+      "text": "A força psíquica promove agregações sociais por afinidade simpática",
+      "spans": [
+        {
+          "text": "A força psíquica promove agregações sociais por afinidade simpática",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            438.9480285644531,
+            526.0416870117188,
+            452.2320251464844
+          ],
+          "origin": [
+            120.54000091552734,
+            449.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        459.6480407714844,
+        526.1075439453125,
+        472.9320373535156
+      ],
+      "text": "e desagregações por efeitos antipáticos. A simpatia se origina da",
+      "spans": [
+        {
+          "text": "e desagregações por efeitos antipáticos. A simpatia se origina da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            459.6480407714844,
+            526.1075439453125,
+            472.9320373535156
+          ],
+          "origin": [
+            85.07998657226562,
+            470.34002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        480.3480529785156,
+        394.9462890625,
+        493.6320495605469
+      ],
+      "text": "convergência de desejos e a antipatia da divergência.",
+      "spans": [
+        {
+          "text": "convergência de desejos e a antipatia da divergência. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            480.3480529785156,
+            394.9462890625,
+            493.6320495605469
+          ],
+          "origin": [
+            85.07998657226562,
+            491.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        513.0478515625,
+        526.0388793945312,
+        526.3318481445312
+      ],
+      "text": "O sentido assumido pelo desejo é o fluxo da libido. Uma mesma",
+      "spans": [
+        {
+          "text": "O sentido assumido pelo desejo é o fluxo da libido. Uma mesma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            513.0478515625,
+            526.0388793945312,
+            526.3318481445312
+          ],
+          "origin": [
+            120.54000091552734,
+            523.7398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        533.7478637695312,
+        525.9889526367188,
+        547.0318603515625
+      ],
+      "text": "pessoa possui múltiplos e conflitantes fluxos libidinais. Sua linha",
+      "spans": [
+        {
+          "text": "pessoa possui múltiplos e conflitantes fluxos libidinais. Sua linha",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            533.7478637695312,
+            525.9889526367188,
+            547.0318603515625
+          ],
+          "origin": [
+            85.08001708984375,
+            544.4398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        554.4478759765625,
+        526.107421875,
+        567.7318725585938
+      ],
+      "text": "psicológica \nprincipal \nserá \ndeterminada \npelos \nfluxos \nlibidinais",
+      "spans": [
+        {
+          "text": "psicológica ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            554.4478759765625,
+            153.83401489257812,
+            567.7318725585938
+          ],
+          "origin": [
+            85.08001708984375,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "principal ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            169.14361572265625,
+            554.4478759765625,
+            223.85520935058594,
+            567.7318725585938
+          ],
+          "origin": [
+            169.14361572265625,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "será ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            239.16482543945312,
+            554.4478759765625,
+            265.49041748046875,
+            567.7318725585938
+          ],
+          "origin": [
+            239.16482543945312,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "determinada ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            280.8000183105469,
+            554.4478759765625,
+            354.15234375,
+            567.7318725585938
+          ],
+          "origin": [
+            280.8000183105469,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "pelos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            369.4619445800781,
+            554.4478759765625,
+            402.7499084472656,
+            567.7318725585938
+          ],
+          "origin": [
+            369.4619445800781,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "fluxos ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            418.05950927734375,
+            554.4478759765625,
+            457.0822448730469,
+            567.7318725585938
+          ],
+          "origin": [
+            418.05950927734375,
+            565.139892578125
+          ]
+        },
+        {
+          "text": "libidinais",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            472.391845703125,
+            554.4478759765625,
+            526.107421875,
+            567.7318725585938
+          ],
+          "origin": [
+            472.391845703125,
+            565.139892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        575.1478881835938,
+        526.0490112304688,
+        588.431884765625
+      ],
+      "text": "predominantes, os quais a expõem ao perigo da manipulação por um inimigo",
+      "spans": [
+        {
+          "text": "predominantes, os quais a expõem ao perigo da manipulação por um inimigo",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            575.1478881835938,
+            526.0490112304688,
+            588.431884765625
+          ],
+          "origin": [
+            85.08001708984375,
+            585.8399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        595.847900390625,
+        480.46539306640625,
+        609.1318969726562
+      ],
+      "text": "astuto, que tenha experiência na dominação dos sentimentos alheios.",
+      "spans": [
+        {
+          "text": "astuto, que tenha experiência na dominação dos sentimentos alheios.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            595.847900390625,
+            480.46539306640625,
+            609.1318969726562
+          ],
+          "origin": [
+            85.07998657226562,
+            606.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        628.5478515625,
+        526.0198974609375,
+        641.8318481445312
+      ],
+      "text": "Os manipuladores intensificam a simpatia ou a antipatia por meio da",
+      "spans": [
+        {
+          "text": "Os manipuladores intensificam a simpatia ou a antipatia por meio da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            628.5478515625,
+            526.0198974609375,
+            641.8318481445312
+          ],
+          "origin": [
+            120.54000091552734,
+            639.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        649.2478637695312,
+        525.9707641601562,
+        662.5318603515625
+      ],
+      "text": "excitação dos desejos conscientes e, principalmente, inconscientes de sua",
+      "spans": [
+        {
+          "text": "excitação dos desejos conscientes e, principalmente, inconscientes de sua",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            649.2478637695312,
+            525.9707641601562,
+            662.5318603515625
+          ],
+          "origin": [
+            85.07998657226562,
+            659.9398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        669.9478759765625,
+        526.07568359375,
+        683.2318725585938
+      ],
+      "text": "vítima, levando-a à dependência, à entrega e à submissão completas. O",
+      "spans": [
+        {
+          "text": "vítima, levando-a à dependência, à entrega e à submissão completas. O",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            669.9478759765625,
+            526.07568359375,
+            683.2318725585938
+          ],
+          "origin": [
+            85.07998657226562,
+            680.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        690.6478881835938,
+        525.971923828125,
+        703.931884765625
+      ],
+      "text": "segredo de seu perverso poder é a engenhosa estratégia de identificar as",
+      "spans": [
+        {
+          "text": "segredo de seu perverso poder é a engenhosa estratégia de identificar as",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            690.6478881835938,
+            525.971923828125,
+            703.931884765625
+          ],
+          "origin": [
+            85.07998657226562,
+            701.3399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        303.4800109863281,
+        743.1121215820312,
+        308.4900207519531,
+        754.2042236328125
+      ],
+      "text": "4",
+      "spans": [
+        {
+          "text": "4",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            303.4800109863281,
+            743.1121215820312,
+            308.4900207519531,
+            754.2042236328125
+          ],
+          "origin": [
+            303.4800109863281,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

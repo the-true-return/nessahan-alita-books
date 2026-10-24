@@ -1,0 +1,1000 @@
+{
+  "page_number": 20,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        244.9661865234375,
+        92.95938110351562
+      ],
+      "text": "11. Dois referenciais",
+      "spans": [
+        {
+          "text": "11. Dois referenciais ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            244.9661865234375,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        105.28767395019531,
+        513.3529052734375,
+        146.17164611816406
+      ],
+      "text": "O desejo feminino é referenciado pelo desejo das fêmeas rivais e pelo grau de \n(des)interesse masculino (desejo da continuidade). Analisemos o primeiro caso e depois \no segundo.",
+      "spans": [
+        {
+          "text": "O desejo feminino é referenciado pelo desejo das fêmeas rivais e pelo grau de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.2998046875,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "(des)interesse masculino (desejo da continuidade). Analisemos o primeiro caso e depois ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            119.08766174316406,
+            513.3529052734375,
+            132.3716583251953
+          ],
+          "origin": [
+            85.07998657226562,
+            129.7796630859375
+          ]
+        },
+        {
+          "text": "o segundo. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            132.8876495361328,
+            140.09754943847656,
+            146.17164611816406
+          ],
+          "origin": [
+            85.07997131347656,
+            143.57965087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        158.68763732910156,
+        513.3787841796875,
+        323.7716979980469
+      ],
+      "text": "As rivais são principalmente aquelas que a mulher considera mais atraentes do \nque ela mesma e a fazem se sentir ameaçada em seu poderio. Se as rivais desejarem um \nhomem específico, nossa amiga em questão também irá desejá-lo (uma projeção \ninconsciente deste traço comportamental é que levou algumas teóricas feministas a \ningenuamente acreditarem que nós, os homens, também funcionamos assim). Os \nmotores do desejo neste caso são a inveja e a competitividade (que estão entre as \nfraquezas fundamentais). Isso significa que, se nossas companheiras acreditarem que \nnenhuma outra mulher se interessa por nós, elas também não se interessarão (estou me \nreferindo ao interesse sexual). Poderá nos manter presos, motivada por segundas \nintenções, mas definitivamente não se sentirá realizada sexualmente. Significa também \nque, se uma mulher específica que te interessa está te rejeitando, é porque acredita que \nnão há outras melhores atrás de você10.",
+      "spans": [
+        {
+          "text": "As rivais são principalmente aquelas que a mulher considera mais atraentes do ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997039794922,
+            158.68763732910156,
+            513.3150634765625,
+            171.9716339111328
+          ],
+          "origin": [
+            120.53997039794922,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "que ela mesma e a fazem se sentir ameaçada em seu poderio. Se as rivais desejarem um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            172.4876251220703,
+            513.2923583984375,
+            185.77162170410156
+          ],
+          "origin": [
+            85.07998657226562,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "homem específico, nossa amiga em questão também irá desejá-lo (uma projeção ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            186.28761291503906,
+            513.30615234375,
+            199.5716094970703
+          ],
+          "origin": [
+            85.07998657226562,
+            196.9796142578125
+          ]
+        },
+        {
+          "text": "inconsciente deste traço comportamental é que levou algumas teóricas feministas a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            200.0876007080078,
+            513.2899169921875,
+            213.37159729003906
+          ],
+          "origin": [
+            85.07998657226562,
+            210.77960205078125
+          ]
+        },
+        {
+          "text": "ingenuamente acreditarem que nós, os homens, também funcionamos assim). Os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            213.88758850097656,
+            513.3787841796875,
+            227.1715850830078
+          ],
+          "origin": [
+            85.07998657226562,
+            224.57958984375
+          ]
+        },
+        {
+          "text": "motores do desejo neste caso são a inveja e a competitividade (que estão entre as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            227.6875762939453,
+            513.295654296875,
+            240.97157287597656
+          ],
+          "origin": [
+            85.07998657226562,
+            238.37957763671875
+          ]
+        },
+        {
+          "text": "fraquezas fundamentais). Isso significa que, se nossas companheiras acreditarem que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            241.48756408691406,
+            513.324462890625,
+            254.7715606689453
+          ],
+          "origin": [
+            85.07998657226562,
+            252.1795654296875
+          ]
+        },
+        {
+          "text": "nenhuma outra mulher se interessa por nós, elas também não se interessarão (estou me ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            255.2875518798828,
+            513.307373046875,
+            268.5715637207031
+          ],
+          "origin": [
+            85.07998657226562,
+            265.97955322265625
+          ]
+        },
+        {
+          "text": "referindo ao interesse sexual). Poderá nos manter presos, motivada por segundas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            269.0875549316406,
+            513.282470703125,
+            282.3715515136719
+          ],
+          "origin": [
+            85.07998657226562,
+            279.779541015625
+          ]
+        },
+        {
+          "text": "intenções, mas definitivamente não se sentirá realizada sexualmente. Significa também ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            282.8875427246094,
+            513.3609619140625,
+            296.1715393066406
+          ],
+          "origin": [
+            85.07998657226562,
+            293.57952880859375
+          ]
+        },
+        {
+          "text": "que, se uma mulher específica que te interessa está te rejeitando, é porque acredita que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            296.6875305175781,
+            513.335693359375,
+            309.9715270996094
+          ],
+          "origin": [
+            85.07998657226562,
+            307.3795166015625
+          ]
+        },
+        {
+          "text": "não há outras melhores atrás de você",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            310.4875183105469,
+            261.751220703125,
+            323.7715148925781
+          ],
+          "origin": [
+            85.07998657226562,
+            321.17950439453125
+          ]
+        },
+        {
+          "text": "10",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            262.20001220703125,
+            308.549560546875,
+            270.2103271484375,
+            317.3834228515625
+          ],
+          "origin": [
+            262.20001220703125,
+            315.65972900390625
+          ]
+        },
+        {
+          "text": ".  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            270.7799987792969,
+            310.4877014160156,
+            279.7200012207031,
+            323.7716979980469
+          ],
+          "origin": [
+            270.7799987792969,
+            321.1796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        336.2876892089844,
+        513.402099609375,
+        473.7715759277344
+      ],
+      "text": "O desejo feminino é referenciado, também, pelo grau de desinteresse masculino. \nQuanto mais interessado um homem se mostrar por uma mulher específica, menos \ninteresse nela despertará. Isso significa que, se você der a entender que apenas a \n“aceita” mas não a deseja muito, terá maiores chances de conquistá-la ou mantê-la. Mas \nveja bem: não transmita a idéia de que é assexuado, mas sim de que é um macho \nexigente e altamente seletivo, que somente se interessa pelas melhores e não aceita \nqualquer uma. Em casos extremos, podemos até mesmo executar uma “rejeição \nseletiva”, isolando uma espertinha esnobe enquanto premiamos outras garotas/mulheres, \nlegais e amigáveis, com nossa preciosa atenção e cuidados. A comunicação de \ndesinteresse específico as deixa indignadas.",
+      "spans": [
+        {
+          "text": "O desejo feminino é referenciado, também, pelo grau de desinteresse masculino. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            336.2876892089844,
+            513.323974609375,
+            349.5716857910156
+          ],
+          "origin": [
+            120.53999328613281,
+            346.97967529296875
+          ]
+        },
+        {
+          "text": "Quanto mais interessado um homem se mostrar por uma mulher específica, menos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            350.0876770019531,
+            513.30859375,
+            363.3716735839844
+          ],
+          "origin": [
+            85.08001708984375,
+            360.7796630859375
+          ]
+        },
+        {
+          "text": "interesse nela despertará. Isso significa que, se você der a entender que apenas a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            363.8876647949219,
+            513.3284912109375,
+            377.1716613769531
+          ],
+          "origin": [
+            85.08000183105469,
+            374.57965087890625
+          ]
+        },
+        {
+          "text": "“aceita” mas não a deseja muito, terá maiores chances de conquistá-la ou mantê-la. Mas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            377.6876525878906,
+            513.3421630859375,
+            390.9716491699219
+          ],
+          "origin": [
+            85.08001708984375,
+            388.379638671875
+          ]
+        },
+        {
+          "text": "veja bem: não transmita a idéia de que é assexuado, mas sim de que é um macho ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            391.4876403808594,
+            513.402099609375,
+            404.7716369628906
+          ],
+          "origin": [
+            85.08001708984375,
+            402.17962646484375
+          ]
+        },
+        {
+          "text": "exigente e altamente seletivo, que somente se interessa pelas melhores e não aceita ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            405.2876281738281,
+            513.3697509765625,
+            418.5716247558594
+          ],
+          "origin": [
+            85.08001708984375,
+            415.9796142578125
+          ]
+        },
+        {
+          "text": "qualquer uma. Em casos extremos, podemos até mesmo executar uma “rejeição ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            419.0876159667969,
+            513.317138671875,
+            432.3716125488281
+          ],
+          "origin": [
+            85.08001708984375,
+            429.77960205078125
+          ]
+        },
+        {
+          "text": "seletiva”, isolando uma espertinha esnobe enquanto premiamos outras garotas/mulheres, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            432.8876037597656,
+            513.3133544921875,
+            446.1716003417969
+          ],
+          "origin": [
+            85.08001708984375,
+            443.57958984375
+          ]
+        },
+        {
+          "text": "legais e amigáveis, com nossa preciosa atenção e cuidados. A comunicação de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            446.6875915527344,
+            513.3145751953125,
+            459.9715881347656
+          ],
+          "origin": [
+            85.08001708984375,
+            457.37957763671875
+          ]
+        },
+        {
+          "text": "desinteresse específico as deixa indignadas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            460.4875793457031,
+            297.67449951171875,
+            473.7715759277344
+          ],
+          "origin": [
+            85.08001708984375,
+            471.1795654296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        486.2875671386719,
+        513.4368896484375,
+        568.5714721679688
+      ],
+      "text": "Combinando os dois referenciais, temos o seguinte resultado lógico: a mulher \ndeseja aquele que não a deseja e que, ao mesmo tempo, é desejado por outras, que com \nela rivalizam em atratividade. Portanto, para que ela te queira, necessita acreditar que \nvocê não a deseja muito e que outras mulheres te querem. Se as impactamos com esta \nferramenta, quebramos suas blindagens com a mesma eficiência com que nossa \nblindagem é quebrada com decotes e saias curtas.",
+      "spans": [
+        {
+          "text": "Combinando os dois referenciais, temos o seguinte resultado lógico: a mulher ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            486.2875671386719,
+            513.3428955078125,
+            499.5715637207031
+          ],
+          "origin": [
+            120.5400161743164,
+            496.97955322265625
+          ]
+        },
+        {
+          "text": "deseja aquele que não a deseja e que, ao mesmo tempo, é desejado por outras, que com ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            500.0875549316406,
+            513.3380126953125,
+            513.3715209960938
+          ],
+          "origin": [
+            85.08001708984375,
+            510.779541015625
+          ]
+        },
+        {
+          "text": "ela rivalizam em atratividade. Portanto, para que ela te queira, necessita acreditar que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            513.8875122070312,
+            513.2842407226562,
+            527.1715087890625
+          ],
+          "origin": [
+            85.08001708984375,
+            524.5795288085938
+          ]
+        },
+        {
+          "text": "você não a deseja muito e que outras mulheres te querem. Se as impactamos com esta ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            527.6875,
+            513.3529663085938,
+            540.9714965820312
+          ],
+          "origin": [
+            85.08001708984375,
+            538.3795166015625
+          ]
+        },
+        {
+          "text": "ferramenta, quebramos suas blindagens com a mesma eficiência com que nossa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            541.4874877929688,
+            513.4368896484375,
+            554.771484375
+          ],
+          "origin": [
+            85.08001708984375,
+            552.1795043945312
+          ]
+        },
+        {
+          "text": "blindagem é quebrada com decotes e saias curtas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            555.2874755859375,
+            325.92010498046875,
+            568.5714721679688
+          ],
+          "origin": [
+            85.08001708984375,
+            565.9794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        581.0874633789062,
+        513.4197387695312,
+        663.3114624023438
+      ],
+      "text": "O interesse da mulher costuma esgotar-se a partir do momento em que o homem \nse entrega e se deixa apaixonar. Com a entrega do coração, o homem comunica à sua \ndeusa que as rivais não estão à altura de fazer-lhe frente em termos de sedução e \natratividade. Ao dizer-lhe “Eu te amo! Eu te amo! Eu te amo!” o infeliz apaixonado \nestá dizendo “Você é incomparável, a melhor de todas, a primeira da Terra!”.  Se a \nadoração já está instalada, que necessidade haverá de cultivar o amor?",
+      "spans": [
+        {
+          "text": "O interesse da mulher costuma esgotar-se a partir do momento em que o homem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            581.0874633789062,
+            513.3119506835938,
+            594.3714599609375
+          ],
+          "origin": [
+            120.5400161743164,
+            591.7794799804688
+          ]
+        },
+        {
+          "text": "se entrega e se deixa apaixonar. Com a entrega do coração, o homem comunica à sua ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            594.887451171875,
+            513.18359375,
+            608.1714477539062
+          ],
+          "origin": [
+            85.08001708984375,
+            605.5794677734375
+          ]
+        },
+        {
+          "text": "deusa que as rivais não estão à altura de fazer-lhe frente em termos de sedução e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            608.6875,
+            513.4197387695312,
+            621.9714965820312
+          ],
+          "origin": [
+            85.08001708984375,
+            619.3795166015625
+          ]
+        },
+        {
+          "text": "atratividade. Ao dizer-lhe ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            622.427490234375,
+            214.05838012695312,
+            635.7114868164062
+          ],
+          "origin": [
+            85.08000183105469,
+            633.1195068359375
+          ]
+        },
+        {
+          "text": "“Eu te amo! Eu te amo! Eu te amo!”",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 12.0,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            215.52000427246094,
+            622.427490234375,
+            404.74200439453125,
+            635.7114868164062
+          ],
+          "origin": [
+            215.52000427246094,
+            633.1195068359375
+          ]
+        },
+        {
+          "text": " o infeliz apaixonado ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            404.70001220703125,
+            622.427490234375,
+            513.3529052734375,
+            635.7114868164062
+          ],
+          "origin": [
+            404.70001220703125,
+            633.1195068359375
+          ]
+        },
+        {
+          "text": "está dizendo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            636.2274780273438,
+            149.05201721191406,
+            649.511474609375
+          ],
+          "origin": [
+            85.08001708984375,
+            646.9194946289062
+          ]
+        },
+        {
+          "text": "“Você é incomparável, a melhor de todas, a primeira da Terra!”",
+          "font": "TimesNewRomanPS-ItalicMT",
+          "size": 12.0,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            150.36001586914062,
+            636.2274780273438,
+            476.99163818359375,
+            649.511474609375
+          ],
+          "origin": [
+            150.36001586914062,
+            646.9194946289062
+          ]
+        },
+        {
+          "text": ".  Se a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            476.9952392578125,
+            636.2274780273438,
+            513.2940063476562,
+            649.511474609375
+          ],
+          "origin": [
+            476.9952392578125,
+            646.9194946289062
+          ]
+        },
+        {
+          "text": "adoração já está instalada, que necessidade haverá de cultivar o amor? ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            650.0274658203125,
+            425.001708984375,
+            663.3114624023438
+          ],
+          "origin": [
+            85.08001708984375,
+            660.719482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        675.8275146484375,
+        513.3892211914062,
+        716.7114868164062
+      ],
+      "text": "O desejo da continuidade é mais intensamente direcionado aos homens que \nmuitas mulheres atraentes desejam do que àqueles que nenhuma quer. Nestes casos, o \ndesejo da continuidade se associa ao desejo da vitória na competição e se torna",
+      "spans": [
+        {
+          "text": "O desejo da continuidade é mais intensamente direcionado aos homens que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400390625,
+            675.8275146484375,
+            513.3436279296875,
+            689.1115112304688
+          ],
+          "origin": [
+            120.5400390625,
+            686.51953125
+          ]
+        },
+        {
+          "text": "muitas mulheres atraentes desejam do que àqueles que nenhuma quer. Nestes casos, o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            689.6275024414062,
+            513.3892211914062,
+            702.9114990234375
+          ],
+          "origin": [
+            85.08004760742188,
+            700.3195190429688
+          ]
+        },
+        {
+          "text": "desejo da continuidade se associa ao desejo da vitória na competição e se torna ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            703.427490234375,
+            513.2859497070312,
+            716.7114868164062
+          ],
+          "origin": [
+            85.08004760742188,
+            714.1195068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        726.5275268554688,
+        512.625244140625,
+        770.7835693359375
+      ],
+      "text": "10 É interessante observar que o sentimento de rivalidade parece ser rapidamente ativado quando a rival é uma amiga \nda mulher rejeitante. Se um homem rejeitado mostrar interesse pela melhor amiga daquela que o rejeitou, acenderá \nnesta última o sentimento de rivalidade com assombrosa rapidez.",
+      "spans": [
+        {
+          "text": "10",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            738.773681640625,
+            91.08000183105469,
+            745.4157104492188
+          ],
+          "origin": [
+            85.08000183105469,
+            744.1196899414062
+          ]
+        },
+        {
+          "text": " É interessante observar que o sentimento de rivalidade parece ser rapidamente ativado quando a rival é uma amiga ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            91.08000183105469,
+            740.12060546875,
+            512.589599609375,
+            750.0835571289062
+          ],
+          "origin": [
+            91.08000183105469,
+            748.1395874023438
+          ]
+        },
+        {
+          "text": "da mulher rejeitante. Se um homem rejeitado mostrar interesse pela melhor amiga daquela que o rejeitou, acenderá ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08599853515625,
+            750.4976196289062,
+            512.625244140625,
+            760.4605712890625
+          ],
+          "origin": [
+            85.08599853515625,
+            758.5166015625
+          ]
+        },
+        {
+          "text": "nesta última o sentimento de rivalidade com assombrosa rapidez. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08599853515625,
+            760.8206176757812,
+            321.6097717285156,
+            770.7835693359375
+          ],
+          "origin": [
+            85.08599853515625,
+            768.839599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "20",
+      "spans": [
+        {
+          "text": "20",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

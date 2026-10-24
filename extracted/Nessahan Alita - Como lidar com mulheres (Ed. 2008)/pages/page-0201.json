@@ -1,0 +1,791 @@
+{
+  "page_number": 201,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        253.4998016357422,
+        109.19652557373047,
+        344.5829162597656,
+        125.3594741821289
+      ],
+      "text": "28. Ao telefone",
+      "spans": [
+        {
+          "text": "28. Ao telefone ",
+          "font": "Times-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            253.4998016357422,
+            109.19652557373047,
+            344.5829162597656,
+            125.3594741821289
+          ],
+          "origin": [
+            253.4998016357422,
+            121.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        140.77081298828125,
+        515.4790649414062,
+        156.33859252929688
+      ],
+      "text": "As mulheres amam muito pelo ouvido, ao contrário de nós que",
+      "spans": [
+        {
+          "text": "As mulheres amam muito pelo ouvido, ao contrário de nós que ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            140.77081298828125,
+            515.4790649414062,
+            156.33859252929688
+          ],
+          "origin": [
+            117.23980712890625,
+            153.059326171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        160.8712158203125,
+        515.4204711914062,
+        176.43899536132812
+      ],
+      "text": "supervalorizamos o lado visual. Apreciam canções e sussurros de amor,",
+      "spans": [
+        {
+          "text": "supervalorizamos o lado visual. Apreciam canções e sussurros de amor, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            160.8712158203125,
+            515.4204711914062,
+            176.43899536132812
+          ],
+          "origin": [
+            82.73980712890625,
+            173.15972900390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        181.03143310546875,
+        515.440673828125,
+        196.59921264648438
+      ],
+      "text": "excitam-se ao telefone quando sabemos utilizar a voz e a fala de forma",
+      "spans": [
+        {
+          "text": "excitam-se ao telefone quando sabemos utilizar a voz e a fala de forma ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            181.03143310546875,
+            515.440673828125,
+            196.59921264648438
+          ],
+          "origin": [
+            82.73980712890625,
+            193.3199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        201.1318359375,
+        128.80459594726562,
+        216.69961547851562
+      ],
+      "text": "correta.",
+      "spans": [
+        {
+          "text": "correta. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            201.1318359375,
+            128.80459594726562,
+            216.69961547851562
+          ],
+          "origin": [
+            82.73982238769531,
+            213.42034912109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23982238769531,
+        232.9310302734375,
+        515.3904418945312,
+        248.49880981445312
+      ],
+      "text": "Tendo um telefone em mãos, suas armas serão apenas duas: o tom de",
+      "spans": [
+        {
+          "text": "Tendo um telefone em mãos, suas armas serão apenas duas: o tom de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            232.9310302734375,
+            515.3904418945312,
+            248.49880981445312
+          ],
+          "origin": [
+            117.23982238769531,
+            245.21954345703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        253.09124755859375,
+        395.29949951171875,
+        268.6590270996094
+      ],
+      "text": "voz e o conteúdo de sua fala, os assuntos que irá dizer.",
+      "spans": [
+        {
+          "text": "voz e o conteúdo de sua fala, os assuntos que irá dizer. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            253.09124755859375,
+            395.29949951171875,
+            268.6590270996094
+          ],
+          "origin": [
+            82.73982238769531,
+            265.3797607421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23982238769531,
+        284.890869140625,
+        515.5189819335938,
+        300.4586486816406
+      ],
+      "text": "Não telefone antes de ter em mente o que vai dizer de forma clara e",
+      "spans": [
+        {
+          "text": "Não telefone antes de ter em mente o que vai dizer de forma clara e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            284.890869140625,
+            515.5189819335938,
+            300.4586486816406
+          ],
+          "origin": [
+            117.23982238769531,
+            297.17938232421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        304.99127197265625,
+        515.6041259765625,
+        320.5590515136719
+      ],
+      "text": "decidida.  Seja amável porém firme. Diga o que tem a dizer e se retire. Se",
+      "spans": [
+        {
+          "text": "decidida.  Seja amável porém firme. Diga o que tem a dizer e se retire. Se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            304.99127197265625,
+            515.6041259765625,
+            320.5590515136719
+          ],
+          "origin": [
+            82.73982238769531,
+            317.27978515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        325.1514587402344,
+        515.4891967773438,
+        340.71923828125
+      ],
+      "text": "você ficar esticando o contato sem necessidade, será visto como um fraco,",
+      "spans": [
+        {
+          "text": "você ficar esticando o contato sem necessidade, será visto como um fraco, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            325.1514587402344,
+            515.4891967773438,
+            340.71923828125
+          ],
+          "origin": [
+            82.73982238769531,
+            337.4399719238281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        345.2518615722656,
+        515.5428466796875,
+        360.81964111328125
+      ],
+      "text": "carente. Planeje o que vai dizer, telefone, diga de forma clara e direta, e se",
+      "spans": [
+        {
+          "text": "carente. Planeje o que vai dizer, telefone, diga de forma clara e direta, e se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            345.2518615722656,
+            515.5428466796875,
+            360.81964111328125
+          ],
+          "origin": [
+            82.73982238769531,
+            357.5403747558594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        365.41204833984375,
+        120.09077453613281,
+        380.9798278808594
+      ],
+      "text": "retire.",
+      "spans": [
+        {
+          "text": "retire. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            365.41204833984375,
+            120.09077453613281,
+            380.9798278808594
+          ],
+          "origin": [
+            82.73982238769531,
+            377.7005615234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23982238769531,
+        397.15185546875,
+        515.3890991210938,
+        412.7196350097656
+      ],
+      "text": "Tome cuidado com as paradas psíquicas, ou seja, com a hesitação. As",
+      "spans": [
+        {
+          "text": "Tome cuidado com as paradas psíquicas, ou seja, com a hesitação. As ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            397.15185546875,
+            515.3890991210938,
+            412.7196350097656
+          ],
+          "origin": [
+            117.23982238769531,
+            409.44036865234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        417.25225830078125,
+        515.5120239257812,
+        432.8200378417969
+      ],
+      "text": "paradas psíquicas são momentos em que nossa ação é congelada pela",
+      "spans": [
+        {
+          "text": "paradas psíquicas são momentos em que nossa ação é congelada pela ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            417.25225830078125,
+            515.5120239257812,
+            432.8200378417969
+          ],
+          "origin": [
+            82.73982238769531,
+            429.540771484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        437.4124450683594,
+        515.3938598632812,
+        452.980224609375
+      ],
+      "text": "incerteza a respeito do que devemos ou não dizer, nos deixando sem",
+      "spans": [
+        {
+          "text": "incerteza a respeito do que devemos ou não dizer, nos deixando sem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            437.4124450683594,
+            515.3938598632812,
+            452.980224609375
+          ],
+          "origin": [
+            82.73982238769531,
+            449.7009582519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        457.5128479003906,
+        515.3629760742188,
+        473.08062744140625
+      ],
+      "text": "assunto. É melhor completar o que tem a ser dito e desligar o telefone do",
+      "spans": [
+        {
+          "text": "assunto. É melhor completar o que tem a ser dito e desligar o telefone do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            457.5128479003906,
+            515.3629760742188,
+            473.08062744140625
+          ],
+          "origin": [
+            82.73982238769531,
+            469.8013610839844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73983764648438,
+        477.6726379394531,
+        515.5545654296875,
+        493.24041748046875
+      ],
+      "text": "que prolongar a conversa caindo em um ridículo silêncio por não se saber o",
+      "spans": [
+        {
+          "text": "que prolongar a conversa caindo em um ridículo silêncio por não se saber o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73983764648438,
+            477.6726379394531,
+            515.5545654296875,
+            493.24041748046875
+          ],
+          "origin": [
+            82.73983764648438,
+            489.9611511230469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73983764648438,
+        497.7730407714844,
+        515.5001220703125,
+        513.3408203125
+      ],
+      "text": "que falar. A ausência de assunto em um contato telefônico provoca",
+      "spans": [
+        {
+          "text": "que falar. A ausência de assunto em um contato telefônico provoca ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73983764648438,
+            497.7730407714844,
+            515.5001220703125,
+            513.3408203125
+          ],
+          "origin": [
+            82.73983764648438,
+            510.0615539550781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73983764648438,
+        517.9328002929688,
+        515.4476928710938,
+        533.5006103515625
+      ],
+      "text": "desprestígio por indicar que não sabemos o que queremos, que somos",
+      "spans": [
+        {
+          "text": "desprestígio por indicar que não sabemos o que queremos, que somos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73983764648438,
+            517.9328002929688,
+            515.4476928710938,
+            533.5006103515625
+          ],
+          "origin": [
+            82.73983764648438,
+            530.2213134765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73983764648438,
+        538.0925903320312,
+        482.4029541015625,
+        553.660400390625
+      ],
+      "text": "homens hesitantes, vacilantes, indecisos e, portanto, desinteressantes.",
+      "spans": [
+        {
+          "text": "homens hesitantes, vacilantes, indecisos e, portanto, desinteressantes.  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73983764648438,
+            538.0925903320312,
+            482.4029541015625,
+            553.660400390625
+          ],
+          "origin": [
+            82.73983764648438,
+            550.381103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23982238769531,
+        569.8922119140625,
+        515.4801025390625,
+        585.4600219726562
+      ],
+      "text": "Uma forma de impedir a parada psíquica é traçar um plano de",
+      "spans": [
+        {
+          "text": "Uma forma de impedir a parada psíquica é traçar um plano de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            569.8922119140625,
+            515.4801025390625,
+            585.4600219726562
+          ],
+          "origin": [
+            117.23982238769531,
+            582.1807250976562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        589.9926147460938,
+        515.40625,
+        605.5604248046875
+      ],
+      "text": "conversa antecipadamente, escolhendo cuidadosamente os assuntos. Para",
+      "spans": [
+        {
+          "text": "conversa antecipadamente, escolhendo cuidadosamente os assuntos. Para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            589.9926147460938,
+            515.40625,
+            605.5604248046875
+          ],
+          "origin": [
+            82.73982238769531,
+            602.2811279296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        610.1524047851562,
+        515.4632568359375,
+        625.72021484375
+      ],
+      "text": "marcar a imaginação feminina levando a vê-lo como um macho diferente,",
+      "spans": [
+        {
+          "text": "marcar a imaginação feminina levando a vê-lo como um macho diferente, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            610.1524047851562,
+            515.4632568359375,
+            625.72021484375
+          ],
+          "origin": [
+            82.73982238769531,
+            622.44091796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        630.2528076171875,
+        515.5313110351562,
+        645.8206176757812
+      ],
+      "text": "evite a todo custo a repetição mecânica dos mesmos assuntos que todos os",
+      "spans": [
+        {
+          "text": "evite a todo custo a repetição mecânica dos mesmos assuntos que todos os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            630.2528076171875,
+            515.5313110351562,
+            645.8206176757812
+          ],
+          "origin": [
+            82.73982238769531,
+            642.5413208007812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73982238769531,
+        650.4130249023438,
+        194.61412048339844,
+        665.9808349609375
+      ],
+      "text": "idiotas  abordam.",
+      "spans": [
+        {
+          "text": "idiotas  abordam.    ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73982238769531,
+            650.4130249023438,
+            194.61412048339844,
+            665.9808349609375
+          ],
+          "origin": [
+            82.73982238769531,
+            662.7015380859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23982238769531,
+        682.212646484375,
+        413.0366516113281,
+        697.7804565429688
+      ],
+      "text": "Utilize um tom de voz de comando, seja imperativo.",
+      "spans": [
+        {
+          "text": "Utilize um tom de voz de comando, seja imperativo. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            682.212646484375,
+            413.0366516113281,
+            697.7804565429688
+          ],
+          "origin": [
+            117.23982238769531,
+            694.5011596679688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "201",
+      "spans": [
+        {
+          "text": "201",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

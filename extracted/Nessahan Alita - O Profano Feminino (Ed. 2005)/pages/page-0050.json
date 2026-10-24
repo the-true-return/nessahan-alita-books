@@ -1,0 +1,982 @@
+{
+  "page_number": 50,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        239.0399932861328,
+        52.15727996826172,
+        407.9692687988281,
+        67.56671905517578
+      ],
+      "text": "12. Quando elas vão embora",
+      "spans": [
+        {
+          "text": "12. Quando elas vão embora",
+          "font": "TimesNewRoman,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            239.0399932861328,
+            52.15727996826172,
+            407.9692687988281,
+            67.56671905517578
+          ],
+          "origin": [
+            239.0399932861328,
+            64.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        82.18800354003906,
+        518.8558959960938,
+        95.47200775146484
+      ],
+      "text": "Você já deve ter passado pela amarga experiência de ser surpreendido por um",
+      "spans": [
+        {
+          "text": "Você já deve ter passado pela amarga experiência de ser surpreendido por um",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            82.18800354003906,
+            518.8558959960938,
+            95.47200775146484
+          ],
+          "origin": [
+            128.63998413085938,
+            92.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        102.82801818847656,
+        518.4479370117188,
+        116.11202239990234
+      ],
+      "text": "abandono ou desinteresse súbito, inesperado e inexplicado por parte de alguma",
+      "spans": [
+        {
+          "text": "abandono ou desinteresse súbito, inesperado e inexplicado por parte de alguma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            102.82801818847656,
+            518.4479370117188,
+            116.11202239990234
+          ],
+          "origin": [
+            93.11997985839844,
+            113.52001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        123.70802307128906,
+        518.519775390625,
+        136.9920196533203
+      ],
+      "text": "namorada. Então verificou que apenas o que restou foram indagações, dúvidas, questões",
+      "spans": [
+        {
+          "text": "namorada. Então verificou que apenas o que restou foram indagações, dúvidas, questões",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            123.70802307128906,
+            518.519775390625,
+            136.9920196533203
+          ],
+          "origin": [
+            93.11997985839844,
+            134.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        144.34803771972656,
+        518.39990234375,
+        157.6320343017578
+      ],
+      "text": "não-resolvidas: \"Por que ela de repente não quis mais nada comigo? Por que ficou",
+      "spans": [
+        {
+          "text": "não-resolvidas: \"Por que ela de repente não quis mais nada comigo? Por que ficou",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            144.34803771972656,
+            518.39990234375,
+            157.6320343017578
+          ],
+          "origin": [
+            93.11997985839844,
+            155.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        164.98805236816406,
+        518.4478149414062,
+        178.2720489501953
+      ],
+      "text": "diferente? O que fiz de errado?\". Então deve ter imaginado que a maltratou ou fez",
+      "spans": [
+        {
+          "text": "diferente? O que fiz de errado?\". Então deve ter imaginado que a maltratou ou fez",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            164.98805236816406,
+            518.4478149414062,
+            178.2720489501953
+          ],
+          "origin": [
+            93.11997985839844,
+            175.6800537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        185.62806701660156,
+        515.65185546875,
+        198.9120635986328
+      ],
+      "text": "qualquer outra besteira sem dar-se conta. Em suma: considerou-se culpado por perdê-la.",
+      "spans": [
+        {
+          "text": "qualquer outra besteira sem dar-se conta. Em suma: considerou-se culpado por perdê-la.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            185.62806701660156,
+            515.65185546875,
+            198.9120635986328
+          ],
+          "origin": [
+            93.11997985839844,
+            196.320068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        212.50807189941406,
+        518.508056640625,
+        225.7920684814453
+      ],
+      "text": "A experiência demonstra que estas perdas súbitas de interesse por parte das",
+      "spans": [
+        {
+          "text": "A experiência demonstra que estas perdas súbitas de interesse por parte das",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            212.50807189941406,
+            518.508056640625,
+            225.7920684814453
+          ],
+          "origin": [
+            128.63998413085938,
+            223.2000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        233.14808654785156,
+        518.4478759765625,
+        246.4320831298828
+      ],
+      "text": "mulheres não são aleatórias mas seguem um princípio lógico mecânico, automático e",
+      "spans": [
+        {
+          "text": "mulheres não são aleatórias mas seguem um princípio lógico mecânico, automático e",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            233.14808654785156,
+            518.4478759765625,
+            246.4320831298828
+          ],
+          "origin": [
+            93.11997985839844,
+            243.840087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        253.78810119628906,
+        518.1597900390625,
+        267.0721130371094
+      ],
+      "text": "condicionado. Há motivos psicológicos para o desinteresse repentino e traiçoeiro: o",
+      "spans": [
+        {
+          "text": "condicionado. Há motivos psicológicos para o desinteresse repentino e traiçoeiro: o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            253.78810119628906,
+            518.1597900390625,
+            267.0721130371094
+          ],
+          "origin": [
+            93.11997985839844,
+            264.4801025390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        274.4281311035156,
+        518.4478759765625,
+        287.7121276855469
+      ],
+      "text": "desejo doentio de que você sofra com a crise da ausência ou, pelo menos, que fique",
+      "spans": [
+        {
+          "text": "desejo doentio de que você sofra com a crise da ausência ou, pelo menos, que fique",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            274.4281311035156,
+            518.4478759765625,
+            287.7121276855469
+          ],
+          "origin": [
+            93.11997985839844,
+            285.1201171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        295.0681457519531,
+        248.51995849609375,
+        308.3521423339844
+      ],
+      "text": "ansiando pelo retorno da amada.",
+      "spans": [
+        {
+          "text": "ansiando pelo retorno da amada.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            295.0681457519531,
+            248.51995849609375,
+            308.3521423339844
+          ],
+          "origin": [
+            93.11997985839844,
+            305.7601318359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        321.9481506347656,
+        518.1598510742188,
+        335.2321472167969
+      ],
+      "text": "Sempre que a mulher acreditar que você lamentará a falta dela ou esperará pelo",
+      "spans": [
+        {
+          "text": "Sempre que a mulher acreditar que você lamentará a falta dela ou esperará pelo",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            321.9481506347656,
+            518.1598510742188,
+            335.2321472167969
+          ],
+          "origin": [
+            128.63998413085938,
+            332.64013671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        342.5881652832031,
+        518.1599731445312,
+        355.8721618652344
+      ],
+      "text": "seu retorno, irá abandoná-lo. Não é necessário que a emoção da espera seja muito",
+      "spans": [
+        {
+          "text": "seu retorno, irá abandoná-lo. Não é necessário que a emoção da espera seja muito",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            342.5881652832031,
+            518.1599731445312,
+            355.8721618652344
+          ],
+          "origin": [
+            93.11997985839844,
+            353.2801513671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        363.2281799316406,
+        518.1600341796875,
+        376.5121765136719
+      ],
+      "text": "intensa mas apenas o suficiente para que você sofra um pouco com a expectativa não",
+      "spans": [
+        {
+          "text": "intensa mas apenas o suficiente para que você sofra um pouco com a expectativa não",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            363.2281799316406,
+            518.1600341796875,
+            376.5121765136719
+          ],
+          "origin": [
+            93.11997985839844,
+            373.920166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        383.8681945800781,
+        518.4478759765625,
+        397.1521911621094
+      ],
+      "text": "satisfeita. As espertinhas estão sempre à espreita do melhor momento para sair da",
+      "spans": [
+        {
+          "text": "satisfeita. As espertinhas estão sempre à espreita do melhor momento para sair da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            383.8681945800781,
+            518.4478759765625,
+            397.1521911621094
+          ],
+          "origin": [
+            93.11997985839844,
+            394.5601806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        404.7481994628906,
+        518.4479370117188,
+        418.0321960449219
+      ],
+      "text": "relação \"por cima\", como dizem, isto é, vitoriosas na guerra da paixão. Enquanto sua",
+      "spans": [
+        {
+          "text": "relação \"por cima\", como dizem, isto é, vitoriosas na guerra da paixão. Enquanto sua",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            404.7481994628906,
+            518.4479370117188,
+            418.0321960449219
+          ],
+          "origin": [
+            93.11997985839844,
+            415.440185546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        425.3882141113281,
+        518.3997802734375,
+        438.6722106933594
+      ],
+      "text": "parceira suspeitar que você não sentirá a ausência caso ela se retire, permanecerá ao seu",
+      "spans": [
+        {
+          "text": "parceira suspeitar que você não sentirá a ausência caso ela se retire, permanecerá ao seu",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            425.3882141113281,
+            518.3997802734375,
+            438.6722106933594
+          ],
+          "origin": [
+            93.11997985839844,
+            436.0802001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        446.0282287597656,
+        518.1598510742188,
+        459.3122253417969
+      ],
+      "text": "lado, insistindo na tentativa de quebrar suas defesas para dobrá-lo e induzí-lo ao",
+      "spans": [
+        {
+          "text": "lado, insistindo na tentativa de quebrar suas defesas para dobrá-lo e induzí-lo ao",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            446.0282287597656,
+            518.1598510742188,
+            459.3122253417969
+          ],
+          "origin": [
+            93.11997985839844,
+            456.72021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        466.6682434082031,
+        169.55999755859375,
+        479.9522399902344
+      ],
+      "text": "apaixonamento.",
+      "spans": [
+        {
+          "text": "apaixonamento.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            466.6682434082031,
+            169.55999755859375,
+            479.9522399902344
+          ],
+          "origin": [
+            93.11997985839844,
+            477.3602294921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        493.5482482910156,
+        518.4478149414062,
+        506.8322448730469
+      ],
+      "text": "Portanto, a mulher o abandona porque acredita que você irá sofrer e permanece",
+      "spans": [
+        {
+          "text": "Portanto, a mulher o abandona porque acredita que você irá sofrer e permanece",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            493.5482482910156,
+            518.4478149414062,
+            506.8322448730469
+          ],
+          "origin": [
+            128.63998413085938,
+            504.240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        514.188232421875,
+        518.4478759765625,
+        527.4722290039062
+      ],
+      "text": "ao seu lado quando suspeita que você quer que ela se vá, pois o que lhes importa é",
+      "spans": [
+        {
+          "text": "ao seu lado quando suspeita que você quer que ela se vá, pois o que lhes importa é",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            514.188232421875,
+            518.4478759765625,
+            527.4722290039062
+          ],
+          "origin": [
+            93.11997985839844,
+            524.8802490234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        534.8282470703125,
+        518.4478149414062,
+        548.1122436523438
+      ],
+      "text": "somente contradizer e frustrar; querem sempre fazer o contrário do que desejamos para",
+      "spans": [
+        {
+          "text": "somente contradizer e frustrar; querem sempre fazer o contrário do que desejamos para",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            534.8282470703125,
+            518.4478149414062,
+            548.1122436523438
+          ],
+          "origin": [
+            93.11997985839844,
+            545.520263671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        555.46826171875,
+        146.75999450683594,
+        568.7522583007812
+      ],
+      "text": "nos atingir.",
+      "spans": [
+        {
+          "text": "nos atingir.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            555.46826171875,
+            146.75999450683594,
+            568.7522583007812
+          ],
+          "origin": [
+            93.11997985839844,
+            566.1602783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        582.3482666015625,
+        518.4479370117188,
+        595.6322631835938
+      ],
+      "text": "Uma vez que ela realmente tenha ido embora, não restará alternativa além de",
+      "spans": [
+        {
+          "text": "Uma vez que ela realmente tenha ido embora, não restará alternativa além de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            582.3482666015625,
+            518.4479370117188,
+            595.6322631835938
+          ],
+          "origin": [
+            128.63998413085938,
+            593.040283203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        602.9882202148438,
+        518.2799682617188,
+        616.272216796875
+      ],
+      "text": "focar-se no presente, em outras pessoas e assuntos, envolvendo-se com uma nova vida.",
+      "spans": [
+        {
+          "text": "focar-se no presente, em outras pessoas e assuntos, envolvendo-se com uma nova vida.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            602.9882202148438,
+            518.2799682617188,
+            616.272216796875
+          ],
+          "origin": [
+            93.11997985839844,
+            613.6802368164062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        623.6282348632812,
+        518.3998413085938,
+        636.9122314453125
+      ],
+      "text": "Se você ficar trancado dentro de casa, se lamentando e lembrando do passado, não",
+      "spans": [
+        {
+          "text": "Se você ficar trancado dentro de casa, se lamentando e lembrando do passado, não",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            623.6282348632812,
+            518.3998413085938,
+            636.9122314453125
+          ],
+          "origin": [
+            93.11997985839844,
+            634.3202514648438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        644.2682495117188,
+        471.2398681640625,
+        657.55224609375
+      ],
+      "text": "despertará a piedade de ninguém, muito menos da trapaceira que o abandonou.",
+      "spans": [
+        {
+          "text": "despertará a piedade de ninguém, muito menos da trapaceira que o abandonou.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            644.2682495117188,
+            471.2398681640625,
+            657.55224609375
+          ],
+          "origin": [
+            93.11997985839844,
+            654.9602661132812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        128.63998413085938,
+        671.1482543945312,
+        518.39990234375,
+        684.4322509765625
+      ],
+      "text": "Conheço um rapaz que se deixou apaixonar perdidamente por uma garota que o",
+      "spans": [
+        {
+          "text": "Conheço um rapaz que se deixou apaixonar perdidamente por uma garota que o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            128.63998413085938,
+            671.1482543945312,
+            518.39990234375,
+            684.4322509765625
+          ],
+          "origin": [
+            128.63998413085938,
+            681.8402709960938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        691.7882080078125,
+        518.5078735351562,
+        705.0722045898438
+      ],
+      "text": "encantou. Ela o induziu ao apaixonamento comportando-se como uma fada dos nossos",
+      "spans": [
+        {
+          "text": "encantou. Ela o induziu ao apaixonamento comportando-se como uma fada dos nossos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            691.7882080078125,
+            518.5078735351562,
+            705.0722045898438
+          ],
+          "origin": [
+            93.11997985839844,
+            702.480224609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        93.11997985839844,
+        712.42822265625,
+        518.1597900390625,
+        725.7122192382812
+      ],
+      "text": "sonhos mais lindos, mas na verdade era uma terrível feiticeira. Quando ele estava no",
+      "spans": [
+        {
+          "text": "sonhos mais lindos, mas na verdade era uma terrível feiticeira. Quando ele estava no",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            93.11997985839844,
+            712.42822265625,
+            518.1597900390625,
+            725.7122192382812
+          ],
+          "origin": [
+            93.11997985839844,
+            723.1202392578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        508.32000732421875,
+        769.5787353515625,
+        518.3999633789062,
+        780.7373046875
+      ],
+      "text": "50",
+      "spans": [
+        {
+          "text": "50",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            508.32000732421875,
+            769.5787353515625,
+            518.3999633789062,
+            780.7373046875
+          ],
+          "origin": [
+            508.32000732421875,
+            778.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.999977111816406,
+        769.1402587890625,
+        345.7558898925781,
+        782.5442504882812
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.999977111816406,
+            769.1402587890625,
+            239.97601318359375,
+            782.5442504882812
+          ],
+          "origin": [
+            17.999977111816406,
+            780.000244140625
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            239.99996948242188,
+            769.1402587890625,
+            345.7558898925781,
+            782.5442504882812
+          ],
+          "origin": [
+            239.99996948242188,
+            780.000244140625
+          ]
+        }
+      ]
+    }
+  ]
+}

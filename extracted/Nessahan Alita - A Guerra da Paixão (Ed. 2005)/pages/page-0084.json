@@ -1,0 +1,721 @@
+{
+  "page_number": 84,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        190.07998657226562,
+        78.31273651123047,
+        456.98968505859375,
+        96.11329650878906
+      ],
+      "text": "13. Uma violenta guerra de nervos",
+      "spans": [
+        {
+          "text": "13. Uma violenta guerra de nervos",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            190.07998657226562,
+            78.31273651123047,
+            456.98968505859375,
+            96.11329650878906
+          ],
+          "origin": [
+            190.07998657226562,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        539.054931640625,
+        133.08673095703125
+      ],
+      "text": "Você está só ou com alguém cuja companhia é agradável mas não",
+      "spans": [
+        {
+          "text": "Você está só ou com alguém cuja companhia é agradável mas não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            539.054931640625,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        538.9806518554688,
+        157.08673095703125
+      ],
+      "text": "o preenche como você precisaria. Enquanto isso, sua amada está feliz",
+      "spans": [
+        {
+          "text": "o preenche como você precisaria. Enquanto isso, sua amada está feliz",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            538.9806518554688,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        253.54507446289062,
+        181.32672119140625
+      ],
+      "text": "da vida com outras pessoas.",
+      "spans": [
+        {
+          "text": "da vida com outras pessoas.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            253.54507446289062,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        201.9172821044922,
+        538.9805297851562,
+        217.32672119140625
+      ],
+      "text": "Você sente a falta dela mas ela não sente a sua falta. Sempre é",
+      "spans": [
+        {
+          "text": "Você sente a falta dela mas ela não sente a sua falta. Sempre é",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            201.9172821044922,
+            538.9805297851562,
+            217.32672119140625
+          ],
+          "origin": [
+            108.0,
+            214.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        226.1572723388672,
+        539.0401611328125,
+        241.56671142578125
+      ],
+      "text": "você quem toma a iniciativa de procurá-la e nunca o contrário",
+      "spans": [
+        {
+          "text": "você quem toma a iniciativa de procurá-la e nunca o contrário",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            226.1572723388672,
+            539.0401611328125,
+            241.56671142578125
+          ],
+          "origin": [
+            72.0,
+            238.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        250.3972625732422,
+        538.93505859375,
+        265.80670166015625
+      ],
+      "text": "acontece. Você sempre toma a iniciativa das ligações: liga várias",
+      "spans": [
+        {
+          "text": "acontece. Você sempre toma a iniciativa das ligações: liga várias",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            250.3972625732422,
+            538.93505859375,
+            265.80670166015625
+          ],
+          "origin": [
+            72.0,
+            262.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        274.39727783203125,
+        538.9656982421875,
+        289.80670166015625
+      ],
+      "text": "vezes até ser finalmente atendido. Estende as conversas no telefone até",
+      "spans": [
+        {
+          "text": "vezes até ser finalmente atendido. Estende as conversas no telefone até",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            274.39727783203125,
+            538.9656982421875,
+            289.80670166015625
+          ],
+          "origin": [
+            72.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        298.63726806640625,
+        538.9200439453125,
+        314.04669189453125
+      ],
+      "text": "que ela comece a dar desculpas esfarrapadas para finalizar o diálogo.",
+      "spans": [
+        {
+          "text": "que ela comece a dar desculpas esfarrapadas para finalizar o diálogo.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            298.63726806640625,
+            538.9200439453125,
+            314.04669189453125
+          ],
+          "origin": [
+            72.0,
+            311.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        322.87725830078125,
+        259.5749206542969,
+        338.28668212890625
+      ],
+      "text": "Ela sempre desliga primeiro.",
+      "spans": [
+        {
+          "text": "Ela sempre desliga primeiro.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            322.87725830078125,
+            259.5749206542969,
+            338.28668212890625
+          ],
+          "origin": [
+            72.0,
+            335.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        358.87725830078125,
+        538.98046875,
+        374.28668212890625
+      ],
+      "text": "Você está sempre curioso pelo que ela tem a contar. Ela nunca se",
+      "spans": [
+        {
+          "text": "Você está sempre curioso pelo que ela tem a contar. Ela nunca se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            358.87725830078125,
+            538.98046875,
+            374.28668212890625
+          ],
+          "origin": [
+            108.0,
+            371.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        383.11724853515625,
+        306.1200256347656,
+        398.52667236328125
+      ],
+      "text": "interessa pelo que você tem a dizer.",
+      "spans": [
+        {
+          "text": "interessa pelo que você tem a dizer.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            383.11724853515625,
+            306.1200256347656,
+            398.52667236328125
+          ],
+          "origin": [
+            72.0,
+            395.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        419.11724853515625,
+        538.98046875,
+        434.52667236328125
+      ],
+      "text": "Você dá inúmeras certezas de que é fiel e que a ama mas recebe",
+      "spans": [
+        {
+          "text": "Você dá inúmeras certezas de que é fiel e que a ama mas recebe",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            419.11724853515625,
+            538.98046875,
+            434.52667236328125
+          ],
+          "origin": [
+            108.0,
+            431.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        443.35723876953125,
+        539.2950439453125,
+        458.76666259765625
+      ],
+      "text": "como pagamento apenas dúvidas, fatos incoerentes e histórias mal",
+      "spans": [
+        {
+          "text": "como pagamento apenas dúvidas, fatos incoerentes e histórias mal",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            443.35723876953125,
+            539.2950439453125,
+            458.76666259765625
+          ],
+          "origin": [
+            72.0,
+            455.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        467.59722900390625,
+        132.36000061035156,
+        483.00665283203125
+      ],
+      "text": "contadas.",
+      "spans": [
+        {
+          "text": "contadas.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            467.59722900390625,
+            132.36000061035156,
+            483.00665283203125
+          ],
+          "origin": [
+            72.0,
+            479.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        503.59722900390625,
+        539.0401611328125,
+        519.0066528320312
+      ],
+      "text": "Ela promete vê-lo, você espera ansioso por muito tempo pelo",
+      "spans": [
+        {
+          "text": "Ela promete vê-lo, você espera ansioso por muito tempo pelo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            503.59722900390625,
+            539.0401611328125,
+            519.0066528320312
+          ],
+          "origin": [
+            108.0,
+            515.9999389648438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        527.8372192382812,
+        538.9805908203125,
+        543.2466430664062
+      ],
+      "text": "encontro mas ela o frustra. A justificativa apresentada não convence",
+      "spans": [
+        {
+          "text": "encontro mas ela o frustra. A justificativa apresentada não convence",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            527.8372192382812,
+            538.9805908203125,
+            543.2466430664062
+          ],
+          "origin": [
+            72.0,
+            540.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        551.8372192382812,
+        224.52000427246094,
+        567.2466430664062
+      ],
+      "text": "nem a um débil mental.",
+      "spans": [
+        {
+          "text": "nem a um débil mental.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            551.8372192382812,
+            224.52000427246094,
+            567.2466430664062
+          ],
+          "origin": [
+            72.0,
+            564.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        588.0772705078125,
+        539.5795288085938,
+        603.4866943359375
+      ],
+      "text": "Desesperado, você se ausenta mas sua falta não é sentida nem um",
+      "spans": [
+        {
+          "text": "Desesperado, você se ausenta mas sua falta não é sentida nem um",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            588.0772705078125,
+            539.5795288085938,
+            603.4866943359375
+          ],
+          "origin": [
+            108.0,
+            600.47998046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        612.3172607421875,
+        538.9199829101562,
+        627.7266845703125
+      ],
+      "text": "pouco. Parece que, ao contrário, sua ausência a agrada mais ainda.",
+      "spans": [
+        {
+          "text": "pouco. Parece que, ao contrário, sua ausência a agrada mais ainda.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            612.3172607421875,
+            538.9199829101562,
+            627.7266845703125
+          ],
+          "origin": [
+            72.0,
+            624.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        636.3172607421875,
+        539.3098754882812,
+        651.7266845703125
+      ],
+      "text": "Então você descobre que precisa muito dela mas ela não precisa nem",
+      "spans": [
+        {
+          "text": "Então você descobre que precisa muito dela mas ela não precisa nem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            636.3172607421875,
+            539.3098754882812,
+            651.7266845703125
+          ],
+          "origin": [
+            72.0,
+            648.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        660.5572509765625,
+        539.0400390625,
+        675.9666748046875
+      ],
+      "text": "um pouco de você. Para você não há nada na Terra mais importante do",
+      "spans": [
+        {
+          "text": "um pouco de você. Para você não há nada na Terra mais importante do",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            660.5572509765625,
+            539.0400390625,
+            675.9666748046875
+          ],
+          "origin": [
+            72.0,
+            672.9599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "84",
+      "spans": [
+        {
+          "text": "84",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

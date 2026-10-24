@@ -1,0 +1,547 @@
+{
+  "page_number": 33,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        104.6982192993164,
+        516.190673828125,
+        118.37545776367188
+      ],
+      "text": "6) \nas mulheres agissem de forma coerente e definida em",
+      "spans": [
+        {
+          "text": "6)",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            104.6982192993164,
+            128.96018981933594,
+            118.37545776367188
+          ],
+          "origin": [
+            117.23999786376953,
+            115.6796875
+          ]
+        },
+        {
+          "text": "as mulheres agissem de forma coerente e definida em ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.95974731445312,
+            104.6982192993164,
+            516.190673828125,
+            118.37545776367188
+          ],
+          "origin": [
+            144.95974731445312,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        144.95974731445312,
+        125.27823638916016,
+        288.35955810546875,
+        138.95547485351562
+      ],
+      "text": "relação aos homens.",
+      "spans": [
+        {
+          "text": "relação aos homens.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.95974731445312,
+            125.27823638916016,
+            288.35955810546875,
+            138.95547485351562
+          ],
+          "origin": [
+            144.95974731445312,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        157.43844604492188,
+        376.68743896484375,
+        171.11569213867188
+      ],
+      "text": "Cada gênero deveria fazer a sua parte.",
+      "spans": [
+        {
+          "text": "Cada gênero deveria fazer a sua parte. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            157.43844604492188,
+            376.68743896484375,
+            171.11569213867188
+          ],
+          "origin": [
+            117.23999786376953,
+            168.419921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        189.65817260742188,
+        516.1767578125,
+        203.33541870117188
+      ],
+      "text": "Os surtos de violência dos apaixonados está vinculado à",
+      "spans": [
+        {
+          "text": "Os surtos de violência dos apaixonados está vinculado à ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            189.65817260742188,
+            516.1767578125,
+            203.33541870117188
+          ],
+          "origin": [
+            117.23999786376953,
+            200.6396484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        210.23818969726562,
+        516.1521606445312,
+        223.91543579101562
+      ],
+      "text": "dependência afetiva por uma única mulher. Provém de uma",
+      "spans": [
+        {
+          "text": "dependência afetiva por uma única mulher. Provém de uma ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            210.23818969726562,
+            516.1521606445312,
+            223.91543579101562
+          ],
+          "origin": [
+            82.73997497558594,
+            221.21966552734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        230.81820678710938,
+        468.8465576171875,
+        244.49545288085938
+      ],
+      "text": "transferência da imago parental materna para a parceira.",
+      "spans": [
+        {
+          "text": "transferência da imago parental materna para a parceira. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            230.81820678710938,
+            468.8465576171875,
+            244.49545288085938
+          ],
+          "origin": [
+            82.73997497558594,
+            241.7996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        263.0379333496094,
+        516.1905517578125,
+        276.7151794433594
+      ],
+      "text": "Há dois tipos de violência masculina: a dos cafajestes e a",
+      "spans": [
+        {
+          "text": "Há dois tipos de violência masculina: a dos cafajestes e a ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            263.0379333496094,
+            516.1905517578125,
+            276.7151794433594
+          ],
+          "origin": [
+            117.23999786376953,
+            274.0194091796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        283.5584411621094,
+        516.2069091796875,
+        297.2356872558594
+      ],
+      "text": "dos apaixonados. As mulheres reforçam a primeira quando",
+      "spans": [
+        {
+          "text": "dos apaixonados. As mulheres reforçam a primeira quando ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            283.5584411621094,
+            516.2069091796875,
+            297.2356872558594
+          ],
+          "origin": [
+            82.73997497558594,
+            294.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        304.0789489746094,
+        516.2021484375,
+        317.7561950683594
+      ],
+      "text": "premiam os maus e a segunda quando iludem os bons ou",
+      "spans": [
+        {
+          "text": "premiam os maus e a segunda quando iludem os bons ou ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            304.0789489746094,
+            516.2021484375,
+            317.7561950683594
+          ],
+          "origin": [
+            82.73997497558594,
+            315.0604248046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        324.65899658203125,
+        516.1242065429688,
+        338.33624267578125
+      ],
+      "text": "quando simplesmente aceitam comodamente que se iludam. A",
+      "spans": [
+        {
+          "text": "quando simplesmente aceitam comodamente que se iludam. A ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            324.65899658203125,
+            516.1242065429688,
+            338.33624267578125
+          ],
+          "origin": [
+            82.73997497558594,
+            335.6404724121094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        345.1795349121094,
+        516.3760986328125,
+        358.8567810058594
+      ],
+      "text": "segunda é, obviamente, mais perigosa do que a primeira por não",
+      "spans": [
+        {
+          "text": "segunda é, obviamente, mais perigosa do que a primeira por não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            345.1795349121094,
+            516.3760986328125,
+            358.8567810058594
+          ],
+          "origin": [
+            82.73997497558594,
+            356.1610107421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        365.7000732421875,
+        407.40057373046875,
+        379.3773193359375
+      ],
+      "text": "se tratar de mau-caratismo mas sim de loucura.",
+      "spans": [
+        {
+          "text": "se tratar de mau-caratismo mas sim de loucura. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            365.7000732421875,
+            407.40057373046875,
+            379.3773193359375
+          ],
+          "origin": [
+            82.73997497558594,
+            376.6815490722656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        397.98046875,
+        516.3353271484375,
+        411.65771484375
+      ],
+      "text": "Estou tratando aqui principalmente dos surtos psicóticos",
+      "spans": [
+        {
+          "text": "Estou tratando aqui principalmente dos surtos psicóticos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            397.98046875,
+            516.3353271484375,
+            411.65771484375
+          ],
+          "origin": [
+            117.23999786376953,
+            408.9619445800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        418.5010070800781,
+        516.2325439453125,
+        432.1782531738281
+      ],
+      "text": "de violência e não da violência originada do mau-caratismo puro",
+      "spans": [
+        {
+          "text": "de violência e não da violência originada do mau-caratismo puro ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            418.5010070800781,
+            516.2325439453125,
+            432.1782531738281
+          ],
+          "origin": [
+            82.73997497558594,
+            429.48248291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        439.0810546875,
+        516.24560546875,
+        452.75830078125
+      ],
+      "text": "e simples, frio e calculista. Exclua-se do centro desta análise,",
+      "spans": [
+        {
+          "text": "e simples, frio e calculista. Exclua-se do centro desta análise, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            439.0810546875,
+            516.24560546875,
+            452.75830078125
+          ],
+          "origin": [
+            82.73997497558594,
+            450.0625305175781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        459.6015930175781,
+        516.2489013671875,
+        473.2788391113281
+      ],
+      "text": "portanto, os atos violentos dos cafajestes e dos sem-vergonhas.",
+      "spans": [
+        {
+          "text": "portanto, os atos violentos dos cafajestes e dos sem-vergonhas. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            459.6015930175781,
+            516.2489013671875,
+            473.2788391113281
+          ],
+          "origin": [
+            82.73997497558594,
+            470.58306884765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        480.12213134765625,
+        441.6681213378906,
+        493.79937744140625
+      ],
+      "text": "Ocupei-me neste texto com o surto dos apaixonados.",
+      "spans": [
+        {
+          "text": "Ocupei-me neste texto com o surto dos apaixonados.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            480.12213134765625,
+            441.6681213378906,
+            493.79937744140625
+          ],
+          "origin": [
+            82.73997497558594,
+            491.1036071777344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "33",
+      "spans": [
+        {
+          "text": "33",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

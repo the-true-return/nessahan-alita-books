@@ -1,0 +1,1026 @@
+{
+  "page_number": 244,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4493408203125,
+        145.54006958007812
+      ],
+      "text": "O Livro de Juízes. In: A Bíblia Sagrada: O Antigo e o Novo Testamento \n(1993, João Ferreira de Almeida, trad.). Barueri: Sociedade Bíblica do \nBrasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Livro de Juízes. In: A Bíblia Sagrada: O Antigo e o Novo Testamento ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            515.3775024414062,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "(1993, João Ferreira de Almeida, trad.). Barueri: Sociedade Bíblica do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            116.53167724609375,
+            515.4493408203125,
+            132.09945678710938
+          ],
+          "origin": [
+            82.74002075195312,
+            128.8201904296875
+          ]
+        },
+        {
+          "text": "Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            129.9722900390625,
+            130.04904174804688,
+            145.54006958007812
+          ],
+          "origin": [
+            82.74002075195312,
+            142.26080322265625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            131.03961181640625,
+            128.68833923339844,
+            133.18148803710938,
+            139.0407257080078
+          ],
+          "origin": [
+            131.03961181640625,
+            136.86004638671875
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.21969604492188,
+            129.9715576171875,
+            181.23550415039062,
+            145.53933715820312
+          ],
+          "origin": [
+            134.21969604492188,
+            142.26007080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        155.051513671875,
+        515.3948364257812,
+        184.05947875976562
+      ],
+      "text": "O Livro de Juízes. In: A Bíblia Sagrada (1997-2004, João Ferreira de \nAlmeida, trad.). São Paulo: Scripturae Publicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Livro de Juízes. In: A Bíblia Sagrada (1997-2004, João Ferreira de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            155.051513671875,
+            515.3948364257812,
+            170.61941528320312
+          ],
+          "origin": [
+            82.73999786376953,
+            167.34014892578125
+          ]
+        },
+        {
+          "text": "Almeida, trad.). São Paulo: Scripturae Publicações. 2ª edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            168.49169921875,
+            433.7113037109375,
+            184.05947875976562
+          ],
+          "origin": [
+            82.74000549316406,
+            180.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        193.57177734375,
+        515.4815673828125,
+        235.95932006835938
+      ],
+      "text": "O Primeiro Livro de Moisés Chamado Gênesis. In: A Bíblia Sagrada: O \nAntigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). \nBarueri: Sociedade Bíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Primeiro Livro de Moisés Chamado Gênesis. In: A Bíblia Sagrada: O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            193.57177734375,
+            515.4815673828125,
+            209.13955688476562
+          ],
+          "origin": [
+            82.74000549316406,
+            205.86029052734375
+          ]
+        },
+        {
+          "text": "Antigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            207.011474609375,
+            515.4089965820312,
+            222.57925415039062
+          ],
+          "origin": [
+            82.73979949951172,
+            219.29998779296875
+          ]
+        },
+        {
+          "text": "Barueri: Sociedade Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            220.39117431640625,
+            302.56597900390625,
+            235.95895385742188
+          ],
+          "origin": [
+            82.739013671875,
+            232.6796875
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            303.4800109863281,
+            219.1685028076172,
+            305.62188720703125,
+            229.52088928222656
+          ],
+          "origin": [
+            303.4800109863281,
+            227.3402099609375
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            306.5999450683594,
+            220.39154052734375,
+            353.6157531738281,
+            235.95932006835938
+          ],
+          "origin": [
+            306.5999450683594,
+            232.6800537109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        245.470458984375,
+        515.4984741210938,
+        287.9190368652344
+      ],
+      "text": "O Primeiro Livro de Moisés Chamado Gênesis. In: A Bíblia Sagrada (1997-\n2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae Publicações. \n2ª edição.",
+      "spans": [
+        {
+          "text": "O Primeiro Livro de Moisés Chamado Gênesis. In: A Bíblia Sagrada (1997-",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            245.470458984375,
+            511.59478759765625,
+            261.0393981933594
+          ],
+          "origin": [
+            82.73994445800781,
+            257.7601318359375
+          ]
+        },
+        {
+          "text": "2004, João Ferreira de Almeida, trad.). São Paulo: Scripturae Publicações. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            258.91107177734375,
+            515.4984741210938,
+            274.4788513183594
+          ],
+          "origin": [
+            82.739990234375,
+            271.1995849609375
+          ]
+        },
+        {
+          "text": "2ª edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            272.35125732421875,
+            140.75973510742188,
+            287.9190368652344
+          ],
+          "origin": [
+            82.739990234375,
+            284.6397705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        297.43133544921875,
+        515.5621337890625,
+        339.8193359375
+      ],
+      "text": "O Primeiro Livro dos Reis. In: A Bíblia Sagrada: O Antigo e o Novo \nTestamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade \nBíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Primeiro Livro dos Reis. In: A Bíblia Sagrada: O Antigo e o Novo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            297.43133544921875,
+            515.5621337890625,
+            312.9991149902344
+          ],
+          "origin": [
+            82.739990234375,
+            309.7198486328125
+          ]
+        },
+        {
+          "text": "Testamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            310.8714599609375,
+            515.4237060546875,
+            326.4392395019531
+          ],
+          "origin": [
+            82.73979949951172,
+            323.15997314453125
+          ]
+        },
+        {
+          "text": "Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74019622802734,
+            324.25115966796875,
+            192.01364135742188,
+            339.8189392089844
+          ],
+          "origin": [
+            82.74019622802734,
+            336.5396728515625
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            192.960205078125,
+            323.02813720703125,
+            195.10208129882812,
+            333.3804931640625
+          ],
+          "origin": [
+            192.960205078125,
+            331.1998291015625
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.0801239013672,
+            324.2515563964844,
+            243.09593200683594,
+            339.8193359375
+          ],
+          "origin": [
+            196.0801239013672,
+            336.5400695800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74012756347656,
+        349.3312683105469,
+        515.4467163085938,
+        378.3398742675781
+      ],
+      "text": "O Primeiro Livro dos Reis. In: A Bíblia Sagrada (1997-2004, João Ferreira \nde Almeida, trad.). São Paulo: Scripturae Publicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Primeiro Livro dos Reis. In: A Bíblia Sagrada (1997-2004, João Ferreira ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74012756347656,
+            349.3312683105469,
+            515.4467163085938,
+            364.8992614746094
+          ],
+          "origin": [
+            82.74012756347656,
+            361.6197814941406
+          ]
+        },
+        {
+          "text": "de Almeida, trad.). São Paulo: Scripturae Publicações. 2ª edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74102783203125,
+            362.7720947265625,
+            450.6609191894531,
+            378.3398742675781
+          ],
+          "origin": [
+            82.74102783203125,
+            375.06060791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        387.851806640625,
+        515.458251953125,
+        430.2393493652344
+      ],
+      "text": "O Segundo Livro de Samuel. In: A Bíblia Sagrada: O Antigo e o Novo \nTestamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade \nBíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Segundo Livro de Samuel. In: A Bíblia Sagrada: O Antigo e o Novo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74102783203125,
+            387.851806640625,
+            515.458251953125,
+            403.4195861816406
+          ],
+          "origin": [
+            82.74102783203125,
+            400.14031982421875
+          ]
+        },
+        {
+          "text": "Testamento (1993, João Ferreira de Almeida, trad.). Barueri: Sociedade ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            401.2914733886719,
+            515.4237060546875,
+            416.8592529296875
+          ],
+          "origin": [
+            82.73979949951172,
+            413.5799865722656
+          ]
+        },
+        {
+          "text": "Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74019622802734,
+            414.6711730957031,
+            192.01364135742188,
+            430.23895263671875
+          ],
+          "origin": [
+            82.74019622802734,
+            426.9596862792969
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            192.960205078125,
+            413.3883972167969,
+            195.10208129882812,
+            423.7407531738281
+          ],
+          "origin": [
+            192.960205078125,
+            421.5600891113281
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            196.0801239013672,
+            414.67156982421875,
+            243.09593200683594,
+            430.2393493652344
+          ],
+          "origin": [
+            196.0801239013672,
+            426.9600830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739990234375,
+        439.7514953613281,
+        515.4203491210938,
+        468.75946044921875
+      ],
+      "text": "O Segundo Livro de Samuel (1997-2004). In: A Bíblia Sagrada (João \nFerreira de Almeida, trad.). São Paulo: Scripturae Publicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "O Segundo Livro de Samuel (1997-2004). In: A Bíblia Sagrada (João ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74012756347656,
+            439.7514953613281,
+            515.4203491210938,
+            455.3194580078125
+          ],
+          "origin": [
+            82.74012756347656,
+            452.0401916503906
+          ]
+        },
+        {
+          "text": "Ferreira de Almeida, trad.). São Paulo: Scripturae Publicações. 2ª edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            453.1916809082031,
+            499.27752685546875,
+            468.75946044921875
+          ],
+          "origin": [
+            82.739990234375,
+            465.4801940917969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        478.27178955078125,
+        515.4555053710938,
+        507.21826171875
+      ],
+      "text": "PACHECO, Cláudia Bernhardt Souza (1987) Mulhers no Divã: Uma Análise \nda Psicopatologia Feminina.  São Paulo: Proton.",
+      "spans": [
+        {
+          "text": "PACHECO, Cláudia Bernhardt Souza (1987) Mulhers no Divã: Uma Análise ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739990234375,
+            478.27178955078125,
+            515.4555053710938,
+            493.8395690917969
+          ],
+          "origin": [
+            82.739990234375,
+            490.560302734375
+          ]
+        },
+        {
+          "text": "da Psicopatologia Feminina.  São Paulo: Proton. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            491.6504821777344,
+            357.0201110839844,
+            507.21826171875
+          ],
+          "origin": [
+            82.73979949951172,
+            503.9389953613281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74000549316406,
+        516.790283203125,
+        515.46923828125,
+        559.17919921875
+      ],
+      "text": "PEIRCE, Charles Sanders (sem data). A Fixação da Crença. (Anabela \nGradim Alves, trad.). Universidade da Beira Interior. (Originalmente \npublicado em Popular Science Monthly 12, pp. 1-15, november 1877).",
+      "spans": [
+        {
+          "text": "PEIRCE, Charles Sanders (sem data). A Fixação da Crença. (Anabela ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            516.790283203125,
+            515.3831787109375,
+            532.3592529296875
+          ],
+          "origin": [
+            82.74000549316406,
+            529.0787963867188
+          ]
+        },
+        {
+          "text": "Gradim Alves, trad.). Universidade da Beira Interior. (Originalmente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            530.1712036132812,
+            515.46923828125,
+            545.739013671875
+          ],
+          "origin": [
+            82.74002075195312,
+            542.459716796875
+          ]
+        },
+        {
+          "text": "publicado em Popular Science Monthly 12, pp. 1-15, november 1877).  ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74003601074219,
+            543.6113891601562,
+            483.43402099609375,
+            559.17919921875
+          ],
+          "origin": [
+            82.74003601074219,
+            555.89990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74002075195312,
+        568.6914672851562,
+        515.4493408203125,
+        611.0792236328125
+      ],
+      "text": "Primeira Epístola do Apóstolo Paulo aos Coríntios. In: A Bíblia Sagrada \n(1993, João Ferreira de Almeida, trad.). Barueri: Sociedade Bíblica do \nBrasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola do Apóstolo Paulo aos Coríntios. In: A Bíblia Sagrada ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74003601074219,
+            568.6914672851562,
+            515.3775024414062,
+            584.25927734375
+          ],
+          "origin": [
+            82.74003601074219,
+            580.97998046875
+          ]
+        },
+        {
+          "text": "(1993, João Ferreira de Almeida, trad.). Barueri: Sociedade Bíblica do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            582.1317138671875,
+            515.4493408203125,
+            597.6995239257812
+          ],
+          "origin": [
+            82.74002075195312,
+            594.4202270507812
+          ]
+        },
+        {
+          "text": "Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74002075195312,
+            595.5114135742188,
+            130.04904174804688,
+            611.0792236328125
+          ],
+          "origin": [
+            82.74002075195312,
+            607.7999267578125
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            131.03961181640625,
+            594.2883911132812,
+            133.18148803710938,
+            604.6407470703125
+          ],
+          "origin": [
+            131.03961181640625,
+            602.4600830078125
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            134.21969604492188,
+            595.5114135742188,
+            181.23550415039062,
+            611.0792236328125
+          ],
+          "origin": [
+            134.21969604492188,
+            607.7999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        620.65087890625,
+        515.4994506835938,
+        663.0399169921875
+      ],
+      "text": "Primeira Epístola do Apóstolo Paulo aos Coríntios. In: A Bíblia Sagrada: O \nAntigo e o Novo Testamento (1997-2004, João Ferreira de Almeida, trad.). \nSão Paulo: Scripturae Publicações. 2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola do Apóstolo Paulo aos Coríntios. In: A Bíblia Sagrada: O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            620.65087890625,
+            515.4185791015625,
+            636.2186889648438
+          ],
+          "origin": [
+            82.73999786376953,
+            632.9393920898438
+          ]
+        },
+        {
+          "text": "Antigo e o Novo Testamento (1997-2004, João Ferreira de Almeida, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            634.031494140625,
+            515.4994506835938,
+            649.5993041992188
+          ],
+          "origin": [
+            82.73979949951172,
+            646.3200073242188
+          ]
+        },
+        {
+          "text": "São Paulo: Scripturae Publicações. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            647.4721069335938,
+            288.2820739746094,
+            663.0399169921875
+          ],
+          "origin": [
+            82.74000549316406,
+            659.7606201171875
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            289.260009765625,
+            646.1885375976562,
+            291.4018859863281,
+            656.5408935546875
+          ],
+          "origin": [
+            289.260009765625,
+            654.3602294921875
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            292.37994384765625,
+            647.4716796875,
+            339.3505554199219,
+            663.0394897460938
+          ],
+          "origin": [
+            292.37994384765625,
+            659.7601928710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.739013671875,
+        672.5518188476562,
+        515.540771484375,
+        714.9393920898438
+      ],
+      "text": "Primeira Epístola do Apóstolo Paulo a Timóteo. In: A Bíblia Sagrada: O \nAntigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). \nBarueri: Sociedade Bíblica do Brasil. 2ª edição.",
+      "spans": [
+        {
+          "text": "Primeira Epístola do Apóstolo Paulo a Timóteo. In: A Bíblia Sagrada: O ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            672.5518188476562,
+            515.540771484375,
+            688.11962890625
+          ],
+          "origin": [
+            82.73994445800781,
+            684.84033203125
+          ]
+        },
+        {
+          "text": "Antigo e o Novo Testamento (1993, João Ferreira de Almeida, trad.). ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979949951172,
+            685.9915161132812,
+            515.4089965820312,
+            701.559326171875
+          ],
+          "origin": [
+            82.73979949951172,
+            698.280029296875
+          ]
+        },
+        {
+          "text": "Barueri: Sociedade Bíblica do Brasil. 2",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.739013671875,
+            699.3711547851562,
+            302.56597900390625,
+            714.93896484375
+          ],
+          "origin": [
+            82.739013671875,
+            711.65966796875
+          ]
+        },
+        {
+          "text": "ª",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            303.4800109863281,
+            698.1481323242188,
+            305.62188720703125,
+            708.50048828125
+          ],
+          "origin": [
+            303.4800109863281,
+            706.31982421875
+          ]
+        },
+        {
+          "text": " edição. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            306.5999450683594,
+            699.37158203125,
+            353.6157531738281,
+            714.9393920898438
+          ],
+          "origin": [
+            306.5999450683594,
+            711.6600952148438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "244",
+      "spans": [
+        {
+          "text": "244",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

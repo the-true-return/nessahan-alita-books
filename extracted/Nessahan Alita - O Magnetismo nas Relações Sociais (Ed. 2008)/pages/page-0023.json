@@ -1,0 +1,830 @@
+{
+  "page_number": 23,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        71.20802307128906,
+        525.9984741210938,
+        84.49202728271484
+      ],
+      "text": "A superação da barreira manipulatória imposta pelos jogos de atitudes",
+      "spans": [
+        {
+          "text": "A superação da barreira manipulatória imposta pelos jogos de atitudes",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20802307128906,
+            525.9984741210938,
+            84.49202728271484
+          ],
+          "origin": [
+            120.54000091552734,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        91.90803527832031,
+        525.9669799804688,
+        105.1920394897461
+      ],
+      "text": "contrastantes é alcançada quando o fluxo hipnótico é devolvido ao emissor.",
+      "spans": [
+        {
+          "text": "contrastantes é alcançada quando o fluxo hipnótico é devolvido ao emissor.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            91.90803527832031,
+            525.9669799804688,
+            105.1920394897461
+          ],
+          "origin": [
+            85.08001708984375,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        112.60804748535156,
+        201.06240844726562,
+        125.89205169677734
+      ],
+      "text": "A devolução requer:",
+      "spans": [
+        {
+          "text": "A devolução requer:",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            112.60804748535156,
+            201.06240844726562,
+            125.89205169677734
+          ],
+          "origin": [
+            85.08001708984375,
+            123.300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5399932861328,
+        145.13999938964844,
+        526.0067749023438,
+        158.5919952392578
+      ],
+      "text": "1. que a vítima apaixonante perceba a intenção das estratégias do",
+      "spans": [
+        {
+          "text": "1.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.5399932861328,
+            145.30799865722656,
+            148.55999755859375,
+            158.5919952392578
+          ],
+          "origin": [
+            138.5399932861328,
+            156.0
+          ]
+        },
+        {
+          "text": "que a vítima apaixonante perceba a intenção das estratégias do",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            145.30799865722656,
+            526.0067749023438,
+            158.5919952392578
+          ],
+          "origin": [
+            156.5399932861328,
+            156.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        156.54000854492188,
+        166.0080108642578,
+        190.2360076904297,
+        179.29200744628906
+      ],
+      "text": "outro;",
+      "spans": [
+        {
+          "text": "outro;",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.54000854492188,
+            166.0080108642578,
+            190.2360076904297,
+            179.29200744628906
+          ],
+          "origin": [
+            156.54000854492188,
+            176.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5399932861328,
+        198.54002380371094,
+        491.22515869140625,
+        211.9920196533203
+      ],
+      "text": "2.  comporte-se como se não tivesse ciência do que se passa;",
+      "spans": [
+        {
+          "text": "2.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.5399932861328,
+            198.70802307128906,
+            148.55999755859375,
+            211.9920196533203
+          ],
+          "origin": [
+            138.5399932861328,
+            209.4000244140625
+          ]
+        },
+        {
+          "text": " comporte-se como se não tivesse ciência do que se passa;",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            198.70802307128906,
+            491.22515869140625,
+            211.9920196533203
+          ],
+          "origin": [
+            156.5399932861328,
+            209.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5399932861328,
+        231.23997497558594,
+        526.0103759765625,
+        244.6919708251953
+      ],
+      "text": "3. conquiste a independência interna  (conseguindo ser indiferente",
+      "spans": [
+        {
+          "text": "3.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.5399932861328,
+            231.40797424316406,
+            148.55999755859375,
+            244.6919708251953
+          ],
+          "origin": [
+            138.5399932861328,
+            242.0999755859375
+          ]
+        },
+        {
+          "text": "conquiste a independência interna  (conseguindo ser indiferente",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            231.40797424316406,
+            526.0103759765625,
+            244.6919708251953
+          ],
+          "origin": [
+            156.5399932861328,
+            242.0999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        156.5399932861328,
+        252.1079864501953,
+        528.7801513671875,
+        265.3919982910156
+      ],
+      "text": "tanto às manifestações de amor como de desprezo);",
+      "spans": [
+        {
+          "text": "tanto às manifestações de amor como de desprezo);                                                                                                                                                                  ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            252.1079864501953,
+            528.7801513671875,
+            265.3919982910156
+          ],
+          "origin": [
+            156.5399932861328,
+            262.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        138.5399932861328,
+        305.34002685546875,
+        526.1068725585938,
+        318.7920227050781
+      ],
+      "text": "4. administre os sentimentos do apaixonador com suas próprias",
+      "spans": [
+        {
+          "text": "4.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.5399932861328,
+            305.5080261230469,
+            148.55999755859375,
+            318.7920227050781
+          ],
+          "origin": [
+            138.5399932861328,
+            316.20001220703125
+          ]
+        },
+        {
+          "text": "administre os sentimentos do apaixonador com suas próprias",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            305.5080261230469,
+            526.1068725585938,
+            318.7920227050781
+          ],
+          "origin": [
+            156.5399932861328,
+            316.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        156.5399932861328,
+        326.2080383300781,
+        221.22598266601562,
+        339.4920349121094
+      ],
+      "text": "estratégias.",
+      "spans": [
+        {
+          "text": "estratégias.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            156.5399932861328,
+            326.2080383300781,
+            221.22598266601562,
+            339.4920349121094
+          ],
+          "origin": [
+            156.5399932861328,
+            336.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        358.8480224609375,
+        525.9526977539062,
+        372.13201904296875
+      ],
+      "text": "A vítima apaixonante é mantida constantemente na dúvida através das",
+      "spans": [
+        {
+          "text": "A vítima apaixonante é mantida constantemente na dúvida através das",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            358.8480224609375,
+            525.9526977539062,
+            372.13201904296875
+          ],
+          "origin": [
+            120.54000091552734,
+            369.5400085449219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        379.54803466796875,
+        525.9962768554688,
+        392.83203125
+      ],
+      "text": "atitudes contraditórias do apaixonador. Um mistério é criado e mantido a",
+      "spans": [
+        {
+          "text": "atitudes contraditórias do apaixonador. Um mistério é criado e mantido a",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            379.54803466796875,
+            525.9962768554688,
+            392.83203125
+          ],
+          "origin": [
+            85.08000183105469,
+            390.2400207519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        400.248046875,
+        429.0578918457031,
+        413.53204345703125
+      ],
+      "text": "todo custo por meio de atitudes incoerentes e contrastantes.",
+      "spans": [
+        {
+          "text": "todo custo por meio de atitudes incoerentes e contrastantes.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            400.248046875,
+            429.0578918457031,
+            413.53204345703125
+          ],
+          "origin": [
+            85.07998657226562,
+            410.9400329589844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        432.9480285644531,
+        526.0548095703125,
+        446.2320251464844
+      ],
+      "text": "As atitudes de afastamento, geradoras de repulsão,  nunca são",
+      "spans": [
+        {
+          "text": "As atitudes de afastamento, geradoras de repulsão,  nunca são",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            432.9480285644531,
+            526.0548095703125,
+            446.2320251464844
+          ],
+          "origin": [
+            120.54000091552734,
+            443.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        453.6480407714844,
+        526.1519165039062,
+        466.9320373535156
+      ],
+      "text": "extremas. São sempre tênues pois as atitudes extremas eliminam a dúvida na",
+      "spans": [
+        {
+          "text": "extremas. São sempre tênues pois as atitudes extremas eliminam a dúvida na",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            453.6480407714844,
+            526.1519165039062,
+            466.9320373535156
+          ],
+          "origin": [
+            85.08001708984375,
+            464.34002685546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        474.3480529785156,
+        525.9442749023438,
+        487.6320495605469
+      ],
+      "text": "vítima e a tornam capaz de se decidir, optando pelo afastamento definitivo.",
+      "spans": [
+        {
+          "text": "vítima e a tornam capaz de se decidir, optando pelo afastamento definitivo.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            474.3480529785156,
+            525.9442749023438,
+            487.6320495605469
+          ],
+          "origin": [
+            85.08001708984375,
+            485.0400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        495.0480651855469,
+        415.06097412109375,
+        508.3320617675781
+      ],
+      "text": "O apaixonador luta por não se polarizar em nenhum lado.",
+      "spans": [
+        {
+          "text": "O apaixonador luta por não se polarizar em nenhum lado.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            495.0480651855469,
+            415.06097412109375,
+            508.3320617675781
+          ],
+          "origin": [
+            85.07998657226562,
+            505.74005126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        527.7478637695312,
+        525.9898681640625,
+        541.0318603515625
+      ],
+      "text": "O mais desapaixonado é o mais apto a jogar com suas próprias",
+      "spans": [
+        {
+          "text": "O mais desapaixonado é o mais apto a jogar com suas próprias",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            527.7478637695312,
+            525.9898681640625,
+            541.0318603515625
+          ],
+          "origin": [
+            120.54000091552734,
+            538.4398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        548.4478759765625,
+        526.0787963867188,
+        561.7318725585938
+      ],
+      "text": "atitudes contrastantes de modo a confundir o outro a respeito de suas",
+      "spans": [
+        {
+          "text": "atitudes contrastantes de modo a confundir o outro a respeito de suas",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            548.4478759765625,
+            526.0787963867188,
+            561.7318725585938
+          ],
+          "origin": [
+            85.08001708984375,
+            559.139892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        569.1478881835938,
+        526.0512084960938,
+        582.431884765625
+      ],
+      "text": "intenções e manter o mistério.  Então a vítima será incapaz de tirar uma",
+      "spans": [
+        {
+          "text": "intenções e manter o mistério.  Então a vítima será incapaz de tirar uma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            569.1478881835938,
+            526.0512084960938,
+            582.431884765625
+          ],
+          "origin": [
+            85.08001708984375,
+            579.8399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        589.847900390625,
+        526.0245971679688,
+        603.1318969726562
+      ],
+      "text": "conclusão definitiva a respeito do que o outro sente e do valor que confere",
+      "spans": [
+        {
+          "text": "conclusão definitiva a respeito do que o outro sente e do valor que confere",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            589.847900390625,
+            526.0245971679688,
+            603.1318969726562
+          ],
+          "origin": [
+            85.08001708984375,
+            600.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        610.5478515625,
+        399.343017578125,
+        623.8318481445312
+      ],
+      "text": "à relação por não ter parâmetros coerentes para julgar.",
+      "spans": [
+        {
+          "text": "à relação por não ter parâmetros coerentes para julgar.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            610.5478515625,
+            399.343017578125,
+            623.8318481445312
+          ],
+          "origin": [
+            85.08003234863281,
+            621.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        643.2478637695312,
+        525.9649658203125,
+        656.5318603515625
+      ],
+      "text": "As atitudes são tomadas em função do que acreditamos e se os dados",
+      "spans": [
+        {
+          "text": "As atitudes são tomadas em função do que acreditamos e se os dados",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            643.2478637695312,
+            525.9649658203125,
+            656.5318603515625
+          ],
+          "origin": [
+            120.54000091552734,
+            653.9398803710938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        663.9478759765625,
+        525.9661865234375,
+        677.2318725585938
+      ],
+      "text": "forem contraditórios, não conseguiremos acreditar se a outra pessoa nos",
+      "spans": [
+        {
+          "text": "forem contraditórios, não conseguiremos acreditar se a outra pessoa nos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            663.9478759765625,
+            525.9661865234375,
+            677.2318725585938
+          ],
+          "origin": [
+            85.08001708984375,
+            674.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        684.6478881835938,
+        210.84605407714844,
+        697.931884765625
+      ],
+      "text": "ama ou nos despreza.",
+      "spans": [
+        {
+          "text": "ama ou nos despreza. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            684.6478881835938,
+            210.84605407714844,
+            697.931884765625
+          ],
+          "origin": [
+            85.08001708984375,
+            695.3399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "23",
+      "spans": [
+        {
+          "text": "23",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

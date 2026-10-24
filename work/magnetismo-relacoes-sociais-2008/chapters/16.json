@@ -1,0 +1,91 @@
+{
+  "book": "magnetismo-relacoes-sociais-2008",
+  "chapter": "16",
+  "title": "Sobre o autor",
+  "pages": [
+    54,
+    54
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Sobre o autor",
+      "pages": [
+        54
+      ],
+      "style": {
+        "font": "TimesNewRoman,Bold",
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 179.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "16-0001",
+      "hash": "f91368bc"
+    },
+    {
+      "type": "paragraph",
+      "text": "O autor deste livro NÃO É MESTRE de ninguém e NÃO ACEITA DISCÍPULOS. Ele NÃO É LÍDER DE NENHUMA RELIGIÃO.",
+      "pages": [
+        54
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "16-0002",
+      "hash": "ff58159b"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este autor é tão somente um LIVRE-PENSADOR independente, que não possui nenhum compromisso com quaisquer grupos políticos, sectários, religiosos, partidários ou econômicos. Suas idéias são PROVISÓRIAS e foram publicadas apenas para serem discutidas e aprimoradas. Não existe nenhum grupo, em lugar algum da Terra, que represente as idéias deste autor. Obviamente, existem grupos de pessoas inteligentes com linhas de pensamento semelhantes à dele mas tais grupos, definitivamente, não o representam.",
+      "pages": [
+        54
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "16-0003",
+      "hash": "0be93816"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este autor NÃO QUER FÃS E NEM ADMIRADORES, quer somente leitores críticos e reflexivos.",
+      "pages": [
+        54
+      ],
+      "style": {
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "16-0004",
+      "hash": "ee46b567"
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "page_number": 7,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        103.09149169921875,
+        515.4595947265625,
+        118.65927124023438
+      ],
+      "text": "Algumas \nvezes, \natormentam-nos, \ncom \nseus \njogos \ncontraditórios \ne",
+      "spans": [
+        {
+          "text": "Algumas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            103.09149169921875,
+            134.6580810546875,
+            118.65927124023438
+          ],
+          "origin": [
+            82.73980712890625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "vezes, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            144.76080322265625,
+            103.09149169921875,
+            182.30067443847656,
+            118.65927124023438
+          ],
+          "origin": [
+            144.76080322265625,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "atormentam-nos, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            192.4033966064453,
+            103.09149169921875,
+            288.62762451171875,
+            118.65927124023438
+          ],
+          "origin": [
+            192.4033966064453,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "com ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            298.7303161621094,
+            103.09149169921875,
+            324.63153076171875,
+            118.65927124023438
+          ],
+          "origin": [
+            298.7303161621094,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "seus ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            334.7342224121094,
+            103.09149169921875,
+            361.7256164550781,
+            118.65927124023438
+          ],
+          "origin": [
+            334.7342224121094,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "jogos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            371.7674560546875,
+            103.09149169921875,
+            404.8912353515625,
+            118.65927124023438
+          ],
+          "origin": [
+            371.7674560546875,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "contraditórios ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            414.9330749511719,
+            103.09149169921875,
+            496.3779296875,
+            118.65927124023438
+          ],
+          "origin": [
+            414.9330749511719,
+            115.3800048828125
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            506.4198913574219,
+            103.09149169921875,
+            515.4595947265625,
+            118.65927124023438
+          ],
+          "origin": [
+            506.4198913574219,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.4795532226562,
+        138.81906127929688
+      ],
+      "text": "incoerências, nos levando à loucura. Quando as vencemos, elas nos",
+      "spans": [
+        {
+          "text": "incoerências, nos levando à loucura. Quando as vencemos, elas nos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.4795532226562,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.41107177734375,
+        515.4390869140625,
+        158.97885131835938
+      ],
+      "text": "presenteiam com os segredos maravilhosos e delícias que reservam aos",
+      "spans": [
+        {
+          "text": "presenteiam com os segredos maravilhosos e delícias que reservam aos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.41107177734375,
+            515.4390869140625,
+            158.97885131835938
+          ],
+          "origin": [
+            82.73980712890625,
+            155.6995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.511474609375,
+        468.2497863769531,
+        179.07925415039062
+      ],
+      "text": "eleitos. Não são inerentemente más, são apenas humanas, como nós.",
+      "spans": [
+        {
+          "text": "eleitos. Não são inerentemente más, são apenas humanas, como nós. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.511474609375,
+            468.2497863769531,
+            179.07925415039062
+          ],
+          "origin": [
+            82.73980712890625,
+            175.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        195.31109619140625,
+        515.4796142578125,
+        210.87887573242188
+      ],
+      "text": "Como tenho visto muitos homens sofrerem nas mãos dessas deliciosas",
+      "spans": [
+        {
+          "text": "Como tenho visto muitos homens sofrerem nas mãos dessas deliciosas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23982238769531,
+            195.31109619140625,
+            515.4796142578125,
+            210.87887573242188
+          ],
+          "origin": [
+            117.23982238769531,
+            207.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        215.47088623046875,
+        515.4230346679688,
+        231.03866577148438
+      ],
+      "text": "criaturas, resolvi compartilhar o conhecimento que adquiri em duras",
+      "spans": [
+        {
+          "text": "criaturas, resolvi compartilhar o conhecimento que adquiri em duras ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            215.47088623046875,
+            515.4230346679688,
+            231.03866577148438
+          ],
+          "origin": [
+            82.73980712890625,
+            227.7593994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        235.5712890625,
+        159.5962371826172,
+        251.13906860351562
+      ],
+      "text": "experiências.",
+      "spans": [
+        {
+          "text": "experiências. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            235.5712890625,
+            159.5962371826172,
+            251.13906860351562
+          ],
+          "origin": [
+            82.73979187011719,
+            247.85980224609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        267.37091064453125,
+        515.431640625,
+        282.9386901855469
+      ],
+      "text": "Quando eu era jovem, não entendia porque certos filósofos e",
+      "spans": [
+        {
+          "text": "Quando eu era jovem, não entendia porque certos filósofos e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            267.37091064453125,
+            515.431640625,
+            282.9386901855469
+          ],
+          "origin": [
+            117.23979187011719,
+            279.659423828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        287.53070068359375,
+        515.47265625,
+        303.0984802246094
+      ],
+      "text": "escritores diziam que necessitávamos nos desapegar das mulheres. Os",
+      "spans": [
+        {
+          "text": "escritores diziam que necessitávamos nos desapegar das mulheres. Os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            287.53070068359375,
+            515.47265625,
+            303.0984802246094
+          ],
+          "origin": [
+            82.73979187011719,
+            299.8192138671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        307.631103515625,
+        515.4907836914062,
+        323.1988830566406
+      ],
+      "text": "considerava injustos e discordava. Hoje os entendo perfeitamente e",
+      "spans": [
+        {
+          "text": "considerava injustos e discordava. Hoje os entendo perfeitamente e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            307.631103515625,
+            515.4907836914062,
+            323.1988830566406
+          ],
+          "origin": [
+            82.73979187011719,
+            319.91961669921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        327.7912902832031,
+        515.4752197265625,
+        343.35906982421875
+      ],
+      "text": "concordo com boa parte do que disseram Nietzsche, Schopenhauer, Kant,",
+      "spans": [
+        {
+          "text": "concordo com boa parte do que disseram Nietzsche, Schopenhauer, Kant, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            327.7912902832031,
+            515.4752197265625,
+            343.35906982421875
+          ],
+          "origin": [
+            82.73979187011719,
+            340.0798034667969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        347.8916931152344,
+        515.4505615234375,
+        363.45947265625
+      ],
+      "text": "Eliphas Lévi e outros sábios. As advertências da Igreja na Idade Média, do",
+      "spans": [
+        {
+          "text": "Eliphas Lévi e outros sábios. As advertências da Igreja na Idade Média, do ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            347.8916931152344,
+            515.4505615234375,
+            363.45947265625
+          ],
+          "origin": [
+            82.73979187011719,
+            360.1802062988281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        367.9920959472656,
+        515.3762817382812,
+        383.55987548828125
+      ],
+      "text": "Alcorão, da Bíblia e de outros livros sagrados a respeito desses seres",
+      "spans": [
+        {
+          "text": "Alcorão, da Bíblia e de outros livros sagrados a respeito desses seres ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            367.9920959472656,
+            515.3762817382812,
+            383.55987548828125
+          ],
+          "origin": [
+            82.73979187011719,
+            380.2806091308594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        388.0924987792969,
+        426.3697814941406,
+        403.6602783203125
+      ],
+      "text": "simultaneamente maravilhosos e malvados não são gratuitas.",
+      "spans": [
+        {
+          "text": "simultaneamente maravilhosos e malvados não são gratuitas. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            388.0924987792969,
+            426.3697814941406,
+            403.6602783203125
+          ],
+          "origin": [
+            82.73979187011719,
+            400.3810119628906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        419.89208984375,
+        515.4347534179688,
+        435.4598693847656
+      ],
+      "text": "O jogo da paixão é uma batalha de sentimentos em que a mulher tenta",
+      "spans": [
+        {
+          "text": "O jogo da paixão é uma batalha de sentimentos em que a mulher tenta ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            419.89208984375,
+            515.4347534179688,
+            435.4598693847656
+          ],
+          "origin": [
+            117.23980712890625,
+            432.18060302734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        440.0518798828125,
+        515.4606323242188,
+        455.6196594238281
+      ],
+      "text": "vencer usando as carências afetivas e sexuais do homem. A intenção é",
+      "spans": [
+        {
+          "text": "vencer usando as carências afetivas e sexuais do homem. A intenção é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            440.0518798828125,
+            515.4606323242188,
+            455.6196594238281
+          ],
+          "origin": [
+            82.73979187011719,
+            452.34039306640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        460.15228271484375,
+        515.5145874023438,
+        475.7200622558594
+      ],
+      "text": "conquistar o nosso coração para dispor, deste modo, da subserviência que se",
+      "spans": [
+        {
+          "text": "conquistar o nosso coração para dispor, deste modo, da subserviência que se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            460.15228271484375,
+            515.5145874023438,
+            475.7200622558594
+          ],
+          "origin": [
+            82.73979187011719,
+            472.4407958984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        480.3124694824219,
+        291.2061767578125,
+        495.8802490234375
+      ],
+      "text": "origina do estado de apaixonamento.",
+      "spans": [
+        {
+          "text": "origina do estado de apaixonamento. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            480.3124694824219,
+            291.2061767578125,
+            495.8802490234375
+          ],
+          "origin": [
+            82.73979187011719,
+            492.6009826660156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23979187011719,
+        512.1116333007812,
+        515.4473266601562,
+        527.679443359375
+      ],
+      "text": "Os princípios que aponto se aplicam de forma geral às relações de",
+      "spans": [
+        {
+          "text": "Os princípios que aponto se aplicam de forma geral às relações de ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23979187011719,
+            512.1116333007812,
+            515.4473266601562,
+            527.679443359375
+          ],
+          "origin": [
+            117.23979187011719,
+            524.400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        532.2124633789062,
+        515.517822265625,
+        547.7802734375
+      ],
+      "text": "gênero estáveis: à conquista, ao namoro e ao casamento, entre outras",
+      "spans": [
+        {
+          "text": "gênero estáveis: à conquista, ao namoro e ao casamento, entre outras ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            532.2124633789062,
+            515.517822265625,
+            547.7802734375
+          ],
+          "origin": [
+            82.73979187011719,
+            544.5009765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979187011719,
+        552.3726196289062,
+        515.4631958007812,
+        567.9404296875
+      ],
+      "text": "\"modalidades\" (e, portanto, destinam-se somente a adultos). As informações",
+      "spans": [
+        {
+          "text": "\"modalidades\" (e, portanto, destinam-se somente a adultos). As informações ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73979187011719,
+            552.3726196289062,
+            515.4631958007812,
+            567.9404296875
+          ],
+          "origin": [
+            82.73979187011719,
+            564.6611328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        572.4730834960938,
+        515.49853515625,
+        588.0408935546875
+      ],
+      "text": "foram obtidas junto às obras de autores respeitáveis e pelo contato,",
+      "spans": [
+        {
+          "text": "foram obtidas junto às obras de autores respeitáveis e pelo contato, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            572.4730834960938,
+            515.49853515625,
+            588.0408935546875
+          ],
+          "origin": [
+            82.73980712890625,
+            584.7615966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        592.6332397460938,
+        515.4181518554688,
+        608.2010498046875
+      ],
+      "text": "observação e experiência pessoal. Nada posso afirmar a respeito do que não",
+      "spans": [
+        {
+          "text": "observação e experiência pessoal. Nada posso afirmar a respeito do que não ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            592.6332397460938,
+            515.4181518554688,
+            608.2010498046875
+          ],
+          "origin": [
+            82.73980712890625,
+            604.9217529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        612.733642578125,
+        515.4893798828125,
+        628.3014526367188
+      ],
+      "text": "pertencer ao contexto experienciado por mim pois obviamente não conheço",
+      "spans": [
+        {
+          "text": "pertencer ao contexto experienciado por mim pois obviamente não conheço ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            612.733642578125,
+            515.4893798828125,
+            628.3014526367188
+          ],
+          "origin": [
+            82.73980712890625,
+            625.0221557617188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        632.8938598632812,
+        515.5186767578125,
+        648.461669921875
+      ],
+      "text": "todas as mulheres da Terra. De maneira alguma nego que o superior e o",
+      "spans": [
+        {
+          "text": "todas as mulheres da Terra. De maneira alguma nego que o superior e o ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            632.8938598632812,
+            515.5186767578125,
+            648.461669921875
+          ],
+          "origin": [
+            82.73980712890625,
+            645.182373046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        652.9942626953125,
+        515.4476318359375,
+        668.5620727539062
+      ],
+      "text": "inferior coexistam e que haja um aspecto maravilhoso, sublime e divino nas",
+      "spans": [
+        {
+          "text": "inferior coexistam e que haja um aspecto maravilhoso, sublime e divino nas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            652.9942626953125,
+            515.4476318359375,
+            668.5620727539062
+          ],
+          "origin": [
+            82.73980712890625,
+            665.2827758789062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        673.154052734375,
+        515.3716430664062,
+        688.7218627929688
+      ],
+      "text": "mulheres. Entretanto, suspeito que não sejam muitas, nesses tempos",
+      "spans": [
+        {
+          "text": "mulheres. Entretanto, suspeito que não sejam muitas, nesses tempos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            673.154052734375,
+            515.3716430664062,
+            688.7218627929688
+          ],
+          "origin": [
+            82.73980712890625,
+            685.4425659179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        693.2544555664062,
+        515.4447021484375,
+        708.822265625
+      ],
+      "text": "decadentes, aquelas que buscam se fusionar com sua parte positiva e",
+      "spans": [
+        {
+          "text": "decadentes, aquelas que buscam se fusionar com sua parte positiva e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            693.2544555664062,
+            515.4447021484375,
+            708.822265625
+          ],
+          "origin": [
+            82.73980712890625,
+            705.54296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4739990234375,
+        771.5181884765625
+      ],
+      "text": "7",
+      "spans": [
+        {
+          "text": "7",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            507.601806640625,
+            758.5191650390625,
+            512.4739990234375,
+            771.5181884765625
+          ],
+          "origin": [
+            507.601806640625,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

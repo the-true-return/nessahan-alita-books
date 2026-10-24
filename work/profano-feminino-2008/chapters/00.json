@@ -1,0 +1,891 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "00",
+  "title": "(front matter)",
+  "pages": [
+    1,
+    4
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "O SOFRIMENTO AMOROSO DO HOMEM - VOLUME II",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 14.1,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 22.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0001",
+      "hash": "b00e3448"
+    },
+    {
+      "type": "heading",
+      "text": "O Profano Feminino",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 19.4,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 127.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0002",
+      "hash": "ab93042a"
+    },
+    {
+      "type": "heading",
+      "text": "Considerações sobre uma Face da Mulher que Ninguém quer Encarar",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 15.6,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 188.4,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0003",
+      "hash": "26382e91"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por Nessahan Alita",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 171.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0004",
+      "hash": "2bdfb41e"
+    },
+    {
+      "type": "heading",
+      "text": "Dados para citação:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 163.0,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0005",
+      "hash": "6d7903f0"
+    },
+    {
+      "type": "paragraph",
+      "text": "ALITA, Nessahan (2005). O Profano Feminino: Considerações sobre uma Face da Mulher que Ninguém Quer Encarar. In: O Sofrimento Amoroso do Homem - Vol. II. Edição virtual independente de 2008.",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": -2.3,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0006",
+      "hash": "621f3384"
+    },
+    {
+      "type": "heading",
+      "text": "Resumo:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 190.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0007",
+      "hash": "560ba8a2"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mulheres possuem um lado sagrado e um lado profano. O lado profano consiste na aplicação da inteligência emocional para fins egoístas no campo amoroso, visando receber dos homens o máximo de amor e retribuir o mínimo necessário e possível.",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0008",
+      "hash": "39a16c95"
+    },
+    {
+      "type": "heading",
+      "text": "Palavras-chave:",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 172.8,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0009",
+      "hash": "b3b0a10a"
+    },
+    {
+      "type": "paragraph",
+      "text": "relacionamentos amorosos - agressão emocional - questão de gênero - sexualidade",
+      "pages": [
+        1
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 20.4,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0010",
+      "hash": "c517b6e9"
+    },
+    {
+      "type": "heading",
+      "text": "ATENÇÃO!",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 12.7,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 173.4,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0011",
+      "hash": "a22b1992"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este é um livro gratuito. Se você pagou por ele, você foi roubado.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": 32.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0012",
+      "hash": "55493741"
+    },
+    {
+      "type": "paragraph",
+      "text": "Não existem complementos, outras versões e nem outras edições autorizadas ou que estejam sendo comercializadas. Todas as versões que não sejam a presente estão desautorizadas, podendo estar adulteradas.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0013",
+      "hash": "b90e3369"
+    },
+    {
+      "type": "paragraph",
+      "text": "Você NÃO TEM PERMISSÃO para vender, editar, inserir comentários, ampliar, reduzir, adulterar, plagiar, traduzir, inserir imagens e nem disponibilizar comercialmente em nenhum lugar este livro. Nenhuma alteração do seu conteúdo, linguagem ou título está autorizada.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0014",
+      "hash": "e6c4078f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respeite o direito autoral.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": 32.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0015",
+      "hash": "d575789a"
+    },
+    {
+      "type": "heading",
+      "text": "Advertência",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle-Bold",
+        "size": 13.6,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 164.7,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0016",
+      "hash": "8844883f"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta obra deve ser lida sob a perspectiva do humor e da solidariedade, jamais da revolta.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0017",
+      "hash": "5a54d77e"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este livro ensina a arte da desarticular e neutralizar as artimanhas femininas no amor e como preservar-se contra os danos emocionais da paixão, não podendo ser evocado como incentivo ou respaldo a quaisquer outros atos. Seu tom crítico, direto, irônico e incisivo reflete somente o apontamento de falhas, erros e artimanhas, não significando respaldo a quaisquer sentimentos negativos.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0018",
+      "hash": "639aedf0"
+    },
+    {
+      "type": "paragraph",
+      "text": "As artimanhas aqui denunciadas, desmascaradas e descritas correspondem a expressões femininas, inconscientes em grande parte, de traços comportamentais comuns a ambos os gêneros. O perfil delineado corresponde a um tipo específico de mulher: aquela que é regida pelo egoísmo sentimental. O autor não se pronuncia a respeito do percentual de incidência deste perfil na população feminina dos diversos países.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0019",
+      "hash": "beca804f"
+    },
+    {
+      "type": "paragraph",
+      "text": "O autor também não se responsabiliza por más interpretações, leituras tendenciosas, generalizações indevidas ou distorções intencionais que possam ser feitas sob quaisquer alegações e nem tampouco por más utilizações deste conhecimento. Aqueles que distorcerem-no ou utilizarem-no indevidamente, terão que responder sozinhos por seus atos.",
+      "pages": [
+        2
+      ],
+      "style": {
+        "font": "BookmanOldStyle",
+        "size": 10.7,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 32.2,
+        "left": -2.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0020",
+      "hash": "41aa7884"
+    },
+    {
+      "type": "heading",
+      "text": "O Profano Feminino",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 20.0,
+        "bold": true,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 124.9,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0021",
+      "hash": "ab93042a"
+    },
+    {
+      "type": "heading",
+      "text": "Considerações sobre uma face da mulher que ninguém quer encarar",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 189.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0022",
+      "hash": "a3583538"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por Nessahan Alita",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 170.3,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0023",
+      "hash": "2bdfb41e"
+    },
+    {
+      "type": "heading",
+      "text": "Índice:",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 11.0,
+        "bold": true,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 10.2,
+        "left": 10.2,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0024",
+      "hash": "1df1a739"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introdução",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0025",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. O perigo de entender tudo errado",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0026",
+      "hash": "a1a4ba08"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Porque elas não olham para você",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0027",
+      "hash": "34850efe"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Os privilégios",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0028",
+      "hash": "94c4753f"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Mães, esposas e filhas",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0029",
+      "hash": "9dcb9ae0"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Porque elas são o contrário do que confessam",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0030",
+      "hash": "b08d2039"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Os julgamentos caprichosos",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0031",
+      "hash": "18936745"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. O valor do silêncio",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0032",
+      "hash": "4a4cd8f0"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. A duplicidade dos sentimentos",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0033",
+      "hash": "bab99925"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. Destroçando os inferninhos emocionais",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0034",
+      "hash": "674df3ac"
+    },
+    {
+      "type": "paragraph",
+      "text": "10. A estratégia de atacar a masculinidade",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0035",
+      "hash": "4e09bc47"
+    },
+    {
+      "type": "paragraph",
+      "text": "11. Como elas minam a desconfiança",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0036",
+      "hash": "5ec43bfc"
+    },
+    {
+      "type": "paragraph",
+      "text": "12. Quando elas vão embora",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0037",
+      "hash": "b936fdff"
+    },
+    {
+      "type": "paragraph",
+      "text": "13. Porque elas rejeitam o sexo sem amor",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0038",
+      "hash": "e77658b2"
+    },
+    {
+      "type": "paragraph",
+      "text": "14. O amor em suas várias formas",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0039",
+      "hash": "3f6381b4"
+    },
+    {
+      "type": "paragraph",
+      "text": "15. Desarticulando a ambiguidade",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0040",
+      "hash": "aaff779c"
+    },
+    {
+      "type": "paragraph",
+      "text": "16. Preservando o fio tênue e avançando",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0041",
+      "hash": "351e0712"
+    },
+    {
+      "type": "paragraph",
+      "text": "17. Esclarecimentos adicionais",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0042",
+      "hash": "cac1ee0d"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conclusões",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0043",
+      "hash": "ef0d1448"
+    },
+    {
+      "type": "heading",
+      "text": "As críticas deste livro não se aplicam às mulheres sinceras.",
+      "pages": [
+        4
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "00-0044",
+      "hash": "4862e6f0"
+    }
+  ]
+}

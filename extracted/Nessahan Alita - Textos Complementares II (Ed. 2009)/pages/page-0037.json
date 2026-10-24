@@ -1,0 +1,658 @@
+{
+  "page_number": 37,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20771789550781,
+        513.4060668945312,
+        208.6916046142578
+      ],
+      "text": "Hoje penso que deveria reescrever boa parte dos livros, para um entendimento \nmais exato. Talvez eu tenha deixado de reforçar certos pontos que hoje fazem falta. \nQuando recomendo, algumas vezes, por exemplo, a devolução das artimanhas \nfemininas, estou me referindo a um efeito espelho (bater e voltar) e não à vingança. Não \nse trata de pagar, por mero desejo vingativo, algumas artimanhas com outras artimanhas \ndiferentes e adicionais, trata-se tão somente de isolar a espertinha em sua própria \narmadilha, para que jogue sozinha e experimente o que havia sido destinado a nós. \n“Devolver a artimanha” é criar uma barreira refratária que conduz as artimanhas e seus \nindesejáveis efeitos de volta a quem os lançou, ou seja, é recusar o desagradável \n“presente” que nos foi oferecido, como conta a lenda do Buda.",
+      "spans": [
+        {
+          "text": "Hoje penso que deveria reescrever boa parte dos livros, para um entendimento ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20771789550781,
+            513.4060668945312,
+            84.4917221069336
+          ],
+          "origin": [
+            120.54000091552734,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "mais exato. Talvez eu tenha deixado de reforçar certos pontos que hoje fazem falta. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            85.00770568847656,
+            513.3289794921875,
+            98.29170989990234
+          ],
+          "origin": [
+            85.08000183105469,
+            95.69970703125
+          ]
+        },
+        {
+          "text": "Quando recomendo, algumas vezes, por exemplo, a devolução das artimanhas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            98.80769348144531,
+            513.3768310546875,
+            112.0916976928711
+          ],
+          "origin": [
+            85.08001708984375,
+            109.49969482421875
+          ]
+        },
+        {
+          "text": "femininas, estou me referindo a um efeito espelho (bater e voltar) e não à vingança. Não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            112.60768127441406,
+            513.361328125,
+            125.89168548583984
+          ],
+          "origin": [
+            85.08003234863281,
+            123.2996826171875
+          ]
+        },
+        {
+          "text": "se trata de pagar, por mero desejo vingativo, algumas artimanhas com outras artimanhas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            126.40766906738281,
+            513.333984375,
+            139.69166564941406
+          ],
+          "origin": [
+            85.08004760742188,
+            137.09967041015625
+          ]
+        },
+        {
+          "text": "diferentes e adicionais, trata-se tão somente de isolar a espertinha em sua própria ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            140.20765686035156,
+            513.3905029296875,
+            153.4916534423828
+          ],
+          "origin": [
+            85.08004760742188,
+            150.899658203125
+          ]
+        },
+        {
+          "text": "armadilha, para que jogue sozinha e experimente o que havia sido destinado a nós. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            154.0076446533203,
+            513.3502197265625,
+            167.29164123535156
+          ],
+          "origin": [
+            85.08004760742188,
+            164.69964599609375
+          ]
+        },
+        {
+          "text": "“Devolver a artimanha” é criar uma barreira refratária que conduz as artimanhas e seus ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            167.80763244628906,
+            513.3460693359375,
+            181.0916290283203
+          ],
+          "origin": [
+            85.08004760742188,
+            178.4996337890625
+          ]
+        },
+        {
+          "text": "indesejáveis efeitos de volta a quem os lançou, ou seja, é recusar o desagradável ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            181.6076202392578,
+            513.318603515625,
+            194.89161682128906
+          ],
+          "origin": [
+            85.08004760742188,
+            192.29962158203125
+          ]
+        },
+        {
+          "text": "“presente” que nos foi oferecido, como conta a lenda do Buda.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            195.40760803222656,
+            391.72906494140625,
+            208.6916046142578
+          ],
+          "origin": [
+            85.08004760742188,
+            206.099609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        221.2075958251953,
+        513.4058837890625,
+        317.2915344238281
+      ],
+      "text": "Incomoda-me muito ver que há pessoas que entendem tudo errado e supõem que \nrespaldo a vingança amorosa. O que respaldo é o boicote à desonestidade no amor e \ntambém certas retaliações justas. Se em algum momento escrevi algo que permitiu outra \ninterpretação, foi por simples inexatidão conceitual. Sou solidário com a justa \nindignação (e até com a raiva) de quem é trapaceado, mas não creio que o melhor para a \nnossa saúde seja nos fixarmos nestes sentimentos. É compreensível que sintamos raiva, \nmas não é saudável cultivá-la.",
+      "spans": [
+        {
+          "text": "Incomoda-me muito ver que há pessoas que entendem tudo errado e supõem que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            221.2075958251953,
+            513.3592529296875,
+            234.49159240722656
+          ],
+          "origin": [
+            120.54004669189453,
+            231.89959716796875
+          ]
+        },
+        {
+          "text": "respaldo a vingança amorosa. O que respaldo é o boicote à desonestidade no amor e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            235.00758361816406,
+            513.314697265625,
+            248.2915802001953
+          ],
+          "origin": [
+            85.08004760742188,
+            245.6995849609375
+          ]
+        },
+        {
+          "text": "também certas retaliações justas. Se em algum momento escrevi algo que permitiu outra ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            248.8075714111328,
+            513.314697265625,
+            262.0915832519531
+          ],
+          "origin": [
+            85.08004760742188,
+            259.49957275390625
+          ]
+        },
+        {
+          "text": "interpretação, foi por simples inexatidão conceitual. Sou solidário com a justa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            262.6075744628906,
+            513.287841796875,
+            275.8915710449219
+          ],
+          "origin": [
+            85.08004760742188,
+            273.299560546875
+          ]
+        },
+        {
+          "text": "indignação (e até com a raiva) de quem é trapaceado, mas não creio que o melhor para a ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            276.4075622558594,
+            513.4058837890625,
+            289.6915588378906
+          ],
+          "origin": [
+            85.08004760742188,
+            287.09954833984375
+          ]
+        },
+        {
+          "text": "nossa saúde seja nos fixarmos nestes sentimentos. É compreensível que sintamos raiva, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            290.2075500488281,
+            513.27685546875,
+            303.4915466308594
+          ],
+          "origin": [
+            85.08004760742188,
+            300.8995361328125
+          ]
+        },
+        {
+          "text": "mas não é saudável cultivá-la.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            304.0075378417969,
+            238.52163696289062,
+            317.2915344238281
+          ],
+          "origin": [
+            85.08004760742188,
+            314.69952392578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        329.8075256347656,
+        513.379150390625,
+        384.4314880371094
+      ],
+      "text": "A verdadeira felicidade não está no(a) outro(a), temos que buscá-la em nós. Não \ntemos porque exigir que as mulheres “nos façam felizes” pois isto não está ao seu \nalcance. Se elas não são capazes de fazer nem a si mesmas felizes...muito menos o \nseriam a nós!",
+      "spans": [
+        {
+          "text": "A verdadeira felicidade não está no(a) outro(a), temos que buscá-la em nós. Não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            329.8075256347656,
+            513.379150390625,
+            343.0915222167969
+          ],
+          "origin": [
+            120.54004669189453,
+            340.49951171875
+          ]
+        },
+        {
+          "text": "temos porque exigir que as mulheres “nos façam felizes” pois isto não está ao seu ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            343.5475158691406,
+            513.3411254882812,
+            356.8315124511719
+          ],
+          "origin": [
+            85.08004760742188,
+            354.239501953125
+          ]
+        },
+        {
+          "text": "alcance. Se elas não são capazes de fazer nem a si mesmas felizes...muito menos o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            357.3475036621094,
+            513.35986328125,
+            370.6315002441406
+          ],
+          "origin": [
+            85.08004760742188,
+            368.03948974609375
+          ]
+        },
+        {
+          "text": "seriam a nós! ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            371.1474914550781,
+            152.08563232421875,
+            384.4314880371094
+          ],
+          "origin": [
+            85.08004760742188,
+            381.8394775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        396.9474792480469,
+        513.4677124023438,
+        493.0314025878906
+      ],
+      "text": "Uma vez conquistado o correto estado interior, teremos plena consciência da \ncondição em que as mulheres atuais se encontram mas, ao mesmo tempo, aceitaremos \nesse estado como algo que lhes é de direito por livre arbítrio (assim como a nossa defesa \nemocional também é um direito legítimo e inalienável). Não nutriremos ressentimentos \nou emoções negativas de nenhuma espécie, pois compreenderemos que todos temos os \nnossos próprios defeitos. Quem não os tem em um campo, os tem em outro, já que não \nhá ninguém que seja santinho.",
+      "spans": [
+        {
+          "text": "Uma vez conquistado o correto estado interior, teremos plena consciência da ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            396.9474792480469,
+            513.3717041015625,
+            410.2314758300781
+          ],
+          "origin": [
+            120.54004669189453,
+            407.63946533203125
+          ]
+        },
+        {
+          "text": "condição em que as mulheres atuais se encontram mas, ao mesmo tempo, aceitaremos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08006286621094,
+            410.7474670410156,
+            513.3598022460938,
+            424.0314636230469
+          ],
+          "origin": [
+            85.08006286621094,
+            421.439453125
+          ]
+        },
+        {
+          "text": "esse estado como algo que lhes é de direito por livre arbítrio (assim como a nossa defesa ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            424.5474548339844,
+            513.4632568359375,
+            437.8314514160156
+          ],
+          "origin": [
+            85.08004760742188,
+            435.23944091796875
+          ]
+        },
+        {
+          "text": "emocional também é um direito legítimo e inalienável). Não nutriremos ressentimentos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            438.3474426269531,
+            513.4677124023438,
+            451.6314392089844
+          ],
+          "origin": [
+            85.08004760742188,
+            449.0394287109375
+          ]
+        },
+        {
+          "text": "ou emoções negativas de nenhuma espécie, pois compreenderemos que todos temos os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            452.1474304199219,
+            513.2907104492188,
+            465.4314270019531
+          ],
+          "origin": [
+            85.08004760742188,
+            462.83941650390625
+          ]
+        },
+        {
+          "text": "nossos próprios defeitos. Quem não os tem em um campo, os tem em outro, já que não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            465.9474182128906,
+            513.27587890625,
+            479.2314147949219
+          ],
+          "origin": [
+            85.08004760742188,
+            476.639404296875
+          ]
+        },
+        {
+          "text": "há ninguém que seja santinho.   ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            479.7474060058594,
+            239.1156768798828,
+            493.0314025878906
+          ],
+          "origin": [
+            85.08004760742188,
+            490.43939208984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        505.5473937988281,
+        513.3736572265625,
+        574.0313110351562
+      ],
+      "text": "Se ela não entende o valor do amor verdadeiro e despreza a sinceridade que você \nlhe devotou, paciência! Lembre-se que as pessoas são filhas das suas obras. Se ela te fez \nmuita raiva injustamente, lembre-se que o fez por estar iludida com a mentira de que \ntrapacear os outros é uma vantagem, mas que os dias dessa alegria também terão um \nfim, já que no final seremos todos iguais. Não há espertinha que trapaceie o tempo...",
+      "spans": [
+        {
+          "text": "Se ela não entende o valor do amor verdadeiro e despreza a sinceridade que você ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            505.5473937988281,
+            513.355224609375,
+            518.8313598632812
+          ],
+          "origin": [
+            120.54004669189453,
+            516.2393798828125
+          ]
+        },
+        {
+          "text": "lhe devotou, paciência! Lembre-se que as pessoas são filhas das suas obras. Se ela te fez ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            519.3473510742188,
+            513.3736572265625,
+            532.63134765625
+          ],
+          "origin": [
+            85.08004760742188,
+            530.0393676757812
+          ]
+        },
+        {
+          "text": "muita raiva injustamente, lembre-se que o fez por estar iludida com a mentira de que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            533.1473388671875,
+            513.3038330078125,
+            546.4313354492188
+          ],
+          "origin": [
+            85.08001708984375,
+            543.83935546875
+          ]
+        },
+        {
+          "text": "trapacear os outros é uma vantagem, mas que os dias dessa alegria também terão um ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            546.9473266601562,
+            513.373291015625,
+            560.2313232421875
+          ],
+          "origin": [
+            85.08000183105469,
+            557.6393432617188
+          ]
+        },
+        {
+          "text": "fim, já que no final seremos todos iguais. Não há espertinha que trapaceie o tempo... ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            560.747314453125,
+            492.845947265625,
+            574.0313110351562
+          ],
+          "origin": [
+            85.07998657226562,
+            571.4393310546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "37",
+      "spans": [
+        {
+          "text": "37",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

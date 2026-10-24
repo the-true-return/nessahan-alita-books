@@ -1,0 +1,605 @@
+{
+  "page_number": 39,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        72.07732391357422,
+        538.9201049804688,
+        87.48676300048828
+      ],
+      "text": "Não obstante, ela não é sua inimiga: seu inimigo é você próprio.",
+      "spans": [
+        {
+          "text": "Não obstante, ela não é sua inimiga: seu inimigo é você próprio.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            72.07732391357422,
+            538.9201049804688,
+            87.48676300048828
+          ],
+          "origin": [
+            108.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9200439453125,
+        111.48676300048828
+      ],
+      "text": "É contra si mesmo que você deve lutar: contra suas debilidades,",
+      "spans": [
+        {
+          "text": "É contra si mesmo que você deve lutar: contra suas debilidades,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.9200439453125,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.8160400390625,
+        135.72674560546875
+      ],
+      "text": "loucuras, afetos, medos, desejos, anelos, sonhos, fantasias, dores,",
+      "spans": [
+        {
+          "text": "loucuras, afetos, medos, desejos, anelos, sonhos, fantasias, dores,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.8160400390625,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        539.0400390625,
+        159.72674560546875
+      ],
+      "text": "apegos etc. O maior inimigo de um homem é ele próprio. Quando",
+      "spans": [
+        {
+          "text": "apegos etc. O maior inimigo de um homem é ele próprio. Quando",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            539.0400390625,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        168.5572967529297,
+        539.1005859375,
+        183.96673583984375
+      ],
+      "text": "vencemos a nós mesmos, vencemos as mulheres espertinhas por",
+      "spans": [
+        {
+          "text": "vencemos a nós mesmos, vencemos as mulheres espertinhas por",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            168.5572967529297,
+            539.1005859375,
+            183.96673583984375
+          ],
+          "origin": [
+            72.0,
+            180.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        192.7972869873047,
+        538.9657592773438,
+        208.20672607421875
+      ],
+      "text": "extensão pois, em última instância, não são elas que nos atingem e",
+      "spans": [
+        {
+          "text": "extensão pois, em última instância, não são elas que nos atingem e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            192.7972869873047,
+            538.9657592773438,
+            208.20672607421875
+          ],
+          "origin": [
+            72.0,
+            205.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        216.7972869873047,
+        538.9202270507812,
+        232.20672607421875
+      ],
+      "text": "ferem mas sim os nossos próprios sentimentos. Nossas parceiras",
+      "spans": [
+        {
+          "text": "ferem mas sim os nossos próprios sentimentos. Nossas parceiras",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            216.7972869873047,
+            538.9202270507812,
+            232.20672607421875
+          ],
+          "origin": [
+            72.0,
+            229.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        241.0372772216797,
+        538.920166015625,
+        256.44671630859375
+      ],
+      "text": "apenas utilizam nossas fraquezas contra nós mesmos e, ao fazê-lo,",
+      "spans": [
+        {
+          "text": "apenas utilizam nossas fraquezas contra nós mesmos e, ao fazê-lo,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            241.0372772216797,
+            538.920166015625,
+            256.44671630859375
+          ],
+          "origin": [
+            72.0,
+            253.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        265.27728271484375,
+        538.9349365234375,
+        280.68670654296875
+      ],
+      "text": "estão na verdade nos mostrando quem somos e até, de certa forma, nos",
+      "spans": [
+        {
+          "text": "estão na verdade nos mostrando quem somos e até, de certa forma, nos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            265.27728271484375,
+            538.9349365234375,
+            280.68670654296875
+          ],
+          "origin": [
+            72.0,
+            277.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        289.27728271484375,
+        538.9805297851562,
+        304.68670654296875
+      ],
+      "text": "ajudando. Por isso, não se revolte contra ninguém, muito menos contra",
+      "spans": [
+        {
+          "text": "ajudando. Por isso, não se revolte contra ninguém, muito menos contra",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            289.27728271484375,
+            538.9805297851562,
+            304.68670654296875
+          ],
+          "origin": [
+            72.0,
+            301.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        313.51727294921875,
+        538.9657592773438,
+        328.92669677734375
+      ],
+      "text": "as mulheres, porque é pura perda de tempo e ninguém dará",
+      "spans": [
+        {
+          "text": "as mulheres, porque é pura perda de tempo e ninguém dará",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            313.51727294921875,
+            538.9657592773438,
+            328.92669677734375
+          ],
+          "origin": [
+            72.0,
+            325.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        337.51727294921875,
+        470.9851989746094,
+        352.92669677734375
+      ],
+      "text": "importância. Revoltar-se contra as mulheres é uma bobagem.",
+      "spans": [
+        {
+          "text": "importância. Revoltar-se contra as mulheres é uma bobagem.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            337.51727294921875,
+            470.9851989746094,
+            352.92669677734375
+          ],
+          "origin": [
+            72.0,
+            349.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        373.75726318359375,
+        539.2503662109375,
+        389.16668701171875
+      ],
+      "text": "Esteja atento ao vício de achá-la parecida com sua mãe. A",
+      "spans": [
+        {
+          "text": "Esteja atento ao vício de achá-la parecida com sua mãe. A",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            373.75726318359375,
+            539.2503662109375,
+            389.16668701171875
+          ],
+          "origin": [
+            108.0,
+            386.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        397.99725341796875,
+        539.0401000976562,
+        413.40667724609375
+      ],
+      "text": "tendência de ver a parceira como mãe é uma das raízes do",
+      "spans": [
+        {
+          "text": "tendência de ver a parceira como mãe é uma das raízes do",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            397.99725341796875,
+            539.0401000976562,
+            413.40667724609375
+          ],
+          "origin": [
+            72.0,
+            410.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        421.99725341796875,
+        538.9349365234375,
+        437.40667724609375
+      ],
+      "text": "apaixonamento. É o mesmo sentimento que tínhamos na infância e nos",
+      "spans": [
+        {
+          "text": "apaixonamento. É o mesmo sentimento que tínhamos na infância e nos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            421.99725341796875,
+            538.9349365234375,
+            437.40667724609375
+          ],
+          "origin": [
+            72.0,
+            434.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        446.23724365234375,
+        305.3851623535156,
+        461.64666748046875
+      ],
+      "text": "faz vê-las como tábuas de salvação.",
+      "spans": [
+        {
+          "text": "faz vê-las como tábuas de salvação.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            446.23724365234375,
+            305.3851623535156,
+            461.64666748046875
+          ],
+          "origin": [
+            72.0,
+            458.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        482.23724365234375,
+        538.9805908203125,
+        497.64666748046875
+      ],
+      "text": "O procedimento para se curar a paixão é o mesmo com o qual se",
+      "spans": [
+        {
+          "text": "O procedimento para se curar a paixão é o mesmo com o qual se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            482.23724365234375,
+            538.9805908203125,
+            497.64666748046875
+          ],
+          "origin": [
+            108.0,
+            494.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.47723388671875,
+        414.6000061035156,
+        521.8866577148438
+      ],
+      "text": "cura qualquer outra doença da alma: a compreensão.",
+      "spans": [
+        {
+          "text": "cura qualquer outra doença da alma: a compreensão.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.47723388671875,
+            414.6000061035156,
+            521.8866577148438
+          ],
+          "origin": [
+            72.0,
+            518.8799438476562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "39",
+      "spans": [
+        {
+          "text": "39",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1399536132812,
+        345.75592041015625,
+        782.5439453125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1399536132812,
+            239.97604370117188,
+            782.5439453125
+          ],
+          "origin": [
+            18.0,
+            779.9999389648438
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1399536132812,
+            345.75592041015625,
+            782.5439453125
+          ],
+          "origin": [
+            240.0,
+            779.9999389648438
+          ]
+        }
+      ]
+    }
+  ]
+}

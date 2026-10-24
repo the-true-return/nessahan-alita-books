@@ -1,0 +1,209 @@
+{
+  "book": "magnetismo-relacoes-sociais-2008",
+  "title": "O Magnetismo nas Relações Sociais",
+  "metrics": {
+    "body_size": 12.0,
+    "left": 85,
+    "right": 526,
+    "indent": 121,
+    "line_gap": 7.42,
+    "para_gap": 11.87
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        2
+      ],
+      "segments": 22,
+      "words": 152,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        3,
+        3
+      ],
+      "segments": 8,
+      "words": 234,
+      "footnotes": 0
+    },
+    {
+      "id": "02",
+      "title": "1. As atrações e repulsões",
+      "pages": [
+        4,
+        9
+      ],
+      "segments": 37,
+      "words": 1372,
+      "footnotes": 0
+    },
+    {
+      "id": "03",
+      "title": "2. As cadeias magnéticas",
+      "pages": [
+        10,
+        11
+      ],
+      "segments": 11,
+      "words": 477,
+      "footnotes": 0
+    },
+    {
+      "id": "04",
+      "title": "3. A resistência e a manipulação das correntes",
+      "pages": [
+        12,
+        15
+      ],
+      "segments": 16,
+      "words": 1114,
+      "footnotes": 1
+    },
+    {
+      "id": "05",
+      "title": "4. A manipulação e a instrumentalização das crenças",
+      "pages": [
+        16,
+        17
+      ],
+      "segments": 11,
+      "words": 522,
+      "footnotes": 0
+    },
+    {
+      "id": "06",
+      "title": "5. As tendências de instalação da crença",
+      "pages": [
+        18,
+        20
+      ],
+      "segments": 13,
+      "words": 639,
+      "footnotes": 0
+    },
+    {
+      "id": "07",
+      "title": "6. A natureza da paixão",
+      "pages": [
+        21,
+        24
+      ],
+      "segments": 27,
+      "words": 844,
+      "footnotes": 0
+    },
+    {
+      "id": "08",
+      "title": "7. A apoderação da vontade alheia",
+      "pages": [
+        25,
+        27
+      ],
+      "segments": 14,
+      "words": 598,
+      "footnotes": 0
+    },
+    {
+      "id": "09",
+      "title": "8. O caráter auto-dominatório da manipulação",
+      "pages": [
+        28,
+        32
+      ],
+      "segments": 18,
+      "words": 1229,
+      "footnotes": 2
+    },
+    {
+      "id": "10",
+      "title": "9. A singularidade comportamental do elemento passivo",
+      "pages": [
+        33,
+        34
+      ],
+      "segments": 10,
+      "words": 349,
+      "footnotes": 0
+    },
+    {
+      "id": "11",
+      "title": "10. O uso da simpatia da maioria dos elos de uma cadeia por homens vis",
+      "pages": [
+        35,
+        36
+      ],
+      "segments": 9,
+      "words": 547,
+      "footnotes": 0
+    },
+    {
+      "id": "12",
+      "title": "11. O magnetismo nas polêmicas",
+      "pages": [
+        37,
+        45
+      ],
+      "segments": 44,
+      "words": 2429,
+      "footnotes": 2
+    },
+    {
+      "id": "13",
+      "title": "12. A dinâmica psicológica do encantamento e da feitiçaria",
+      "pages": [
+        46,
+        50
+      ],
+      "segments": 32,
+      "words": 1124,
+      "footnotes": 0
+    },
+    {
+      "id": "14",
+      "title": "Conclusões",
+      "pages": [
+        51,
+        52
+      ],
+      "segments": 15,
+      "words": 163,
+      "footnotes": 0
+    },
+    {
+      "id": "15",
+      "title": "Referência:",
+      "pages": [
+        53,
+        53
+      ],
+      "segments": 3,
+      "words": 22,
+      "footnotes": 0
+    },
+    {
+      "id": "16",
+      "title": "Sobre o autor",
+      "pages": [
+        54,
+        54
+      ],
+      "segments": 4,
+      "words": 107,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 54
+  },
+  "completeness": {
+    "source_chars": 64667,
+    "segment_chars": 64667
+  },
+  "warnings": []
+}

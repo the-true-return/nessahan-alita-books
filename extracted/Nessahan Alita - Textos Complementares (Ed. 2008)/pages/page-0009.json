@@ -1,0 +1,968 @@
+{
+  "page_number": 9,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        104.6982192993164,
+        235.1160888671875,
+        118.37545776367188
+      ],
+      "text": "Contra o homem",
+      "spans": [
+        {
+          "text": "Contra o homem",
+          "font": "BookmanOldStyle-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            104.6982192993164,
+            231.5955352783203,
+            118.37545776367188
+          ],
+          "origin": [
+            117.23999786376953,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        136.91824340820312,
+        516.274658203125,
+        150.59548950195312
+      ],
+      "text": "Meu trabalho propõe a morte psicológica do homem e não",
+      "spans": [
+        {
+          "text": "Meu trabalho propõe a morte psicológica do homem e não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            136.91824340820312,
+            516.274658203125,
+            150.59548950195312
+          ],
+          "origin": [
+            117.23999786376953,
+            147.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        157.43875122070312,
+        516.172119140625,
+        171.11599731445312
+      ],
+      "text": "das mulheres. Está, portanto, contra o gênero masculino e não",
+      "spans": [
+        {
+          "text": "das mulheres. Está, portanto, contra o gênero masculino e não ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            157.43875122070312,
+            516.172119140625,
+            171.11599731445312
+          ],
+          "origin": [
+            82.73995971679688,
+            168.42022705078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        178.01876831054688,
+        516.1940307617188,
+        191.69601440429688
+      ],
+      "text": "contra o gênero feminino, uma vez que não alimento grandes",
+      "spans": [
+        {
+          "text": "contra o gênero feminino, uma vez que não alimento grandes ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            178.01876831054688,
+            516.1940307617188,
+            191.69601440429688
+          ],
+          "origin": [
+            82.73995971679688,
+            189.000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        198.53927612304688,
+        459.5340576171875,
+        212.21652221679688
+      ],
+      "text": "esperanças de transformação com relação a este último.",
+      "spans": [
+        {
+          "text": "esperanças de transformação com relação a este último. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            198.53927612304688,
+            459.5340576171875,
+            212.21652221679688
+          ],
+          "origin": [
+            82.73995971679688,
+            209.520751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        230.81967163085938,
+        516.27001953125,
+        244.49691772460938
+      ],
+      "text": "Propor ao homem que morra psicologicamente é propor-lhe",
+      "spans": [
+        {
+          "text": "Propor ao homem que morra psicologicamente é propor-lhe ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            230.81967163085938,
+            516.27001953125,
+            244.49691772460938
+          ],
+          "origin": [
+            117.23998260498047,
+            241.8011474609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        251.34017944335938,
+        516.1415405273438,
+        265.0174255371094
+      ],
+      "text": "que lute contra si mesmo. Se proponho ao homem que lute",
+      "spans": [
+        {
+          "text": "que lute contra si mesmo. Se proponho ao homem que lute ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            251.34017944335938,
+            516.1415405273438,
+            265.0174255371094
+          ],
+          "origin": [
+            82.73994445800781,
+            262.3216552734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        271.9201965332031,
+        516.2640991210938,
+        285.5974426269531
+      ],
+      "text": "contra si mesmo, então estou propondo ao homem que lute",
+      "spans": [
+        {
+          "text": "contra si mesmo, então estou propondo ao homem que lute ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            271.9201965332031,
+            516.2640991210938,
+            285.5974426269531
+          ],
+          "origin": [
+            82.73994445800781,
+            282.90167236328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        292.4407043457031,
+        516.191650390625,
+        306.1179504394531
+      ],
+      "text": "contra o próprio homem (ele mesmo). Ao propor ao homem uma",
+      "spans": [
+        {
+          "text": "contra o próprio homem (ele mesmo). Ao propor ao homem uma ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            292.4407043457031,
+            516.191650390625,
+            306.1179504394531
+          ],
+          "origin": [
+            82.73994445800781,
+            303.42218017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        312.9612121582031,
+        516.3199462890625,
+        326.6384582519531
+      ],
+      "text": "luta contra o homem, estou propondo uma luta contra o gênero",
+      "spans": [
+        {
+          "text": "luta contra o homem, estou propondo uma luta contra o gênero ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            312.9612121582031,
+            516.3199462890625,
+            326.6384582519531
+          ],
+          "origin": [
+            82.73994445800781,
+            323.94268798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        333.541259765625,
+        159.1026153564453,
+        347.218505859375
+      ],
+      "text": "masculino.",
+      "spans": [
+        {
+          "text": "masculino. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            333.541259765625,
+            159.1026153564453,
+            347.218505859375
+          ],
+          "origin": [
+            82.73994445800781,
+            344.5227355957031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.2399673461914,
+        365.7014465332031,
+        516.2337036132812,
+        379.3786926269531
+      ],
+      "text": "O gênero masculino, tal como se encontra, está cheio de",
+      "spans": [
+        {
+          "text": "O gênero masculino, tal como se encontra, está cheio de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.2399673461914,
+            365.7014465332031,
+            516.2337036132812,
+            379.3786926269531
+          ],
+          "origin": [
+            117.2399673461914,
+            376.68292236328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73994445800781,
+        386.34100341796875,
+        516.166015625,
+        400.01824951171875
+      ],
+      "text": "defeitos e problemas, devendo desaparecer para dar lugar a um",
+      "spans": [
+        {
+          "text": "defeitos e problemas, devendo desaparecer para dar lugar a um ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73994445800781,
+            386.34100341796875,
+            516.166015625,
+            400.01824951171875
+          ],
+          "origin": [
+            82.73994445800781,
+            397.3224792480469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        406.8615417480469,
+        516.2196655273438,
+        420.5387878417969
+      ],
+      "text": "novo homem. O macho ultrapassado, sofredor e obsessivo,",
+      "spans": [
+        {
+          "text": "novo homem. O macho ultrapassado, sofredor e obsessivo, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            406.8615417480469,
+            516.2196655273438,
+            420.5387878417969
+          ],
+          "origin": [
+            82.73995971679688,
+            417.843017578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        427.382080078125,
+        516.2651977539062,
+        441.059326171875
+      ],
+      "text": "adepto \ndo \namor \nneurótico \ne \ncompulsivo, \nprecisa \nmorrer",
+      "spans": [
+        {
+          "text": "adepto ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            427.382080078125,
+            130.62664794921875,
+            441.059326171875
+          ],
+          "origin": [
+            82.73995971679688,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            140.51463317871094,
+            427.382080078125,
+            159.9778594970703,
+            441.059326171875
+          ],
+          "origin": [
+            140.51463317871094,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "amor ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            169.9253692626953,
+            427.382080078125,
+            206.90992736816406,
+            441.059326171875
+          ],
+          "origin": [
+            169.9253692626953,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "neurótico ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            216.79791259765625,
+            427.382080078125,
+            283.2492370605469,
+            441.059326171875
+          ],
+          "origin": [
+            216.79791259765625,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            293.13720703125,
+            427.382080078125,
+            303.91912841796875,
+            441.059326171875
+          ],
+          "origin": [
+            293.13720703125,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "compulsivo, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            313.7464294433594,
+            427.382080078125,
+            396.399169921875,
+            441.059326171875
+          ],
+          "origin": [
+            313.7464294433594,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "precisa ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            406.3466491699219,
+            427.382080078125,
+            457.7250061035156,
+            441.059326171875
+          ],
+          "origin": [
+            406.3466491699219,
+            438.3635559082031
+          ]
+        },
+        {
+          "text": "morrer ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            467.61297607421875,
+            427.382080078125,
+            516.2651977539062,
+            441.059326171875
+          ],
+          "origin": [
+            467.61297607421875,
+            438.3635559082031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        447.9621276855469,
+        413.4734802246094,
+        461.6393737792969
+      ],
+      "text": "interiormente para que nasça o macho do futuro.",
+      "spans": [
+        {
+          "text": "interiormente para que nasça o macho do futuro. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            447.9621276855469,
+            413.4734802246094,
+            461.6393737792969
+          ],
+          "origin": [
+            82.73995971679688,
+            458.943603515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        480.122314453125,
+        256.64630126953125,
+        493.799560546875
+      ],
+      "text": "Sexualidade animal",
+      "spans": [
+        {
+          "text": "Sexualidade animal ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 11.670000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            480.122314453125,
+            256.64630126953125,
+            493.799560546875
+          ],
+          "origin": [
+            117.23998260498047,
+            491.1037902832031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        512.342041015625,
+        516.2501220703125,
+        526.0192260742188
+      ],
+      "text": "Observando os machos de várias espécies, constatei que,",
+      "spans": [
+        {
+          "text": "Observando os machos de várias espécies, constatei que, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            512.342041015625,
+            516.2501220703125,
+            526.0192260742188
+          ],
+          "origin": [
+            117.23998260498047,
+            523.323486328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        532.9815673828125,
+        516.1895141601562,
+        546.6587524414062
+      ],
+      "text": "assim como nós, eles se desesperam pela falta de sexo e perdem",
+      "spans": [
+        {
+          "text": "assim como nós, eles se desesperam pela falta de sexo e perdem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            532.9815673828125,
+            516.1895141601562,
+            546.6587524414062
+          ],
+          "origin": [
+            82.73995971679688,
+            543.9630126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        553.5021362304688,
+        516.3153076171875,
+        567.1793212890625
+      ],
+      "text": "o senso da realidade.  Quando privados de fêmeas, cães tentam",
+      "spans": [
+        {
+          "text": "o senso da realidade.  Quando privados de fêmeas, cães tentam ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            553.5021362304688,
+            516.3153076171875,
+            567.1793212890625
+          ],
+          "origin": [
+            82.73995971679688,
+            564.4835815429688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        574.022705078125,
+        516.2173461914062,
+        587.6998901367188
+      ],
+      "text": "copular com pernas e árvores, tartarugas sobem em cima de",
+      "spans": [
+        {
+          "text": "copular com pernas e árvores, tartarugas sobem em cima de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            574.022705078125,
+            516.2173461914062,
+            587.6998901367188
+          ],
+          "origin": [
+            82.73995971679688,
+            585.004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        594.543212890625,
+        516.2313842773438,
+        608.2203979492188
+      ],
+      "text": "melões, touros pulam cercas de arame farpado em busca de",
+      "spans": [
+        {
+          "text": "melões, touros pulam cercas de arame farpado em busca de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            594.543212890625,
+            516.2313842773438,
+            608.2203979492188
+          ],
+          "origin": [
+            82.73995971679688,
+            605.524658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        615.1232299804688,
+        516.2490234375,
+        628.8004150390625
+      ],
+      "text": "uma distante vaca no cio, cavalos e jumentos perseguem",
+      "spans": [
+        {
+          "text": "uma distante vaca no cio, cavalos e jumentos perseguem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            615.1232299804688,
+            516.2490234375,
+            628.8004150390625
+          ],
+          "origin": [
+            82.73995971679688,
+            626.1046752929688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        635.643798828125,
+        516.2151489257812,
+        649.3209838867188
+      ],
+      "text": "pessoas com o pênis ereto e galos tornam-se altamente",
+      "spans": [
+        {
+          "text": "pessoas com o pênis ereto e galos tornam-se altamente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            635.643798828125,
+            516.2151489257812,
+            649.3209838867188
+          ],
+          "origin": [
+            82.73995971679688,
+            646.625244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        656.164306640625,
+        516.2860717773438,
+        669.8414916992188
+      ],
+      "text": "agressivos. O mesmo parece não se verificar com suas fêmeas,",
+      "spans": [
+        {
+          "text": "agressivos. O mesmo parece não se verificar com suas fêmeas, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            656.164306640625,
+            516.2860717773438,
+            669.8414916992188
+          ],
+          "origin": [
+            82.73995971679688,
+            667.145751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        676.8038330078125,
+        516.1846923828125,
+        690.4810180664062
+      ],
+      "text": "as quais mantém-se, por longo tempo, calmas e tranquilas.",
+      "spans": [
+        {
+          "text": "as quais mantém-se, por longo tempo, calmas e tranquilas. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            676.8038330078125,
+            516.1846923828125,
+            690.4810180664062
+          ],
+          "origin": [
+            82.73995971679688,
+            687.7852783203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        697.3243408203125,
+        516.259521484375,
+        711.0015258789062
+      ],
+      "text": "Quando finalmente excesso de abstinência se faz nelas sentir, é",
+      "spans": [
+        {
+          "text": "Quando finalmente excesso de abstinência se faz nelas sentir, é ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            697.3243408203125,
+            516.259521484375,
+            711.0015258789062
+          ],
+          "origin": [
+            82.73997497558594,
+            708.3057861328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        717.8449096679688,
+        516.2326049804688,
+        731.5220947265625
+      ],
+      "text": "tão somente na forma de nervosismo e de “pavios curtos” (o",
+      "spans": [
+        {
+          "text": "tão somente na forma de nervosismo e de “pavios curtos” (o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            717.8449096679688,
+            516.2326049804688,
+            731.5220947265625
+          ],
+          "origin": [
+            82.73997497558594,
+            728.8263549804688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.473876953125,
+        770.8849487304688
+      ],
+      "text": "9",
+      "spans": [
+        {
+          "text": "9",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            507.6016845703125,
+            760.097900390625,
+            512.473876953125,
+            770.8849487304688
+          ],
+          "origin": [
+            507.6016845703125,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

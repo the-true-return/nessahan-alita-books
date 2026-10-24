@@ -1,0 +1,806 @@
+{
+  "page_number": 4,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        280.55999755859375,
+        78.31273651123047,
+        366.1341552734375,
+        96.11329650878906
+      ],
+      "text": "Introdução",
+      "spans": [
+        {
+          "text": "Introdução",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            280.55999755859375,
+            78.31273651123047,
+            366.1341552734375,
+            96.11329650878906
+          ],
+          "origin": [
+            280.55999755859375,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        539.32470703125,
+        133.08673095703125
+      ],
+      "text": "Muito se tem escrito sobre a perfídia dos homens e pouco se tem",
+      "spans": [
+        {
+          "text": "Muito se tem escrito sobre a perfídia dos homens e pouco se tem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            539.32470703125,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        538.9656372070312,
+        157.08673095703125
+      ],
+      "text": "escrito sobra a perfídia das mulheres. Sem negar de modo algum a",
+      "spans": [
+        {
+          "text": "escrito sobra a perfídia das mulheres. Sem negar de modo algum a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            538.9656372070312,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        539.0401000976562,
+        181.32672119140625
+      ],
+      "text": "existência de um lado superior, maravilhoso, paradisíaco e divino no",
+      "spans": [
+        {
+          "text": "existência de um lado superior, maravilhoso, paradisíaco e divino no",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            539.0401000976562,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        189.9172821044922,
+        538.9806518554688,
+        205.32672119140625
+      ],
+      "text": "feminino e nem tampouco o lado negativo do masculino, venho agora",
+      "spans": [
+        {
+          "text": "feminino e nem tampouco o lado negativo do masculino, venho agora",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            189.9172821044922,
+            538.9806518554688,
+            205.32672119140625
+          ],
+          "origin": [
+            72.0,
+            202.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        214.1572723388672,
+        471.7200622558594,
+        229.56671142578125
+      ],
+      "text": "tentar suprir esta carência clarificando um pouco o que falta.",
+      "spans": [
+        {
+          "text": "tentar suprir esta carência clarificando um pouco o que falta.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            214.1572723388672,
+            471.7200622558594,
+            229.56671142578125
+          ],
+          "origin": [
+            72.0,
+            226.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        250.3972625732422,
+        539.0103149414062,
+        265.80670166015625
+      ],
+      "text": "Há na mulher duas instâncias: uma superior e outra inferior. O",
+      "spans": [
+        {
+          "text": "Há na mulher duas instâncias: uma superior e outra inferior. O",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            250.3972625732422,
+            539.0103149414062,
+            265.80670166015625
+          ],
+          "origin": [
+            108.0,
+            262.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        274.39727783203125,
+        539.115478515625,
+        289.80670166015625
+      ],
+      "text": "lado superior corresponde à Mulher autêntica; o lado inferior",
+      "spans": [
+        {
+          "text": "lado superior corresponde à Mulher autêntica; o lado inferior",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            274.39727783203125,
+            539.115478515625,
+            289.80670166015625
+          ],
+          "origin": [
+            72.0,
+            286.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        298.63726806640625,
+        538.9805908203125,
+        314.04669189453125
+      ],
+      "text": "corresponde à fêmea humanóide animal. Sobre a maldade da fêmea",
+      "spans": [
+        {
+          "text": "corresponde à fêmea humanóide animal. Sobre a maldade da fêmea",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            298.63726806640625,
+            538.9805908203125,
+            314.04669189453125
+          ],
+          "origin": [
+            72.0,
+            311.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        322.87725830078125,
+        538.98046875,
+        338.28668212890625
+      ],
+      "text": "animal as pessoas não costumam falar muito, é um tabu. Todo aquele",
+      "spans": [
+        {
+          "text": "animal as pessoas não costumam falar muito, é um tabu. Todo aquele",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            322.87725830078125,
+            538.98046875,
+            338.28668212890625
+          ],
+          "origin": [
+            72.0,
+            335.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        346.87725830078125,
+        538.9805908203125,
+        362.28668212890625
+      ],
+      "text": "que se atreve a apontar as crueldades e debilidades femininas é",
+      "spans": [
+        {
+          "text": "que se atreve a apontar as crueldades e debilidades femininas é",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            346.87725830078125,
+            538.9805908203125,
+            362.28668212890625
+          ],
+          "origin": [
+            72.0,
+            359.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        371.11724853515625,
+        538.9805297851562,
+        386.52667236328125
+      ],
+      "text": "imediatamente rotulado como um simples machista retrógrado e",
+      "spans": [
+        {
+          "text": "imediatamente rotulado como um simples machista retrógrado e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            371.11724853515625,
+            538.9805297851562,
+            386.52667236328125
+          ],
+          "origin": [
+            72.0,
+            383.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        395.11724853515625,
+        539.0401000976562,
+        410.52667236328125
+      ],
+      "text": "misógino. Infelizmente, as mulheres atuais em grande parte estão",
+      "spans": [
+        {
+          "text": "misógino. Infelizmente, as mulheres atuais em grande parte estão",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            395.11724853515625,
+            539.0401000976562,
+            410.52667236328125
+          ],
+          "origin": [
+            72.0,
+            407.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        419.35723876953125,
+        538.9656982421875,
+        434.76666259765625
+      ],
+      "text": "polarizadas negativamente na relação com os homens, nem sempre",
+      "spans": [
+        {
+          "text": "polarizadas negativamente na relação com os homens, nem sempre",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            419.35723876953125,
+            538.9656982421875,
+            434.76666259765625
+          ],
+          "origin": [
+            72.0,
+            431.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        443.59722900390625,
+        538.9656372070312,
+        459.00665283203125
+      ],
+      "text": "dando voz à parte superior e boa que há nelas. As verdadeiramente",
+      "spans": [
+        {
+          "text": "dando voz à parte superior e boa que há nelas. As verdadeiramente",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            443.59722900390625,
+            538.9656372070312,
+            459.00665283203125
+          ],
+          "origin": [
+            72.0,
+            455.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        467.59722900390625,
+        538.9657592773438,
+        483.00665283203125
+      ],
+      "text": "sinceras, que também existem, estão perdidas no meio da multidão e",
+      "spans": [
+        {
+          "text": "sinceras, que também existem, estão perdidas no meio da multidão e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            467.59722900390625,
+            538.9657592773438,
+            483.00665283203125
+          ],
+          "origin": [
+            72.0,
+            479.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        491.83721923828125,
+        539.3099975585938,
+        507.24664306640625
+      ],
+      "text": "não podem ser encontradas facilmente porque as espertinhas se fazem",
+      "spans": [
+        {
+          "text": "não podem ser encontradas facilmente porque as espertinhas se fazem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            491.83721923828125,
+            539.3099975585938,
+            507.24664306640625
+          ],
+          "origin": [
+            72.0,
+            504.23992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        513.6339721679688,
+        539.0402221679688,
+        531.2466430664062
+      ],
+      "text": "passar por honestas1. Como aquelas que não servem para o casamento",
+      "spans": [
+        {
+          "text": "passar por honestas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            515.8372192382812,
+            200.5348663330078,
+            531.2466430664062
+          ],
+          "origin": [
+            72.0,
+            528.2399291992188
+          ]
+        },
+        {
+          "text": "1",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            201.83999633789062,
+            513.6339721679688,
+            206.39999389648438,
+            523.7297973632812
+          ],
+          "origin": [
+            201.83999633789062,
+            521.7598876953125
+          ]
+        },
+        {
+          "text": ". Como aquelas que não servem para o casamento",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            206.39999389648438,
+            515.8372192382812,
+            539.0402221679688,
+            531.2466430664062
+          ],
+          "origin": [
+            206.39999389648438,
+            528.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        540.0772094726562,
+        538.9051513671875,
+        555.4866333007812
+      ],
+      "text": "são dissimuladas e juram pela alma que são fiéis, honestas e sinceras,",
+      "spans": [
+        {
+          "text": "são dissimuladas e juram pela alma que são fiéis, honestas e sinceras,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            540.0772094726562,
+            538.9051513671875,
+            555.4866333007812
+          ],
+          "origin": [
+            72.0,
+            552.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        564.3172607421875,
+        539.3098754882812,
+        579.7266845703125
+      ],
+      "text": "as poucas que serviriam para uma relação séria e estável não podem",
+      "spans": [
+        {
+          "text": "as poucas que serviriam para uma relação séria e estável não podem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            564.3172607421875,
+            539.3098754882812,
+            579.7266845703125
+          ],
+          "origin": [
+            72.0,
+            576.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        588.3172607421875,
+        538.9349365234375,
+        603.7266845703125
+      ],
+      "text": "ser detectadas sem grande dificuldade. Mulheres (e homens) sinceras",
+      "spans": [
+        {
+          "text": "ser detectadas sem grande dificuldade. Mulheres (e homens) sinceras",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            588.3172607421875,
+            538.9349365234375,
+            603.7266845703125
+          ],
+          "origin": [
+            72.0,
+            600.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        655.1863403320312,
+        540.1556396484375,
+        690.7373046875
+      ],
+      "text": "1 Refiro-me à honestidade dos sentimentos e não ao número de parceiros sexuais. Uma mulher que não se contente\ncom um só homem e queira ter muitos parceiros não pode ser acusada de insinceridade se deixar isso bem claro \"n\ncontrato\", isto é, desde o início.",
+      "spans": [
+        {
+          "text": "1",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            655.1863403320312,
+            75.23999786376953,
+            662.3596801757812
+          ],
+          "origin": [
+            72.0,
+            660.9600219726562
+          ]
+        },
+        {
+          "text": " Refiro-me à honestidade dos sentimentos e não ao número de parceiros sexuais. Uma mulher que não se contente",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            75.36000061035156,
+            656.5387573242188,
+            540.1556396484375,
+            667.6973266601562
+          ],
+          "origin": [
+            75.36000061035156,
+            665.52001953125
+          ]
+        },
+        {
+          "text": "com um só homem e queira ter muitos parceiros não pode ser acusada de insinceridade se deixar isso bem claro \"n",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            668.0587768554688,
+            539.7667236328125,
+            679.2173461914062
+          ],
+          "origin": [
+            72.0,
+            677.0400390625
+          ]
+        },
+        {
+          "text": "contrato\", isto é, desde o início.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            679.5787353515625,
+            198.36337280273438,
+            690.7373046875
+          ],
+          "origin": [
+            72.0,
+            688.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        534.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "4",
+      "spans": [
+        {
+          "text": "4",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            534.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            534.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

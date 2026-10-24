@@ -1,0 +1,857 @@
+{
+  "page_number": 60,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        77.02869415283203,
+        526.95361328125,
+        95.87445068359375
+      ],
+      "text": "7. A obsessiva busca feminina pela continuidade do",
+      "spans": [
+        {
+          "text": "7.",
+          "font": "BookmanOldStyle,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            77.02869415283203,
+            100.98719787597656,
+            95.87445068359375
+          ],
+          "origin": [
+            84.95999908447266,
+            92.15997314453125
+          ]
+        },
+        {
+          "text": "A obsessiva busca feminina pela continuidade do",
+          "font": "BookmanOldStyle,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            107.76000213623047,
+            77.02869415283203,
+            526.95361328125,
+            95.87445068359375
+          ],
+          "origin": [
+            107.76000213623047,
+            92.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        105.10871124267578,
+        251.90403747558594,
+        123.9544677734375
+      ],
+      "text": "interesse masculino",
+      "spans": [
+        {
+          "text": "interesse masculino",
+          "font": "BookmanOldStyle,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            105.10871124267578,
+            251.90403747558594,
+            123.9544677734375
+          ],
+          "origin": [
+            84.96000671386719,
+            120.239990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        145.9554901123047,
+        526.684814453125,
+        161.615478515625
+      ],
+      "text": "Vamos desenvolver agora algumas implicações da confusa",
+      "spans": [
+        {
+          "text": "Vamos desenvolver agora algumas implicações da confusa",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            145.9554901123047,
+            526.684814453125,
+            161.615478515625
+          ],
+          "origin": [
+            120.48001098632812,
+            158.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        170.4354705810547,
+        526.84814453125,
+        186.095458984375
+      ],
+      "text": "e mal explicada teoria da continuidade de Francesco Alberoni",
+      "spans": [
+        {
+          "text": "e mal explicada teoria da continuidade de Francesco Alberoni",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            170.4354705810547,
+            526.84814453125,
+            186.095458984375
+          ],
+          "origin": [
+            84.96000671386719,
+            182.87994384765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        195.1554412841797,
+        121.8048095703125,
+        210.8154296875
+      ],
+      "text": "(s/d).",
+      "spans": [
+        {
+          "text": "(s/d).",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            195.1554412841797,
+            121.8048095703125,
+            210.8154296875
+          ],
+          "origin": [
+            84.96000671386719,
+            207.59991455078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        231.87547302246094,
+        526.8960571289062,
+        247.53546142578125
+      ],
+      "text": "Alberoni foi um gênio ao detectar a continuidade no",
+      "spans": [
+        {
+          "text": "Alberoni foi um gênio ao detectar a continuidade no",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            231.87547302246094,
+            526.8960571289062,
+            247.53546142578125
+          ],
+          "origin": [
+            120.48001098632812,
+            244.3199462890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        256.5954284667969,
+        526.713623046875,
+        272.25543212890625
+      ],
+      "text": "erotismo feminino mas, infelizmente, suas explicações falham",
+      "spans": [
+        {
+          "text": "erotismo feminino mas, infelizmente, suas explicações falham",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            256.5954284667969,
+            526.713623046875,
+            272.25543212890625
+          ],
+          "origin": [
+            84.96000671386719,
+            269.0399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        281.075439453125,
+        526.7041015625,
+        296.7354431152344
+      ],
+      "text": "no que concerne à clareza. Da forma como ele explica sua teoria",
+      "spans": [
+        {
+          "text": "no que concerne à clareza. Da forma como ele explica sua teoria",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            281.075439453125,
+            526.7041015625,
+            296.7354431152344
+          ],
+          "origin": [
+            84.96000671386719,
+            293.5199279785156
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        305.7954406738281,
+        526.67529296875,
+        321.4554443359375
+      ],
+      "text": "da continuidade, o leitor é levado a crer que a mulher está",
+      "spans": [
+        {
+          "text": "da continuidade, o leitor é levado a crer que a mulher está",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            305.7954406738281,
+            526.67529296875,
+            321.4554443359375
+          ],
+          "origin": [
+            84.96000671386719,
+            318.23992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        330.51544189453125,
+        526.8192138671875,
+        346.1754455566406
+      ],
+      "text": "permanentemente interessada em dar sexo e dar amor, o que é",
+      "spans": [
+        {
+          "text": "permanentemente interessada em dar sexo e dar amor, o que é",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            330.51544189453125,
+            526.8192138671875,
+            346.1754455566406
+          ],
+          "origin": [
+            84.96000671386719,
+            342.9599304199219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        354.9954528808594,
+        526.8767700195312,
+        370.65545654296875
+      ],
+      "text": "falso. A realidade é justamente o contrário: a mulher quer que",
+      "spans": [
+        {
+          "text": "falso. A realidade é justamente o contrário: a mulher quer que",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            354.9954528808594,
+            526.8767700195312,
+            370.65545654296875
+          ],
+          "origin": [
+            84.96000671386719,
+            367.43994140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.96000671386719,
+        379.7154541015625,
+        526.84814453125,
+        395.3754577636719
+      ],
+      "text": "ambos lhe sejam oferecidos (e não tomados) continuamente",
+      "spans": [
+        {
+          "text": "ambos lhe sejam oferecidos (e não tomados) continuamente",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.96000671386719,
+            379.7154541015625,
+            526.84814453125,
+            395.3754577636719
+          ],
+          "origin": [
+            84.96000671386719,
+            392.1599426269531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        404.4355163574219,
+        526.7904663085938,
+        420.09552001953125
+      ],
+      "text": "para que possam ser rejeitados, ou seja, almeja a continuidade",
+      "spans": [
+        {
+          "text": "para que possam ser rejeitados, ou seja, almeja a continuidade",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            404.4355163574219,
+            526.7904663085938,
+            420.09552001953125
+          ],
+          "origin": [
+            84.95999908447266,
+            416.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        428.91552734375,
+        526.8287963867188,
+        444.5755310058594
+      ],
+      "text": "do interesse masculino, quer receber constantemente provas de",
+      "spans": [
+        {
+          "text": "do interesse masculino, quer receber constantemente provas de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            428.91552734375,
+            526.8287963867188,
+            444.5755310058594
+          ],
+          "origin": [
+            84.95999908447266,
+            441.3600158691406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        453.6355285644531,
+        526.6561279296875,
+        469.2955322265625
+      ],
+      "text": "que o homem está interessado em sua pessoa. Não quer",
+      "spans": [
+        {
+          "text": "que o homem está interessado em sua pessoa. Não quer",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            453.6355285644531,
+            526.6561279296875,
+            469.2955322265625
+          ],
+          "origin": [
+            84.95999908447266,
+            466.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        478.35552978515625,
+        357.3023681640625,
+        494.0155334472656
+      ],
+      "text": "oferecer sexo e amor em tempo integral.",
+      "spans": [
+        {
+          "text": "oferecer sexo e amor em tempo integral.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            478.35552978515625,
+            357.3023681640625,
+            494.0155334472656
+          ],
+          "origin": [
+            84.95999908447266,
+            490.8000183105469
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        514.4213256835938,
+        457.8049011230469,
+        530.7355346679688
+      ],
+      "text": "A contradição comportamental visa a continuidade",
+      "spans": [
+        {
+          "text": "A contradição comportamental visa a continuidade",
+          "font": "BookmanOldStyle,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            514.4213256835938,
+            457.8049011230469,
+            530.7355346679688
+          ],
+          "origin": [
+            84.95999908447266,
+            527.52001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        551.5555419921875,
+        526.7136840820312,
+        567.2155151367188
+      ],
+      "text": "O comportamento feminino ambíguo, que comunica",
+      "spans": [
+        {
+          "text": "O comportamento feminino ambíguo, que comunica",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            551.5555419921875,
+            526.7136840820312,
+            567.2155151367188
+          ],
+          "origin": [
+            120.47999572753906,
+            564.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        576.2755737304688,
+        526.73291015625,
+        591.935546875
+      ],
+      "text": "interesse \ne \ndesinteresse \nsimultâneos, \nalmeja \nmanter \na",
+      "spans": [
+        {
+          "text": "interesse ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            576.2755737304688,
+            150.38400268554688,
+            591.935546875
+          ],
+          "origin": [
+            84.95999145507812,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "e ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            162.24960327148438,
+            576.2755737304688,
+            173.9040069580078,
+            591.935546875
+          ],
+          "origin": [
+            162.24960327148438,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "desinteresse ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            185.76959228515625,
+            576.2755737304688,
+            274.713623046875,
+            591.935546875
+          ],
+          "origin": [
+            185.76959228515625,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "simultâneos, ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            286.8192138671875,
+            576.2755737304688,
+            379.10406494140625,
+            591.935546875
+          ],
+          "origin": [
+            286.8192138671875,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "almeja ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            391.20965576171875,
+            576.2755737304688,
+            440.7840576171875,
+            591.935546875
+          ],
+          "origin": [
+            391.20965576171875,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "manter ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            452.8896484375,
+            576.2755737304688,
+            506.5536804199219,
+            591.935546875
+          ],
+          "origin": [
+            452.8896484375,
+            588.7200317382812
+          ]
+        },
+        {
+          "text": "a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            518.6593017578125,
+            576.2755737304688,
+            526.73291015625,
+            591.935546875
+          ],
+          "origin": [
+            518.6593017578125,
+            588.7200317382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        600.9955444335938,
+        526.6944580078125,
+        616.655517578125
+      ],
+      "text": "continuidade do interesse masculino. \nA preservação da",
+      "spans": [
+        {
+          "text": "continuidade do interesse masculino. ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            600.9955444335938,
+            377.4144287109375,
+            616.655517578125
+          ],
+          "origin": [
+            84.95999145507812,
+            613.4400024414062
+          ]
+        },
+        {
+          "text": "A preservação da",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            388.5600280761719,
+            600.9955444335938,
+            526.6944580078125,
+            616.655517578125
+          ],
+          "origin": [
+            388.5600280761719,
+            613.4400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        625.4755859375,
+        526.8673095703125,
+        641.1355590820312
+      ],
+      "text": "continuidade do interesse, e não a satisfação deste interesse, é",
+      "spans": [
+        {
+          "text": "continuidade do interesse, e não a satisfação deste interesse, é",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            625.4755859375,
+            526.8673095703125,
+            641.1355590820312
+          ],
+          "origin": [
+            84.95999145507812,
+            637.9200439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        650.195556640625,
+        526.7135620117188,
+        665.8555297851562
+      ],
+      "text": "a mais importante, senão única, meta de todo a conduta",
+      "spans": [
+        {
+          "text": "a mais importante, senão única, meta de todo a conduta",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            650.195556640625,
+            526.7135620117188,
+            665.8555297851562
+          ],
+          "origin": [
+            84.95999145507812,
+            662.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        674.91552734375,
+        484.9151611328125,
+        690.5755004882812
+      ],
+      "text": "desconcertante, baseada no envio de sinais contraditórios.",
+      "spans": [
+        {
+          "text": "desconcertante, baseada no envio de sinais contraditórios.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            674.91552734375,
+            484.9151611328125,
+            690.5755004882812
+          ],
+          "origin": [
+            84.95999145507812,
+            687.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.1400146484375,
+            239.9760284423828,
+            782.5440063476562
+          ],
+          "origin": [
+            17.99999237060547,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

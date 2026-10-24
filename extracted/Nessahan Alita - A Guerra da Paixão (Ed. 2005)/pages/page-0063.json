@@ -1,0 +1,852 @@
+{
+  "page_number": 63,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        309.8697509765625,
+        87.48676300048828
+      ],
+      "text": "homem famoso desejado por muitas;",
+      "spans": [
+        {
+          "text": "homem famoso desejado por muitas;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            309.8697509765625,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        108.07732391357422,
+        458.6548767089844,
+        123.48676300048828
+      ],
+      "text": "• descobrir segredos que lhes excitem a curiosidade;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            108.4200439453125,
+            113.5199966430664,
+            123.12004089355469
+          ],
+          "origin": [
+            108.0,
+            120.48004150390625
+          ]
+        },
+        {
+          "text": "descobrir segredos que lhes excitem a curiosidade;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            126.0,
+            108.07732391357422,
+            458.6548767089844,
+            123.48676300048828
+          ],
+          "origin": [
+            126.0,
+            120.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        144.3173065185547,
+        377.3097229003906,
+        159.72674560546875
+      ],
+      "text": "• ser desejada e repudiar quem a deseja;",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            144.6600341796875,
+            113.5199966430664,
+            159.3600311279297
+          ],
+          "origin": [
+            108.0,
+            156.72003173828125
+          ]
+        },
+        {
+          "text": "ser desejada e repudiar quem a deseja;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            126.0,
+            144.3173065185547,
+            377.3097229003906,
+            159.72674560546875
+          ],
+          "origin": [
+            126.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        180.3173065185547,
+        538.9349365234375,
+        195.72674560546875
+      ],
+      "text": "• dissimular, mentir e sentir que consegue enganar homens",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            180.6600341796875,
+            113.5199966430664,
+            195.3600311279297
+          ],
+          "origin": [
+            108.0,
+            192.72003173828125
+          ]
+        },
+        {
+          "text": "dissimular, mentir e sentir que consegue enganar homens",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            126.0,
+            180.3173065185547,
+            538.9349365234375,
+            195.72674560546875
+          ],
+          "origin": [
+            126.0,
+            192.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        204.5572967529297,
+        151.94976806640625,
+        219.96673583984375
+      ],
+      "text": "possessivos;",
+      "spans": [
+        {
+          "text": "possessivos;",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            204.5572967529297,
+            151.94976806640625,
+            219.96673583984375
+          ],
+          "origin": [
+            72.0,
+            216.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        240.7972869873047,
+        538.9806518554688,
+        256.20672607421875
+      ],
+      "text": "• comprovar continuamente que consegue fazer se apaixonar e",
+      "spans": [
+        {
+          "text": "•",
+          "font": "Symbol",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            108.0,
+            241.1400146484375,
+            113.5199966430664,
+            255.8400115966797
+          ],
+          "origin": [
+            108.0,
+            253.20001220703125
+          ]
+        },
+        {
+          "text": "comprovar continuamente que consegue fazer se apaixonar e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            126.0,
+            240.7972869873047,
+            538.9806518554688,
+            256.20672607421875
+          ],
+          "origin": [
+            126.0,
+            253.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        264.79730224609375,
+        171.7200164794922,
+        280.20672607421875
+      ],
+      "text": "sofre por amor.",
+      "spans": [
+        {
+          "text": "sofre por amor.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            264.79730224609375,
+            171.7200164794922,
+            280.20672607421875
+          ],
+          "origin": [
+            72.0,
+            277.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        301.03729248046875,
+        538.9805908203125,
+        316.44671630859375
+      ],
+      "text": "Os desejos mencionados nunca são totalmente satisfeitos durante",
+      "spans": [
+        {
+          "text": "Os desejos mencionados nunca são totalmente satisfeitos durante",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            301.03729248046875,
+            538.9805908203125,
+            316.44671630859375
+          ],
+          "origin": [
+            108.0,
+            313.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        325.27728271484375,
+        538.9805297851562,
+        340.68670654296875
+      ],
+      "text": "a relação com homens mais experientes: eles os boicotam. Elas se",
+      "spans": [
+        {
+          "text": "a relação com homens mais experientes: eles os boicotam. Elas se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            325.27728271484375,
+            538.9805297851562,
+            340.68670654296875
+          ],
+          "origin": [
+            72.0,
+            337.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        349.27728271484375,
+        538.9656982421875,
+        364.68670654296875
+      ],
+      "text": "prendem a esses homens sem entenderem os motivos. E os motivos se",
+      "spans": [
+        {
+          "text": "prendem a esses homens sem entenderem os motivos. E os motivos se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            349.27728271484375,
+            538.9656982421875,
+            364.68670654296875
+          ],
+          "origin": [
+            72.0,
+            361.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        373.51727294921875,
+        539.115478515625,
+        388.92669677734375
+      ],
+      "text": "resumem no seguinte: eles ascenam com a possibilidade de satisfazer",
+      "spans": [
+        {
+          "text": "resumem no seguinte: eles ascenam com a possibilidade de satisfazer",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            373.51727294921875,
+            539.115478515625,
+            388.92669677734375
+          ],
+          "origin": [
+            72.0,
+            385.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        397.51727294921875,
+        539.3099365234375,
+        412.92669677734375
+      ],
+      "text": "tais paixões absurdas e ao mesmo tempo nunca as satisfazem",
+      "spans": [
+        {
+          "text": "tais paixões absurdas e ao mesmo tempo nunca as satisfazem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            397.51727294921875,
+            539.3099365234375,
+            412.92669677734375
+          ],
+          "origin": [
+            72.0,
+            409.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        421.75726318359375,
+        339.97491455078125,
+        437.16668701171875
+      ],
+      "text": "totalmente, preservando a sede feminina.",
+      "spans": [
+        {
+          "text": "totalmente, preservando a sede feminina.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            421.75726318359375,
+            339.97491455078125,
+            437.16668701171875
+          ],
+          "origin": [
+            72.0,
+            434.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        457.99725341796875,
+        538.9348754882812,
+        473.40667724609375
+      ],
+      "text": "O desejo de oferecer sexo, carinho e amor NÃO É uma das",
+      "spans": [
+        {
+          "text": "O desejo de oferecer sexo, carinho e amor ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            457.99725341796875,
+            415.800048828125,
+            473.40667724609375
+          ],
+          "origin": [
+            108.0,
+            470.39996337890625
+          ]
+        },
+        {
+          "text": "NÃO É",
+          "font": "TimesNewRoman,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            420.9599914550781,
+            457.99725341796875,
+            472.9646301269531,
+            473.40667724609375
+          ],
+          "origin": [
+            420.9599914550781,
+            470.39996337890625
+          ]
+        },
+        {
+          "text": " uma das",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            474.0,
+            457.99725341796875,
+            538.9348754882812,
+            473.40667724609375
+          ],
+          "origin": [
+            474.0,
+            470.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        481.9972839355469,
+        538.9201049804688,
+        497.4067077636719
+      ],
+      "text": "fraquezas femininas principais. Esses três elementos são apenas",
+      "spans": [
+        {
+          "text": "fraquezas femininas principais. Esses três elementos são apenas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            481.9972839355469,
+            538.9201049804688,
+            497.4067077636719
+          ],
+          "origin": [
+            72.0,
+            494.3999938964844
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        506.2373046875,
+        538.9805908203125,
+        521.646728515625
+      ],
+      "text": "ferramentas utilizadas para atrair os homens e dominá-los de maneira",
+      "spans": [
+        {
+          "text": "ferramentas utilizadas para atrair os homens e dominá-los de maneira",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            506.2373046875,
+            538.9805908203125,
+            521.646728515625
+          ],
+          "origin": [
+            72.0,
+            518.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        530.2373046875,
+        538.9806518554688,
+        545.646728515625
+      ],
+      "text": "análoga à descrita acima. Na guerra da paixão, o desejo do outro, seja",
+      "spans": [
+        {
+          "text": "análoga à descrita acima. Na guerra da paixão, o desejo do outro, seja",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            530.2373046875,
+            538.9806518554688,
+            545.646728515625
+          ],
+          "origin": [
+            72.0,
+            542.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        554.477294921875,
+        538.9805297851562,
+        569.88671875
+      ],
+      "text": "homem ou mulher, nunca é totalmente satisfeito. Aquele que satisfaz",
+      "spans": [
+        {
+          "text": "homem ou mulher, nunca é totalmente satisfeito. Aquele que satisfaz",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            554.477294921875,
+            538.9805297851562,
+            569.88671875
+          ],
+          "origin": [
+            72.0,
+            566.8800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        578.71728515625,
+        538.980712890625,
+        594.126708984375
+      ],
+      "text": "completamente o desejo do outro a perde. Aquele que nunca satisfaz",
+      "spans": [
+        {
+          "text": "completamente o desejo do outro a perde. Aquele que nunca satisfaz",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            578.71728515625,
+            538.980712890625,
+            594.126708984375
+          ],
+          "origin": [
+            72.0,
+            591.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        602.71728515625,
+        539.1154174804688,
+        618.126708984375
+      ],
+      "text": "nenhum desejo do outro, igualmente a perde. Aquele que atender",
+      "spans": [
+        {
+          "text": "nenhum desejo do outro, igualmente a perde. Aquele que atender",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            602.71728515625,
+            539.1154174804688,
+            618.126708984375
+          ],
+          "origin": [
+            72.0,
+            615.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        626.957275390625,
+        538.9805297851562,
+        642.36669921875
+      ],
+      "text": "parcialmente a todos desejos do parceiro de forma mais hábil, sempre",
+      "spans": [
+        {
+          "text": "parcialmente a todos desejos do parceiro de forma mais hábil, sempre",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            626.957275390625,
+            538.9805297851562,
+            642.36669921875
+          ],
+          "origin": [
+            72.0,
+            639.3599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        651.197265625,
+        538.9805908203125,
+        666.606689453125
+      ],
+      "text": "permitindo que esses desejos continuem, vencerá. É por isso que a",
+      "spans": [
+        {
+          "text": "permitindo que esses desejos continuem, vencerá. É por isso que a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            651.197265625,
+            538.9805908203125,
+            666.606689453125
+          ],
+          "origin": [
+            72.0,
+            663.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        675.197265625,
+        539.2501831054688,
+        690.606689453125
+      ],
+      "text": "guerra da paixão é tola, não tem nada a ver com o amor verdadeiro. A",
+      "spans": [
+        {
+          "text": "guerra da paixão é tola, não tem nada a ver com o amor verdadeiro. A",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            675.197265625,
+            539.2501831054688,
+            690.606689453125
+          ],
+          "origin": [
+            72.0,
+            687.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "63",
+      "spans": [
+        {
+          "text": "63",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

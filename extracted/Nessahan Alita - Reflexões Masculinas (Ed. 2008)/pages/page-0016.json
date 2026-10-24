@@ -1,0 +1,852 @@
+{
+  "page_number": 16,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        70.90128326416016,
+        424.80975341796875,
+        87.21552276611328
+      ],
+      "text": "A mulher necessita sentir-se desejada e amada",
+      "spans": [
+        {
+          "text": "A mulher necessita sentir-se desejada e amada",
+          "font": "BookmanOldStyle,Bold",
+          "size": 13.920000076293945,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            70.90128326416016,
+            424.80975341796875,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        108.2754898071289,
+        526.73291015625,
+        123.93549346923828
+      ],
+      "text": "Para além do critério seletivo, entretanto, há nelas uma",
+      "spans": [
+        {
+          "text": "Para além do critério seletivo, entretanto, há nelas uma",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            108.2754898071289,
+            526.73291015625,
+            123.93549346923828
+          ],
+          "origin": [
+            120.47999572753906,
+            120.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        132.75547790527344,
+        526.8193969726562,
+        148.41546630859375
+      ],
+      "text": "imensa necessidade egoísta de sentirem fortemente desejadas e",
+      "spans": [
+        {
+          "text": "imensa necessidade egoísta de sentirem fortemente desejadas e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            132.75547790527344,
+            526.8193969726562,
+            148.41546630859375
+          ],
+          "origin": [
+            84.95999145507812,
+            145.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        157.47544860839844,
+        526.8096313476562,
+        173.13543701171875
+      ],
+      "text": "amadas pelo maior número possível de homens, para que",
+      "spans": [
+        {
+          "text": "amadas pelo maior número possível de homens, para que",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            157.47544860839844,
+            526.8096313476562,
+            173.13543701171875
+          ],
+          "origin": [
+            84.95999145507812,
+            169.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        182.19541931152344,
+        526.6944580078125,
+        197.85540771484375
+      ],
+      "text": "possam \nrejeitá-los. \nEsta \nsensação \nfunciona \ncomo \num",
+      "spans": [
+        {
+          "text": "possam ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            182.19541931152344,
+            141.48480224609375,
+            197.85540771484375
+          ],
+          "origin": [
+            84.95999145507812,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "rejeitá-los. ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            154.55039978027344,
+            182.19541931152344,
+            231.014404296875,
+            197.85540771484375
+          ],
+          "origin": [
+            154.55039978027344,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "Esta ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            244.3199920654297,
+            182.19541931152344,
+            279.5040283203125,
+            197.85540771484375
+          ],
+          "origin": [
+            244.3199920654297,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "sensação ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            292.80963134765625,
+            182.19541931152344,
+            359.424072265625,
+            197.85540771484375
+          ],
+          "origin": [
+            292.80963134765625,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "funciona ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            372.72967529296875,
+            182.19541931152344,
+            437.18408203125,
+            197.85540771484375
+          ],
+          "origin": [
+            372.72967529296875,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "como ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            450.48968505859375,
+            182.19541931152344,
+            490.944091796875,
+            197.85540771484375
+          ],
+          "origin": [
+            450.48968505859375,
+            194.639892578125
+          ]
+        },
+        {
+          "text": "um",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            504.24969482421875,
+            182.19541931152344,
+            526.6944580078125,
+            197.85540771484375
+          ],
+          "origin": [
+            504.24969482421875,
+            194.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        206.67539978027344,
+        526.713623046875,
+        222.33538818359375
+      ],
+      "text": "termômetro por meio do qual elas podem medir e regular a",
+      "spans": [
+        {
+          "text": "termômetro por meio do qual elas podem medir e regular a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            206.67539978027344,
+            526.713623046875,
+            222.33538818359375
+          ],
+          "origin": [
+            84.95999145507812,
+            219.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        231.39537048339844,
+        526.6367797851562,
+        247.05535888671875
+      ],
+      "text": "auto-estima, já que a auto-estima feminina depende da",
+      "spans": [
+        {
+          "text": "auto-estima, já que a auto-estima feminina depende da",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            231.39537048339844,
+            526.6367797851562,
+            247.05535888671875
+          ],
+          "origin": [
+            84.95999145507812,
+            243.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        256.1153259277344,
+        526.8961181640625,
+        271.77532958984375
+      ],
+      "text": "aprovação social e da vitória sobre as mulheres rivais. Quanto",
+      "spans": [
+        {
+          "text": "aprovação social e da vitória sobre as mulheres rivais. Quanto",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            256.1153259277344,
+            526.8961181640625,
+            271.77532958984375
+          ],
+          "origin": [
+            84.95999145507812,
+            268.559814453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        280.8353271484375,
+        526.8384399414062,
+        296.4953308105469
+      ],
+      "text": "mais desejada for uma mulher, tanto melhor se sentirá e mais",
+      "spans": [
+        {
+          "text": "mais desejada for uma mulher, tanto melhor se sentirá e mais",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            280.8353271484375,
+            526.8384399414062,
+            296.4953308105469
+          ],
+          "origin": [
+            84.95999145507812,
+            293.2798156738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        305.3153381347656,
+        526.6752319335938,
+        320.975341796875
+      ],
+      "text": "elevada será sua auto-estima. Quanto mais puder rejeitar",
+      "spans": [
+        {
+          "text": "elevada será sua auto-estima. Quanto mais puder rejeitar",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            305.3153381347656,
+            526.6752319335938,
+            320.975341796875
+          ],
+          "origin": [
+            84.95999145507812,
+            317.75982666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        330.03533935546875,
+        526.8192138671875,
+        345.6953430175781
+      ],
+      "text": "pretendentes, tanto mais feliz ficará. A recíproca também é",
+      "spans": [
+        {
+          "text": "pretendentes, tanto mais feliz ficará. A recíproca também é",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            330.03533935546875,
+            526.8192138671875,
+            345.6953430175781
+          ],
+          "origin": [
+            84.95999145507812,
+            342.4798278808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        354.7553405761719,
+        526.6559448242188,
+        370.41534423828125
+      ],
+      "text": "verdadeira. Portanto, isso não significa que elas queiram",
+      "spans": [
+        {
+          "text": "verdadeira. Portanto, isso não significa que elas queiram",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            354.7553405761719,
+            526.6559448242188,
+            370.41534423828125
+          ],
+          "origin": [
+            84.95999145507812,
+            367.1998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        379.2353515625,
+        526.8577270507812,
+        394.8953552246094
+      ],
+      "text": "realizar o ato sexual com todos os homens e nem tampouco que",
+      "spans": [
+        {
+          "text": "realizar o ato sexual com todos os homens e nem tampouco que",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            379.2353515625,
+            526.8577270507812,
+            394.8953552246094
+          ],
+          "origin": [
+            84.95999145507812,
+            391.6798400878906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        403.9553527832031,
+        526.6561279296875,
+        419.6153564453125
+      ],
+      "text": "elas gostem de sexo, mas apenas que a sensação de serem",
+      "spans": [
+        {
+          "text": "elas gostem de sexo, mas apenas que a sensação de serem",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            403.9553527832031,
+            526.6561279296875,
+            419.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            416.39984130859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        428.67535400390625,
+        526.800048828125,
+        444.3353576660156
+      ],
+      "text": "desejadas e amadas as deixa infladas, por se sentirem as mais",
+      "spans": [
+        {
+          "text": "desejadas e amadas as deixa infladas, por se sentirem as mais",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            428.67535400390625,
+            526.800048828125,
+            444.3353576660156
+          ],
+          "origin": [
+            84.95999145507812,
+            441.1198425292969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        453.3953552246094,
+        526.790283203125,
+        469.05535888671875
+      ],
+      "text": "gostosas da Terra e melhores do que suas rivais. Não é, de",
+      "spans": [
+        {
+          "text": "gostosas da Terra e melhores do que suas rivais. Não é, de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            453.3953552246094,
+            526.790283203125,
+            469.05535888671875
+          ],
+          "origin": [
+            84.95999145507812,
+            465.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        477.8753662109375,
+        526.8096313476562,
+        493.5353698730469
+      ],
+      "text": "modo algum, uma necessidade altruísta, visto que o impulso de",
+      "spans": [
+        {
+          "text": "modo algum, uma necessidade altruísta, visto que o impulso de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            477.8753662109375,
+            526.8096313476562,
+            493.5353698730469
+          ],
+          "origin": [
+            84.95999145507812,
+            490.3198547363281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        502.5953674316406,
+        526.8480834960938,
+        518.25537109375
+      ],
+      "text": "corresponder automaticamente ao desejo e amor masculinos",
+      "spans": [
+        {
+          "text": "corresponder automaticamente ao desejo e amor masculinos",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            502.5953674316406,
+            526.8480834960938,
+            518.25537109375
+          ],
+          "origin": [
+            84.95999145507812,
+            515.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        527.3154296875,
+        526.7711181640625,
+        542.9754028320312
+      ],
+      "text": "inexiste. Na verdade, é o contrário: o impulso primeiro é o de",
+      "spans": [
+        {
+          "text": "inexiste. Na verdade, é o contrário: o impulso primeiro é o de",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            527.3154296875,
+            526.7711181640625,
+            542.9754028320312
+          ],
+          "origin": [
+            84.95999145507812,
+            539.7598876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        551.79541015625,
+        526.7039794921875,
+        567.4553833007812
+      ],
+      "text": "rejeitar os perseguidores e contar isso para todo mundo,",
+      "spans": [
+        {
+          "text": "rejeitar os perseguidores e contar isso para todo mundo,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            551.79541015625,
+            526.7039794921875,
+            567.4553833007812
+          ],
+          "origin": [
+            84.95999145507812,
+            564.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        576.515380859375,
+        364.88641357421875,
+        592.1753540039062
+      ],
+      "text": "principalmente para as outras mulheres.",
+      "spans": [
+        {
+          "text": "principalmente para as outras mulheres.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            576.515380859375,
+            364.88641357421875,
+            592.1753540039062
+          ],
+          "origin": [
+            84.95999145507812,
+            588.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        613.2354125976562,
+        526.828857421875,
+        628.8953857421875
+      ],
+      "text": "Esta hipótese explica porque as espertinhas fogem e nos",
+      "spans": [
+        {
+          "text": "Esta hipótese explica porque as espertinhas fogem e nos",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            613.2354125976562,
+            526.828857421875,
+            628.8953857421875
+          ],
+          "origin": [
+            120.47999572753906,
+            625.6798706054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        637.9553833007812,
+        526.8192138671875,
+        653.6153564453125
+      ],
+      "text": "rejeitam quando as perseguimos mas nos perseguem quando as",
+      "spans": [
+        {
+          "text": "rejeitam quando as perseguimos mas nos perseguem quando as",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            637.9553833007812,
+            526.8192138671875,
+            653.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            650.3998413085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        662.4354248046875,
+        526.6751708984375,
+        678.0953979492188
+      ],
+      "text": "rejeitamos de forma resoluta e decidida por considerá-las sem",
+      "spans": [
+        {
+          "text": "rejeitamos de forma resoluta e decidida por considerá-las sem",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            662.4354248046875,
+            526.6751708984375,
+            678.0953979492188
+          ],
+          "origin": [
+            84.95999145507812,
+            674.8798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.139892578125,
+            239.9760284423828,
+            782.5438842773438
+          ],
+          "origin": [
+            17.99999237060547,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

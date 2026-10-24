@@ -1,0 +1,182 @@
+{
+  "page_number": 27,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20802307128906,
+        525.9300537109375,
+        84.49202728271484
+      ],
+      "text": "enlouquecido. Por este motivo, as pessoas que nos agradam podem ser tão",
+      "spans": [
+        {
+          "text": "enlouquecido. Por este motivo, as pessoas que nos agradam podem ser tão",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20802307128906,
+            525.9300537109375,
+            84.49202728271484
+          ],
+          "origin": [
+            85.08000183105469,
+            81.9000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        91.90803527832031,
+        526.0354614257812,
+        105.1920394897461
+      ],
+      "text": "perigosas quanto as que nos desagradam. Pergunte-se: \"Quais são os desejos",
+      "spans": [
+        {
+          "text": "perigosas quanto as que nos desagradam. Pergunte-se: \"Quais são os desejos",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            91.90803527832031,
+            526.0354614257812,
+            105.1920394897461
+          ],
+          "origin": [
+            85.07998657226562,
+            102.60003662109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        112.60804748535156,
+        525.9607543945312,
+        125.89205169677734
+      ],
+      "text": "mais intensos que possuo?\". A resposta irá revelar os meios pelos quais sua",
+      "spans": [
+        {
+          "text": "mais intensos que possuo?\". A resposta irá revelar os meios pelos quais sua",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            112.60804748535156,
+            525.9607543945312,
+            125.89205169677734
+          ],
+          "origin": [
+            85.08001708984375,
+            123.300048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        133.3080596923828,
+        525.9793701171875,
+        146.59205627441406
+      ],
+      "text": "vontade pode ser capturada e manipulada por um inimigo, tornando-o",
+      "spans": [
+        {
+          "text": "vontade pode ser capturada e manipulada por um inimigo, tornando-o",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            133.3080596923828,
+            525.9793701171875,
+            146.59205627441406
+          ],
+          "origin": [
+            85.08001708984375,
+            144.00006103515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        154.00807189941406,
+        131.7816162109375,
+        167.2920684814453
+      ],
+      "text": "escravo.",
+      "spans": [
+        {
+          "text": "escravo.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            154.00807189941406,
+            131.7816162109375,
+            167.2920684814453
+          ],
+          "origin": [
+            85.08001708984375,
+            164.7000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "27",
+      "spans": [
+        {
+          "text": "27",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

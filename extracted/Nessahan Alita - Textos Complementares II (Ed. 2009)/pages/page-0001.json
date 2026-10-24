@@ -1,0 +1,211 @@
+{
+  "page_number": 1,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        174.0,
+        76.90171813964844,
+        427.44720458984375,
+        97.99771881103516
+      ],
+      "text": "Textos Complementares II",
+      "spans": [
+        {
+          "text": "Textos Complementares II ",
+          "font": "BookmanOldStyle-Bold",
+          "size": 18.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            174.0,
+            76.90171813964844,
+            427.44720458984375,
+            97.99771881103516
+          ],
+          "origin": [
+            174.0,
+            93.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        241.97999572753906,
+        109.96770477294922,
+        361.0271911621094,
+        124.03170776367188
+      ],
+      "text": "Por Nessahan Alita",
+      "spans": [
+        {
+          "text": "Por Nessahan Alita  ",
+          "font": "BookmanOldStyle",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            241.97999572753906,
+            109.96770477294922,
+            361.0271911621094,
+            124.03170776367188
+          ],
+          "origin": [
+            241.97999572753906,
+            121.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        246.66000366210938,
+        130.5476837158203,
+        351.6732177734375,
+        157.6316680908203
+      ],
+      "text": "Dados para citação:",
+      "spans": [
+        {
+          "text": "Dados para citação: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            246.66000366210938,
+            144.34767150878906,
+            351.6732177734375,
+            157.6316680908203
+          ],
+          "origin": [
+            246.66000366210938,
+            155.0396728515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        158.0276641845703,
+        488.694091796875,
+        185.1116485595703
+      ],
+      "text": "ALITA, Nessahan (2009). Textos Complementares II. Edição virtual independente.",
+      "spans": [
+        {
+          "text": "ALITA, Nessahan (2009). Textos Complementares II. Edição virtual independente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            171.82765197753906,
+            488.694091796875,
+            185.1116485595703
+          ],
+          "origin": [
+            85.08000183105469,
+            182.5196533203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        256.6800231933594,
+        185.7476348876953,
+        341.72412109375,
+        212.8316192626953
+      ],
+      "text": "Palavras-chave:",
+      "spans": [
+        {
+          "text": "Palavras-chave: ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            256.6800231933594,
+            199.54762268066406,
+            341.72412109375,
+            212.8316192626953
+          ],
+          "origin": [
+            256.6800231933594,
+            210.2396240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        213.3476104736328,
+        430.8973083496094,
+        263.28692626953125
+      ],
+      "text": "desenvolvimento interior - sexualidade - sentimentos",
+      "spans": [
+        {
+          "text": "desenvolvimento interior - sexualidade - sentimentos  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            170.52003479003906,
+            227.02760314941406,
+            430.8973083496094,
+            240.3115997314453
+          ],
+          "origin": [
+            170.52003479003906,
+            237.7196044921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "1",
+      "spans": [
+        {
+          "text": "1",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            504.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            504.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

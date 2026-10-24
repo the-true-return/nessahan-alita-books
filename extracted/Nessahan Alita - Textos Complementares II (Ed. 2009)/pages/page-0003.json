@@ -1,0 +1,359 @@
+{
+  "page_number": 3,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.4835205078125,
+        155.46929931640625,
+        100.6916732788086
+      ],
+      "text": "Introdução",
+      "spans": [
+        {
+          "text": "Introdução ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.4835205078125,
+            155.46929931640625,
+            86.95938110351562
+          ],
+          "origin": [
+            85.08000183105469,
+            83.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        107.08766174316406,
+        424.55499267578125,
+        120.37166595458984
+      ],
+      "text": "Continuemos os esclarecimentos iniciados no volume anterior.",
+      "spans": [
+        {
+          "text": "Continuemos os esclarecimentos iniciados no volume anterior. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            107.08766174316406,
+            424.55499267578125,
+            120.37166595458984
+          ],
+          "origin": [
+            120.54000091552734,
+            117.7796630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        132.8876495361328,
+        472.2183837890625,
+        146.17164611816406
+      ],
+      "text": "Se você ainda não leu os livros, sugiro que o faça para evitar distorções.",
+      "spans": [
+        {
+          "text": "Se você ainda não leu os livros, sugiro que o faça para evitar distorções.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            132.8876495361328,
+            472.2183837890625,
+            146.17164611816406
+          ],
+          "origin": [
+            120.54000091552734,
+            143.57965087890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        158.68763732910156,
+        513.3579711914062,
+        213.37159729003906
+      ],
+      "text": "O conteúdo destes textos não foi aqui introduzido para ser dogmatizado. São \napenas pontos de partida para reflexões posteriores. Embora algumas idéias sejam \ndirecionadas especificamente aos simpatizantes de estudos espiritualistas, nada impede \nque outras pessoas as conheçam.",
+      "spans": [
+        {
+          "text": "O conteúdo destes textos não foi aqui introduzido para ser dogmatizado. São ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            158.68763732910156,
+            513.3500366210938,
+            171.9716339111328
+          ],
+          "origin": [
+            120.53999328613281,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "apenas pontos de partida para reflexões posteriores. Embora algumas idéias sejam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            172.4876251220703,
+            513.2302856445312,
+            185.77162170410156
+          ],
+          "origin": [
+            85.07997131347656,
+            183.17962646484375
+          ]
+        },
+        {
+          "text": "direcionadas especificamente aos simpatizantes de estudos espiritualistas, nada impede ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            186.28761291503906,
+            513.3579711914062,
+            199.5716094970703
+          ],
+          "origin": [
+            85.07998657226562,
+            196.9796142578125
+          ]
+        },
+        {
+          "text": "que outras pessoas as conheçam. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            200.0876007080078,
+            244.95721435546875,
+            213.37159729003906
+          ],
+          "origin": [
+            85.07998657226562,
+            210.77960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        225.88758850097656,
+        513.3472290039062,
+        280.5715637207031
+      ],
+      "text": "Reitero, mais uma vez, que sou mentalmente livre e não tenho compromissos \nideológicos com ninguém. Sou o autor de meus livros e posso muito bem modificá-los e \naté renunciar ao conteúdo dos mesmos, parcial ou totalmente, se assim o decidir. Não \ntenho culpa se as pessoas não querem pensar dialeticamente.",
+      "spans": [
+        {
+          "text": "Reitero, mais uma vez, que sou mentalmente livre e não tenho compromissos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            225.88758850097656,
+            513.283447265625,
+            239.1715850830078
+          ],
+          "origin": [
+            120.53998565673828,
+            236.57958984375
+          ]
+        },
+        {
+          "text": "ideológicos com ninguém. Sou o autor de meus livros e posso muito bem modificá-los e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            239.6875762939453,
+            513.270263671875,
+            252.97157287597656
+          ],
+          "origin": [
+            85.07998657226562,
+            250.37957763671875
+          ]
+        },
+        {
+          "text": "até renunciar ao conteúdo dos mesmos, parcial ou totalmente, se assim o decidir. Não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            253.48756408691406,
+            513.3472290039062,
+            266.7715759277344
+          ],
+          "origin": [
+            85.08000183105469,
+            264.1795654296875
+          ]
+        },
+        {
+          "text": "tenho culpa se as pessoas não querem pensar dialeticamente. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            267.2875671386719,
+            378.9660949707031,
+            280.5715637207031
+          ],
+          "origin": [
+            85.08001708984375,
+            277.97955322265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        293.0875549316406,
+        513.2374877929688,
+        320.1715393066406
+      ],
+      "text": "Nunca sigam a ninguém, sigam apenas a si mesmos. E ainda assim tenham \ncuidado!",
+      "spans": [
+        {
+          "text": "Nunca sigam a ninguém, sigam apenas a si mesmos. E ainda assim tenham ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            293.0875549316406,
+            513.2374877929688,
+            306.3715515136719
+          ],
+          "origin": [
+            120.5400161743164,
+            303.779541015625
+          ]
+        },
+        {
+          "text": "cuidado! ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            306.8875427246094,
+            130.14480590820312,
+            320.1715393066406
+          ],
+          "origin": [
+            85.08001708984375,
+            317.57952880859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        332.6875305175781,
+        188.1840362548828,
+        345.9715270996094
+      ],
+      "text": "Boa reflexão.",
+      "spans": [
+        {
+          "text": "Boa reflexão. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            332.6875305175781,
+            188.1840362548828,
+            345.9715270996094
+          ],
+          "origin": [
+            120.5400161743164,
+            343.3795166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "3",
+      "spans": [
+        {
+          "text": "3",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            504.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            504.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

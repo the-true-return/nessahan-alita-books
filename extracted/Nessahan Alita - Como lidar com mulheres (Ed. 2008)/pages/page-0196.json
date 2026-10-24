@@ -1,0 +1,1105 @@
+{
+  "page_number": 196,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.77981567382812,
+        103.09149169921875,
+        515.390625,
+        118.65927124023438
+      ],
+      "text": "Um sexto atributo é a fala. Procure entonar sua voz e utilizar as",
+      "spans": [
+        {
+          "text": "Um sexto atributo é a fala. Procure entonar sua voz e utilizar as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.77981567382812,
+            103.09149169921875,
+            515.390625,
+            118.65927124023438
+          ],
+          "origin": [
+            117.77981567382812,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73961639404297,
+        123.25128173828125,
+        515.4848022460938,
+        138.81906127929688
+      ],
+      "text": "palavras de uma forma bem masculina e superior mas não grosseira. Evite",
+      "spans": [
+        {
+          "text": "palavras de uma forma bem masculina e superior mas não grosseira. Evite ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            123.25128173828125,
+            515.4848022460938,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73961639404297,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73961639404297,
+        143.4114990234375,
+        515.4078369140625,
+        158.97927856445312
+      ],
+      "text": "falar palavrões ou falar como se fosse caipira ou analfabeto. Se o seu grau",
+      "spans": [
+        {
+          "text": "falar palavrões ou falar como se fosse caipira ou analfabeto. Se o seu grau ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            143.4114990234375,
+            515.4078369140625,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73961639404297,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73961639404297,
+        163.51190185546875,
+        515.5863037109375,
+        179.07968139648438
+      ],
+      "text": "de instrução for baixo, tome vergonha, treine e comece a ler para enriquecer",
+      "spans": [
+        {
+          "text": "de instrução for baixo, tome vergonha, treine e comece a ler para enriquecer ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            163.51190185546875,
+            515.5863037109375,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73961639404297,
+            175.8004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73961639404297,
+        182.3884735107422,
+        515.4232177734375,
+        199.23947143554688
+      ],
+      "text": "seu vocabulário (sem usar palavras que soem esquisitas)10. Evite também",
+      "spans": [
+        {
+          "text": "seu vocabulário (sem usar palavras que soem esquisitas)",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            183.67169189453125,
+            414.5340576171875,
+            199.23947143554688
+          ],
+          "origin": [
+            82.73961639404297,
+            195.960205078125
+          ]
+        },
+        {
+          "text": "10",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            415.379638671875,
+            182.3884735107422,
+            423.159423828125,
+            192.74085998535156
+          ],
+          "origin": [
+            415.379638671875,
+            190.5601806640625
+          ]
+        },
+        {
+          "text": ". Evite também ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            423.2394104003906,
+            183.67169189453125,
+            515.4232177734375,
+            199.23947143554688
+          ],
+          "origin": [
+            423.2394104003906,
+            195.960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        203.7720947265625,
+        515.4492797851562,
+        219.33987426757812
+      ],
+      "text": "uma fala desmasculinizada. Se você convive muito com mulheres, tome",
+      "spans": [
+        {
+          "text": "uma fala desmasculinizada. Se você convive muito com mulheres, tome ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            203.7720947265625,
+            515.4492797851562,
+            219.33987426757812
+          ],
+          "origin": [
+            82.73941040039062,
+            216.06060791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        223.931884765625,
+        515.3981323242188,
+        239.49966430664062
+      ],
+      "text": "cuidado para não introjetar inconscientemente entonações e expressões",
+      "spans": [
+        {
+          "text": "cuidado para não introjetar inconscientemente entonações e expressões ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            223.931884765625,
+            515.3981323242188,
+            239.49966430664062
+          ],
+          "origin": [
+            82.73941040039062,
+            236.22039794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        244.03228759765625,
+        186.55795288085938,
+        259.6000671386719
+      ],
+      "text": "femininas na fala.",
+      "spans": [
+        {
+          "text": "femininas na fala. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            244.03228759765625,
+            186.55795288085938,
+            259.6000671386719
+          ],
+          "origin": [
+            82.73941040039062,
+            256.32080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.77960968017578,
+        275.8319091796875,
+        515.439208984375,
+        291.3996887207031
+      ],
+      "text": "Um sétimo atributo é a decisão. Mulheres gostam de homens",
+      "spans": [
+        {
+          "text": "Um sétimo atributo é a decisão. Mulheres gostam de homens ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.77960968017578,
+            275.8319091796875,
+            515.439208984375,
+            291.3996887207031
+          ],
+          "origin": [
+            117.77960968017578,
+            288.12042236328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        295.99169921875,
+        515.4119262695312,
+        311.5594787597656
+      ],
+      "text": "decididos, que tomam atitudes. Sabe aqueles caras que tomam a atitude",
+      "spans": [
+        {
+          "text": "decididos, que tomam atitudes. Sabe aqueles caras que tomam a atitude ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            295.99169921875,
+            515.4119262695312,
+            311.5594787597656
+          ],
+          "origin": [
+            82.73941040039062,
+            308.28021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73942565917969,
+        316.09246826171875,
+        515.4143676757812,
+        331.6602478027344
+      ],
+      "text": "certa na hora H, quando ninguém sabe o que fazer? Então... Não seja",
+      "spans": [
+        {
+          "text": "certa na hora H, quando ninguém sabe o que fazer? Então... Não seja ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73942565917969,
+            316.09246826171875,
+            515.4143676757812,
+            331.6602478027344
+          ],
+          "origin": [
+            82.73942565917969,
+            328.3809814453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73942565917969,
+        336.25225830078125,
+        515.4973754882812,
+        351.8200378417969
+      ],
+      "text": "titubeante. Faça sempre a coisa certa. Por exemplo, demonstre firmeza para",
+      "spans": [
+        {
+          "text": "titubeante. Faça sempre a coisa certa. Por exemplo, demonstre firmeza para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73942565917969,
+            336.25225830078125,
+            515.4973754882812,
+            351.8200378417969
+          ],
+          "origin": [
+            82.73942565917969,
+            348.540771484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        356.29205322265625,
+        515.4144287109375,
+        371.8598327636719
+      ],
+      "text": "conseguir trabalho, para atingir realizações pessoais e materiais. Não fique",
+      "spans": [
+        {
+          "text": "conseguir trabalho, para atingir realizações pessoais e materiais. Não fique ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            356.29205322265625,
+            515.4144287109375,
+            371.8598327636719
+          ],
+          "origin": [
+            82.73941040039062,
+            368.58056640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73941040039062,
+        376.45184326171875,
+        317.02459716796875,
+        392.0196228027344
+      ],
+      "text": "vacilando ou ela o tomará por um trouxa.",
+      "spans": [
+        {
+          "text": "vacilando ou ela o tomará por um trouxa. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73941040039062,
+            376.45184326171875,
+            317.02459716796875,
+            392.0196228027344
+          ],
+          "origin": [
+            82.73941040039062,
+            388.7403564453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.77960968017578,
+        406.9686584472656,
+        515.4367065429688,
+        423.8196105957031
+      ],
+      "text": "Quanto mais “bonita” é a mulher, mais difícil de lidar e fresca é11.",
+      "spans": [
+        {
+          "text": "Quanto mais “bonita” é a mulher, mais difícil de lidar e fresca é",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.77960968017578,
+            408.2514343261719,
+            499.9243469238281,
+            423.8192138671875
+          ],
+          "origin": [
+            117.77960968017578,
+            420.5399475097656
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            500.7596130371094,
+            406.9686584472656,
+            508.5401916503906,
+            417.3210144042969
+          ],
+          "origin": [
+            500.7596130371094,
+            415.1403503417969
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            508.5596008300781,
+            408.2518310546875,
+            515.4367065429688,
+            423.8196105957031
+          ],
+          "origin": [
+            508.5596008300781,
+            420.54034423828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73959350585938,
+        427.12841796875,
+        515.4916381835938,
+        443.9200134277344
+      ],
+      "text": "Quanto mais “feia”12, mais fácil. Infelizmente, o valor social da mulher é",
+      "spans": [
+        {
+          "text": "Quanto mais “feia”",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73959350585938,
+            428.35223388671875,
+            192.80368041992188,
+            443.9200134277344
+          ],
+          "origin": [
+            82.73959350585938,
+            440.6407470703125
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            193.73959350585938,
+            427.12841796875,
+            201.52017211914062,
+            437.48077392578125
+          ],
+          "origin": [
+            193.73959350585938,
+            435.30010986328125
+          ]
+        },
+        {
+          "text": ", mais fácil. Infelizmente, o valor social da mulher é ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            201.5395965576172,
+            428.3518371582031,
+            515.4916381835938,
+            443.91961669921875
+          ],
+          "origin": [
+            201.5395965576172,
+            440.6403503417969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74059295654297,
+        448.5116271972656,
+        515.5331420898438,
+        464.07940673828125
+      ],
+      "text": "dado pela sua beleza física e as mulheres mais lindas costumam ser as mais",
+      "spans": [
+        {
+          "text": "dado pela sua beleza física e as mulheres mais lindas costumam ser as mais ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74059295654297,
+            448.5116271972656,
+            515.5331420898438,
+            464.07940673828125
+          ],
+          "origin": [
+            82.74059295654297,
+            460.8001403808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74059295654297,
+        468.6120300292969,
+        515.40771484375,
+        484.1798095703125
+      ],
+      "text": "complicadas para se relacionar. As mulheres lindas dificilmente são para",
+      "spans": [
+        {
+          "text": "complicadas para se relacionar. As mulheres lindas dificilmente são para ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74059295654297,
+            468.6120300292969,
+            515.40771484375,
+            484.1798095703125
+          ],
+          "origin": [
+            82.74059295654297,
+            480.9005432128906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7406005859375,
+        488.7718200683594,
+        515.546142578125,
+        504.339599609375
+      ],
+      "text": "casamento. Em geral, parece-me, são meros pedaços de carne e servem",
+      "spans": [
+        {
+          "text": "casamento. Em geral, parece-me, são meros pedaços de carne e servem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7406005859375,
+            488.7718200683594,
+            515.546142578125,
+            504.339599609375
+          ],
+          "origin": [
+            82.7406005859375,
+            501.0603332519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.7406005859375,
+        508.87225341796875,
+        515.4888916015625,
+        524.4400634765625
+      ],
+      "text": "somente para o sexo porque podem cometer adultério facilmente quando",
+      "spans": [
+        {
+          "text": "somente para o sexo porque podem cometer adultério facilmente quando ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.7406005859375,
+            508.87225341796875,
+            515.4888916015625,
+            524.4400634765625
+          ],
+          "origin": [
+            82.7406005859375,
+            521.1607666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.738525390625,
+        533.33935546875,
+        514.7357177734375,
+        737.4013671875
+      ],
+      "text": "10 Não sou preconceituoso contra homens de pouca instrução. O inconsciente feminino é que o \né... \n11 Para melhor compreender este aspecto, sugiro ao leitor que assista ou leia a peça “Bonitinha \nmas Ordinária”, de Nelson Rodrigues. \n12 Lembremos que a feiura é sempre relativa. Uma pessoa jamais será absolutamente “feia”  mas \nsim relativamente “feia”. Será “feia” sob determinado ponto de vista ou aspecto e em relação a \nalgo. Uma mulher pode ser “feia” para um homem e linda para outro, poderá ser “feia”  ou \n“linda” para si mesma ou para as outras mulheres, poderá ser “feia” exteriormente ou \ninteriormente etc. Meu ponto de vista é o de que todas as pessoas, incluindo as do sexo \nfeminino, são simultaneamente lindas e horríveis sob múltiplos aspectos. Na frase em questão, \nestou me referindo àquelas que se auto-consideram não-enquadráveis nos estereótipos \nconvencionais do século XXI. Para mim, estas são mais fáceis de lidar e mais compreensivas. \nObviamente, estas mesmas mulheres podem ser consideradas lindas sob vários aspectos ou por \nvários homens, dependendo da situação. O homem sabe encontrar beleza em uma mulher quando \na deseja (Alberoni, 1986/sem data). A beleza em si não existe, é uma simples forma mental \nprojetada. Eu, por exemplo, acho uma mulher kuhikuru muito mais linda e desejável do que \nqualquer top model e jamais trocaria uma pela outra. Uma mulher não é bela ou feia em si e por \nsi mesma, mas sim para aquele que a contempla. São os instintos que falseiam a percepção do \nhomem, induzindo-o a ver a mulher como “o belo sexo” (SCHOPENHAUER, 2004)",
+      "spans": [
+        {
+          "text": "10",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            543.7557983398438,
+            88.59776306152344,
+            551.5396728515625
+          ],
+          "origin": [
+            82.74000549316406,
+            549.9000244140625
+          ]
+        },
+        {
+          "text": " Não sou preconceituoso contra homens de pouca instrução. O inconsciente feminino é que o ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56031799316406,
+            544.5836181640625,
+            514.5914306640625,
+            556.2594604492188
+          ],
+          "origin": [
+            88.56031799316406,
+            553.7999877929688
+          ]
+        },
+        {
+          "text": "é... ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            554.603515625,
+            99.33086395263672,
+            566.2793579101562
+          ],
+          "origin": [
+            82.73961639404297,
+            563.8198852539062
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73961639404297,
+            563.8557739257812,
+            88.59737396240234,
+            571.6396484375
+          ],
+          "origin": [
+            82.73961639404297,
+            570.0
+          ]
+        },
+        {
+          "text": " Para melhor compreender este aspecto, sugiro ao leitor que assista ou leia a peça “Bonitinha ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55992889404297,
+            564.68359375,
+            514.675048828125,
+            576.3594360351562
+          ],
+          "origin": [
+            88.55992889404297,
+            573.8999633789062
+          ]
+        },
+        {
+          "text": "mas Ordinária”, de Nelson Rodrigues. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73922729492188,
+            574.7640991210938,
+            253.63668823242188,
+            586.43994140625
+          ],
+          "origin": [
+            82.73922729492188,
+            583.98046875
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73922729492188,
+            584.0162963867188,
+            88.59698486328125,
+            591.8001708984375
+          ],
+          "origin": [
+            82.73922729492188,
+            590.1605224609375
+          ]
+        },
+        {
+          "text": " Lembremos que a feiura é sempre relativa. Uma pessoa jamais será absolutamente “feia”  mas ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.55953979492188,
+            584.8441772460938,
+            514.6965942382812,
+            596.52001953125
+          ],
+          "origin": [
+            88.55953979492188,
+            594.060546875
+          ]
+        },
+        {
+          "text": "sim relativamente “feia”. Será “feia” sob determinado ponto de vista ou aspecto e em relação a ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            594.8640747070312,
+            514.6940307617188,
+            606.5399169921875
+          ],
+          "origin": [
+            82.738525390625,
+            604.0804443359375
+          ]
+        },
+        {
+          "text": "algo. Uma mulher pode ser “feia” para um homem e linda para outro, poderá ser “feia”  ou ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            604.9441528320312,
+            514.6952514648438,
+            616.6199951171875
+          ],
+          "origin": [
+            82.738525390625,
+            614.1605224609375
+          ]
+        },
+        {
+          "text": "“linda” para si mesma ou para as outras mulheres, poderá ser “feia” exteriormente ou ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            615.024658203125,
+            514.6911010742188,
+            626.7005004882812
+          ],
+          "origin": [
+            82.738525390625,
+            624.2410278320312
+          ]
+        },
+        {
+          "text": "interiormente etc. Meu ponto de vista é o de que todas as pessoas, incluindo as do sexo ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            625.1047973632812,
+            514.6444702148438,
+            636.7806396484375
+          ],
+          "origin": [
+            82.738525390625,
+            634.3211669921875
+          ]
+        },
+        {
+          "text": "feminino, são simultaneamente lindas e horríveis sob múltiplos aspectos. Na frase em questão, ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            635.1246948242188,
+            514.6824951171875,
+            646.800537109375
+          ],
+          "origin": [
+            82.738525390625,
+            644.341064453125
+          ]
+        },
+        {
+          "text": "estou me referindo àquelas que se auto-consideram não-enquadráveis nos estereótipos ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            645.2047729492188,
+            514.6090087890625,
+            656.880615234375
+          ],
+          "origin": [
+            82.738525390625,
+            654.421142578125
+          ]
+        },
+        {
+          "text": "convencionais do século XXI. Para mim, estas são mais fáceis de lidar e mais compreensivas. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            655.2848510742188,
+            514.6847534179688,
+            666.960693359375
+          ],
+          "origin": [
+            82.738525390625,
+            664.501220703125
+          ]
+        },
+        {
+          "text": "Obviamente, estas mesmas mulheres podem ser consideradas lindas sob vários aspectos ou por ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            665.3649291992188,
+            514.696533203125,
+            677.040771484375
+          ],
+          "origin": [
+            82.738525390625,
+            674.581298828125
+          ]
+        },
+        {
+          "text": "vários homens, dependendo da situação. O homem sabe encontrar beleza em uma mulher quando ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            675.3848266601562,
+            514.7066040039062,
+            687.0606689453125
+          ],
+          "origin": [
+            82.738525390625,
+            684.6011962890625
+          ]
+        },
+        {
+          "text": "a deseja (Alberoni, 1986/sem data). A beleza em si não existe, é uma simples forma mental ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            685.46533203125,
+            514.7357177734375,
+            697.1411743164062
+          ],
+          "origin": [
+            82.738525390625,
+            694.6817016601562
+          ]
+        },
+        {
+          "text": "projetada. Eu, por exemplo, acho uma mulher kuhikuru muito mais linda e desejável do que ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            695.5454711914062,
+            514.6937255859375,
+            707.2213134765625
+          ],
+          "origin": [
+            82.738525390625,
+            704.7618408203125
+          ]
+        },
+        {
+          "text": "qualquer top model e jamais trocaria uma pela outra. Uma mulher não é bela ou feia em si e por ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            705.6255493164062,
+            514.7223510742188,
+            717.3013916015625
+          ],
+          "origin": [
+            82.738525390625,
+            714.8419189453125
+          ]
+        },
+        {
+          "text": "si mesma, mas sim para aquele que a contempla. São os instintos que falseiam a percepção do ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            715.64501953125,
+            514.6484375,
+            727.3208618164062
+          ],
+          "origin": [
+            82.738525390625,
+            724.8613891601562
+          ]
+        },
+        {
+          "text": "homem, induzindo-o a ver a mulher como “o belo sexo” (SCHOPENHAUER, 2004) ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.738525390625,
+            725.7255249023438,
+            452.6195983886719,
+            737.4013671875
+          ],
+          "origin": [
+            82.738525390625,
+            734.94189453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4140014648438,
+        771.5181884765625
+      ],
+      "text": "196",
+      "spans": [
+        {
+          "text": "196",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            497.82080078125,
+            758.5191650390625,
+            512.4140014648438,
+            771.5181884765625
+          ],
+          "origin": [
+            497.82080078125,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

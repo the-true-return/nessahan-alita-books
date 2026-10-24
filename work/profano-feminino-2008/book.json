@@ -1,0 +1,264 @@
+{
+  "book": "profano-feminino-2008",
+  "title": "O Profano Feminino",
+  "metrics": {
+    "body_size": 12.0,
+    "left": 85,
+    "right": 513,
+    "indent": 121,
+    "line_gap": 7.42,
+    "para_gap": 11.87
+  },
+  "chapters": [
+    {
+      "id": "00",
+      "title": "(front matter)",
+      "pages": [
+        1,
+        4
+      ],
+      "segments": 44,
+      "words": 495,
+      "footnotes": 0
+    },
+    {
+      "id": "01",
+      "title": "Introdução",
+      "pages": [
+        5,
+        6
+      ],
+      "segments": 10,
+      "words": 353,
+      "footnotes": 0
+    },
+    {
+      "id": "02",
+      "title": "1. O perigo de entender tudo errado",
+      "pages": [
+        7,
+        13
+      ],
+      "segments": 38,
+      "words": 2754,
+      "footnotes": 12
+    },
+    {
+      "id": "03",
+      "title": "2. Porque elas não olham para você",
+      "pages": [
+        14,
+        18
+      ],
+      "segments": 29,
+      "words": 1627,
+      "footnotes": 1
+    },
+    {
+      "id": "04",
+      "title": "3. Os privilégios",
+      "pages": [
+        19,
+        20
+      ],
+      "segments": 7,
+      "words": 506,
+      "footnotes": 0
+    },
+    {
+      "id": "05",
+      "title": "4. Mães, esposas e filhas",
+      "pages": [
+        21,
+        22
+      ],
+      "segments": 11,
+      "words": 591,
+      "footnotes": 1
+    },
+    {
+      "id": "06",
+      "title": "5. Por que elas são o contrário do que confessam",
+      "pages": [
+        23,
+        26
+      ],
+      "segments": 24,
+      "words": 1344,
+      "footnotes": 4
+    },
+    {
+      "id": "07",
+      "title": "6. Os julgamentos caprichosos",
+      "pages": [
+        27,
+        28
+      ],
+      "segments": 8,
+      "words": 616,
+      "footnotes": 0
+    },
+    {
+      "id": "08",
+      "title": "7. O valor do silêncio",
+      "pages": [
+        29,
+        31
+      ],
+      "segments": 16,
+      "words": 841,
+      "footnotes": 2
+    },
+    {
+      "id": "09",
+      "title": "8. A duplicidade de sentimentos",
+      "pages": [
+        32,
+        38
+      ],
+      "segments": 35,
+      "words": 2260,
+      "footnotes": 0
+    },
+    {
+      "id": "10",
+      "title": "9. Destroçando os inferninhos emocionais",
+      "pages": [
+        39,
+        46
+      ],
+      "segments": 34,
+      "words": 2787,
+      "footnotes": 1
+    },
+    {
+      "id": "11",
+      "title": "10. A estratégia de atacar a masculinidade",
+      "pages": [
+        47,
+        48
+      ],
+      "segments": 11,
+      "words": 561,
+      "footnotes": 1
+    },
+    {
+      "id": "12",
+      "title": "11. O enfraquecimento das desconfianças",
+      "pages": [
+        49,
+        50
+      ],
+      "segments": 7,
+      "words": 382,
+      "footnotes": 0
+    },
+    {
+      "id": "13",
+      "title": "12. Quando elas vão embora",
+      "pages": [
+        51,
+        52
+      ],
+      "segments": 8,
+      "words": 557,
+      "footnotes": 0
+    },
+    {
+      "id": "14",
+      "title": "13. Porque elas rejeitam o sexo sem amor",
+      "pages": [
+        53,
+        56
+      ],
+      "segments": 18,
+      "words": 1215,
+      "footnotes": 1
+    },
+    {
+      "id": "15",
+      "title": "14. O amor em suas várias formas",
+      "pages": [
+        57,
+        59
+      ],
+      "segments": 12,
+      "words": 1121,
+      "footnotes": 0
+    },
+    {
+      "id": "16",
+      "title": "15. Desarticulando a ambigüidade",
+      "pages": [
+        60,
+        61
+      ],
+      "segments": 8,
+      "words": 614,
+      "footnotes": 0
+    },
+    {
+      "id": "17",
+      "title": "16. Preservando o fio tênue e avançando",
+      "pages": [
+        62,
+        63
+      ],
+      "segments": 13,
+      "words": 583,
+      "footnotes": 1
+    },
+    {
+      "id": "18",
+      "title": "17. Esclarecimentos adicionais",
+      "pages": [
+        64,
+        84
+      ],
+      "segments": 150,
+      "words": 7128,
+      "footnotes": 17
+    },
+    {
+      "id": "19",
+      "title": "Conclusões",
+      "pages": [
+        85,
+        86
+      ],
+      "segments": 20,
+      "words": 523,
+      "footnotes": 0
+    },
+    {
+      "id": "20",
+      "title": "Referências bibliográficas:",
+      "pages": [
+        87,
+        87
+      ],
+      "segments": 8,
+      "words": 157,
+      "footnotes": 0
+    },
+    {
+      "id": "21",
+      "title": "Sobre o autor",
+      "pages": [
+        88,
+        88
+      ],
+      "segments": 6,
+      "words": 260,
+      "footnotes": 0
+    }
+  ],
+  "dropped_lines": {
+    "page_number": 88
+  },
+  "completeness": {
+    "source_chars": 147032,
+    "segment_chars": 147032
+  },
+  "warnings": []
+}

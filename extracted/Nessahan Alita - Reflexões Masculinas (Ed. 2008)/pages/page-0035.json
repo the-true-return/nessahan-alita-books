@@ -1,0 +1,864 @@
+{
+  "page_number": 35,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        71.5555191040039,
+        526.8384399414062,
+        87.21552276611328
+      ],
+      "text": "covarde. Teremos então um problema, duas saídas e um risco",
+      "spans": [
+        {
+          "text": "covarde. Teremos então um problema, duas saídas e um risco",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            71.5555191040039,
+            526.8384399414062,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        96.2754898071289,
+        262.87677001953125,
+        111.93549346923828
+      ],
+      "text": "de fracasso em cada uma!",
+      "spans": [
+        {
+          "text": "de fracasso em cada uma!",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            96.2754898071289,
+            262.87677001953125,
+            111.93549346923828
+          ],
+          "origin": [
+            84.95999908447266,
+            108.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        132.75547790527344,
+        526.8575439453125,
+        148.41546630859375
+      ],
+      "text": "O homem se torna então vítima de uma contradição: se",
+      "spans": [
+        {
+          "text": "O homem se torna então vítima de uma contradição: se",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            132.75547790527344,
+            526.8575439453125,
+            148.41546630859375
+          ],
+          "origin": [
+            120.47999572753906,
+            145.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        157.47544860839844,
+        526.6464233398438,
+        173.13543701171875
+      ],
+      "text": "ousa abordar, se expõe a uma armadilha. Se não abordar,",
+      "spans": [
+        {
+          "text": "ousa abordar, se expõe a uma armadilha. Se não abordar,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            157.47544860839844,
+            526.6464233398438,
+            173.13543701171875
+          ],
+          "origin": [
+            84.95999145507812,
+            169.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        182.19541931152344,
+        526.8193359375,
+        197.85540771484375
+      ],
+      "text": "provoca o desinteresse. A solução parece ser tentar abordagens",
+      "spans": [
+        {
+          "text": "provoca o desinteresse. A solução parece ser tentar abordagens",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            182.19541931152344,
+            526.8193359375,
+            197.85540771484375
+          ],
+          "origin": [
+            84.95999145507812,
+            194.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        206.67539978027344,
+        526.83837890625,
+        222.33538818359375
+      ],
+      "text": "progressivamente ousadas a partir dos sinais favoráveis",
+      "spans": [
+        {
+          "text": "progressivamente ousadas a partir dos sinais favoráveis",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            206.67539978027344,
+            526.83837890625,
+            222.33538818359375
+          ],
+          "origin": [
+            84.95999145507812,
+            219.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        231.39537048339844,
+        526.8192749023438,
+        247.05535888671875
+      ],
+      "text": "enviados, sempre pronto para reagir ao menor sinal de que se",
+      "spans": [
+        {
+          "text": "enviados, sempre pronto para reagir ao menor sinal de que se",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            231.39537048339844,
+            526.8192749023438,
+            247.05535888671875
+          ],
+          "origin": [
+            84.95999145507812,
+            243.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        256.1153259277344,
+        526.713623046875,
+        271.77532958984375
+      ],
+      "text": "trate realmente de uma armadilha e sem permitir jamais que a",
+      "spans": [
+        {
+          "text": "trate realmente de uma armadilha e sem permitir jamais que a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            256.1153259277344,
+            526.713623046875,
+            271.77532958984375
+          ],
+          "origin": [
+            84.95999145507812,
+            268.559814453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        280.8353271484375,
+        526.6655883789062,
+        296.4953308105469
+      ],
+      "text": "mulher conclua que inspira medo. As mulheres rejeitam",
+      "spans": [
+        {
+          "text": "mulher conclua que inspira medo. As mulheres rejeitam",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            280.8353271484375,
+            526.6655883789062,
+            296.4953308105469
+          ],
+          "origin": [
+            84.95999145507812,
+            293.2798156738281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        305.3153381347656,
+        526.9153442382812,
+        320.975341796875
+      ],
+      "text": "imediatamente um homem se acreditarem que ele as teme. Daí",
+      "spans": [
+        {
+          "text": "imediatamente um homem se acreditarem que ele as teme. Daí",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            305.3153381347656,
+            526.9153442382812,
+            320.975341796875
+          ],
+          "origin": [
+            84.95999145507812,
+            317.75982666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        330.03533935546875,
+        526.9248657226562,
+        345.6953430175781
+      ],
+      "text": "a \nimportância \nde \nafrontá-las \nresolutamente, \nolhando",
+      "spans": [
+        {
+          "text": "a ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            330.03533935546875,
+            97.57439422607422,
+            345.6953430175781
+          ],
+          "origin": [
+            84.95999145507812,
+            342.4798278808594
+          ]
+        },
+        {
+          "text": "importância ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            113.75999450683594,
+            330.03533935546875,
+            200.29440307617188,
+            345.6953430175781
+          ],
+          "origin": [
+            113.75999450683594,
+            342.4798278808594
+          ]
+        },
+        {
+          "text": "de ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            216.47999572753906,
+            330.03533935546875,
+            236.76480102539062,
+            345.6953430175781
+          ],
+          "origin": [
+            216.47999572753906,
+            342.4798278808594
+          ]
+        },
+        {
+          "text": "afrontá-las ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            253.19039916992188,
+            330.03533935546875,
+            332.0351867675781,
+            345.6953430175781
+          ],
+          "origin": [
+            253.19039916992188,
+            342.4798278808594
+          ]
+        },
+        {
+          "text": "resolutamente, ",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            348.4607849121094,
+            330.03533935546875,
+            455.1840515136719,
+            345.6953430175781
+          ],
+          "origin": [
+            348.4607849121094,
+            342.4798278808594
+          ]
+        },
+        {
+          "text": "olhando",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            471.6096496582031,
+            330.03533935546875,
+            526.9248657226562,
+            345.6953430175781
+          ],
+          "origin": [
+            471.6096496582031,
+            342.4798278808594
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        354.7553405761719,
+        526.9632568359375,
+        370.41534423828125
+      ],
+      "text": "diretamente em seus olhos, e de se assenhorear da situação. É",
+      "spans": [
+        {
+          "text": "diretamente em seus olhos, e de se assenhorear da situação. É",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            354.7553405761719,
+            526.9632568359375,
+            370.41534423828125
+          ],
+          "origin": [
+            84.95999145507812,
+            367.1998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        379.2353515625,
+        526.6945190429688,
+        394.8953552246094
+      ],
+      "text": "exatamente assim que agem os cafajestes e playboys, com a",
+      "spans": [
+        {
+          "text": "exatamente assim que agem os cafajestes e playboys, com a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            379.2353515625,
+            526.6945190429688,
+            394.8953552246094
+          ],
+          "origin": [
+            84.95999145507812,
+            391.6798400878906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        403.9553527832031,
+        526.6654663085938,
+        419.6153564453125
+      ],
+      "text": "diferença de que não são motivados pela força interior mas sim",
+      "spans": [
+        {
+          "text": "diferença de que não são motivados pela força interior mas sim",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            403.9553527832031,
+            526.6654663085938,
+            419.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            416.39984130859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        428.67535400390625,
+        404.9568176269531,
+        444.3353576660156
+      ],
+      "text": "pelo desprezo pela pessoa que querem seduzir.",
+      "spans": [
+        {
+          "text": "pelo desprezo pela pessoa que querem seduzir.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            428.67535400390625,
+            404.9568176269531,
+            444.3353576660156
+          ],
+          "origin": [
+            84.95999145507812,
+            441.1198425292969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        465.3953552246094,
+        526.915283203125,
+        481.05535888671875
+      ],
+      "text": "Se a mulher for exageradamente importante para você e o",
+      "spans": [
+        {
+          "text": "Se a mulher for exageradamente importante para você e o",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            465.3953552246094,
+            526.915283203125,
+            481.05535888671875
+          ],
+          "origin": [
+            120.47999572753906,
+            477.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        489.8753662109375,
+        526.7232666015625,
+        505.5353698730469
+      ],
+      "text": "veneno da paixão houver te contaminado, você estará sujeito a",
+      "spans": [
+        {
+          "text": "veneno da paixão houver te contaminado, você estará sujeito a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            489.8753662109375,
+            526.7232666015625,
+            505.5353698730469
+          ],
+          "origin": [
+            84.95999145507812,
+            502.3198547363281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        514.5953979492188,
+        526.8673095703125,
+        530.25537109375
+      ],
+      "text": "gaguejar, ficar mudo, dizer alguma besteira, ficar desconcertado",
+      "spans": [
+        {
+          "text": "gaguejar, ficar mudo, dizer alguma besteira, ficar desconcertado",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            514.5953979492188,
+            526.8673095703125,
+            530.25537109375
+          ],
+          "origin": [
+            84.95999145507812,
+            527.0398559570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        539.3154296875,
+        526.6561279296875,
+        554.9754028320312
+      ],
+      "text": "ou apresentar uma fala trêmula, não por medo dela mas sim",
+      "spans": [
+        {
+          "text": "ou apresentar uma fala trêmula, não por medo dela mas sim",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            539.3154296875,
+            526.6561279296875,
+            554.9754028320312
+          ],
+          "origin": [
+            84.95999145507812,
+            551.7598876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        563.79541015625,
+        526.6463623046875,
+        579.4553833007812
+      ],
+      "text": "por medo de perdê-la. Entretanto, ela não será solidária nem",
+      "spans": [
+        {
+          "text": "por medo de perdê-la. Entretanto, ela não será solidária nem",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            563.79541015625,
+            526.6463623046875,
+            579.4553833007812
+          ],
+          "origin": [
+            84.95999145507812,
+            576.2398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        588.515380859375,
+        526.6847534179688,
+        604.1753540039062
+      ],
+      "text": "um pouco com o seu sofrimento amoroso. Ao invés disso,",
+      "spans": [
+        {
+          "text": "um pouco com o seu sofrimento amoroso. Ao invés disso,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            588.515380859375,
+            526.6847534179688,
+            604.1753540039062
+          ],
+          "origin": [
+            84.95999145507812,
+            600.9598388671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        613.2354125976562,
+        526.742431640625,
+        628.8953857421875
+      ],
+      "text": "acreditará que é temida e te verá como um fraco. Portanto, seja",
+      "spans": [
+        {
+          "text": "acreditará que é temida e te verá como um fraco. Portanto, seja",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            613.2354125976562,
+            526.742431640625,
+            628.8953857421875
+          ],
+          "origin": [
+            84.95999145507812,
+            625.6798706054688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        637.9553833007812,
+        526.7040405273438,
+        653.6153564453125
+      ],
+      "text": "ao telefone ou seja pessoalmente, temos que nos manter firmes,",
+      "spans": [
+        {
+          "text": "ao telefone ou seja pessoalmente, temos que nos manter firmes,",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            637.9553833007812,
+            526.7040405273438,
+            653.6153564453125
+          ],
+          "origin": [
+            84.95999145507812,
+            650.3998413085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        662.4354248046875,
+        526.7808227539062,
+        678.0953979492188
+      ],
+      "text": "ainda que por dentro estejamos prestes a despedaçar, afundar e",
+      "spans": [
+        {
+          "text": "ainda que por dentro estejamos prestes a despedaçar, afundar e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            662.4354248046875,
+            526.7808227539062,
+            678.0953979492188
+          ],
+          "origin": [
+            84.95999145507812,
+            674.8798828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        687.1553955078125,
+        526.7232666015625,
+        702.8153686523438
+      ],
+      "text": "ruir. Procure vê-la e tratá-la como uma simples mortal e nada",
+      "spans": [
+        {
+          "text": "ruir. Procure vê-la e tratá-la como uma simples mortal e nada",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            687.1553955078125,
+            526.7232666015625,
+            702.8153686523438
+          ],
+          "origin": [
+            84.95999145507812,
+            699.599853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.139892578125,
+            239.9760284423828,
+            782.5438842773438
+          ],
+          "origin": [
+            17.99999237060547,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

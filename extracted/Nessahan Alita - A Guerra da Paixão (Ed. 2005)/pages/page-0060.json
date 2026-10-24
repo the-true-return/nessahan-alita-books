@@ -1,0 +1,199 @@
+{
+  "page_number": 60,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9806518554688,
+        87.48676300048828
+      ],
+      "text": "simples vingança porque preserva a justiça, a honestidade, a",
+      "spans": [
+        {
+          "text": "simples vingança porque preserva a justiça, a honestidade, a",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9806518554688,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.9805908203125,
+        111.48676300048828
+      ],
+      "text": "sobriedade e a razão, evitando que coisas piores aconteçam. E não se",
+      "spans": [
+        {
+          "text": "sobriedade e a razão, evitando que coisas piores aconteçam. E não se",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.9805908203125,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.9805908203125,
+        135.72674560546875
+      ],
+      "text": "trata de nada que irá prejudicar a outra pessoa, apenas irá devolver-lhe",
+      "spans": [
+        {
+          "text": "trata de nada que irá prejudicar a outra pessoa, apenas irá devolver-lhe",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.9805908203125,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        144.3173065185547,
+        298.6353454589844,
+        159.72674560546875
+      ],
+      "text": "seus próprios atos para que reflita.",
+      "spans": [
+        {
+          "text": "seus próprios atos para que reflita.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            298.6353454589844,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "60",
+      "spans": [
+        {
+          "text": "60",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400756835938,
+        345.75592041015625,
+        782.5440673828125
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400756835938,
+            239.97604370117188,
+            782.5440673828125
+          ],
+          "origin": [
+            18.0,
+            780.0000610351562
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400756835938,
+            345.75592041015625,
+            782.5440673828125
+          ],
+          "origin": [
+            240.0,
+            780.0000610351562
+          ]
+        }
+      ]
+    }
+  ]
+}

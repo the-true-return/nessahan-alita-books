@@ -1,0 +1,851 @@
+{
+  "page_number": 44,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        71.20771789550781,
+        414.3840637207031,
+        84.4917221069336
+      ],
+      "text": "acompanha por todo o tempo em que a relação dure. Tome cuidado.",
+      "spans": [
+        {
+          "text": "acompanha por todo o tempo em que a relação dure. Tome cuidado. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            71.20771789550781,
+            414.3840637207031,
+            84.4917221069336
+          ],
+          "origin": [
+            85.08000183105469,
+            81.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        97.12770080566406,
+        226.13999938964844,
+        110.41170501708984
+      ],
+      "text": "Uma teoria absurda",
+      "spans": [
+        {
+          "text": "Uma teoria absurda ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            97.12770080566406,
+            226.13999938964844,
+            110.41170501708984
+          ],
+          "origin": [
+            120.54000091552734,
+            107.8197021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        122.80769348144531,
+        513.3905029296875,
+        246.49159240722656
+      ],
+      "text": "Os ignorantes supõem que, por estarem constantemente tentando provocar o \ndesejo masculino, as mulheres desejam sexo constantemente, sendo reprimidas pelos \n\"homens maus\". Segundo esta hipótese absurda, teríamos medo da sexualidade feminina \ne estaríamos constantemente empenhados em sufocá-la, impedindo-a de se manifestar. \nPortanto, segundo esses leigos, nossa meta seria criar um mundo em que as mulheres \nfossem sexualmente frias e evitassem constantemente o sexo. Teríamos preferência por \naquelas que fossem frígidas e, sendo assim, não reclamaríamos de parceiras \nsexualmente \"apagadas\"(!).  Muito pelo contrário: elas corresponderiam às nossas \nfantasias eróticas. É desnecessário dizer que os fatos confirmam exatamente o oposto.",
+      "spans": [
+        {
+          "text": "Os ignorantes supõem que, por estarem constantemente tentando provocar o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            122.80769348144531,
+            513.3184204101562,
+            136.09169006347656
+          ],
+          "origin": [
+            120.54000091552734,
+            133.49969482421875
+          ]
+        },
+        {
+          "text": "desejo masculino, as mulheres desejam sexo constantemente, sendo reprimidas pelos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            136.60768127441406,
+            513.37158203125,
+            149.8916778564453
+          ],
+          "origin": [
+            85.08000183105469,
+            147.2996826171875
+          ]
+        },
+        {
+          "text": "\"homens maus\". Segundo esta hipótese absurda, teríamos medo da sexualidade feminina ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            150.4076690673828,
+            513.3905029296875,
+            163.69166564941406
+          ],
+          "origin": [
+            85.07998657226562,
+            161.09967041015625
+          ]
+        },
+        {
+          "text": "e estaríamos constantemente empenhados em sufocá-la, impedindo-a de se manifestar. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            164.20765686035156,
+            513.2855224609375,
+            177.4916534423828
+          ],
+          "origin": [
+            85.07998657226562,
+            174.899658203125
+          ]
+        },
+        {
+          "text": "Portanto, segundo esses leigos, nossa meta seria criar um mundo em que as mulheres ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            178.0076446533203,
+            513.2982177734375,
+            191.29164123535156
+          ],
+          "origin": [
+            85.07997131347656,
+            188.69964599609375
+          ]
+        },
+        {
+          "text": "fossem sexualmente frias e evitassem constantemente o sexo. Teríamos preferência por ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            191.80763244628906,
+            513.2779541015625,
+            205.0916290283203
+          ],
+          "origin": [
+            85.07997131347656,
+            202.4996337890625
+          ]
+        },
+        {
+          "text": "aquelas que fossem frígidas e, sendo assim, não reclamaríamos de parceiras ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            205.6076202392578,
+            513.311767578125,
+            218.89161682128906
+          ],
+          "origin": [
+            85.07998657226562,
+            216.29962158203125
+          ]
+        },
+        {
+          "text": "sexualmente \"apagadas\"(!).  Muito pelo contrário: elas corresponderiam às nossas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            219.40760803222656,
+            513.348388671875,
+            232.6916046142578
+          ],
+          "origin": [
+            85.07998657226562,
+            230.099609375
+          ]
+        },
+        {
+          "text": "fantasias eróticas. É desnecessário dizer que os fatos confirmam exatamente o oposto. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            233.2075958251953,
+            500.31353759765625,
+            246.49159240722656
+          ],
+          "origin": [
+            85.07998657226562,
+            243.89959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.53998565673828,
+        259.1275939941406,
+        187.19996643066406,
+        272.4115905761719
+      ],
+      "text": "Fogo pesado",
+      "spans": [
+        {
+          "text": "Fogo pesado ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            259.1275939941406,
+            187.19996643066406,
+            272.4115905761719
+          ],
+          "origin": [
+            120.53998565673828,
+            269.819580078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        284.8075866699219,
+        513.3260498046875,
+        311.8915710449219
+      ],
+      "text": "O conhecimento que produzo é fogo pesado contra a insinceridade e os abusos \nno amor. Por isso é detestado pelas pessoas desonestas.",
+      "spans": [
+        {
+          "text": "O conhecimento que produzo é fogo pesado contra a insinceridade e os abusos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53998565673828,
+            284.8075866699219,
+            513.3260498046875,
+            298.0915832519531
+          ],
+          "origin": [
+            120.53998565673828,
+            295.49957275390625
+          ]
+        },
+        {
+          "text": "no amor. Por isso é detestado pelas pessoas desonestas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            298.6075744628906,
+            353.4564514160156,
+            311.8915710449219
+          ],
+          "origin": [
+            85.07998657226562,
+            309.299560546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        324.527587890625,
+        281.5823669433594,
+        337.81158447265625
+      ],
+      "text": "Comprovação pela experiência",
+      "spans": [
+        {
+          "text": "Comprovação pela experiência ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            324.527587890625,
+            281.5823669433594,
+            337.81158447265625
+          ],
+          "origin": [
+            120.54000091552734,
+            335.2195739746094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        350.20758056640625,
+        513.288818359375,
+        391.091552734375
+      ],
+      "text": "Revisemos nossas vidas. Aquelas que mais nos amaram são aquelas que não \ntiveram a certeza de serem correspondidas. Aquelas que nos abandonaram foram \naquelas que tinham tal certeza.",
+      "spans": [
+        {
+          "text": "Revisemos nossas vidas. Aquelas que mais nos amaram são aquelas que não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            350.20758056640625,
+            513.2852783203125,
+            363.4915771484375
+          ],
+          "origin": [
+            120.54000091552734,
+            360.8995666503906
+          ]
+        },
+        {
+          "text": "tiveram a certeza de serem correspondidas. Aquelas que nos abandonaram foram ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            364.007568359375,
+            513.288818359375,
+            377.29156494140625
+          ],
+          "origin": [
+            85.08000183105469,
+            374.6995544433594
+          ]
+        },
+        {
+          "text": "aquelas que tinham tal certeza. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            377.80755615234375,
+            235.744873046875,
+            391.091552734375
+          ],
+          "origin": [
+            85.08001708984375,
+            388.4995422363281
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        403.6675720214844,
+        223.5684356689453,
+        416.9515686035156
+      ],
+      "text": "Irritação da dúvida",
+      "spans": [
+        {
+          "text": "Irritação da dúvida ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            403.6675720214844,
+            223.5684356689453,
+            416.9515686035156
+          ],
+          "origin": [
+            120.5400161743164,
+            414.35955810546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        429.3475646972656,
+        513.4132080078125,
+        470.2315368652344
+      ],
+      "text": "Quando as observamos, vemos que há várias coisas no comportamento delas que \n“não se encaixam” e não conseguimos compreender. Por isso é que não conseguimos \ndescansar na tranqüilidade (leia Peirce).",
+      "spans": [
+        {
+          "text": "Quando as observamos, vemos que há várias coisas no comportamento delas que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            429.3475646972656,
+            513.386474609375,
+            442.6315612792969
+          ],
+          "origin": [
+            120.5400161743164,
+            440.03955078125
+          ]
+        },
+        {
+          "text": "“não se encaixam” e não conseguimos compreender. Por isso é que não conseguimos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            443.1475524902344,
+            513.4132080078125,
+            456.4315490722656
+          ],
+          "origin": [
+            85.08001708984375,
+            453.83953857421875
+          ]
+        },
+        {
+          "text": "descansar na tranqüilidade (leia Peirce). ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            456.9475402832031,
+            279.6839599609375,
+            470.2315368652344
+          ],
+          "origin": [
+            85.08001708984375,
+            467.6395263671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400161743164,
+        482.8675537109375,
+        245.89199829101562,
+        496.15155029296875
+      ],
+      "text": "Erro ao tentar entender",
+      "spans": [
+        {
+          "text": "Erro ao tentar entender ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            482.8675537109375,
+            245.89199829101562,
+            496.15155029296875
+          ],
+          "origin": [
+            120.5400161743164,
+            493.5595397949219
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        508.5475158691406,
+        513.3408813476562,
+        563.2315063476562
+      ],
+      "text": "Os vários tipos de desejos que as mulheres sentem pelos homens originam \nconfusão quando elas descrevem o homem ideal. Sempre é importante perguntar: “Para \nque ela quer um homem assim ou assado? Com que finalidade?” Somente assim \npodemos compreender a dinâmica do desejo feminino.",
+      "spans": [
+        {
+          "text": "Os vários tipos de desejos que as mulheres sentem pelos homens originam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            508.5475158691406,
+            513.3408813476562,
+            521.8314819335938
+          ],
+          "origin": [
+            120.5400161743164,
+            519.239501953125
+          ]
+        },
+        {
+          "text": "confusão quando elas descrevem o homem ideal. Sempre é importante perguntar: “Para ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            522.3475341796875,
+            513.324462890625,
+            535.6315307617188
+          ],
+          "origin": [
+            85.08001708984375,
+            533.03955078125
+          ]
+        },
+        {
+          "text": "que ela quer um homem assim ou assado? Com que finalidade?” Somente assim ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            536.1474609375,
+            513.285888671875,
+            549.4314575195312
+          ],
+          "origin": [
+            85.08001708984375,
+            546.8394775390625
+          ]
+        },
+        {
+          "text": "podemos compreender a dinâmica do desejo feminino. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            549.947509765625,
+            350.4070739746094,
+            563.2315063476562
+          ],
+          "origin": [
+            85.08000183105469,
+            560.6395263671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        575.7474975585938,
+        513.1712646484375,
+        602.8314819335938
+      ],
+      "text": "A não-diferenciação dos múltiplos tipos de desejos femininos faz com que se \natribua sentido sexual a desejos que não o possuem.",
+      "spans": [
+        {
+          "text": "A não-diferenciação dos múltiplos tipos de desejos femininos faz com que se ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            575.7474975585938,
+            513.1712646484375,
+            589.031494140625
+          ],
+          "origin": [
+            120.54000091552734,
+            586.4395141601562
+          ]
+        },
+        {
+          "text": "atribua sentido sexual a desejos que não o possuem.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            589.5474853515625,
+            339.9237976074219,
+            602.8314819335938
+          ],
+          "origin": [
+            85.08000183105469,
+            600.239501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        615.3474731445312,
+        513.3648071289062,
+        711.4315185546875
+      ],
+      "text": "O erro da maioria dos analistas consiste em não contextualizar o desejo feminino \nno terreno das funcionalidades práticas. O cometem ao partirem de paradigmas \nequivocados para estudá-las. Acredito que o uso de relatos e perguntas é um grave erro \npara quem quer entender as mulheres. O melhor é observá-las em ação e também \nconsiderar os relatos masculinos, coisa que poucos estudiosos fazem. Além disso, \nparece-me os analistas negligenciam a experiência direta e vivida com este \ndesconcertante gênero.",
+      "spans": [
+        {
+          "text": "O erro da maioria dos analistas consiste em não contextualizar o desejo feminino ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53999328613281,
+            615.3474731445312,
+            513.3330078125,
+            628.6314697265625
+          ],
+          "origin": [
+            120.53999328613281,
+            626.0394897460938
+          ]
+        },
+        {
+          "text": "no terreno das funcionalidades práticas. O cometem ao partirem de paradigmas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07999420166016,
+            629.1474609375,
+            513.2277221679688,
+            642.4314575195312
+          ],
+          "origin": [
+            85.07999420166016,
+            639.8394775390625
+          ]
+        },
+        {
+          "text": "equivocados para estudá-las. Acredito que o uso de relatos e perguntas é um grave erro ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            642.947509765625,
+            513.3626708984375,
+            656.2315063476562
+          ],
+          "origin": [
+            85.07998657226562,
+            653.6395263671875
+          ]
+        },
+        {
+          "text": "para quem quer entender as mulheres. O melhor é observá-las em ação e também ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            656.7474975585938,
+            513.3648071289062,
+            670.031494140625
+          ],
+          "origin": [
+            85.07998657226562,
+            667.4395141601562
+          ]
+        },
+        {
+          "text": "considerar os relatos masculinos, coisa que poucos estudiosos fazem. Além disso, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            670.5474853515625,
+            513.29443359375,
+            683.8314819335938
+          ],
+          "origin": [
+            85.07998657226562,
+            681.239501953125
+          ]
+        },
+        {
+          "text": "parece-me os analistas negligenciam a experiência direta e vivida com este ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            684.3475341796875,
+            513.3505859375,
+            697.6315307617188
+          ],
+          "origin": [
+            85.07998657226562,
+            695.03955078125
+          ]
+        },
+        {
+          "text": "desconcertante gênero. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            698.1475219726562,
+            198.08631896972656,
+            711.4315185546875
+          ],
+          "origin": [
+            85.07997131347656,
+            708.8395385742188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07997131347656,
+        723.947509765625,
+        513.3185424804688,
+        751.031494140625
+      ],
+      "text": "Tais são os motivos pelos quais se diz e se escreve tanta bobagem sobre esses \nseres que nos interessam tanto.",
+      "spans": [
+        {
+          "text": "Tais são os motivos pelos quais se diz e se escreve tanta bobagem sobre esses ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53997039794922,
+            723.947509765625,
+            513.3185424804688,
+            737.2315063476562
+          ],
+          "origin": [
+            120.53997039794922,
+            734.6395263671875
+          ]
+        },
+        {
+          "text": "seres que nos interessam tanto. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            737.7474975585938,
+            236.48641967773438,
+            751.031494140625
+          ],
+          "origin": [
+            85.07997131347656,
+            748.4395141601562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "44",
+      "spans": [
+        {
+          "text": "44",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

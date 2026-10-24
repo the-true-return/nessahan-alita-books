@@ -1,0 +1,825 @@
+{
+  "page_number": 46,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        127.19999694824219,
+        77.32801818847656,
+        483.8028564453125,
+        90.61202239990234
+      ],
+      "text": "12. A dinâmica psicológica do encantamento e da feitiçaria",
+      "spans": [
+        {
+          "text": "12. A dinâmica psicológica do encantamento e da feitiçaria",
+          "font": "TimesNewRoman,Bold",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            127.19999694824219,
+            77.32801818847656,
+            483.8028564453125,
+            90.61202239990234
+          ],
+          "origin": [
+            127.19999694824219,
+            88.02001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        221.27999877929688,
+        109.81217193603516,
+        389.82635498046875,
+        120.90431213378906
+      ],
+      "text": "Em 25/07/00, 31/07/00 e 09/11/00",
+      "spans": [
+        {
+          "text": "Em 25/07/00, 31/07/00 e 09/11/00",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            221.27999877929688,
+            109.81217193603516,
+            389.82635498046875,
+            120.90431213378906
+          ],
+          "origin": [
+            221.27999877929688,
+            118.739990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        139.1278839111328,
+        526.0249633789062,
+        152.41188049316406
+      ],
+      "text": "O que os supersticiosos chamam de enfeitiçamento corresponde,",
+      "spans": [
+        {
+          "text": "O que os supersticiosos chamam de ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            139.1278839111328,
+            353.3687744140625,
+            152.41188049316406
+          ],
+          "origin": [
+            120.54000091552734,
+            149.81988525390625
+          ]
+        },
+        {
+          "text": "enfeitiçamento",
+          "font": "TimesNewRoman,Italic",
+          "size": 12.0,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            359.5199890136719,
+            139.1278839111328,
+            443.2176513671875,
+            152.41188049316406
+          ],
+          "origin": [
+            359.5199890136719,
+            149.81988525390625
+          ]
+        },
+        {
+          "text": " corresponde,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            444.17999267578125,
+            139.1278839111328,
+            526.0249633789062,
+            152.41188049316406
+          ],
+          "origin": [
+            444.17999267578125,
+            149.81988525390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        159.82789611816406,
+        526.089599609375,
+        173.1118927001953
+      ],
+      "text": "psicologicamente, à fascinação da consciência. Ambos serão considerados",
+      "spans": [
+        {
+          "text": "psicologicamente, à fascinação da consciência. Ambos serão considerados",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            159.82789611816406,
+            526.089599609375,
+            173.1118927001953
+          ],
+          "origin": [
+            85.08001708984375,
+            170.5198974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        180.5279083251953,
+        418.07025146484375,
+        193.81190490722656
+      ],
+      "text": "aqui como uma só coisa e não como duas coisas análogas.",
+      "spans": [
+        {
+          "text": "aqui como uma só coisa e não como duas coisas análogas.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            180.5279083251953,
+            418.07025146484375,
+            193.81190490722656
+          ],
+          "origin": [
+            85.08001708984375,
+            191.21990966796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        213.2279815673828,
+        526.0598754882812,
+        226.51197814941406
+      ],
+      "text": "O enfeitiçamento é uma forma de fascinação extremada, exarcebada.",
+      "spans": [
+        {
+          "text": "O enfeitiçamento é uma forma de fascinação extremada, exarcebada.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            213.2279815673828,
+            526.0598754882812,
+            226.51197814941406
+          ],
+          "origin": [
+            120.54000091552734,
+            223.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        233.92799377441406,
+        525.916748046875,
+        247.2119903564453
+      ],
+      "text": "Por isso os feiticeiros necessitam da crença de suas vítimas em seu poder de",
+      "spans": [
+        {
+          "text": "Por isso os feiticeiros necessitam da crença de suas vítimas em seu poder de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            233.92799377441406,
+            525.916748046875,
+            247.2119903564453
+          ],
+          "origin": [
+            85.08000183105469,
+            244.6199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        254.6280059814453,
+        223.755615234375,
+        267.9120178222656
+      ],
+      "text": "matar ou fazer adoecer.",
+      "spans": [
+        {
+          "text": "matar ou fazer adoecer. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            254.6280059814453,
+            223.755615234375,
+            267.9120178222656
+          ],
+          "origin": [
+            85.08001708984375,
+            265.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        287.3280029296875,
+        526.0585327148438,
+        300.61199951171875
+      ],
+      "text": "Uma pessoa absolutamente cética é imune ao poder de um feiticeiro.",
+      "spans": [
+        {
+          "text": "Uma pessoa absolutamente cética é imune ao poder de um feiticeiro.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            287.3280029296875,
+            526.0585327148438,
+            300.61199951171875
+          ],
+          "origin": [
+            120.54000091552734,
+            298.0199890136719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        308.02801513671875,
+        525.9287109375,
+        321.31201171875
+      ],
+      "text": "Se um cético for enfeitiçado, isso indica que seu ceticismo não foi absoluto,",
+      "spans": [
+        {
+          "text": "Se um cético for enfeitiçado, isso indica que seu ceticismo não foi absoluto,",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            308.02801513671875,
+            525.9287109375,
+            321.31201171875
+          ],
+          "origin": [
+            85.08001708984375,
+            318.7200012207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        328.72802734375,
+        308.7815856933594,
+        342.01202392578125
+      ],
+      "text": "que houve uma vacilação inconsciente.",
+      "spans": [
+        {
+          "text": "que houve uma vacilação inconsciente.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            328.72802734375,
+            308.7815856933594,
+            342.01202392578125
+          ],
+          "origin": [
+            85.08001708984375,
+            339.4200134277344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        361.4280090332031,
+        525.9973754882812,
+        374.7120056152344
+      ],
+      "text": "O mesmo processo se verifica na sedução. Uma mulher é invulnerável",
+      "spans": [
+        {
+          "text": "O mesmo processo se verifica na sedução. Uma mulher é invulnerável",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            361.4280090332031,
+            525.9973754882812,
+            374.7120056152344
+          ],
+          "origin": [
+            120.54000091552734,
+            372.1199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        382.1280212402344,
+        526.0118408203125,
+        395.4120178222656
+      ],
+      "text": "ao poder de um sedutor quando não crê que ele tenha algo que lhe interesse",
+      "spans": [
+        {
+          "text": "ao poder de um sedutor quando não crê que ele tenha algo que lhe interesse",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            382.1280212402344,
+            526.0118408203125,
+            395.4120178222656
+          ],
+          "origin": [
+            85.08001708984375,
+            392.82000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        402.8280334472656,
+        294.1211853027344,
+        416.1120300292969
+      ],
+      "text": "e, por extensão, o poder de atraí-la.",
+      "spans": [
+        {
+          "text": "e, por extensão, o poder de atraí-la. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            402.8280334472656,
+            294.1211853027344,
+            416.1120300292969
+          ],
+          "origin": [
+            85.08001708984375,
+            413.52001953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        435.52801513671875,
+        526.022705078125,
+        448.81201171875
+      ],
+      "text": "Entretanto, algumas vezes cremos estar invulneráveis ao poder de",
+      "spans": [
+        {
+          "text": "Entretanto, algumas vezes cremos estar invulneráveis ao poder de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            435.52801513671875,
+            526.022705078125,
+            448.81201171875
+          ],
+          "origin": [
+            120.54000091552734,
+            446.2200012207031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        456.22802734375,
+        526.1235961914062,
+        469.51202392578125
+      ],
+      "text": "alguém em um primeiro momento e, em outra situação, o surgimento de",
+      "spans": [
+        {
+          "text": "alguém em um primeiro momento e, em outra situação, o surgimento de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            456.22802734375,
+            526.1235961914062,
+            469.51202392578125
+          ],
+          "origin": [
+            85.08001708984375,
+            466.9200134277344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        476.92803955078125,
+        526.0382080078125,
+        490.2120361328125
+      ],
+      "text": "algo novo e ainda não conhecido por nós faz a convicção anterior ruir.",
+      "spans": [
+        {
+          "text": "algo novo e ainda não conhecido por nós faz a convicção anterior ruir.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            476.92803955078125,
+            526.0382080078125,
+            490.2120361328125
+          ],
+          "origin": [
+            85.08001708984375,
+            487.6200256347656
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        497.6280517578125,
+        240.43930053710938,
+        510.91204833984375
+      ],
+      "text": "Então ficamos vulneráveis.",
+      "spans": [
+        {
+          "text": "Então ficamos vulneráveis.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            497.6280517578125,
+            240.43930053710938,
+            510.91204833984375
+          ],
+          "origin": [
+            85.08001708984375,
+            508.3200378417969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        530.327880859375,
+        526.0054931640625,
+        543.6118774414062
+      ],
+      "text": "O encantamento requer o conhecimento prévio das debilidades de",
+      "spans": [
+        {
+          "text": "O encantamento requer o conhecimento prévio das debilidades de",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            530.327880859375,
+            526.0054931640625,
+            543.6118774414062
+          ],
+          "origin": [
+            120.54000091552734,
+            541.0198974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        551.0278930664062,
+        526.07568359375,
+        564.3118896484375
+      ],
+      "text": "quem vai ser encantado. Não é possível que alguém seja encantado em uma",
+      "spans": [
+        {
+          "text": "quem vai ser encantado. Não é possível que alguém seja encantado em uma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            551.0278930664062,
+            526.07568359375,
+            564.3118896484375
+          ],
+          "origin": [
+            85.08001708984375,
+            561.7199096679688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        571.7279052734375,
+        301.43048095703125,
+        585.0119018554688
+      ],
+      "text": "direção contrária à de suas fraquezas.",
+      "spans": [
+        {
+          "text": "direção contrária à de suas fraquezas.",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            571.7279052734375,
+            301.43048095703125,
+            585.0119018554688
+          ],
+          "origin": [
+            85.08001708984375,
+            582.419921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        604.4278564453125,
+        526.017578125,
+        617.7118530273438
+      ],
+      "text": "O encantamento apenas ocorre na direção das fraquezas previamente",
+      "spans": [
+        {
+          "text": "O encantamento apenas ocorre na direção das fraquezas previamente",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            604.4278564453125,
+            526.017578125,
+            617.7118530273438
+          ],
+          "origin": [
+            120.54000091552734,
+            615.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        625.1278686523438,
+        525.99169921875,
+        638.411865234375
+      ],
+      "text": "existentes, sejam elas conscientes ou inconscientes. Trata-se, portanto, da",
+      "spans": [
+        {
+          "text": "existentes, sejam elas conscientes ou inconscientes. Trata-se, portanto, da",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            625.1278686523438,
+            525.99169921875,
+            638.411865234375
+          ],
+          "origin": [
+            85.07998657226562,
+            635.8198852539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        645.827880859375,
+        526.0090942382812,
+        659.1118774414062
+      ],
+      "text": "instrumentalização ou aproveitamento de impulsos que já existiam: uma",
+      "spans": [
+        {
+          "text": "instrumentalização ou aproveitamento de impulsos que já existiam: uma",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            645.827880859375,
+            526.0090942382812,
+            659.1118774414062
+          ],
+          "origin": [
+            85.07998657226562,
+            656.5198974609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        666.5278930664062,
+        525.9611206054688,
+        679.8118896484375
+      ],
+      "text": "forma perversa de se aproveitar das fraquezas do próximo e violentar seu",
+      "spans": [
+        {
+          "text": "forma perversa de se aproveitar das fraquezas do próximo e violentar seu",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            666.5278930664062,
+            525.9611206054688,
+            679.8118896484375
+          ],
+          "origin": [
+            85.07998657226562,
+            677.2199096679688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        687.2279052734375,
+        166.4627685546875,
+        700.5119018554688
+      ],
+      "text": "livre arbítrio.",
+      "spans": [
+        {
+          "text": "livre arbítrio. ",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            687.2279052734375,
+            166.4627685546875,
+            700.5119018554688
+          ],
+          "origin": [
+            85.07998657226562,
+            697.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        300.9599914550781,
+        743.1121215820312,
+        311.01007080078125,
+        754.2042236328125
+      ],
+      "text": "46",
+      "spans": [
+        {
+          "text": "46",
+          "font": "TimesNewRoman",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.9599914550781,
+            743.1121215820312,
+            311.01007080078125,
+            754.2042236328125
+          ],
+          "origin": [
+            300.9599914550781,
+            752.0399169921875
+          ]
+        }
+      ]
+    }
+  ]
+}

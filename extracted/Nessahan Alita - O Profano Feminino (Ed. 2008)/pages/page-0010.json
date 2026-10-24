@@ -1,0 +1,1080 @@
+{
+  "page_number": 10,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.4800033569336,
+        71.20771789550781,
+        513.4163818359375,
+        84.4917221069336
+      ],
+      "text": "Não há, portanto, outra alternativa além de dissolver em nosso coração todas as",
+      "spans": [
+        {
+          "text": "Não há, portanto, outra alternativa além de dissolver em nosso coração todas as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.4800033569336,
+            71.20771789550781,
+            513.4163818359375,
+            84.4917221069336
+          ],
+          "origin": [
+            120.4800033569336,
+            81.89971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        89.96952819824219,
+        339.1199951171875,
+        105.19173431396484
+      ],
+      "text": "sombras do apego, da paixão e do sentimentalismo7.",
+      "spans": [
+        {
+          "text": "sombras do apego, da paixão e do sentimentalismo",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            91.90773010253906,
+            328.9776306152344,
+            105.19173431396484
+          ],
+          "origin": [
+            85.08001708984375,
+            102.5997314453125
+          ]
+        },
+        {
+          "text": "7",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            329.1000061035156,
+            89.96952819824219,
+            333.0899963378906,
+            98.80339050292969
+          ],
+          "origin": [
+            329.1000061035156,
+            97.0797119140625
+          ]
+        },
+        {
+          "text": ". ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            333.1199951171875,
+            91.90766906738281,
+            339.1199951171875,
+            105.1916732788086
+          ],
+          "origin": [
+            333.1199951171875,
+            102.59967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        124.60768127441406,
+        513.44873046875,
+        137.8916778564453
+      ],
+      "text": "Se você estiver sofrendo por alguma espertinha, poderá morrer e não despertará",
+      "spans": [
+        {
+          "text": "Se você estiver sofrendo por alguma espertinha, poderá morrer e não despertará ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            124.60768127441406,
+            513.44873046875,
+            137.8916778564453
+          ],
+          "origin": [
+            120.48001098632812,
+            135.2996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        145.3076934814453,
+        513.336181640625,
+        158.59169006347656
+      ],
+      "text": "nenhuma piedade. Será visto como um homem fraco, inútil, imprestável, incapaz de",
+      "spans": [
+        {
+          "text": "nenhuma piedade. Será visto como um homem fraco, inútil, imprestável, incapaz de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            145.3076934814453,
+            513.336181640625,
+            158.59169006347656
+          ],
+          "origin": [
+            85.08001708984375,
+            155.99969482421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        166.00770568847656,
+        513.4368896484375,
+        179.2917022705078
+      ],
+      "text": "cuidar de si próprio, um trapo, um cão, um rato. Portanto, não perca tempo sofrendo por",
+      "spans": [
+        {
+          "text": "cuidar de si próprio, um trapo, um cão, um rato. Portanto, não perca tempo sofrendo por ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            166.00770568847656,
+            513.4368896484375,
+            179.2917022705078
+          ],
+          "origin": [
+            85.08000183105469,
+            176.69970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        184.76951599121094,
+        513.3841552734375,
+        199.99171447753906
+      ],
+      "text": "nenhuma \"vadia\"8. Ame a si mesmo e não sonhe com ridículos romances hipócritas. O",
+      "spans": [
+        {
+          "text": "nenhuma \"vadia\"",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            186.7077178955078,
+            168.64918518066406,
+            199.99171447753906
+          ],
+          "origin": [
+            85.07998657226562,
+            197.39971923828125
+          ]
+        },
+        {
+          "text": "8",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            168.60000610351562,
+            184.76951599121094,
+            172.5900115966797,
+            193.60337829589844
+          ],
+          "origin": [
+            168.60000610351562,
+            191.87969970703125
+          ]
+        },
+        {
+          "text": ". Ame a si mesmo e não sonhe com ridículos romances hipócritas. O ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            172.6199951171875,
+            186.7077178955078,
+            513.3841552734375,
+            199.99171447753906
+          ],
+          "origin": [
+            172.6199951171875,
+            197.39971923828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        207.40773010253906,
+        513.3828735351562,
+        220.6917266845703
+      ],
+      "text": "perigo e falsidade dos amores cor-de-rosa existem na proporção direta de sua beleza e",
+      "spans": [
+        {
+          "text": "perigo e falsidade dos amores cor-de-rosa existem na proporção direta de sua beleza e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            207.40773010253906,
+            513.3828735351562,
+            220.6917266845703
+          ],
+          "origin": [
+            85.08001708984375,
+            218.0997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        228.1077423095703,
+        393.417724609375,
+        241.39173889160156
+      ],
+      "text": "fascínio. Saiba resistir ao que é lindo, maravilhoso e fascinante.",
+      "spans": [
+        {
+          "text": "fascínio. Saiba resistir ao que é lindo, maravilhoso e fascinante. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            228.1077423095703,
+            393.417724609375,
+            241.39173889160156
+          ],
+          "origin": [
+            85.08001708984375,
+            238.79974365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.48001098632812,
+        260.8077697753906,
+        513.398681640625,
+        274.0917663574219
+      ],
+      "text": "Antes de mais nada, lembremos que morreremos e seremos esquecidos.",
+      "spans": [
+        {
+          "text": "Antes de mais nada, lembremos que morreremos e seremos esquecidos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.48001098632812,
+            260.8077697753906,
+            513.398681640625,
+            274.0917663574219
+          ],
+          "origin": [
+            120.48001098632812,
+            271.499755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000946044922,
+        281.5077819824219,
+        513.449951171875,
+        294.7917785644531
+      ],
+      "text": "Portanto, busquemos a felicidade dentro da alma e não fora. Entreguemo-nos ao nosso",
+      "spans": [
+        {
+          "text": "Portanto, busquemos a felicidade dentro da alma e não fora. Entreguemo-nos ao nosso ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000946044922,
+            281.5077819824219,
+            513.449951171875,
+            294.7917785644531
+          ],
+          "origin": [
+            85.08000946044922,
+            292.19976806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        302.2077941894531,
+        348.9721374511719,
+        315.4917907714844
+      ],
+      "text": "Espírito. Somente Ele estará conosco depois da morte.",
+      "spans": [
+        {
+          "text": "Espírito. Somente Ele estará conosco depois da morte. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            302.2077941894531,
+            348.9721374511719,
+            315.4917907714844
+          ],
+          "origin": [
+            85.08000183105469,
+            312.8997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.4800033569336,
+        334.9078063964844,
+        513.3529052734375,
+        348.1918029785156
+      ],
+      "text": "Sua parceira será menos fria se acreditar que você é \"o cara\", \"o tal\", \"o bom\"",
+      "spans": [
+        {
+          "text": "Sua parceira será menos fria se acreditar que você é \"o cara\", \"o tal\", \"o bom\" ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.4800033569336,
+            334.9078063964844,
+            513.3529052734375,
+            348.1918029785156
+          ],
+          "origin": [
+            120.4800033569336,
+            345.59979248046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        355.5478210449219,
+        513.4102783203125,
+        368.8318176269531
+      ],
+      "text": "mas nunca irá amá-lo como você gostaria, isto é,  simplesmente pelo que você é: um ser",
+      "spans": [
+        {
+          "text": "mas nunca irá amá-lo como você gostaria, isto é,  simplesmente pelo que você é: um ser ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            355.5478210449219,
+            513.4102783203125,
+            368.8318176269531
+          ],
+          "origin": [
+            85.07998657226562,
+            366.23980712890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        376.2478332519531,
+        513.4034423828125,
+        389.5318298339844
+      ],
+      "text": "humano que sofre e sente. Acima de tudo, ela não sentirá ternura por você. Entretanto,",
+      "spans": [
+        {
+          "text": "humano que sofre e sente. Acima de tudo, ela não sentirá ternura por você. Entretanto, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            376.2478332519531,
+            513.4034423828125,
+            389.5318298339844
+          ],
+          "origin": [
+            85.07998657226562,
+            386.9398193359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        396.9478454589844,
+        513.3941650390625,
+        410.2318420410156
+      ],
+      "text": "se for tratada como uma simples fêmea, sentirá atração. Irá reclamar sem parar mas os",
+      "spans": [
+        {
+          "text": "se for tratada como uma simples fêmea, sentirá atração. Irá reclamar sem parar mas os ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            396.9478454589844,
+            513.3941650390625,
+            410.2318420410156
+          ],
+          "origin": [
+            85.07998657226562,
+            407.63983154296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        417.6478576660156,
+        274.3740234375,
+        430.9318542480469
+      ],
+      "text": "resultados interessantes se farão sentir.",
+      "spans": [
+        {
+          "text": "resultados interessantes se farão sentir. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            417.6478576660156,
+            274.3740234375,
+            430.9318542480469
+          ],
+          "origin": [
+            85.07998657226562,
+            428.33984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47998809814453,
+        450.3478698730469,
+        513.4093017578125,
+        463.6318664550781
+      ],
+      "text": "Não a trate simplesmente com frieza e indiferença: seja seu espelho na maioria",
+      "spans": [
+        {
+          "text": "Não a trate simplesmente com frieza e indiferença: seja seu espelho na maioria ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47998809814453,
+            450.3478698730469,
+            513.4093017578125,
+            463.6318664550781
+          ],
+          "origin": [
+            120.47998809814453,
+            461.03985595703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        471.0478820800781,
+        513.3634033203125,
+        484.3318786621094
+      ],
+      "text": "das vezes. Diga que a ama somente quando ela disser, dê presentes quando recebê-los",
+      "spans": [
+        {
+          "text": "das vezes. Diga que a ama somente quando ela disser, dê presentes quando recebê-los ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            471.0478820800781,
+            513.3634033203125,
+            484.3318786621094
+          ],
+          "origin": [
+            85.0799560546875,
+            481.7398681640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        491.7478942871094,
+        513.3887329101562,
+        505.0318908691406
+      ],
+      "text": "mas seja distante quando ela for fria. Retribua  aquilo que receber da mesma forma. Se",
+      "spans": [
+        {
+          "text": "mas seja distante quando ela for fria. Retribua  aquilo que receber da mesma forma. Se ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            491.7478942871094,
+            513.3887329101562,
+            505.0318908691406
+          ],
+          "origin": [
+            85.0799560546875,
+            502.43988037109375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        512.4478759765625,
+        513.3987426757812,
+        525.7318725585938
+      ],
+      "text": "receber carinho, retribua (não muito). Se receber frieza, retribua com frieza. Se ela o",
+      "spans": [
+        {
+          "text": "receber carinho, retribua (não muito). Se receber frieza, retribua com frieza. Se ela o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            512.4478759765625,
+            513.3987426757812,
+            525.7318725585938
+          ],
+          "origin": [
+            85.0799560546875,
+            523.139892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        533.1478881835938,
+        513.3525390625,
+        546.431884765625
+      ],
+      "text": "evitar, desmascare-a e evite-a. Se ela reclamar de tudo isso, jogue na cara. Isso exige",
+      "spans": [
+        {
+          "text": "evitar, desmascare-a e evite-a. Se ela reclamar de tudo isso, jogue na cara. Isso exige ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            533.1478881835938,
+            513.3525390625,
+            546.431884765625
+          ],
+          "origin": [
+            85.07992553710938,
+            543.8399047851562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        553.847900390625,
+        513.3191528320312,
+        567.1318969726562
+      ],
+      "text": "desapaixonamento e descondicionamento comportamental. Devolva na mesma moeda e,",
+      "spans": [
+        {
+          "text": "desapaixonamento e descondicionamento comportamental. Devolva na mesma moeda e, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            553.847900390625,
+            513.3191528320312,
+            567.1318969726562
+          ],
+          "origin": [
+            85.07992553710938,
+            564.5399169921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        572.6095581054688,
+        513.4463500976562,
+        587.8319091796875
+      ],
+      "text": "algumas vezes, até com mais intensidade do que recebeu. Adestre-a9. Não obstante,",
+      "spans": [
+        {
+          "text": "algumas vezes, até com mais intensidade do que recebeu. Adestre-a",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            574.5479125976562,
+            429.90838623046875,
+            587.8319091796875
+          ],
+          "origin": [
+            85.07992553710938,
+            585.2399291992188
+          ]
+        },
+        {
+          "text": "9",
+          "font": "TimesNewRomanPSMT",
+          "size": 7.980000019073486,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            429.8399963378906,
+            572.6095581054688,
+            433.8299865722656,
+            581.4434204101562
+          ],
+          "origin": [
+            429.8399963378906,
+            579.7197265625
+          ]
+        },
+        {
+          "text": ". Não obstante, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            433.8599853515625,
+            574.5476684570312,
+            513.4463500976562,
+            587.8316650390625
+          ],
+          "origin": [
+            433.8599853515625,
+            585.2396850585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07998657226562,
+        595.2476806640625,
+        513.3193359375,
+        608.5316772460938
+      ],
+      "text": "tenha seu ponto de apoio na masculinidade: seja mais \"temível\" do que amável, mais",
+      "spans": [
+        {
+          "text": "tenha seu ponto de apoio na masculinidade: seja mais \"temível\" do que amável, mais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            595.2476806640625,
+            513.3193359375,
+            608.5316772460938
+          ],
+          "origin": [
+            85.07998657226562,
+            605.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        615.9476318359375,
+        516.3309936523438,
+        629.2316284179688
+      ],
+      "text": "frio do que carinhoso, mais \"cruel\" do que piedoso, mais distante do que próximo.",
+      "spans": [
+        {
+          "text": "frio do que carinhoso, mais \"cruel\" do que piedoso, mais distante do que próximo.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            615.9476318359375,
+            516.3309936523438,
+            629.2316284179688
+          ],
+          "origin": [
+            85.0799560546875,
+            626.6396484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07952880859375,
+        656.4119262695312,
+        512.9406127929688,
+        771.0040283203125
+      ],
+      "text": "7 Isso não nos transformará em monstros mas, ao contrário, permitirá o desabrochar de estados internos \nsublimes e superiores. Insisto tanto na dissolução do sentimentalismo por ser ele perigoso, dado o seu \nimenso poder magnético e hipnótico de seduzir e enganar passando-se por algo sublime e espiritual.  \n8 Entenda-se por \"vadia\" uma megera desocupada que gasta o seu tempo brincando com aquilo que é o \nmais sério para um homem: seus sentimentos sinceros. Nem todas as mulheres, entretanto, o fazem. \nConheci mulheres que, por lidarem muito bem com seu lado obscuro ao invés de negá-lo, não fazem \nbrincadeiras de mau gosto com o amor masculino. \n9 Não é isso o que Karen Salmanshon e Amy Sutherland sugerem o tempo todo, motivo pelo qual são \novacionadas?",
+      "spans": [
+        {
+          "text": "7",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            666.5859985351562,
+            88.31999969482422,
+            673.7593383789062
+          ],
+          "origin": [
+            85.08000183105469,
+            672.3596801757812
+          ]
+        },
+        {
+          "text": " Isso não nos transformará em monstros mas, ao contrário, permitirá o desabrochar de estados internos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.31999969482422,
+            667.931884765625,
+            512.862548828125,
+            679.0239868164062
+          ],
+          "origin": [
+            88.31999969482422,
+            676.8596801757812
+          ]
+        },
+        {
+          "text": "sublimes e superiores. Insisto tanto na dissolução do sentimentalismo por ser ele perigoso, dado o seu ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07955932617188,
+            679.3917846679688,
+            512.8544311523438,
+            690.48388671875
+          ],
+          "origin": [
+            85.07955932617188,
+            688.319580078125
+          ]
+        },
+        {
+          "text": "imenso poder magnético e hipnótico de seduzir e enganar passando-se por algo sublime e espiritual.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07955932617188,
+            690.9117431640625,
+            489.6642761230469,
+            702.0038452148438
+          ],
+          "origin": [
+            85.07955932617188,
+            699.8395385742188
+          ]
+        },
+        {
+          "text": "8",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            701.0859375,
+            88.31999969482422,
+            708.25927734375
+          ],
+          "origin": [
+            85.08000183105469,
+            706.859619140625
+          ]
+        },
+        {
+          "text": " Entenda-se por \"vadia\" uma megera desocupada que gasta o seu tempo brincando com aquilo que é o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.31999969482422,
+            702.4318237304688,
+            512.8724365234375,
+            713.52392578125
+          ],
+          "origin": [
+            88.31999969482422,
+            711.359619140625
+          ]
+        },
+        {
+          "text": "mais sério para um homem: seus sentimentos sinceros. Nem todas as mulheres, entretanto, o fazem. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07952880859375,
+            713.8916625976562,
+            512.8947143554688,
+            724.9837646484375
+          ],
+          "origin": [
+            85.07952880859375,
+            722.8194580078125
+          ]
+        },
+        {
+          "text": "Conheci mulheres que, por lidarem muito bem com seu lado obscuro ao invés de negá-lo, não fazem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07952880859375,
+            725.4116821289062,
+            512.9406127929688,
+            736.5037841796875
+          ],
+          "origin": [
+            85.07952880859375,
+            734.3394775390625
+          ]
+        },
+        {
+          "text": "brincadeiras de mau gosto com o amor masculino. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07952880859375,
+            736.9317016601562,
+            288.6057434082031,
+            748.0238037109375
+          ],
+          "origin": [
+            85.07952880859375,
+            745.8594970703125
+          ]
+        },
+        {
+          "text": "9",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            747.0460205078125,
+            88.31999969482422,
+            754.2193603515625
+          ],
+          "origin": [
+            85.08000183105469,
+            752.8197021484375
+          ]
+        },
+        {
+          "text": " Não é isso o que Karen Salmanshon e Amy Sutherland sugerem o tempo todo, motivo pelo qual são ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.31999969482422,
+            748.3919067382812,
+            512.8716430664062,
+            759.4840087890625
+          ],
+          "origin": [
+            88.31999969482422,
+            757.3197021484375
+          ]
+        },
+        {
+          "text": "ovacionadas? ",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07952880859375,
+            759.9119262695312,
+            141.53118896484375,
+            771.0040283203125
+          ],
+          "origin": [
+            85.07952880859375,
+            768.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        794.7719116210938,
+        510.2697448730469,
+        805.9241333007812
+      ],
+      "text": "10",
+      "spans": [
+        {
+          "text": "10",
+          "font": "TimesNewRomanPSMT",
+          "size": 10.020000457763672,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            500.27978515625,
+            794.83203125,
+            510.2697448730469,
+            805.9241333007812
+          ],
+          "origin": [
+            500.27978515625,
+            803.7598266601562
+          ]
+        }
+      ]
+    }
+  ]
+}

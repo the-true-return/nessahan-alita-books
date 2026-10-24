@@ -1,0 +1,908 @@
+{
+  "page_number": 61,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        187.92001342773438,
+        78.31273651123047,
+        459.1204528808594,
+        96.11329650878906
+      ],
+      "text": "11. Os vícios e fraquezas femininos",
+      "spans": [
+        {
+          "text": "11. Os vícios e fraquezas femininos",
+          "font": "TimesNewRoman,Bold",
+          "size": 16.079999923706055,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            187.92001342773438,
+            78.31273651123047,
+            459.1204528808594,
+            96.11329650878906
+          ],
+          "origin": [
+            187.92001342773438,
+            92.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.0,
+        117.67729949951172,
+        538.9805908203125,
+        133.08673095703125
+      ],
+      "text": "Costuma-se falar sempre de má vontade sobre a maldade",
+      "spans": [
+        {
+          "text": "Costuma-se falar sempre de má vontade sobre a maldade",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.0,
+            117.67729949951172,
+            538.9805908203125,
+            133.08673095703125
+          ],
+          "origin": [
+            108.0,
+            130.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        141.6772918701172,
+        538.9200439453125,
+        157.08673095703125
+      ],
+      "text": "feminina. A tendência comum é evitá-la, evadindo-se. Por outro lado,",
+      "spans": [
+        {
+          "text": "feminina. A tendência comum é evitá-la, evadindo-se. Por outro lado,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            141.6772918701172,
+            538.9200439453125,
+            157.08673095703125
+          ],
+          "origin": [
+            72.0,
+            154.08001708984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        165.9172821044922,
+        538.9200439453125,
+        181.32672119140625
+      ],
+      "text": "denunciar as várias e inegáveis crueldades do homem é algo comum,",
+      "spans": [
+        {
+          "text": "denunciar as várias e inegáveis crueldades do homem é algo comum,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            165.9172821044922,
+            538.9200439453125,
+            181.32672119140625
+          ],
+          "origin": [
+            72.0,
+            178.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        189.9172821044922,
+        538.934814453125,
+        205.32672119140625
+      ],
+      "text": "visto pelas pessoas como natural pois, como é comum ouvir-se, \"os",
+      "spans": [
+        {
+          "text": "visto pelas pessoas como natural pois, como é comum ouvir-se, ",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            189.9172821044922,
+            515.1453247070312,
+            205.32672119140625
+          ],
+          "origin": [
+            72.0,
+            202.32000732421875
+          ]
+        },
+        {
+          "text": "\"os",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            518.8800048828125,
+            189.9172821044922,
+            538.934814453125,
+            205.32672119140625
+          ],
+          "origin": [
+            518.8800048828125,
+            202.32000732421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        214.1572723388672,
+        539.0252685546875,
+        229.56671142578125
+      ],
+      "text": "homens não prestam mesmo\". Os homens bons, então, dão um sorriso",
+      "spans": [
+        {
+          "text": "homens não prestam mesmo\"",
+          "font": "TimesNewRoman,Italic",
+          "size": 13.920000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            72.0,
+            214.1572723388672,
+            263.60638427734375,
+            229.56671142578125
+          ],
+          "origin": [
+            72.0,
+            226.55999755859375
+          ]
+        },
+        {
+          "text": ". Os homens bons, então, dão um sorriso",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            264.47998046875,
+            214.1572723388672,
+            539.0252685546875,
+            229.56671142578125
+          ],
+          "origin": [
+            264.47998046875,
+            226.55999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        71.99998474121094,
+        238.3972625732422,
+        538.9349975585938,
+        253.80670166015625
+      ],
+      "text": "amarelo e fingem achar graça, ainda que no fundo saibam as coisas",
+      "spans": [
+        {
+          "text": "amarelo e fingem achar graça, ainda que no fundo saibam as coisas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            71.99998474121094,
+            238.3972625732422,
+            538.9349975585938,
+            253.80670166015625
+          ],
+          "origin": [
+            71.99998474121094,
+            250.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        71.99998474121094,
+        262.39727783203125,
+        539.0252075195312,
+        277.80670166015625
+      ],
+      "text": "não são assim tão simples. Daí a necessidade de trilharmos o caminho",
+      "spans": [
+        {
+          "text": "não são assim tão simples. Daí a necessidade de trilharmos o caminho",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            71.99998474121094,
+            262.39727783203125,
+            539.0252075195312,
+            277.80670166015625
+          ],
+          "origin": [
+            71.99998474121094,
+            274.79998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        71.99998474121094,
+        286.63726806640625,
+        538.9805297851562,
+        302.04669189453125
+      ],
+      "text": "oposto para esclarecer o que falta, encarando frontalmente o problema",
+      "spans": [
+        {
+          "text": "oposto para esclarecer o que falta, encarando frontalmente o problema",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            71.99998474121094,
+            286.63726806640625,
+            538.9805297851562,
+            302.04669189453125
+          ],
+          "origin": [
+            71.99998474121094,
+            299.03997802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        71.99998474121094,
+        308.6740417480469,
+        540.0,
+        326.28668212890625
+      ],
+      "text": "que todos evitam e denunciando-o como fazem as feministas justas36",
+      "spans": [
+        {
+          "text": "que todos evitam e denunciando-o como fazem as feministas justas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            71.99998474121094,
+            310.87725830078125,
+            529.5748901367188,
+            326.28668212890625
+          ],
+          "origin": [
+            71.99998474121094,
+            323.27996826171875
+          ]
+        },
+        {
+          "text": "36",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            530.8800048828125,
+            308.6740417480469,
+            540.0,
+            318.7698669433594
+          ],
+          "origin": [
+            530.8800048828125,
+            316.7999572753906
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        334.87725830078125,
+        538.9202270507812,
+        350.28668212890625
+      ],
+      "text": "com os vícios masculinos. Se é verdade que os machos humanóides",
+      "spans": [
+        {
+          "text": "com os vícios masculinos. Se é verdade que os machos humanóides",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            334.87725830078125,
+            538.9202270507812,
+            350.28668212890625
+          ],
+          "origin": [
+            72.0,
+            347.27996826171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        356.9140319824219,
+        538.9052734375,
+        374.52667236328125
+      ],
+      "text": "animais37 são maldosos com relação às fêmeas, cobiçando-as,",
+      "spans": [
+        {
+          "text": "animais",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            359.11724853515625,
+            121.33487701416016,
+            374.52667236328125
+          ],
+          "origin": [
+            72.0,
+            371.51995849609375
+          ]
+        },
+        {
+          "text": "37",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            122.63999938964844,
+            356.9140319824219,
+            131.75999450683594,
+            367.0098571777344
+          ],
+          "origin": [
+            122.63999938964844,
+            365.0399475097656
+          ]
+        },
+        {
+          "text": " são maldosos com relação às fêmeas, cobiçando-as,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            131.75999450683594,
+            359.11724853515625,
+            538.9052734375,
+            374.52667236328125
+          ],
+          "origin": [
+            131.75999450683594,
+            371.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        383.11724853515625,
+        538.9349365234375,
+        398.52667236328125
+      ],
+      "text": "valorizando-as pela beleza exterior e possuem sempre segundas",
+      "spans": [
+        {
+          "text": "valorizando-as pela beleza exterior e possuem sempre segundas",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            383.11724853515625,
+            538.9349365234375,
+            398.52667236328125
+          ],
+          "origin": [
+            72.0,
+            395.51995849609375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        407.35723876953125,
+        539.025146484375,
+        422.76666259765625
+      ],
+      "text": "intenções sexuais, não é menos verdade que as fêmeas também são",
+      "spans": [
+        {
+          "text": "intenções sexuais, não é menos verdade que as fêmeas também são",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            407.35723876953125,
+            539.025146484375,
+            422.76666259765625
+          ],
+          "origin": [
+            72.0,
+            419.75994873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        431.59722900390625,
+        538.9657592773438,
+        447.00665283203125
+      ],
+      "text": "maldosas, valorizando-nos por nossa posição social, nossa atratividade",
+      "spans": [
+        {
+          "text": "maldosas, valorizando-nos por nossa posição social, nossa atratividade",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            431.59722900390625,
+            538.9657592773438,
+            447.00665283203125
+          ],
+          "origin": [
+            72.0,
+            443.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        455.59722900390625,
+        539.0252685546875,
+        471.00665283203125
+      ],
+      "text": "em relação às mulheres bonitas, nosso dinheiro, nossa fama etc. não",
+      "spans": [
+        {
+          "text": "em relação às mulheres bonitas, nosso dinheiro, nossa fama etc. não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            455.59722900390625,
+            539.0252685546875,
+            471.00665283203125
+          ],
+          "origin": [
+            72.0,
+            467.99993896484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        479.83721923828125,
+        539.0400390625,
+        495.24664306640625
+      ],
+      "text": "nos amando desinteressadamente. São totalmente utilitaristas e não",
+      "spans": [
+        {
+          "text": "nos amando desinteressadamente. São totalmente utilitaristas e não",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            479.83721923828125,
+            539.0400390625,
+            495.24664306640625
+          ],
+          "origin": [
+            72.0,
+            492.23992919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        503.83721923828125,
+        538.9805908203125,
+        519.2466430664062
+      ],
+      "text": "nos amam pelo que somos mas apenas pelos benefícios práticos e",
+      "spans": [
+        {
+          "text": "nos amam pelo que somos mas apenas pelos benefícios práticos e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            503.83721923828125,
+            538.9805908203125,
+            519.2466430664062
+          ],
+          "origin": [
+            72.0,
+            516.2399291992188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        528.0772094726562,
+        538.9349365234375,
+        543.4866333007812
+      ],
+      "text": "emocionais que possamos proporcionar. As segundas intenções",
+      "spans": [
+        {
+          "text": "emocionais que possamos proporcionar. As segundas intenções",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            528.0772094726562,
+            538.9349365234375,
+            543.4866333007812
+          ],
+          "origin": [
+            72.0,
+            540.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        552.3172607421875,
+        538.9349975585938,
+        567.7266845703125
+      ],
+      "text": "masculinas são sexuais: o macho quer copular. As segundas intenções",
+      "spans": [
+        {
+          "text": "masculinas são sexuais: o macho quer copular. As segundas intenções",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            552.3172607421875,
+            538.9349975585938,
+            567.7266845703125
+          ],
+          "origin": [
+            72.0,
+            564.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        610.7863159179688,
+        540.1521606445312,
+        634.8173217773438
+      ],
+      "text": "36 Que fique claro que me refiro às feministas conscientes e esclarecidas e não às nazi-feministas misândricas que\nimputam unicamente ao homem a responsabilidade por todas as desgraças do mundo.",
+      "spans": [
+        {
+          "text": "36",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            610.7863159179688,
+            78.5999984741211,
+            617.9596557617188
+          ],
+          "origin": [
+            72.0,
+            616.5599975585938
+          ]
+        },
+        {
+          "text": " Que fique claro que me refiro às feministas conscientes e esclarecidas e não às nazi-feministas misândricas que",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            78.72000122070312,
+            612.1387329101562,
+            540.1521606445312,
+            623.2973022460938
+          ],
+          "origin": [
+            78.72000122070312,
+            621.1199951171875
+          ]
+        },
+        {
+          "text": "imputam unicamente ao homem a responsabilidade por todas as desgraças do mundo.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            623.6587524414062,
+            414.1200256347656,
+            634.8173217773438
+          ],
+          "origin": [
+            72.0,
+            632.6400146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        643.6663208007812,
+        540.2097778320312,
+        690.7373046875
+      ],
+      "text": "37 Todos nós somos machos humanóides animais. Entretanto, nem todos se conformam em sê-lo e há os que lutam\npor superar-se. Não somos somente humanos, como gostamos de pensar, somos também animais e não há nisso\nnada de errado, é apenas a etapa atual de nossa evolução. Nossa animalidade, por sua vez, nem sempre está em\nharmonia com os instintos e com a natureza. Parece-me desnecessário mencionar provas que confirmem esta idéia.",
+      "spans": [
+        {
+          "text": "37",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            643.6663208007812,
+            78.5999984741211,
+            650.8396606445312
+          ],
+          "origin": [
+            72.0,
+            649.4400024414062
+          ]
+        },
+        {
+          "text": " Todos nós somos machos humanóides animais. Entretanto, nem todos se conformam em sê-lo e há os que lutam",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            78.72000122070312,
+            645.0187377929688,
+            540.1688842773438,
+            656.1773071289062
+          ],
+          "origin": [
+            78.72000122070312,
+            654.0
+          ]
+        },
+        {
+          "text": "por superar-se. Não somos somente humanos, como gostamos de pensar, somos também animais e não há nisso",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            656.5387573242188,
+            540.2097778320312,
+            667.6973266601562
+          ],
+          "origin": [
+            72.0,
+            665.52001953125
+          ]
+        },
+        {
+          "text": "nada de errado, é apenas a etapa atual de nossa evolução. Nossa animalidade, por sua vez, nem sempre está em",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            668.0587768554688,
+            539.9390258789062,
+            679.2173461914062
+          ],
+          "origin": [
+            72.0,
+            677.0400390625
+          ]
+        },
+        {
+          "text": "harmonia com os instintos e com a natureza. Parece-me desnecessário mencionar provas que confirmem esta idéia.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            679.5787353515625,
+            531.4970092773438,
+            690.7373046875
+          ],
+          "origin": [
+            72.0,
+            688.5599975585938
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        528.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "61",
+      "spans": [
+        {
+          "text": "61",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            528.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            528.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}

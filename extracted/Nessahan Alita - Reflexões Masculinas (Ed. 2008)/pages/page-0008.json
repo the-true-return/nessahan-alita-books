@@ -1,0 +1,518 @@
+{
+  "page_number": 8,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        71.5555191040039,
+        526.6943359375,
+        87.21552276611328
+      ],
+      "text": "acontecer, nem mesmo de que o namoro ou casamento vá para",
+      "spans": [
+        {
+          "text": "acontecer, nem mesmo de que o namoro ou casamento vá para",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            71.5555191040039,
+            526.6943359375,
+            87.21552276611328
+          ],
+          "origin": [
+            84.95999908447266,
+            84.0
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999908447266,
+        96.2754898071289,
+        153.22560119628906,
+        111.93549346923828
+      ],
+      "text": "o buraco);",
+      "spans": [
+        {
+          "text": "o buraco);",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999908447266,
+            96.2754898071289,
+            153.22560119628906,
+            111.93549346923828
+          ],
+          "origin": [
+            84.95999908447266,
+            108.719970703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        132.75547790527344,
+        526.8096923828125,
+        148.41546630859375
+      ],
+      "text": "14. Uma \"vadia\" é uma mulher que brinca com os",
+      "spans": [
+        {
+          "text": "14. Uma \"vadia\" é uma mulher que brinca com os",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            132.75547790527344,
+            526.8096923828125,
+            148.41546630859375
+          ],
+          "origin": [
+            120.47999572753906,
+            145.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        157.47544860839844,
+        526.8287963867188,
+        173.13543701171875
+      ],
+      "text": "sentimentos mais caros de um homem sincero e não as demais",
+      "spans": [
+        {
+          "text": "sentimentos mais caros de um homem sincero e não as demais",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            157.47544860839844,
+            526.8287963867188,
+            173.13543701171875
+          ],
+          "origin": [
+            84.95999145507812,
+            169.919921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        182.19541931152344,
+        526.8289794921875,
+        197.85540771484375
+      ],
+      "text": "(é claro que existem  homens vadios mas me ocupo com eles",
+      "spans": [
+        {
+          "text": "(é claro que existem  homens vadios mas me ocupo com eles",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            182.19541931152344,
+            526.8289794921875,
+            197.85540771484375
+          ],
+          "origin": [
+            84.95999145507812,
+            194.639892578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        206.67539978027344,
+        249.5039825439453,
+        222.33538818359375
+      ],
+      "text": "apenas marginalmente);",
+      "spans": [
+        {
+          "text": "apenas marginalmente);",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            206.67539978027344,
+            249.5039825439453,
+            222.33538818359375
+          ],
+          "origin": [
+            84.95999145507812,
+            219.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        243.39537048339844,
+        526.8289184570312,
+        259.05535888671875
+      ],
+      "text": "15. Sou a favor do machismo consciente e esclarecido, e",
+      "spans": [
+        {
+          "text": "15. Sou a favor do machismo consciente e esclarecido, e",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            243.39537048339844,
+            526.8289184570312,
+            259.05535888671875
+          ],
+          "origin": [
+            120.47999572753906,
+            255.83984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        268.1153564453125,
+        526.9248657226562,
+        283.7753601074219
+      ],
+      "text": "não do machismo irracional e violento (machismo dogmático",
+      "spans": [
+        {
+          "text": "não do machismo irracional e violento (machismo dogmático",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            268.1153564453125,
+            526.9248657226562,
+            283.7753601074219
+          ],
+          "origin": [
+            84.95999145507812,
+            280.5598449707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        292.8353576660156,
+        526.9152221679688,
+        308.495361328125
+      ],
+      "text": "extremista), o qual é uma praga abusiva que reforça o",
+      "spans": [
+        {
+          "text": "extremista), o qual é uma praga abusiva que reforça o",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            292.8353576660156,
+            526.9152221679688,
+            308.495361328125
+          ],
+          "origin": [
+            84.95999145507812,
+            305.27984619140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        317.31536865234375,
+        326.53436279296875,
+        332.9753723144531
+      ],
+      "text": "feminismo androfóbico-misândrico;",
+      "spans": [
+        {
+          "text": "feminismo androfóbico-misândrico;",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            317.31536865234375,
+            326.53436279296875,
+            332.9753723144531
+          ],
+          "origin": [
+            84.95999145507812,
+            329.7598571777344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        354.0353698730469,
+        526.8768920898438,
+        369.69537353515625
+      ],
+      "text": "17. Sou adepto do gnosticismo e minha concepção",
+      "spans": [
+        {
+          "text": "17. Sou adepto do gnosticismo e minha concepção",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            354.0353698730469,
+            526.8768920898438,
+            369.69537353515625
+          ],
+          "origin": [
+            120.47999572753906,
+            366.4798583984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        378.75537109375,
+        526.6559448242188,
+        394.4153747558594
+      ],
+      "text": "filosófica sobre o amor e a mulher deriva de minha religião, a",
+      "spans": [
+        {
+          "text": "filosófica sobre o amor e a mulher deriva de minha religião, a",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            378.75537109375,
+            526.6559448242188,
+            394.4153747558594
+          ],
+          "origin": [
+            84.95999145507812,
+            391.1998596191406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        403.2353820800781,
+        526.7999877929688,
+        418.8953857421875
+      ],
+      "text": "qual aceita o Alcorão, a Bíblia e os livros apócrifos como regras",
+      "spans": [
+        {
+          "text": "qual aceita o Alcorão, a Bíblia e os livros apócrifos como regras",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            403.2353820800781,
+            526.7999877929688,
+            418.8953857421875
+          ],
+          "origin": [
+            84.95999145507812,
+            415.67987060546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        427.95538330078125,
+        358.64642333984375,
+        443.6153869628906
+      ],
+      "text": "de vida por serem mensagens dos Céus.",
+      "spans": [
+        {
+          "text": "de vida por serem mensagens dos Céus.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            427.95538330078125,
+            358.64642333984375,
+            443.6153869628906
+          ],
+          "origin": [
+            84.95999145507812,
+            440.3998718261719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.47999572753906,
+        464.6753845214844,
+        526.8576049804688,
+        480.33538818359375
+      ],
+      "text": "Nada disso é novo. Tudo está explícito nos textos desde o",
+      "spans": [
+        {
+          "text": "Nada disso é novo. Tudo está explícito nos textos desde o",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.47999572753906,
+            464.6753845214844,
+            526.8576049804688,
+            480.33538818359375
+          ],
+          "origin": [
+            120.47999572753906,
+            477.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        84.95999145507812,
+        489.3953857421875,
+        181.08480834960938,
+        505.0553894042969
+      ],
+      "text": "primeiro livro.",
+      "spans": [
+        {
+          "text": "primeiro livro.",
+          "font": "BookmanOldStyle",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            84.95999145507812,
+            489.3953857421875,
+            181.08480834960938,
+            505.0553894042969
+          ],
+          "origin": [
+            84.95999145507812,
+            501.8398742675781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        17.99999237060547,
+        769.139892578125,
+        345.75592041015625,
+        782.5438842773438
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            17.99999237060547,
+            769.139892578125,
+            239.9760284423828,
+            782.5438842773438
+          ],
+          "origin": [
+            17.99999237060547,
+            779.9998779296875
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.139892578125,
+            345.75592041015625,
+            782.5438842773438
+          ],
+          "origin": [
+            240.0,
+            779.9998779296875
+          ]
+        }
+      ]
+    }
+  ]
+}

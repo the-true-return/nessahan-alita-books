@@ -1,0 +1,221 @@
+{
+  "page_number": 46,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        77.4835205078125,
+        263.88702392578125,
+        92.95938110351562
+      ],
+      "text": "Sobre traduções e impressões",
+      "spans": [
+        {
+          "text": "Sobre traduções e impressões ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            77.4835205078125,
+            263.88702392578125,
+            92.95938110351562
+          ],
+          "origin": [
+            85.08000183105469,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        105.28767395019531,
+        513.3214111328125,
+        132.3716583251953
+      ],
+      "text": "Quanto a imprimir os livros para ler, estejam à vontade. Não é recomendável \npara os olhos ler em telas de computadores.",
+      "spans": [
+        {
+          "text": "Quanto a imprimir os livros para ler, estejam à vontade. Não é recomendável ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            105.28767395019531,
+            513.3214111328125,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000091552734,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "para os olhos ler em telas de computadores. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            119.08766174316406,
+            297.4393005371094,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08001708984375,
+            129.7796630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        144.8876495361328,
+        513.35400390625,
+        185.7716827392578
+      ],
+      "text": "Quanto à tradução, não me importo se traduzirem partes (capítulos ou trechos), \ndesde que não seja atribuída a mim a responsabilidade pelos possíveis erros de \nlinguagem e de interpretação dos sentidos literal e metafórico das palavras e frases.",
+      "spans": [
+        {
+          "text": "Quanto à tradução, não me importo se traduzirem partes (capítulos ou trechos), ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400161743164,
+            144.8876495361328,
+            513.35400390625,
+            158.17164611816406
+          ],
+          "origin": [
+            120.5400161743164,
+            155.57965087890625
+          ]
+        },
+        {
+          "text": "desde que não seja atribuída a mim a responsabilidade pelos possíveis erros de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            158.68763732910156,
+            513.2447509765625,
+            171.9716339111328
+          ],
+          "origin": [
+            85.08000183105469,
+            169.379638671875
+          ]
+        },
+        {
+          "text": "linguagem e de interpretação dos sentidos literal e metafórico das palavras e frases. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000183105469,
+            172.48768615722656,
+            487.55999755859375,
+            185.7716827392578
+          ],
+          "origin": [
+            85.08000183105469,
+            183.1796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        198.2876739501953,
+        513.2749633789062,
+        225.3716583251953
+      ],
+      "text": "Estas duas autorizações não se aplicam às versões antigas e obsoletas dos livros, \nsomente às versões atuais.",
+      "spans": [
+        {
+          "text": "Estas duas autorizações não se aplicam às versões antigas e obsoletas dos livros, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000854492188,
+            198.2876739501953,
+            513.2749633789062,
+            211.57167053222656
+          ],
+          "origin": [
+            120.54000854492188,
+            208.97967529296875
+          ]
+        },
+        {
+          "text": "somente às versões atuais. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            212.08766174316406,
+            214.11000061035156,
+            225.3716583251953
+          ],
+          "origin": [
+            85.08001708984375,
+            222.7796630859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "46",
+      "spans": [
+        {
+          "text": "46",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

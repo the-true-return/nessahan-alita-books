@@ -1,0 +1,885 @@
+{
+  "page_number": 43,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        85.08001708984375,
+        71.20771789550781,
+        513.365234375,
+        139.69166564941406
+      ],
+      "text": "Levar o homem a se entregar completamente, enquanto preserva somente para si \na sobriedade da recusa, é a lógica continuísta que rege este tipo de mulher. Ela não \naceita a recusa masculina da entrega, mas, em contrapartida, considera que possui todo \no direito de realizá-la, pois tal direito é entendido como um privilégio exclusivamente \nfeminino.",
+      "spans": [
+        {
+          "text": "Levar o homem a se entregar completamente, enquanto preserva somente para si ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            71.20771789550781,
+            513.326904296875,
+            84.4917221069336
+          ],
+          "origin": [
+            120.54000091552734,
+            81.89971923828125
+          ]
+        },
+        {
+          "text": "a sobriedade da recusa, é a lógica continuísta que rege este tipo de mulher. Ela não ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            85.00770568847656,
+            513.3057861328125,
+            98.29170989990234
+          ],
+          "origin": [
+            85.08001708984375,
+            95.69970703125
+          ]
+        },
+        {
+          "text": "aceita a recusa masculina da entrega, mas, em contrapartida, considera que possui todo ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            98.80769348144531,
+            513.365234375,
+            112.0916976928711
+          ],
+          "origin": [
+            85.08001708984375,
+            109.49969482421875
+          ]
+        },
+        {
+          "text": "o direito de realizá-la, pois tal direito é entendido como um privilégio exclusivamente ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08001708984375,
+            112.60768127441406,
+            513.332763671875,
+            125.89168548583984
+          ],
+          "origin": [
+            85.08001708984375,
+            123.2996826171875
+          ]
+        },
+        {
+          "text": "feminino.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            126.40766906738281,
+            137.39404296875,
+            139.69166564941406
+          ],
+          "origin": [
+            85.08003234863281,
+            137.09967041015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54003143310547,
+        152.32765197753906,
+        241.1975860595703,
+        165.6116485595703
+      ],
+      "text": "Paradigma equivocado",
+      "spans": [
+        {
+          "text": "Paradigma equivocado ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54003143310547,
+            152.32765197753906,
+            241.1975860595703,
+            165.6116485595703
+          ],
+          "origin": [
+            120.54003143310547,
+            163.0196533203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08003234863281,
+        178.0076446533203,
+        513.3453369140625,
+        246.49159240722656
+      ],
+      "text": "O sexo feminino não é incompreensível e nem tampouco imprevisível, como \ntodo mundo diz e acredita. Nós é que tentamos compreendê-lo sob perspectivas erradas. \nO senso comum parte de pressupostos (paradigmas) falsos e equivocados em suas \ntentativas de observá-lo e analisá-lo, motivo pelo qual se nos afigura a idéia de que as \nmulheres são criaturas difíceis de entender.",
+      "spans": [
+        {
+          "text": "O sexo feminino não é incompreensível e nem tampouco imprevisível, como ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54003143310547,
+            178.0076446533203,
+            513.216064453125,
+            191.29164123535156
+          ],
+          "origin": [
+            120.54003143310547,
+            188.69964599609375
+          ]
+        },
+        {
+          "text": "todo mundo diz e acredita. Nós é que tentamos compreendê-lo sob perspectivas erradas. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08003234863281,
+            191.80763244628906,
+            513.25439453125,
+            205.0916290283203
+          ],
+          "origin": [
+            85.08003234863281,
+            202.4996337890625
+          ]
+        },
+        {
+          "text": "O senso comum parte de pressupostos (paradigmas) falsos e equivocados em suas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            205.6076202392578,
+            513.3453369140625,
+            218.89161682128906
+          ],
+          "origin": [
+            85.08004760742188,
+            216.29962158203125
+          ]
+        },
+        {
+          "text": "tentativas de observá-lo e analisá-lo, motivo pelo qual se nos afigura a idéia de que as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            219.40760803222656,
+            513.2976684570312,
+            232.6916046142578
+          ],
+          "origin": [
+            85.08004760742188,
+            230.099609375
+          ]
+        },
+        {
+          "text": "mulheres são criaturas difíceis de entender. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            233.2075958251953,
+            295.4125061035156,
+            246.49159240722656
+          ],
+          "origin": [
+            85.08004760742188,
+            243.89959716796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54004669189453,
+        259.1275939941406,
+        243.4440460205078,
+        272.4115905761719
+      ],
+      "text": "Porque não entregar-se",
+      "spans": [
+        {
+          "text": "Porque não entregar-se ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            259.1275939941406,
+            243.4440460205078,
+            272.4115905761719
+          ],
+          "origin": [
+            120.54004669189453,
+            269.819580078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        284.8075866699219,
+        513.3428955078125,
+        325.6915588378906
+      ],
+      "text": "Há dois motivos importantes pelos quais não convém entregar o coração: 1) Elas \ncostumam se engraçar com outros machos tão logo viremos as costas; 2) Elas se tornam \nfrias e distantes tão logo percebam que estamos em suas mãos.",
+      "spans": [
+        {
+          "text": "Há dois motivos importantes pelos quais não convém entregar o coração: 1) Elas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            284.8075866699219,
+            513.3428955078125,
+            298.0915832519531
+          ],
+          "origin": [
+            120.54004669189453,
+            295.49957275390625
+          ]
+        },
+        {
+          "text": "costumam se engraçar com outros machos tão logo viremos as costas; 2) Elas se tornam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            298.6075744628906,
+            513.3287353515625,
+            311.8915710449219
+          ],
+          "origin": [
+            85.08004760742188,
+            309.299560546875
+          ]
+        },
+        {
+          "text": "frias e distantes tão logo percebam que estamos em suas mãos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            312.4075622558594,
+            389.0462341308594,
+            325.6915588378906
+          ],
+          "origin": [
+            85.08004760742188,
+            323.09954833984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54004669189453,
+        338.32757568359375,
+        236.57769775390625,
+        351.611572265625
+      ],
+      "text": "Propaganda enganosa",
+      "spans": [
+        {
+          "text": "Propaganda enganosa ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            338.32757568359375,
+            236.57769775390625,
+            351.611572265625
+          ],
+          "origin": [
+            120.54004669189453,
+            349.0195617675781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        364.007568359375,
+        513.32666015625,
+        404.83154296875
+      ],
+      "text": "Elas nos oferecem o que possuem de melhor, para comprar o nosso coração. \nQuando lhes damos o que tanto querem, recebemos infernizações no lugar do que nos \nhavia sido oferecido.",
+      "spans": [
+        {
+          "text": "Elas nos oferecem o que possuem de melhor, para comprar o nosso coração. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            364.007568359375,
+            513.2996826171875,
+            377.29156494140625
+          ],
+          "origin": [
+            120.54004669189453,
+            374.6995544433594
+          ]
+        },
+        {
+          "text": "Quando lhes damos o que tanto querem, recebemos infernizações no lugar do que nos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            377.80755615234375,
+            513.32666015625,
+            391.091552734375
+          ],
+          "origin": [
+            85.08004760742188,
+            388.4995422363281
+          ]
+        },
+        {
+          "text": "havia sido oferecido.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            391.54754638671875,
+            191.43360900878906,
+            404.83154296875
+          ],
+          "origin": [
+            85.08004760742188,
+            402.2395324707031
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54004669189453,
+        417.4675598144531,
+        284.5728759765625,
+        430.7515563964844
+      ],
+      "text": "Adultério masculino e feminino",
+      "spans": [
+        {
+          "text": "Adultério masculino e feminino ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            417.4675598144531,
+            284.5728759765625,
+            430.7515563964844
+          ],
+          "origin": [
+            120.54004669189453,
+            428.1595458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        443.1475524902344,
+        513.440673828125,
+        566.8314208984375
+      ],
+      "text": "O adultério masculino não fere tanto as mulheres porque elas não gostam muito \nde nós e, por este mesmo motivo, elas nos perdoam com mais facilidade. Em \ncontrapartida, o adultério feminino nos fere exageradamente, pelo fato de que delas \ngostamos de forma desesperada. A dor da traição é proporcional aos sentimentos que se \ntenha. Como o amor e o ódio são duas faces de uma mesma moeda, o ódio \ndesencadeado pela traição feminina é proporcional ao amor anterior (isto é, imenso), e \npor tal motivo não conseguimos perdoá-las nesses casos. Além disso, há outro \nagravante: sabemos que elas poderiam facilmente resistir ao assédio masculino se o \nquisessem.",
+      "spans": [
+        {
+          "text": "O adultério masculino não fere tanto as mulheres porque elas não gostam muito ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            443.1475524902344,
+            513.2781372070312,
+            456.4315490722656
+          ],
+          "origin": [
+            120.54004669189453,
+            453.83953857421875
+          ]
+        },
+        {
+          "text": "de nós e, por este mesmo motivo, elas nos perdoam com mais facilidade. Em ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            456.9475402832031,
+            513.3721923828125,
+            470.2315368652344
+          ],
+          "origin": [
+            85.08004760742188,
+            467.6395263671875
+          ]
+        },
+        {
+          "text": "contrapartida, o adultério feminino nos fere exageradamente, pelo fato de que delas ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            470.7475280761719,
+            513.291748046875,
+            484.0315246582031
+          ],
+          "origin": [
+            85.08004760742188,
+            481.43951416015625
+          ]
+        },
+        {
+          "text": "gostamos de forma desesperada. A dor da traição é proporcional aos sentimentos que se ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            484.5475158691406,
+            513.3297119140625,
+            497.8315124511719
+          ],
+          "origin": [
+            85.08004760742188,
+            495.239501953125
+          ]
+        },
+        {
+          "text": "tenha. Como o amor e o ódio são duas faces de uma mesma moeda, o ódio ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            498.3475036621094,
+            513.440673828125,
+            511.6315002441406
+          ],
+          "origin": [
+            85.08004760742188,
+            509.03948974609375
+          ]
+        },
+        {
+          "text": "desencadeado pela traição feminina é proporcional ao amor anterior (isto é, imenso), e ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            512.1474609375,
+            513.3480834960938,
+            525.4314575195312
+          ],
+          "origin": [
+            85.08004760742188,
+            522.8394775390625
+          ]
+        },
+        {
+          "text": "por tal motivo não conseguimos perdoá-las nesses casos. Além disso, há outro ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            525.9474487304688,
+            513.342529296875,
+            539.2314453125
+          ],
+          "origin": [
+            85.08004760742188,
+            536.6394653320312
+          ]
+        },
+        {
+          "text": "agravante: sabemos que elas poderiam facilmente resistir ao assédio masculino se o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            539.7474365234375,
+            513.2890625,
+            553.0314331054688
+          ],
+          "origin": [
+            85.08004760742188,
+            550.439453125
+          ]
+        },
+        {
+          "text": "quisessem. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            553.5474243164062,
+            140.4000701904297,
+            566.8314208984375
+          ],
+          "origin": [
+            85.08004760742188,
+            564.2394409179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        579.347412109375,
+        513.3157958984375,
+        606.4314575195312
+      ],
+      "text": "Por gostarem muito, os homens ficam mais ressentidos com a traição, ao \ncontrário das mulheres.",
+      "spans": [
+        {
+          "text": "Por gostarem muito, os homens ficam mais ressentidos com a traição, ao ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            579.347412109375,
+            513.3157958984375,
+            592.6314086914062
+          ],
+          "origin": [
+            120.54004669189453,
+            590.0394287109375
+          ]
+        },
+        {
+          "text": "contrário das mulheres. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            593.1474609375,
+            200.40602111816406,
+            606.4314575195312
+          ],
+          "origin": [
+            85.08004760742188,
+            603.8394775390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.54004669189453,
+        619.0674438476562,
+        336.2425231933594,
+        632.3514404296875
+      ],
+      "text": "Machismo radical e machismo extremista",
+      "spans": [
+        {
+          "text": "Machismo radical e machismo extremista ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            619.0674438476562,
+            336.2425231933594,
+            632.3514404296875
+          ],
+          "origin": [
+            120.54004669189453,
+            629.7594604492188
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        644.7474365234375,
+        513.3163452148438,
+        671.8314208984375
+      ],
+      "text": "Ser radical é diferente de ser extremista. O extremista é dogmático e o radical é \nsolidamente fundamentado e enraizado (radicalis/radice = raiz).",
+      "spans": [
+        {
+          "text": "Ser radical é diferente de ser extremista. O extremista é dogmático e o radical é ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54004669189453,
+            644.7474365234375,
+            513.3163452148438,
+            658.0314331054688
+          ],
+          "origin": [
+            120.54004669189453,
+            655.439453125
+          ]
+        },
+        {
+          "text": "solidamente fundamentado e enraizado",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            658.5474243164062,
+            272.64971923828125,
+            671.8314208984375
+          ],
+          "origin": [
+            85.08004760742188,
+            669.2394409179688
+          ]
+        },
+        {
+          "text": "(radicalis/radice = raiz). ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            275.6400451660156,
+            658.5474243164062,
+            393.76336669921875,
+            671.8314208984375
+          ],
+          "origin": [
+            275.6400451660156,
+            669.2394409179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        120.5400390625,
+        684.4674072265625,
+        177.89285278320312,
+        697.7514038085938
+      ],
+      "text": "Um perigo",
+      "spans": [
+        {
+          "text": "Um perigo ",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 12.0,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.5400390625,
+            684.4674072265625,
+            177.89285278320312,
+            697.7514038085938
+          ],
+          "origin": [
+            120.5400390625,
+            695.159423828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08004760742188,
+        710.1474609375,
+        513.3604736328125,
+        764.8314208984375
+      ],
+      "text": "Um perigo que nos ronda constantemente é o das mulheres que se casam com \num homem mantendo-se apaixonadas por outro. O marido enganado acredita-se amado \nmas sente que falta algo, percebe que há algo estranho mas não consegue definir o que \né. Em geral sente-se culpado pelo que parece haver de errado. Este sofrimento o",
+      "spans": [
+        {
+          "text": "Um perigo que nos ronda constantemente é o das mulheres que se casam com ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.5400390625,
+            710.1474609375,
+            513.3124389648438,
+            723.4314575195312
+          ],
+          "origin": [
+            120.5400390625,
+            720.8394775390625
+          ]
+        },
+        {
+          "text": "um homem mantendo-se apaixonadas por outro. O marido enganado acredita-se amado ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            723.9474487304688,
+            513.3434448242188,
+            737.2314453125
+          ],
+          "origin": [
+            85.08004760742188,
+            734.6394653320312
+          ]
+        },
+        {
+          "text": "mas sente que falta algo, percebe que há algo estranho mas não consegue definir o que ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            737.7474365234375,
+            513.3604736328125,
+            751.0314331054688
+          ],
+          "origin": [
+            85.08004760742188,
+            748.439453125
+          ]
+        },
+        {
+          "text": "é. Em geral sente-se culpado pelo que parece haver de errado. Este sofrimento o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08004760742188,
+            751.5474243164062,
+            513.3269653320312,
+            764.8314208984375
+          ],
+          "origin": [
+            85.08004760742188,
+            762.2394409179688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "43",
+      "spans": [
+        {
+          "text": "43",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

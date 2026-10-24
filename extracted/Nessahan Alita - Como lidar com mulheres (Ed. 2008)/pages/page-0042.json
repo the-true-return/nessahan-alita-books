@@ -1,0 +1,992 @@
+{
+  "page_number": 42,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        103.09149169921875,
+        511.6313781738281,
+        118.65927124023438
+      ],
+      "text": "Quando um povo invade e conquista o território de outro, dominando-",
+      "spans": [
+        {
+          "text": "Quando um povo invade e conquista o território de outro, dominando-",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            103.09149169921875,
+            511.6313781738281,
+            118.65927124023438
+          ],
+          "origin": [
+            117.23980712890625,
+            115.3800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        123.25128173828125,
+        515.5028686523438,
+        138.81906127929688
+      ],
+      "text": "o, as fêmeas do povo dominado se entregam ao povo dominador. O fazem",
+      "spans": [
+        {
+          "text": "o, as fêmeas do povo dominado se entregam ao povo dominador. O fazem ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            123.25128173828125,
+            515.5028686523438,
+            138.81906127929688
+          ],
+          "origin": [
+            82.73980712890625,
+            135.539794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        143.4114990234375,
+        515.5606689453125,
+        158.97927856445312
+      ],
+      "text": "não somente por serem obrigadas à força, como parece à primeira vista, mas",
+      "spans": [
+        {
+          "text": "não somente por serem obrigadas à força, como parece à primeira vista, mas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            143.4114990234375,
+            515.5606689453125,
+            158.97927856445312
+          ],
+          "origin": [
+            82.73980712890625,
+            155.70001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        163.51190185546875,
+        515.4363403320312,
+        179.07968139648438
+      ],
+      "text": "também por se sentirem atraídas pelos machos que detém o poder. Isto pode",
+      "spans": [
+        {
+          "text": "também por se sentirem atraídas pelos machos que detém o poder. Isto pode ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            163.51190185546875,
+            515.4363403320312,
+            179.07968139648438
+          ],
+          "origin": [
+            82.73980712890625,
+            175.8004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        183.67169189453125,
+        515.4176635742188,
+        199.23947143554688
+      ],
+      "text": "ser comprovado ao se observar, por exemplo, como as brasileiras se",
+      "spans": [
+        {
+          "text": "ser comprovado ao se observar, por exemplo, como as brasileiras se ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            183.67169189453125,
+            515.4176635742188,
+            199.23947143554688
+          ],
+          "origin": [
+            82.73980712890625,
+            195.960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        203.7720947265625,
+        515.4856567382812,
+        219.33987426757812
+      ],
+      "text": "comportam em relação a turistas norte-americanos ou europeus. O inverso",
+      "spans": [
+        {
+          "text": "comportam em relação a turistas norte-americanos ou europeus. O inverso ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            203.7720947265625,
+            515.4856567382812,
+            219.33987426757812
+          ],
+          "origin": [
+            82.73980712890625,
+            216.06060791015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        223.93231201171875,
+        515.4500122070312,
+        239.50009155273438
+      ],
+      "text": "não ocorre: as fêmeas do povo dominante não se sentem muito atraídas",
+      "spans": [
+        {
+          "text": "não ocorre: as fêmeas do povo dominante não se sentem muito atraídas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            223.93231201171875,
+            515.4500122070312,
+            239.50009155273438
+          ],
+          "origin": [
+            82.73980712890625,
+            236.2208251953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        244.03271484375,
+        515.4954833984375,
+        259.6004943847656
+      ],
+      "text": "pelos machos do povo dominado. Excetuando-se os casos especiais, a",
+      "spans": [
+        {
+          "text": "pelos machos do povo dominado. Excetuando-se os casos especiais, a ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            244.03271484375,
+            515.4954833984375,
+            259.6004943847656
+          ],
+          "origin": [
+            82.73980712890625,
+            256.32122802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        264.1925048828125,
+        317.5592041015625,
+        279.7602844238281
+      ],
+      "text": "tendência geral confirma minha hipótese.",
+      "spans": [
+        {
+          "text": "tendência geral confirma minha hipótese. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            264.1925048828125,
+            317.5592041015625,
+            279.7602844238281
+          ],
+          "origin": [
+            82.73980712890625,
+            276.48101806640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23980712890625,
+        295.99212646484375,
+        515.44775390625,
+        311.5599060058594
+      ],
+      "text": "Nunca nos esqueçamos de que nossas deliciosas companheiras",
+      "spans": [
+        {
+          "text": "Nunca nos esqueçamos de que nossas deliciosas companheiras ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23980712890625,
+            295.99212646484375,
+            515.44775390625,
+            311.5599060058594
+          ],
+          "origin": [
+            117.23980712890625,
+            308.2806396484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73980712890625,
+        316.092529296875,
+        515.3896484375,
+        331.6603088378906
+      ],
+      "text": "possuem uma relação contraditória com nosso phalus erectus: o temem mas",
+      "spans": [
+        {
+          "text": "possuem uma relação contraditória com nosso ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73980712890625,
+            316.092529296875,
+            346.21588134765625,
+            331.6603088378906
+          ],
+          "origin": [
+            82.73980712890625,
+            328.38104248046875
+          ]
+        },
+        {
+          "text": "phalus erectus",
+          "font": "Times-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            347.6398010253906,
+            317.2828674316406,
+            428.6212158203125,
+            331.5319519042969
+          ],
+          "origin": [
+            347.6398010253906,
+            328.38104248046875
+          ]
+        },
+        {
+          "text": ": o temem mas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            429.6596984863281,
+            316.092529296875,
+            515.3896484375,
+            331.6603088378906
+          ],
+          "origin": [
+            429.6596984863281,
+            328.38104248046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        336.2523193359375,
+        515.4631958007812,
+        351.8200988769531
+      ],
+      "text": "simultaneamente dele necessitam para se sentirem desejadas (querem ser",
+      "spans": [
+        {
+          "text": "simultaneamente dele necessitam para se sentirem desejadas (querem ser ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            336.2523193359375,
+            515.4631958007812,
+            351.8200988769531
+          ],
+          "origin": [
+            82.73968505859375,
+            348.54083251953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        356.2921142578125,
+        515.4042358398438,
+        371.8598937988281
+      ],
+      "text": "desejadas porque isto lhes garante proteção, eleva a auto-estima e as faz",
+      "spans": [
+        {
+          "text": "desejadas porque isto lhes garante proteção, eleva a auto-estima e as faz ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            356.2921142578125,
+            515.4042358398438,
+            371.8598937988281
+          ],
+          "origin": [
+            82.73968505859375,
+            368.58062744140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        376.451904296875,
+        515.4645385742188,
+        392.0196838378906
+      ],
+      "text": "serem invejadas pelas rivais). Desta contradição derivam todos os",
+      "spans": [
+        {
+          "text": "serem invejadas pelas rivais). Desta contradição derivam todos os ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            376.451904296875,
+            515.4645385742188,
+            392.0196838378906
+          ],
+          "origin": [
+            82.73968505859375,
+            388.74041748046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        396.55230712890625,
+        515.4949951171875,
+        412.1200866699219
+      ],
+      "text": "comportamentos absurdos, desconcertantes e ilógicos em suas relações",
+      "spans": [
+        {
+          "text": "comportamentos absurdos, desconcertantes e ilógicos em suas relações ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            396.55230712890625,
+            515.4949951171875,
+            412.1200866699219
+          ],
+          "origin": [
+            82.73968505859375,
+            408.8408203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        416.7124938964844,
+        515.5143432617188,
+        432.2802734375
+      ],
+      "text": "conosco, bem como suas naturais propensões à histeria e à oscilação que as",
+      "spans": [
+        {
+          "text": "conosco, bem como suas naturais propensões à histeria e à oscilação que as ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            416.7124938964844,
+            515.5143432617188,
+            432.2802734375
+          ],
+          "origin": [
+            82.73968505859375,
+            429.0010070800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        436.8128967285156,
+        515.45556640625,
+        452.38067626953125
+      ],
+      "text": "leva a atrair para fugir e repudiar em seguida. Isto torna o desejo feminino",
+      "spans": [
+        {
+          "text": "leva a atrair para fugir e repudiar em seguida. Isto torna o desejo feminino ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            436.8128967285156,
+            515.45556640625,
+            452.38067626953125
+          ],
+          "origin": [
+            82.73968505859375,
+            449.1014099121094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        456.9726867675781,
+        515.4849243164062,
+        472.54046630859375
+      ],
+      "text": "extremamente difícil de ser compreendido, mapeado e descrito, até por elas",
+      "spans": [
+        {
+          "text": "extremamente difícil de ser compreendido, mapeado e descrito, até por elas ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            456.9726867675781,
+            515.4849243164062,
+            472.54046630859375
+          ],
+          "origin": [
+            82.73968505859375,
+            469.2611999511719
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73968505859375,
+        475.8485107421875,
+        515.5424194335938,
+        492.640869140625
+      ],
+      "text": "mesmas19. Por isto, nunca leve a sério o que disserem. Salvo em casos",
+      "spans": [
+        {
+          "text": "mesmas",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73968505859375,
+            477.0730895996094,
+            125.14353942871094,
+            492.640869140625
+          ],
+          "origin": [
+            82.73968505859375,
+            489.3616027832031
+          ]
+        },
+        {
+          "text": "19",
+          "font": "Times-Roman",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            126.17988586425781,
+            475.8485107421875,
+            133.96046447753906,
+            486.20086669921875
+          ],
+          "origin": [
+            126.17988586425781,
+            484.02020263671875
+          ]
+        },
+        {
+          "text": ". Por isto, nunca leve a sério o que disserem. Salvo em casos ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            133.97988891601562,
+            477.0719299316406,
+            515.5424194335938,
+            492.63970947265625
+          ],
+          "origin": [
+            133.97988891601562,
+            489.3604431152344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        497.2317199707031,
+        515.493896484375,
+        512.7994995117188
+      ],
+      "text": "excepcionais, se você se mostrar intensamente interessado, será repudiado",
+      "spans": [
+        {
+          "text": "excepcionais, se você se mostrar intensamente interessado, será repudiado ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            497.2317199707031,
+            515.493896484375,
+            512.7994995117188
+          ],
+          "origin": [
+            82.74038696289062,
+            509.5202331542969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        517.3320922851562,
+        515.3612060546875,
+        532.89990234375
+      ],
+      "text": "ou evitado. Há nisso um objetivo muito claro: intensificar nossas paixões e",
+      "spans": [
+        {
+          "text": "ou evitado. Há nisso um objetivo muito claro: intensificar nossas paixões e ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            517.3320922851562,
+            515.3612060546875,
+            532.89990234375
+          ],
+          "origin": [
+            82.74038696289062,
+            529.62060546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74040222167969,
+        537.4923095703125,
+        515.5017700195312,
+        553.0601196289062
+      ],
+      "text": "nossos desejos para nos induzir à perseguição e à insistência para fazê-las",
+      "spans": [
+        {
+          "text": "nossos desejos para nos induzir à perseguição e à insistência para fazê-las ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74040222167969,
+            537.4923095703125,
+            515.5017700195312,
+            553.0601196289062
+          ],
+          "origin": [
+            82.74040222167969,
+            549.7808227539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        557.5927124023438,
+        497.3800048828125,
+        573.1605224609375
+      ],
+      "text": "se sentirem desejadas e curtirem a sensação de serem “as mais gostosas”.",
+      "spans": [
+        {
+          "text": "se sentirem desejadas e curtirem a sensação de serem “as mais gostosas”. ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            557.5927124023438,
+            497.3800048828125,
+            573.1605224609375
+          ],
+          "origin": [
+            82.74038696289062,
+            569.8812255859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.24038696289062,
+        589.392333984375,
+        515.3607788085938,
+        604.9601440429688
+      ],
+      "text": "Somos desejados apenas para fecundar, dar proteção à fêmea, à sua",
+      "spans": [
+        {
+          "text": "Somos desejados apenas para fecundar, dar proteção à fêmea, à sua ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.24038696289062,
+            589.392333984375,
+            515.3607788085938,
+            604.9601440429688
+          ],
+          "origin": [
+            117.24038696289062,
+            601.6808471679688
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        609.5521240234375,
+        515.4229736328125,
+        625.1199340820312
+      ],
+      "text": "prole e para a realização de tarefas perigosas, pesadas e difíceis. O sexo",
+      "spans": [
+        {
+          "text": "prole e para a realização de tarefas perigosas, pesadas e difíceis. O sexo ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            609.5521240234375,
+            515.4229736328125,
+            625.1199340820312
+          ],
+          "origin": [
+            82.74038696289062,
+            621.8406372070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        629.6525268554688,
+        515.4049072265625,
+        645.2203369140625
+      ],
+      "text": "enquanto ato de prazer é uma simples retribuição a esta função. Fora destes",
+      "spans": [
+        {
+          "text": "enquanto ato de prazer é uma simples retribuição a esta função. Fora destes ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            629.6525268554688,
+            515.4049072265625,
+            645.2203369140625
+          ],
+          "origin": [
+            82.74038696289062,
+            641.9410400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        649.8123168945312,
+        515.4910278320312,
+        665.380126953125
+      ],
+      "text": "campos, não somos necessários para mais nada. Nossa falta será sentida",
+      "spans": [
+        {
+          "text": "campos, não somos necessários para mais nada. Nossa falta será sentida ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            649.8123168945312,
+            515.4910278320312,
+            665.380126953125
+          ],
+          "origin": [
+            82.74038696289062,
+            662.100830078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        669.9127197265625,
+        515.3616333007812,
+        685.4805297851562
+      ],
+      "text": "apenas se oferecermos estes benefícios e os tomarmos de vez em quando,",
+      "spans": [
+        {
+          "text": "apenas se oferecermos estes benefícios e os tomarmos de vez em quando, ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            669.9127197265625,
+            515.3616333007812,
+            685.4805297851562
+          ],
+          "origin": [
+            82.74038696289062,
+            682.2012329101562
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74038696289062,
+        690.0729370117188,
+        515.4651489257812,
+        705.6407470703125
+      ],
+      "text": "como castigo por algum erro. Ou seja: sua parceira suportará imensamente",
+      "spans": [
+        {
+          "text": "como castigo por algum erro. Ou seja: sua parceira suportará imensamente ",
+          "font": "Times-Roman",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74038696289062,
+            690.0729370117188,
+            515.4651489257812,
+            705.6407470703125
+          ],
+          "origin": [
+            82.74038696289062,
+            702.3614501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73960876464844,
+        714.4798583984375,
+        422.3573303222656,
+        737.3994750976562
+      ],
+      "text": "19 Eis outra prova de que as características descritas aqui são inconscientes.",
+      "spans": [
+        {
+          "text": "19",
+          "font": "Times-Roman",
+          "size": 5.835000038146973,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74000549316406,
+            724.895751953125,
+            88.59776306152344,
+            732.6796264648438
+          ],
+          "origin": [
+            82.74000549316406,
+            731.0399780273438
+          ]
+        },
+        {
+          "text": " Eis outra prova de que as características descritas aqui são inconscientes. ",
+          "font": "Times-Roman",
+          "size": 8.7524995803833,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            88.56031799316406,
+            725.7236328125,
+            422.3573303222656,
+            737.3994750976562
+          ],
+          "origin": [
+            88.56031799316406,
+            734.9400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73979949951172,
+        758.4586181640625,
+        512.4144897460938,
+        771.5181884765625
+      ],
+      "text": "42",
+      "spans": [
+        {
+          "text": "42",
+          "font": "Times-Roman",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817932128906,
+            758.5191650390625,
+            512.4144897460938,
+            771.5181884765625
+          ],
+          "origin": [
+            502.6817932128906,
+            768.780029296875
+          ]
+        }
+      ]
+    }
+  ]
+}

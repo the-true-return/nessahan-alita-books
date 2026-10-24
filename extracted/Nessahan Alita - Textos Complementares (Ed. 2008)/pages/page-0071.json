@@ -1,0 +1,1347 @@
+{
+  "page_number": 71,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        104.6982192993164,
+        516.1065673828125,
+        118.37545776367188
+      ],
+      "text": "A mente silenciosa não dá guarida ao despotismo de",
+      "spans": [
+        {
+          "text": "A mente silenciosa não dá guarida ao despotismo de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            104.6982192993164,
+            516.1065673828125,
+            118.37545776367188
+          ],
+          "origin": [
+            117.23999786376953,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        125.27823638916016,
+        516.2525024414062,
+        138.95547485351562
+      ],
+      "text": "formas mentais bestiais. Quanto mais se pensa, tanto mais se",
+      "spans": [
+        {
+          "text": "formas mentais bestiais. Quanto mais se pensa, tanto mais se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            125.27823638916016,
+            516.2525024414062,
+            138.95547485351562
+          ],
+          "origin": [
+            82.73997497558594,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        145.79873657226562,
+        516.1754760742188,
+        159.47598266601562
+      ],
+      "text": "piora a situação.  Por outro lado, o pensamento concentrado",
+      "spans": [
+        {
+          "text": "piora a situação.  Por outro lado, o pensamento concentrado ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            145.79873657226562,
+            516.1754760742188,
+            159.47598266601562
+          ],
+          "origin": [
+            82.73997497558594,
+            156.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.31924438476562,
+        516.3002319335938,
+        179.99649047851562
+      ],
+      "text": "conduz, com o passar do tempo, ao não pensar e à compreensão",
+      "spans": [
+        {
+          "text": "conduz, com o passar do tempo, ao não pensar e à compreensão ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.31924438476562,
+            516.3002319335938,
+            179.99649047851562
+          ],
+          "origin": [
+            82.73997497558594,
+            177.30072021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        186.89926147460938,
+        122.17172241210938,
+        200.57650756835938
+      ],
+      "text": "pura.",
+      "spans": [
+        {
+          "text": "pura. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            186.89926147460938,
+            122.17172241210938,
+            200.57650756835938
+          ],
+          "origin": [
+            82.73997497558594,
+            197.8807373046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        219.11898803710938,
+        516.1917724609375,
+        232.79623413085938
+      ],
+      "text": "O \napaixonado \npensa \nna \namada \nconstantemente. \nO",
+      "spans": [
+        {
+          "text": "O ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            219.11898803710938,
+            131.28134155273438,
+            232.79623413085938
+          ],
+          "origin": [
+            117.23999786376953,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "apaixonado ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            142.7891387939453,
+            219.11898803710938,
+            221.740234375,
+            232.79623413085938
+          ],
+          "origin": [
+            142.7891387939453,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "pensa ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            233.24801635742188,
+            219.11898803710938,
+            275.7454833984375,
+            232.79623413085938
+          ],
+          "origin": [
+            233.24801635742188,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "na ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            287.2532653808594,
+            219.11898803710938,
+            307.4598693847656,
+            232.79623413085938
+          ],
+          "origin": [
+            287.2532653808594,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "amada ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            318.9676513671875,
+            219.11898803710938,
+            366.07940673828125,
+            232.79623413085938
+          ],
+          "origin": [
+            318.9676513671875,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "constantemente. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            377.5871887207031,
+            219.11898803710938,
+            490.7033386230469,
+            232.79623413085938
+          ],
+          "origin": [
+            377.5871887207031,
+            230.1004638671875
+          ]
+        },
+        {
+          "text": "O ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.15045166015625,
+            219.11898803710938,
+            516.1917724609375,
+            232.79623413085938
+          ],
+          "origin": [
+            502.15045166015625,
+            230.1004638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        239.69900512695312,
+        516.2185668945312,
+        253.37625122070312
+      ],
+      "text": "luxurioso pensa na mulher desejada sem parar. Suas mentes",
+      "spans": [
+        {
+          "text": "luxurioso pensa na mulher desejada sem parar. Suas mentes ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            239.69900512695312,
+            516.2185668945312,
+            253.37625122070312
+          ],
+          "origin": [
+            82.73997497558594,
+            250.68048095703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        260.2195129394531,
+        516.2639770507812,
+        273.8967590332031
+      ],
+      "text": "estão, em certo sentido, obsessionadas. Portanto, se você quer",
+      "spans": [
+        {
+          "text": "estão, em certo sentido, obsessionadas. Portanto, se você quer ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            260.2195129394531,
+            516.2639770507812,
+            273.8967590332031
+          ],
+          "origin": [
+            82.73997497558594,
+            271.20098876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        280.7400207519531,
+        516.151123046875,
+        294.4172668457031
+      ],
+      "text": "superar suas fraquezas afetivas e sexuais, deve começar por",
+      "spans": [
+        {
+          "text": "superar suas fraquezas afetivas e sexuais, deve começar por ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            280.7400207519531,
+            516.151123046875,
+            294.4172668457031
+          ],
+          "origin": [
+            82.73997497558594,
+            291.72149658203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        301.3200378417969,
+        282.96563720703125,
+        314.9972839355469
+      ],
+      "text": "amansar e educar sua mente.",
+      "spans": [
+        {
+          "text": "amansar e educar sua mente. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            301.3200378417969,
+            282.96563720703125,
+            314.9972839355469
+          ],
+          "origin": [
+            82.73997497558594,
+            312.301513671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        333.53973388671875,
+        516.2899169921875,
+        347.21697998046875
+      ],
+      "text": "Tanto a paixão romântica como o impulso luxurioso podem",
+      "spans": [
+        {
+          "text": "Tanto a paixão romântica como o impulso luxurioso podem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            333.53973388671875,
+            516.2899169921875,
+            347.21697998046875
+          ],
+          "origin": [
+            117.23999786376953,
+            344.5212097167969
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        354.0582275390625,
+        516.263427734375,
+        367.7375183105469
+      ],
+      "text": "invadir a mente. Obsessionado19, o indivíduo não tem mais",
+      "spans": [
+        {
+          "text": "invadir a mente. Obsessionado",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            354.0602722167969,
+            300.51153564453125,
+            367.7375183105469
+          ],
+          "origin": [
+            82.73997497558594,
+            365.041748046875
+          ]
+        },
+        {
+          "text": "19",
+          "font": "BookmanOldStyle",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            301.44000244140625,
+            354.79718017578125,
+            311.0505065917969,
+            363.8923645019531
+          ],
+          "origin": [
+            301.44000244140625,
+            362.0997009277344
+          ]
+        },
+        {
+          "text": ", o indivíduo não tem mais ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            310.9800109863281,
+            354.0582275390625,
+            516.263427734375,
+            367.7354736328125
+          ],
+          "origin": [
+            310.9800109863281,
+            365.0397033691406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        374.6382751464844,
+        516.2320556640625,
+        388.3155212402344
+      ],
+      "text": "controle sobre si mesmo e não é dono de seus próprios atos. A",
+      "spans": [
+        {
+          "text": "controle sobre si mesmo e não é dono de seus próprios atos. A ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            374.6382751464844,
+            516.2320556640625,
+            388.3155212402344
+          ],
+          "origin": [
+            82.740478515625,
+            385.6197509765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        395.1588134765625,
+        516.1248168945312,
+        408.8360595703125
+      ],
+      "text": "insatisfação do impulso obsessor provoca sofrimento e esta dor",
+      "spans": [
+        {
+          "text": "insatisfação do impulso obsessor provoca sofrimento e esta dor ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            395.1588134765625,
+            516.1248168945312,
+            408.8360595703125
+          ],
+          "origin": [
+            82.740478515625,
+            406.1402893066406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        415.7388610839844,
+        516.1643676757812,
+        429.4161071777344
+      ],
+      "text": "impele a pessoa à satisfação. Para superar este sofrimento, o",
+      "spans": [
+        {
+          "text": "impele a pessoa à satisfação. Para superar este sofrimento, o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            415.7388610839844,
+            516.1643676757812,
+            429.4161071777344
+          ],
+          "origin": [
+            82.740478515625,
+            426.7203369140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        436.2593994140625,
+        516.2902221679688,
+        449.9366455078125
+      ],
+      "text": "obsessionado \ndeverá \nseparar-se \ndo \nimpulso \ninvasor,",
+      "spans": [
+        {
+          "text": "obsessionado ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            436.2593994140625,
+            174.62890625,
+            449.9366455078125
+          ],
+          "origin": [
+            82.740478515625,
+            447.2408752441406
+          ]
+        },
+        {
+          "text": "deverá ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            192.25643920898438,
+            436.2593994140625,
+            239.15817260742188,
+            449.9366455078125
+          ],
+          "origin": [
+            192.25643920898438,
+            447.2408752441406
+          ]
+        },
+        {
+          "text": "separar-se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            256.9059143066406,
+            436.2593994140625,
+            330.33941650390625,
+            449.9366455078125
+          ],
+          "origin": [
+            256.9059143066406,
+            447.2408752441406
+          ]
+        },
+        {
+          "text": "do ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            348.0264587402344,
+            436.2593994140625,
+            367.5386962890625,
+            449.9366455078125
+          ],
+          "origin": [
+            348.0264587402344,
+            447.2408752441406
+          ]
+        },
+        {
+          "text": "impulso ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            385.2864074707031,
+            436.2593994140625,
+            441.5030822753906,
+            449.9366455078125
+          ],
+          "origin": [
+            385.2864074707031,
+            447.2408752441406
+          ]
+        },
+        {
+          "text": "invasor, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            459.1912841796875,
+            436.2593994140625,
+            516.2902221679688,
+            449.9366455078125
+          ],
+          "origin": [
+            459.1912841796875,
+            447.2408752441406
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        456.7799377441406,
+        516.302001953125,
+        470.4571838378906
+      ],
+      "text": "observando-o “de fora”, como algo estranho, considerando-o",
+      "spans": [
+        {
+          "text": "observando-o “de fora”, como algo estranho, considerando-o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            456.7799377441406,
+            516.302001953125,
+            470.4571838378906
+          ],
+          "origin": [
+            82.740478515625,
+            467.76141357421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.740478515625,
+        477.35821533203125,
+        516.2072143554688,
+        491.0372314453125
+      ],
+      "text": "uma pessoa estranha (um outro “eu” dentro dele mesmo)20. Deve",
+      "spans": [
+        {
+          "text": "uma pessoa estranha (um outro “eu” dentro dele mesmo)",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.740478515625,
+            477.3599853515625,
+            460.78668212890625,
+            491.0372314453125
+          ],
+          "origin": [
+            82.740478515625,
+            488.3414611816406
+          ]
+        },
+        {
+          "text": "20",
+          "font": "BookmanOldStyle",
+          "size": 7.76039981842041,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            461.70001220703125,
+            478.09716796875,
+            471.3105163574219,
+            487.1923522949219
+          ],
+          "origin": [
+            461.70001220703125,
+            485.3996887207031
+          ]
+        },
+        {
+          "text": ". Deve ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            471.29998779296875,
+            477.35821533203125,
+            516.2072143554688,
+            491.03546142578125
+          ],
+          "origin": [
+            471.29998779296875,
+            488.3396911621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74032592773438,
+        497.9382629394531,
+        516.1920166015625,
+        511.6155090332031
+      ],
+      "text": "penetrar, com a observação, em primeiro lugar a sua mente",
+      "spans": [
+        {
+          "text": "penetrar, com a observação, em primeiro lugar a sua mente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74032592773438,
+            497.9382629394531,
+            516.1920166015625,
+            511.6155090332031
+          ],
+          "origin": [
+            82.74032592773438,
+            508.91973876953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74032592773438,
+        518.4588623046875,
+        516.1874389648438,
+        532.1360473632812
+      ],
+      "text": "(seus \npensamentos, \nimaginações, \nfantasias, \nmemórias,",
+      "spans": [
+        {
+          "text": "(seus ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74032592773438,
+            518.4588623046875,
+            120.94790649414062,
+            532.1360473632812
+          ],
+          "origin": [
+            82.74032592773438,
+            529.4403076171875
+          ]
+        },
+        {
+          "text": "pensamentos, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            138.39572143554688,
+            518.4588623046875,
+            233.2786865234375,
+            532.1360473632812
+          ],
+          "origin": [
+            138.39572143554688,
+            529.4403076171875
+          ]
+        },
+        {
+          "text": "imaginações, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            250.72650146484375,
+            518.4588623046875,
+            340.1186828613281,
+            532.1360473632812
+          ],
+          "origin": [
+            250.72650146484375,
+            529.4403076171875
+          ]
+        },
+        {
+          "text": "fantasias, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            357.5664978027344,
+            518.4588623046875,
+            426.5537414550781,
+            532.1360473632812
+          ],
+          "origin": [
+            357.5664978027344,
+            529.4403076171875
+          ]
+        },
+        {
+          "text": "memórias, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            444.0015563964844,
+            518.4588623046875,
+            516.1874389648438,
+            532.1360473632812
+          ],
+          "origin": [
+            444.0015563964844,
+            529.4403076171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        539.0388793945312,
+        516.2515869140625,
+        552.716064453125
+      ],
+      "text": "raciocínios e lembranças). É principalmente ali, na mente, que",
+      "spans": [
+        {
+          "text": "raciocínios e lembranças). É principalmente ali, na mente, que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            539.0388793945312,
+            516.2515869140625,
+            552.716064453125
+          ],
+          "origin": [
+            82.74031066894531,
+            550.0203247070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        559.5594482421875,
+        516.24462890625,
+        573.2366333007812
+      ],
+      "text": "estão os elementos psíquicos obsessores e indesejáveis. O",
+      "spans": [
+        {
+          "text": "estão os elementos psíquicos obsessores e indesejáveis. O ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            559.5594482421875,
+            516.24462890625,
+            573.2366333007812
+          ],
+          "origin": [
+            82.74031066894531,
+            570.5408935546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        580.0799560546875,
+        516.2669677734375,
+        593.7571411132812
+      ],
+      "text": "problema está, portanto e antes de mais nada, na cabeça",
+      "spans": [
+        {
+          "text": "problema está, portanto e antes de mais nada, na cabeça ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            580.0799560546875,
+            516.2669677734375,
+            593.7571411132812
+          ],
+          "origin": [
+            82.74031066894531,
+            591.0614013671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        600.6599731445312,
+        516.1804809570312,
+        614.337158203125
+      ],
+      "text": "(centro \nintelectual). \nQuando \no \nresolvemos \nali, \nfacilmente",
+      "spans": [
+        {
+          "text": "(centro ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            600.6599731445312,
+            132.77427673339844,
+            614.337158203125
+          ],
+          "origin": [
+            82.74031066894531,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "intelectual). ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            142.782470703125,
+            600.6599731445312,
+            226.26617431640625,
+            614.337158203125
+          ],
+          "origin": [
+            142.782470703125,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "Quando ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            236.2743682861328,
+            600.6599731445312,
+            291.3521423339844,
+            614.337158203125
+          ],
+          "origin": [
+            236.2743682861328,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            301.2996520996094,
+            600.6599731445312,
+            312.51220703125,
+            614.337158203125
+          ],
+          "origin": [
+            301.2996520996094,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "resolvemos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            322.5203857421875,
+            600.6599731445312,
+            398.9576721191406,
+            614.337158203125
+          ],
+          "origin": [
+            322.5203857421875,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "ali, ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            408.84564208984375,
+            600.6599731445312,
+            434.002685546875,
+            614.337158203125
+          ],
+          "origin": [
+            408.84564208984375,
+            611.6414184570312
+          ]
+        },
+        {
+          "text": "facilmente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            444.0108642578125,
+            600.6599731445312,
+            516.1804809570312,
+            614.337158203125
+          ],
+          "origin": [
+            444.0108642578125,
+            611.6414184570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        621.1805419921875,
+        516.2901000976562,
+        634.8577270507812
+      ],
+      "text": "poderemos resolvê-lo no coração (centro emocional) e nos",
+      "spans": [
+        {
+          "text": "poderemos resolvê-lo no coração (centro emocional) e nos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            621.1805419921875,
+            516.2901000976562,
+            634.8577270507812
+          ],
+          "origin": [
+            82.74031066894531,
+            632.1619873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.74031066894531,
+        641.7605590820312,
+        375.0655822753906,
+        655.437744140625
+      ],
+      "text": "demais centros (sexual, instintivo e motor).",
+      "spans": [
+        {
+          "text": "demais centros (sexual, instintivo e motor). ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74031066894531,
+            641.7605590820312,
+            375.0655822753906,
+            655.437744140625
+          ],
+          "origin": [
+            82.74031066894531,
+            652.7420043945312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        670.2174682617188,
+        515.0137329101562,
+        736.9841918945312
+      ],
+      "text": "19 Não estou utilizando esta palavra para designar pessoas que definitivamente perderam o controle de si, pois \nem tal caso toda tentativa de auto-superação é impossível. Refiro-me aos casos em que ainda há lucidez o \nsuficiente para impelir a pessoa a lutar contra o despotismo dos impulsos interiores destrutivos.  \n20 Somente é capaz de tal ruptura com a identificação aquele que possuir uma lucidez que lhe permita \ncompreender que está invadido e sentir a necessidade de auto-superação.",
+      "spans": [
+        {
+          "text": "19",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.301599979400635,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            680.1249389648438,
+            89.07058715820312,
+            687.100830078125
+          ],
+          "origin": [
+            82.73999786376953,
+            685.7396850585938
+          ]
+        },
+        {
+          "text": " Não estou utilizando esta palavra para designar pessoas que definitivamente perderam o controle de si, pois ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            89.04000091552734,
+            681.4374389648438,
+            514.987548828125,
+            692.2244873046875
+          ],
+          "origin": [
+            89.04000091552734,
+            690.1196899414062
+          ]
+        },
+        {
+          "text": "em tal caso toda tentativa de auto-superação é impossível. Refiro-me aos casos em que ainda há lucidez o ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            692.5977172851562,
+            515.0137329101562,
+            703.384765625
+          ],
+          "origin": [
+            82.74024963378906,
+            701.2799682617188
+          ]
+        },
+        {
+          "text": "suficiente para impelir a pessoa a lutar contra o despotismo dos impulsos interiores destrutivos.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            703.7579956054688,
+            458.34613037109375,
+            714.5450439453125
+          ],
+          "origin": [
+            82.74024963378906,
+            712.4402465820312
+          ]
+        },
+        {
+          "text": "20",
+          "font": "TimesNewRomanPSMT",
+          "size": 6.301599979400635,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73999786376953,
+            713.6649780273438,
+            89.07058715820312,
+            720.640869140625
+          ],
+          "origin": [
+            82.73999786376953,
+            719.2797241210938
+          ]
+        },
+        {
+          "text": " Somente é capaz de tal ruptura com a identificação aquele que possuir uma lucidez que lhe permita ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            89.04000091552734,
+            714.9774169921875,
+            514.963134765625,
+            725.7644653320312
+          ],
+          "origin": [
+            89.04000091552734,
+            723.65966796875
+          ]
+        },
+        {
+          "text": "compreender que está invadido e sentir a necessidade de auto-superação.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.74024963378906,
+            726.1971435546875,
+            370.83831787109375,
+            736.9841918945312
+          ],
+          "origin": [
+            82.74024963378906,
+            734.87939453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "71",
+      "spans": [
+        {
+          "text": "71",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

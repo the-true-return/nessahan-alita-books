@@ -1,0 +1,1075 @@
+{
+  "page_number": 47,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        104.6982192993164,
+        516.167236328125,
+        118.37545776367188
+      ],
+      "text": "Se for o caso daquelas que marcam repetidos encontros",
+      "spans": [
+        {
+          "text": "Se for o caso daquelas que marcam repetidos encontros ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            104.6982192993164,
+            516.167236328125,
+            118.37545776367188
+          ],
+          "origin": [
+            117.23999786376953,
+            115.6796875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        125.27823638916016,
+        516.2593994140625,
+        138.95547485351562
+      ],
+      "text": "por telefone somente para desistirem na última hora, basta",
+      "spans": [
+        {
+          "text": "por telefone somente para desistirem na última hora, basta ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            125.27823638916016,
+            516.2593994140625,
+            138.95547485351562
+          ],
+          "origin": [
+            82.73997497558594,
+            136.25970458984375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        145.79873657226562,
+        516.2196655273438,
+        159.47598266601562
+      ],
+      "text": "perguntar mais ou menos o seguinte, muito antes que ela tome",
+      "spans": [
+        {
+          "text": "perguntar mais ou menos o seguinte, muito antes que ela tome ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            145.79873657226562,
+            516.2196655273438,
+            159.47598266601562
+          ],
+          "origin": [
+            82.73997497558594,
+            156.78021240234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        166.31924438476562,
+        258.7725830078125,
+        179.99649047851562
+      ],
+      "text": "a iniciativa de desmarcar:",
+      "spans": [
+        {
+          "text": "a iniciativa de desmarcar: ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            166.31924438476562,
+            258.7725830078125,
+            179.99649047851562
+          ],
+          "origin": [
+            82.73997497558594,
+            177.30072021484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        198.53897094726562,
+        515.9993286132812,
+        212.21621704101562
+      ],
+      "text": "“Você \nvai \ndesmarcar \no \nencontro \nquando \nestiver \nse",
+      "spans": [
+        {
+          "text": "“Você ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            198.53897094726562,
+            156.91217041015625,
+            212.21621704101562
+          ],
+          "origin": [
+            117.23999786376953,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "vai ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            167.99398803710938,
+            198.53897094726562,
+            190.9955596923828,
+            212.21621704101562
+          ],
+          "origin": [
+            167.99398803710938,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "desmarcar ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            202.13690185546875,
+            198.53897094726562,
+            274.1734924316406,
+            212.21621704101562
+          ],
+          "origin": [
+            202.13690185546875,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "o ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            285.3148193359375,
+            198.53897094726562,
+            296.07574462890625,
+            212.21621704101562
+          ],
+          "origin": [
+            285.3148193359375,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "encontro ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            307.0968933105469,
+            198.53897094726562,
+            365.96392822265625,
+            212.21621704101562
+          ],
+          "origin": [
+            307.0968933105469,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "quando ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            377.0457458496094,
+            198.53897094726562,
+            428.42413330078125,
+            212.21621704101562
+          ],
+          "origin": [
+            377.0457458496094,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "estiver ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            439.4452819824219,
+            198.53897094726562,
+            486.8371887207031,
+            212.21621704101562
+          ],
+          "origin": [
+            439.4452819824219,
+            209.52044677734375
+          ]
+        },
+        {
+          "text": "se ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            497.91900634765625,
+            198.53897094726562,
+            515.9993286132812,
+            212.21621704101562
+          ],
+          "origin": [
+            497.91900634765625,
+            209.52044677734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        219.11898803710938,
+        257.2438049316406,
+        232.79623413085938
+      ],
+      "text": "aproximando o momento?”",
+      "spans": [
+        {
+          "text": "aproximando o momento?” ",
+          "font": "BookmanOldStyle-Italic",
+          "size": 11.670000076293945,
+          "flags": 6,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            219.11898803710938,
+            257.2438049316406,
+            232.79623413085938
+          ],
+          "origin": [
+            82.73997497558594,
+            230.1004638671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23999786376953,
+        251.33871459960938,
+        516.2116088867188,
+        265.0159606933594
+      ],
+      "text": "É claro que não há uma fórmula única para se enunciar",
+      "spans": [
+        {
+          "text": "É claro que não há uma fórmula única para se enunciar ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23999786376953,
+            251.33871459960938,
+            516.2116088867188,
+            265.0159606933594
+          ],
+          "origin": [
+            117.23999786376953,
+            262.3201904296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        271.9187316894531,
+        516.2152099609375,
+        285.5959777832031
+      ],
+      "text": "essas idéias. Estas frases são apenas sugestões de modelos que",
+      "spans": [
+        {
+          "text": "essas idéias. Estas frases são apenas sugestões de modelos que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            271.9187316894531,
+            516.2152099609375,
+            285.5959777832031
+          ],
+          "origin": [
+            82.73997497558594,
+            282.90020751953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        292.4392395019531,
+        516.2650756835938,
+        306.1164855957031
+      ],
+      "text": "precisam ser modificados e adaptados à situação real em que os",
+      "spans": [
+        {
+          "text": "precisam ser modificados e adaptados à situação real em que os ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            292.4392395019531,
+            516.2650756835938,
+            306.1164855957031
+          ],
+          "origin": [
+            82.73997497558594,
+            303.42071533203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        312.9597473144531,
+        516.2781982421875,
+        326.6369934082031
+      ],
+      "text": "fatos estiverem se dando. O que estou dizendo é que devemos",
+      "spans": [
+        {
+          "text": "fatos estiverem se dando. O que estou dizendo é que devemos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            312.9597473144531,
+            516.2781982421875,
+            326.6369934082031
+          ],
+          "origin": [
+            82.73997497558594,
+            323.94122314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        333.539794921875,
+        516.304931640625,
+        347.217041015625
+      ],
+      "text": "tomar a dianteira e desmascará-la amigavelmente antes que ela",
+      "spans": [
+        {
+          "text": "tomar a dianteira e desmascará-la amigavelmente antes que ela ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            333.539794921875,
+            516.304931640625,
+            347.217041015625
+          ],
+          "origin": [
+            82.73997497558594,
+            344.5212707519531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        354.0603332519531,
+        516.2174682617188,
+        367.7375793457031
+      ],
+      "text": "desmarque \nou \nadie. \nTemos \nque \nlevá-la \na \nperceber \nque",
+      "spans": [
+        {
+          "text": "desmarque ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            354.0603332519531,
+            158.30792236328125,
+            367.7375793457031
+          ],
+          "origin": [
+            82.73997497558594,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "ou ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            168.5553436279297,
+            354.0603332519531,
+            188.6674346923828,
+            367.7375793457031
+          ],
+          "origin": [
+            168.5553436279297,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "adie. ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            198.85533142089844,
+            354.0603332519531,
+            234.7545928955078,
+            367.7375793457031
+          ],
+          "origin": [
+            198.85533142089844,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "Temos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            245.00201416015625,
+            354.0603332519531,
+            290.43218994140625,
+            367.7375793457031
+          ],
+          "origin": [
+            245.00201416015625,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            300.6201171875,
+            354.0603332519531,
+            328.1064758300781,
+            367.7375793457031
+          ],
+          "origin": [
+            300.6201171875,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "levá-la ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            338.3539123535156,
+            354.0603332519531,
+            386.24993896484375,
+            367.7375793457031
+          ],
+          "origin": [
+            338.3539123535156,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "a ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            396.3771667480469,
+            354.0603332519531,
+            407.8861389160156,
+            367.7375793457031
+          ],
+          "origin": [
+            396.3771667480469,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "perceber ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            418.0740661621094,
+            354.0603332519531,
+            478.6587829589844,
+            367.7375793457031
+          ],
+          "origin": [
+            418.0740661621094,
+            365.04180908203125
+          ]
+        },
+        {
+          "text": "que ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            488.9062194824219,
+            354.0603332519531,
+            516.2174682617188,
+            367.7375793457031
+          ],
+          "origin": [
+            488.9062194824219,
+            365.04180908203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        374.640380859375,
+        511.5423583984375,
+        388.317626953125
+      ],
+      "text": "“adivinhamos” sua intenção dissimulada, ou seja, levá-la sentir-",
+      "spans": [
+        {
+          "text": "“adivinhamos” sua intenção dissimulada, ou seja, levá-la sentir-",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            374.640380859375,
+            511.5423583984375,
+            388.317626953125
+          ],
+          "origin": [
+            82.73997497558594,
+            385.6218566894531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        395.1609191894531,
+        516.2559204101562,
+        408.8381652832031
+      ],
+      "text": "se flagrada em plena artimanha. Devo lembrar que isso é uma",
+      "spans": [
+        {
+          "text": "se flagrada em plena artimanha. Devo lembrar que isso é uma ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            395.1609191894531,
+            516.2559204101562,
+            408.8381652832031
+          ],
+          "origin": [
+            82.73995971679688,
+            406.14239501953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        415.740966796875,
+        516.3527221679688,
+        429.418212890625
+      ],
+      "text": "reflexão teórica com aplicabilidade prática e não uma receita de",
+      "spans": [
+        {
+          "text": "reflexão teórica com aplicabilidade prática e não uma receita de ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            415.740966796875,
+            516.3527221679688,
+            429.418212890625
+          ],
+          "origin": [
+            82.73995971679688,
+            426.7224426269531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        436.2615051269531,
+        123.6993179321289,
+        449.9387512207031
+      ],
+      "text": "bolo.",
+      "spans": [
+        {
+          "text": "bolo.  ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            436.2615051269531,
+            123.6993179321289,
+            449.9387512207031
+          ],
+          "origin": [
+            82.73995971679688,
+            447.24298095703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        117.23998260498047,
+        468.481201171875,
+        516.1580200195312,
+        482.158447265625
+      ],
+      "text": "Não pressione, não brigue, não discuta. “Acerte-a” e se",
+      "spans": [
+        {
+          "text": "Não pressione, não brigue, não discuta. “Acerte-a” e se ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            117.23998260498047,
+            468.481201171875,
+            516.1580200195312,
+            482.158447265625
+          ],
+          "origin": [
+            117.23998260498047,
+            479.4626770019531
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        489.0017395019531,
+        516.2664794921875,
+        502.6789855957031
+      ],
+      "text": "afaste, mantendo-se, porém, acessível. Se ela não te procurar",
+      "spans": [
+        {
+          "text": "afaste, mantendo-se, porém, acessível. Se ela não te procurar ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            489.0017395019531,
+            516.2664794921875,
+            502.6789855957031
+          ],
+          "origin": [
+            82.73995971679688,
+            499.98321533203125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        509.6413269042969,
+        516.2780151367188,
+        523.3185424804688
+      ],
+      "text": "após um tempo, faça uma última tentativa. Se ainda assim a",
+      "spans": [
+        {
+          "text": "após um tempo, faça uma última tentativa. Se ainda assim a ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            509.6413269042969,
+            516.2780151367188,
+            523.3185424804688
+          ],
+          "origin": [
+            82.73995971679688,
+            520.622802734375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        530.161865234375,
+        516.1964111328125,
+        543.8390502929688
+      ],
+      "text": "trapaça continuar, não haverá mais esperança: ela decidamente",
+      "spans": [
+        {
+          "text": "trapaça continuar, não haverá mais esperança: ela decidamente ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            530.161865234375,
+            516.1964111328125,
+            543.8390502929688
+          ],
+          "origin": [
+            82.73995971679688,
+            541.143310546875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        550.682373046875,
+        516.1790771484375,
+        564.3595581054688
+      ],
+      "text": "te abomina e não há mais nada que possa ser feito. Porém você",
+      "spans": [
+        {
+          "text": "te abomina e não há mais nada que possa ser feito. Porém você ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            550.682373046875,
+            516.1790771484375,
+            564.3595581054688
+          ],
+          "origin": [
+            82.73995971679688,
+            561.663818359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        571.2029418945312,
+        516.2559814453125,
+        584.880126953125
+      ],
+      "text": "não terá mais dúvidas, tudo estará resolvido. Este procedimento",
+      "spans": [
+        {
+          "text": "não terá mais dúvidas, tudo estará resolvido. Este procedimento ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            571.2029418945312,
+            516.2559814453125,
+            584.880126953125
+          ],
+          "origin": [
+            82.73995971679688,
+            582.1843872070312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        591.782958984375,
+        516.13818359375,
+        605.4601440429688
+      ],
+      "text": "não garante a conquista da mulher desejada mas tem eficiência",
+      "spans": [
+        {
+          "text": "não garante a conquista da mulher desejada mas tem eficiência ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            591.782958984375,
+            516.13818359375,
+            605.4601440429688
+          ],
+          "origin": [
+            82.73995971679688,
+            602.764404296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73995971679688,
+        612.3035278320312,
+        516.2512817382812,
+        625.980712890625
+      ],
+      "text": "quase total para desarticular a artimanha em questão, dissipar",
+      "spans": [
+        {
+          "text": "quase total para desarticular a artimanha em questão, dissipar ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73995971679688,
+            612.3035278320312,
+            516.2512817382812,
+            625.980712890625
+          ],
+          "origin": [
+            82.73995971679688,
+            623.2849731445312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        632.8240356445312,
+        516.2919921875,
+        646.501220703125
+      ],
+      "text": "dúvidas, descobrir as verdadeiras intenções que se escondem",
+      "spans": [
+        {
+          "text": "dúvidas, descobrir as verdadeiras intenções que se escondem ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            632.8240356445312,
+            516.2919921875,
+            646.501220703125
+          ],
+          "origin": [
+            82.73997497558594,
+            643.8054809570312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        653.463623046875,
+        516.3341064453125,
+        667.1408081054688
+      ],
+      "text": "por trás de comportamentos contraditórios e fazer com que as",
+      "spans": [
+        {
+          "text": "por trás de comportamentos contraditórios e fazer com que as ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            653.463623046875,
+            516.3341064453125,
+            667.1408081054688
+          ],
+          "origin": [
+            82.73997497558594,
+            664.445068359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73997497558594,
+        673.984130859375,
+        516.2850341796875,
+        687.6613159179688
+      ],
+      "text": "coisas fiquem resolvidas daí em diante, evitando que percamos",
+      "spans": [
+        {
+          "text": "coisas fiquem resolvidas daí em diante, evitando que percamos ",
+          "font": "BookmanOldStyle",
+          "size": 11.670000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            82.73997497558594,
+            673.984130859375,
+            516.2850341796875,
+            687.6613159179688
+          ],
+          "origin": [
+            82.73997497558594,
+            684.965576171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        82.73999786376953,
+        760.0374755859375,
+        512.4144287109375,
+        770.8849487304688
+      ],
+      "text": "47",
+      "spans": [
+        {
+          "text": "47",
+          "font": "TimesNewRomanPSMT",
+          "size": 9.744400024414062,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            502.6817321777344,
+            760.097900390625,
+            512.4144287109375,
+            770.8849487304688
+          ],
+          "origin": [
+            502.6817321777344,
+            768.7801513671875
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "book": "textos-complementares-ii-2009",
+  "chapter": "01",
+  "title": "Introdução",
+  "pages": [
+    3,
+    3
+  ],
+  "segments": [
+    {
+      "type": "heading",
+      "text": "Introdução",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPS-BoldMT",
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 0.1,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0001",
+      "hash": "43242ae2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Continuemos os esclarecimentos iniciados no volume anterior.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0002",
+      "hash": "307c363b"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se você ainda não leu os livros, sugiro que o faça para evitar distorções.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "center",
+        "first_line_indent": 0,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0003",
+      "hash": "28f8ea84"
+    },
+    {
+      "type": "paragraph",
+      "text": "O conteúdo destes textos não foi aqui introduzido para ser dogmatizado. São apenas pontos de partida para reflexões posteriores. Embora algumas idéias sejam direcionadas especificamente aos simpatizantes de estudos espiritualistas, nada impede que outras pessoas as conheçam.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0004",
+      "hash": "d3962641"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reitero, mais uma vez, que sou mentalmente livre e não tenho compromissos ideológicos com ninguém. Sou o autor de meus livros e posso muito bem modificá-los e até renunciar ao conteúdo dos mesmos, parcial ou totalmente, se assim o decidir. Não tenho culpa se as pessoas não querem pensar dialeticamente.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0005",
+      "hash": "cab90d54"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nunca sigam a ninguém, sigam apenas a si mesmos. E ainda assim tenham cuidado!",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 0.1,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0006",
+      "hash": "1c02b7ab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boa reflexão.",
+      "pages": [
+        3
+      ],
+      "style": {
+        "font": "TimesNewRomanPSMT",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "align": "justify",
+        "first_line_indent": 35.5,
+        "left": 35.5,
+        "color": 0
+      },
+      "warnings": [],
+      "id": "01-0007",
+      "hash": "eb9a2f02"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "15-0001": {
+    "type": "heading",
+    "lines": [
+      {
+        "page": 53,
+        "bbox": [
+          270.8,
+          77.3,
+          340.2,
+          90.6
+        ],
+        "font": "TimesNewRoman,Bold",
+        "size": 12.0,
+        "flags": 20,
+        "color": 0,
+        "blocks": [
+          0
+        ]
+      }
+    ]
+  },
+  "15-0002": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 53,
+        "bbox": [
+          85.1,
+          109.9,
+          526.0,
+          123.2
+        ],
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          1
+        ]
+      }
+    ]
+  },
+  "15-0003": {
+    "type": "paragraph",
+    "lines": [
+      {
+        "page": 53,
+        "bbox": [
+          120.5,
+          128.7,
+          504.1,
+          143.9
+        ],
+        "font": "TimesNewRoman",
+        "size": 12.0,
+        "flags": 4,
+        "color": 0,
+        "blocks": [
+          2
+        ]
+      }
+    ]
+  }
+}

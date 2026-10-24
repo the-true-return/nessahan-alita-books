@@ -1,0 +1,522 @@
+{
+  "page_number": 27,
+  "width": 595.219970703125,
+  "height": 842.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        120.54000091552734,
+        77.4835205078125,
+        301.260009765625,
+        92.95938110351562
+      ],
+      "text": "15. Sobre galanteios e atração",
+      "spans": [
+        {
+          "text": "15. Sobre galanteios e atração",
+          "font": "TimesNewRomanPS-BoldMT",
+          "size": 13.979999542236328,
+          "flags": 20,
+          "color": 0,
+          "bbox": [
+            120.54000091552734,
+            77.4835205078125,
+            298.0581359863281,
+            92.95938110351562
+          ],
+          "origin": [
+            120.54000091552734,
+            89.939697265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        105.28767395019531,
+        513.3307495117188,
+        201.37159729003906
+      ],
+      "text": "O vício de lançar galanteios é um péssimo costume que afasta, ao invés de \naproximar, as mulheres. É uma praga: basta a mulher olhar para nós e enviar um tênue \nsinal favorável, e lá estamos lançando as infelizes cantadas. Bajulamos, galanteamos, \ncortejamos, nos arriscamos e nos humilhamos de todas as formas possíveis, quase \nsempre sem nenhum resultado. Se, por acaso, obtemos algum resultado positivo após tal \nconduta famigerada, é muito mais provável que o mesmo tenha se devido a outro fator \ndistinto da conduta galanteadora.",
+      "spans": [
+        {
+          "text": "O vício de lançar galanteios é um péssimo costume que afasta, ao invés de ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.54000854492188,
+            105.28767395019531,
+            513.3307495117188,
+            118.5716781616211
+          ],
+          "origin": [
+            120.54000854492188,
+            115.97967529296875
+          ]
+        },
+        {
+          "text": "aproximar, as mulheres. É uma praga: basta a mulher olhar para nós e enviar um tênue ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.08000946044922,
+            119.08766174316406,
+            513.281982421875,
+            132.3716583251953
+          ],
+          "origin": [
+            85.08000946044922,
+            129.7796630859375
+          ]
+        },
+        {
+          "text": "sinal favorável, e lá estamos lançando as infelizes cantadas. Bajulamos, galanteamos, ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            132.8876495361328,
+            513.32958984375,
+            146.17164611816406
+          ],
+          "origin": [
+            85.07998657226562,
+            143.57965087890625
+          ]
+        },
+        {
+          "text": "cortejamos, nos arriscamos e nos humilhamos de todas as formas possíveis, quase ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07998657226562,
+            146.68763732910156,
+            513.3284912109375,
+            159.9716339111328
+          ],
+          "origin": [
+            85.07998657226562,
+            157.379638671875
+          ]
+        },
+        {
+          "text": "sempre sem nenhum resultado. Se, por acaso, obtemos algum resultado positivo após tal ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            160.4876251220703,
+            513.2562255859375,
+            173.77162170410156
+          ],
+          "origin": [
+            85.07997131347656,
+            171.17962646484375
+          ]
+        },
+        {
+          "text": "conduta famigerada, é muito mais provável que o mesmo tenha se devido a outro fator ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07997131347656,
+            174.28761291503906,
+            513.325927734375,
+            187.5716094970703
+          ],
+          "origin": [
+            85.07997131347656,
+            184.9796142578125
+          ]
+        },
+        {
+          "text": "distinto da conduta galanteadora. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            188.0876007080078,
+            246.7559356689453,
+            201.37159729003906
+          ],
+          "origin": [
+            85.0799560546875,
+            198.77960205078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.0799560546875,
+        213.88758850097656,
+        513.2559204101562,
+        240.97157287597656
+      ],
+      "text": "A função do galanteio é inflar o ego feminino. Os desconhecedores acreditam \nque o mesmo exerce um efeito sexualmente atrativo, o que é falso.",
+      "spans": [
+        {
+          "text": "A função do galanteio é inflar o ego feminino. Os desconhecedores acreditam ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            213.88758850097656,
+            513.2559204101562,
+            227.1715850830078
+          ],
+          "origin": [
+            120.53995513916016,
+            224.57958984375
+          ]
+        },
+        {
+          "text": "que o mesmo exerce um efeito sexualmente atrativo, o que é falso.  ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            227.6875762939453,
+            410.6829528808594,
+            240.97157287597656
+          ],
+          "origin": [
+            85.0799560546875,
+            238.37957763671875
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07994079589844,
+        253.48756408691406,
+        513.448974609375,
+        335.7715148925781
+      ],
+      "text": "A atração sexual feminina não resulta de galanteios, mas da evidência dos \ncaracteres sexuais masculinos, principalmente da conduta. Quanto mais masculino for \num homem, não somente na aparência física (porque elas não são tão visuais como nós), \nmas também na conduta (ou seja, nas vestimentas, na fala, no olhar e nos modos) mais \natraente será. O mesmo se passa com as mulheres: quanto mais femininas forem em \ntudo, mais atraentes serão aos nossos olhos.",
+      "spans": [
+        {
+          "text": "A atração sexual feminina não resulta de galanteios, mas da evidência dos ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            253.48756408691406,
+            513.28369140625,
+            266.7715759277344
+          ],
+          "origin": [
+            120.53995513916016,
+            264.1795654296875
+          ]
+        },
+        {
+          "text": "caracteres sexuais masculinos, principalmente da conduta. Quanto mais masculino for ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            267.2875671386719,
+            513.3404541015625,
+            280.5715637207031
+          ],
+          "origin": [
+            85.0799560546875,
+            277.97955322265625
+          ]
+        },
+        {
+          "text": "um homem, não somente na aparência física (porque elas não são tão visuais como nós), ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            281.0875549316406,
+            513.4227294921875,
+            294.3715515136719
+          ],
+          "origin": [
+            85.07994079589844,
+            291.779541015625
+          ]
+        },
+        {
+          "text": "mas também na conduta (ou seja, nas vestimentas, na fala, no olhar e nos modos) mais ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            294.8875427246094,
+            513.448974609375,
+            308.1715393066406
+          ],
+          "origin": [
+            85.0799560546875,
+            305.57952880859375
+          ]
+        },
+        {
+          "text": "atraente será. O mesmo se passa com as mulheres: quanto mais femininas forem em ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            308.6875305175781,
+            513.3433837890625,
+            321.9715270996094
+          ],
+          "origin": [
+            85.0799560546875,
+            319.3795166015625
+          ]
+        },
+        {
+          "text": "tudo, mais atraentes serão aos nossos olhos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            322.4875183105469,
+            298.0631408691406,
+            335.7715148925781
+          ],
+          "origin": [
+            85.0799560546875,
+            333.17950439453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.07992553710938,
+        348.2875061035156,
+        513.4472045898438,
+        471.9714050292969
+      ],
+      "text": "Resulta então que um homem que queira ser atraente a uma mulher deverá frear \no impulso de insinuar-se e de assediar, ao mesmo tempo em que deverá ressaltar sua \nmasculinidade, colocando em evidência uma conduta viril, liderante e protetora. Uma \nconduta viril é uma conduta de macho. Uma conduta liderante é uma conduta de quem \nguia e comanda. Uma conduta protetora é uma conduta de quem afasta os perigos. \nQuando o homem substitui a conduta assediadora por esta conduta sintética e tríade, as \nmulheres costumam permitir que ele tome conta delas e se abrem gradativamente, uma \nvez que não fazê-lo iria contra suas necessidades e interesses. A atração sexual feminina \né pragmática.",
+      "spans": [
+        {
+          "text": "Resulta então que um homem que queira ser atraente a uma mulher deverá frear ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            120.53995513916016,
+            348.2875061035156,
+            513.3197021484375,
+            361.5715026855469
+          ],
+          "origin": [
+            120.53995513916016,
+            358.9794921875
+          ]
+        },
+        {
+          "text": "o impulso de insinuar-se e de assediar, ao mesmo tempo em que deverá ressaltar sua ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            362.0874938964844,
+            513.4472045898438,
+            375.3714904785156
+          ],
+          "origin": [
+            85.0799560546875,
+            372.77947998046875
+          ]
+        },
+        {
+          "text": "masculinidade, colocando em evidência uma conduta viril, liderante e protetora. Uma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            375.8874816894531,
+            513.352294921875,
+            389.1714782714844
+          ],
+          "origin": [
+            85.0799560546875,
+            386.5794677734375
+          ]
+        },
+        {
+          "text": "conduta viril é uma conduta de macho. Uma conduta liderante é uma conduta de quem ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.0799560546875,
+            389.6874694824219,
+            513.3311157226562,
+            402.9714660644531
+          ],
+          "origin": [
+            85.0799560546875,
+            400.37945556640625
+          ]
+        },
+        {
+          "text": "guia e comanda. Uma conduta protetora é uma conduta de quem afasta os perigos. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            403.4874572753906,
+            513.3356323242188,
+            416.7714538574219
+          ],
+          "origin": [
+            85.07994079589844,
+            414.179443359375
+          ]
+        },
+        {
+          "text": "Quando o homem substitui a conduta assediadora por esta conduta sintética e tríade, as ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            417.2874450683594,
+            513.3627319335938,
+            430.5714416503906
+          ],
+          "origin": [
+            85.07994079589844,
+            427.97943115234375
+          ]
+        },
+        {
+          "text": "mulheres costumam permitir que ele tome conta delas e se abrem gradativamente, uma ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            431.0874328613281,
+            513.402099609375,
+            444.3714294433594
+          ],
+          "origin": [
+            85.07994079589844,
+            441.7794189453125
+          ]
+        },
+        {
+          "text": "vez que não fazê-lo iria contra suas necessidades e interesses. A atração sexual feminina ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07994079589844,
+            444.8874206542969,
+            513.3402709960938,
+            458.1714172363281
+          ],
+          "origin": [
+            85.07994079589844,
+            455.57940673828125
+          ]
+        },
+        {
+          "text": "é pragmática. ",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            85.07992553710938,
+            458.6874084472656,
+            152.71673583984375,
+            471.9714050292969
+          ],
+          "origin": [
+            85.07992553710938,
+            469.37939453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        85.08000183105469,
+        793.0676879882812,
+        510.239990234375,
+        806.4116821289062
+      ],
+      "text": "27",
+      "spans": [
+        {
+          "text": "27",
+          "font": "TimesNewRomanPSMT",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            498.239990234375,
+            793.127685546875,
+            510.239990234375,
+            806.4116821289062
+          ],
+          "origin": [
+            498.239990234375,
+            803.8197021484375
+          ]
+        }
+      ]
+    }
+  ]
+}

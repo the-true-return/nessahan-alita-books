@@ -1,0 +1,24 @@
+{
+  "book": "magnetismo-relacoes-sociais-2008",
+  "chapter": "13",
+  "title": "12. A dinâmica psicológica do encantamento e da feitiçaria",
+  "checked_at": "2026-10-23T22:54:53",
+  "segments_total": 32,
+  "segments_translated": 32,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "13-0002",
+      "text": "Dates converted to the American MM/DD/YY order (original: 25/07/00, 31/07/00, 09/11/00). Alternative: spell out (\"July 25, July 31, and November 9, 2000\"), as done for the other chapter dates."
+    },
+    {
+      "segment": "13-0016",
+      "text": "\"perish of soul\" is in English (italics) in the original and kept as is. Jung's terms are \"loss of soul\" and \"perils of the soul\"; the author probably meant one of these. Decide whether to correct."
+    }
+  ],
+  "translator_notes": []
+}

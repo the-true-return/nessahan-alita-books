@@ -1,0 +1,13 @@
+{
+  "title_pt": "Textos Complementares",
+  "series_pt": null,
+  "source_pdf": "portuguese-original-pdf/Nessahan Alita - Textos Complementares (Ed. 2008).pdf",
+  "extracted_dir": "extracted/Nessahan Alita - Textos Complementares (Ed. 2008)",
+  "drop_line_patterns": [],
+  "soft_hyphenation": false,
+  "chapter_starts": null,
+  "known_issues": [
+    "Muitos subtítulos curtos em negrito no tamanho do corpo dentro de cada capítulo."
+  ],
+  "edition": "2008"
+}

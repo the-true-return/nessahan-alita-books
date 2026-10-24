@@ -1,0 +1,830 @@
+{
+  "page_number": 6,
+  "width": 612.0,
+  "height": 792.0,
+  "rotation": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        72.07732391357422,
+        538.9805297851562,
+        87.48676300048828
+      ],
+      "text": "dando amor, certeza e fidelidade. Trata-se de um egoísmo calculista",
+      "spans": [
+        {
+          "text": "dando amor, certeza e fidelidade. Trata-se de um egoísmo calculista",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            72.07732391357422,
+            538.9805297851562,
+            87.48676300048828
+          ],
+          "origin": [
+            72.0,
+            84.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        96.07732391357422,
+        538.920166015625,
+        111.48676300048828
+      ],
+      "text": "que não leva em consideração os sofrimentos provocados no outro,",
+      "spans": [
+        {
+          "text": "que não leva em consideração os sofrimentos provocados no outro,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            96.07732391357422,
+            538.920166015625,
+            111.48676300048828
+          ],
+          "origin": [
+            72.0,
+            108.48004150390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        120.31731414794922,
+        538.9805297851562,
+        135.72674560546875
+      ],
+      "text": "muito semelhante, nesse sentido, ao egoísmo insano dos homens que",
+      "spans": [
+        {
+          "text": "muito semelhante, nesse sentido, ao egoísmo insano dos homens que",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            120.31731414794922,
+            538.9805297851562,
+            135.72674560546875
+          ],
+          "origin": [
+            72.0,
+            132.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        142.1141357421875,
+        538.920166015625,
+        159.72674560546875
+      ],
+      "text": "tomam o sexo das mulheres à força5 ou as pressionam para cederem.",
+      "spans": [
+        {
+          "text": "tomam o sexo das mulheres à força",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            144.3173065185547,
+            311.9405212402344,
+            159.72674560546875
+          ],
+          "origin": [
+            72.0,
+            156.72003173828125
+          ]
+        },
+        {
+          "text": "5",
+          "font": "TimesNewRoman",
+          "size": 9.119999885559082,
+          "flags": 5,
+          "color": 0,
+          "bbox": [
+            313.20001220703125,
+            142.1141357421875,
+            317.760009765625,
+            152.20997619628906
+          ],
+          "origin": [
+            313.20001220703125,
+            150.24005126953125
+          ]
+        },
+        {
+          "text": " ou as pressionam para cederem.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            317.760009765625,
+            144.3173065185547,
+            538.920166015625,
+            159.72674560546875
+          ],
+          "origin": [
+            317.760009765625,
+            156.72003173828125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        168.5572967529297,
+        538.9200439453125,
+        183.96673583984375
+      ],
+      "text": "Ao invés de protestarmos, é melhor perdoar e aceitar, adaptando-nos",
+      "spans": [
+        {
+          "text": "Ao invés de protestarmos, é melhor perdoar e aceitar, adaptando-nos",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            168.5572967529297,
+            538.9200439453125,
+            183.96673583984375
+          ],
+          "origin": [
+            72.00001525878906,
+            180.96002197265625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        192.7972869873047,
+        538.9805297851562,
+        208.20672607421875
+      ],
+      "text": "às condições reais que nos são oferecidas e não alimentar nenhuma",
+      "spans": [
+        {
+          "text": "às condições reais que nos são oferecidas e não alimentar nenhuma",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            192.7972869873047,
+            538.9805297851562,
+            208.20672607421875
+          ],
+          "origin": [
+            72.00001525878906,
+            205.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        216.7972869873047,
+        265.5600280761719,
+        232.20672607421875
+      ],
+      "text": "expectativa fora da realidade.",
+      "spans": [
+        {
+          "text": "expectativa fora da realidade.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            216.7972869873047,
+            265.5600280761719,
+            232.20672607421875
+          ],
+          "origin": [
+            72.00001525878906,
+            229.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.00001525878906,
+        253.0372772216797,
+        539.0243530273438,
+        268.44671630859375
+      ],
+      "text": "Reconheço que muit(o)as se enfurecerão comigo por ter escrito",
+      "spans": [
+        {
+          "text": "Reconheço que muit(o)as se enfurecerão comigo por ter escrito",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.00001525878906,
+            253.0372772216797,
+            539.0243530273438,
+            268.44671630859375
+          ],
+          "origin": [
+            108.00001525878906,
+            265.44000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        277.27728271484375,
+        539.0401611328125,
+        292.68670654296875
+      ],
+      "text": "sobre as mulheres verdades que tentam esconder a todo custo. No",
+      "spans": [
+        {
+          "text": "sobre as mulheres verdades que tentam esconder a todo custo. No",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            277.27728271484375,
+            539.0401611328125,
+            292.68670654296875
+          ],
+          "origin": [
+            72.00001525878906,
+            289.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        301.27728271484375,
+        538.9349975585938,
+        316.68670654296875
+      ],
+      "text": "entanto, digo aos furiosos que as estou ajudando pois denuncio traços",
+      "spans": [
+        {
+          "text": "entanto, digo aos furiosos que as estou ajudando pois denuncio traços",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            301.27728271484375,
+            538.9349975585938,
+            316.68670654296875
+          ],
+          "origin": [
+            72.00001525878906,
+            313.67999267578125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        325.51727294921875,
+        538.98046875,
+        340.92669677734375
+      ],
+      "text": "comportamentais que prejudicam não somente seus parceiros e",
+      "spans": [
+        {
+          "text": "comportamentais que prejudicam não somente seus parceiros e",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            325.51727294921875,
+            538.98046875,
+            340.92669677734375
+          ],
+          "origin": [
+            72.00001525878906,
+            337.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        349.51727294921875,
+        539.0253295898438,
+        364.92669677734375
+      ],
+      "text": "pretendentes mas inclusive elas próprias. Aponto as fraquezas do sexo",
+      "spans": [
+        {
+          "text": "pretendentes mas inclusive elas próprias. Aponto as fraquezas do sexo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            349.51727294921875,
+            539.0253295898438,
+            364.92669677734375
+          ],
+          "origin": [
+            72.00001525878906,
+            361.91998291015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        373.75726318359375,
+        539.309814453125,
+        389.16668701171875
+      ],
+      "text": "feminino e do masculino, bem comos meios pelos quais os homens mal",
+      "spans": [
+        {
+          "text": "feminino e do masculino, bem comos meios pelos quais os homens mal",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            373.75726318359375,
+            539.309814453125,
+            389.16668701171875
+          ],
+          "origin": [
+            72.00001525878906,
+            386.15997314453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        397.99725341796875,
+        539.0252075195312,
+        413.40667724609375
+      ],
+      "text": "intencionados podem quebrar-lhes a resistência e vencê-las, sendo",
+      "spans": [
+        {
+          "text": "intencionados podem quebrar-lhes a resistência e vencê-las, sendo",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            397.99725341796875,
+            539.0252075195312,
+            413.40667724609375
+          ],
+          "origin": [
+            72.00001525878906,
+            410.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        421.99725341796875,
+        539.3099365234375,
+        437.40667724609375
+      ],
+      "text": "evidente que as estou auxiliando a se conhecerem e a se protegerem",
+      "spans": [
+        {
+          "text": "evidente que as estou auxiliando a se conhecerem e a se protegerem",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            421.99725341796875,
+            539.3099365234375,
+            437.40667724609375
+          ],
+          "origin": [
+            72.00001525878906,
+            434.39996337890625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        446.23724365234375,
+        538.9052124023438,
+        461.64666748046875
+      ],
+      "text": "contra os nefastos efeitos de suas próprias maldades. Além disso,",
+      "spans": [
+        {
+          "text": "contra os nefastos efeitos de suas próprias maldades. Além disso,",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            446.23724365234375,
+            538.9052124023438,
+            461.64666748046875
+          ],
+          "origin": [
+            72.00001525878906,
+            458.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        470.23724365234375,
+        539.1154174804688,
+        485.64666748046875
+      ],
+      "text": "forneço subsídios experienciais para que possam aconselhar e orientar",
+      "spans": [
+        {
+          "text": "forneço subsídios experienciais para que possam aconselhar e orientar",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            470.23724365234375,
+            539.1154174804688,
+            485.64666748046875
+          ],
+          "origin": [
+            72.00001525878906,
+            482.63995361328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        494.47723388671875,
+        539.0252685546875,
+        509.88665771484375
+      ],
+      "text": "filhos, irmãos e outros parentes do sexo masculino contra o perigoso",
+      "spans": [
+        {
+          "text": "filhos, irmãos e outros parentes do sexo masculino contra o perigoso",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            494.47723388671875,
+            539.0252685546875,
+            509.88665771484375
+          ],
+          "origin": [
+            72.00001525878906,
+            506.87994384765625
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        518.7172241210938,
+        538.9349975585938,
+        534.1266479492188
+      ],
+      "text": "magnetismo da paixão. Acrescente-se que não creio que todas as",
+      "spans": [
+        {
+          "text": "magnetismo da paixão. Acrescente-se que não creio que todas as",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            518.7172241210938,
+            538.9349975585938,
+            534.1266479492188
+          ],
+          "origin": [
+            72.00001525878906,
+            531.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        542.7172241210938,
+        538.995361328125,
+        558.1266479492188
+      ],
+      "text": "mulheres sejam más. Aos críticos, sugiro que refutem minhas idéias ao",
+      "spans": [
+        {
+          "text": "mulheres sejam más. Aos críticos, sugiro que refutem minhas idéias ao",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            542.7172241210938,
+            538.995361328125,
+            558.1266479492188
+          ],
+          "origin": [
+            72.00001525878906,
+            555.1199340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        566.9572143554688,
+        213.7051239013672,
+        582.3666381835938
+      ],
+      "text": "invés de depreciá-las.",
+      "spans": [
+        {
+          "text": "invés de depreciá-las.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            566.9572143554688,
+            213.7051239013672,
+            582.3666381835938
+          ],
+          "origin": [
+            72.00001525878906,
+            579.3599243164062
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        108.00001525878906,
+        603.197265625,
+        538.9201049804688,
+        618.606689453125
+      ],
+      "text": "Sou defensor da monogamia, da fidelidade conjugal e da família.",
+      "spans": [
+        {
+          "text": "Sou defensor da monogamia, da fidelidade conjugal e da família.",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            108.00001525878906,
+            603.197265625,
+            538.9201049804688,
+            618.606689453125
+          ],
+          "origin": [
+            108.00001525878906,
+            615.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.00001525878906,
+        627.197265625,
+        538.980712890625,
+        642.606689453125
+      ],
+      "text": "Escrevi este trabalho para os sinceros que são derrotados na guerra da",
+      "spans": [
+        {
+          "text": "Escrevi este trabalho para os sinceros que são derrotados na guerra da",
+          "font": "TimesNewRoman",
+          "size": 13.920000076293945,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.00001525878906,
+            627.197265625,
+            538.980712890625,
+            642.606689453125
+          ],
+          "origin": [
+            72.00001525878906,
+            639.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        72.0,
+        678.706298828125,
+        338.0434265136719,
+        691.21728515625
+      ],
+      "text": "5 Este lado obscuro do homem motiva um ressentimento ancestral.",
+      "spans": [
+        {
+          "text": "5",
+          "font": "TimesNewRoman",
+          "size": 6.480000019073486,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            72.0,
+            678.706298828125,
+            75.23999786376953,
+            685.879638671875
+          ],
+          "origin": [
+            72.0,
+            684.47998046875
+          ]
+        },
+        {
+          "text": " Este lado obscuro do homem motiva um ressentimento ancestral.",
+          "font": "TimesNewRoman",
+          "size": 10.079999923706055,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            75.36000061035156,
+            680.0587158203125,
+            338.0434265136719,
+            691.21728515625
+          ],
+          "origin": [
+            75.36000061035156,
+            689.0399780273438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        534.0,
+        701.3880004882812,
+        540.0,
+        714.6719970703125
+      ],
+      "text": "6",
+      "spans": [
+        {
+          "text": "6",
+          "font": "TimesNewRoman",
+          "size": 12.0,
+          "flags": 4,
+          "color": 0,
+          "bbox": [
+            534.0,
+            701.3880004882812,
+            540.0,
+            714.6719970703125
+          ],
+          "origin": [
+            534.0,
+            712.0800170898438
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "bbox": [
+        18.0,
+        769.1400146484375,
+        345.75592041015625,
+        782.5440063476562
+      ],
+      "text": "PDF created with pdfFactory trial version www.pdffactory.com",
+      "spans": [
+        {
+          "text": "PDF created with pdfFactory trial version ",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 0,
+          "bbox": [
+            18.0,
+            769.1400146484375,
+            239.97604370117188,
+            782.5440063476562
+          ],
+          "origin": [
+            18.0,
+            780.0
+          ]
+        },
+        {
+          "text": "www.pdffactory.com",
+          "font": "Arial",
+          "size": 12.0,
+          "flags": 0,
+          "color": 255,
+          "bbox": [
+            240.0,
+            769.1400146484375,
+            345.75592041015625,
+            782.5440063476562
+          ],
+          "origin": [
+            240.0,
+            780.0
+          ]
+        }
+      ]
+    }
+  ]
+}
