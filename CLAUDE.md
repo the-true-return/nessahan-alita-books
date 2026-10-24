@@ -17,13 +17,14 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 - *O Profano Feminino* (`profano-feminino-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *Textos Complementares* (`textos-complementares-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *Textos Complementares II* (`textos-complementares-ii-2009`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
-- Os 5 livros restantes estão **na fila do agente agendado** (`automation/queue.txt`,
-  `automation/README.md`): traduz um por vez e faz commit + push ao terminar cada um.
-  Progresso em `automation/state/<slug>-progress.md`. Numa sessão interativa, não
-  traduza um livro da fila ao mesmo tempo que o agente (veja `automation/state/runner.lock`).
+- Todos os livros do projeto estão traduzidos (7). A edição de 2005 de *O Profano
+  Feminino* foi **removida** do projeto a pedido do usuário (duplicava a de 2008);
+  não a recrie.
+- O agente agendado (`automation/`) terminou a fila e a tarefa foi removida; para
+  traduzir um livro novo, acrescente-o a `automation/queue.txt` e registre a
+  tarefa de novo (`automation/README.md`).
 - Não traduza outros livros sem pedido explícito.
 - Sempre cite os livros pelo título completo (`title_pt` da config), nunca abreviado.
-- *O Profano Feminino* (`profano-feminino-2005`, edição de 2005, superada pela de 2008): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 
 ## Diretórios
 

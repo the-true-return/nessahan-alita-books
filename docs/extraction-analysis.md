@@ -10,7 +10,6 @@ MuPDF 1.28.5, `get_text("dict", sort=True)`).
 | guerra-da-paixao-2005 | 103 | Carta | TNR 13.9 | 19 | marca d'água pdfFactory |
 | como-lidar-com-mulheres-2008 | 249 | A4 | Times 11.7 | 36 | **espaçamento quebrado em ~645 blocos** |
 | magnetismo-relacoes-sociais-2008 | 54 | Carta | TNR 12 | 17 | limpo, **piloto** |
-| profano-feminino-2005 | 68 | Carta | TNR 12 | 17 | superado pela ed. 2008 |
 | profano-feminino-2008 | 88 | A4 | TNR 12 | 22 | — |
 | reflexoes-masculinas-2008 | 67 | Carta | Bookman 13.9 | 12 | marca d'água pdfFactory, muitos subtítulos |
 | textos-complementares-2008 | 79 | A4 | Bookman 11.7 | 24 | muitos subtítulos curtos |
@@ -51,16 +50,14 @@ mantidas (verificado em `work/<slug>/structure-report.md`).
    Corrigir antes de trabalhar nesse livro (nova extração em diretório
    separado, sem sobrescrever `extracted/`).
 4. **Marca d'água do pdfFactory** ("PDF created with pdfFactory trial version")
-   em todas as páginas de Guerra da Paixão, Profano Feminino 2005 e Reflexões
-   Masculinas. Removida via `drop_line_patterns`.
+   em todas as páginas de Guerra da Paixão e Reflexões Masculinas. Removida via `drop_line_patterns`.
 5. **Tabela de duas colunas** (Textos Complementares II, pp. 9-10): o
    extrator fundiu células de colunas diferentes no mesmo bloco. A segmentação
    sinaliza com um aviso; essa tabela exigirá marcação manual.
 6. **`metadata.json` → `fonts`** guarda só o último tamanho e as últimas flags
    vistos de cada fonte; não use como inventário tipográfico. Os tamanhos
    reais estão nos spans de `pages/*.json`.
-7. **Metadados dos PDFs não são confiáveis**: o título de Guerra da Paixão e de
-   Profano Feminino 2005 é "Reflexões Masculinas" (modelo do pdfFactory); os
+7. **Metadados dos PDFs não são confiáveis**: o título de Guerra da Paixão é "Reflexões Masculinas" (modelo do pdfFactory); os
    de 2008 são "Microsoft Word - ...". Use `config/books/*.json`.
 8. **Sem sumário embutido (outline)** em nenhum PDF, e os links internos são
    só das notas de rodapé. Os capítulos vêm da detecção dos títulos.
@@ -70,8 +67,8 @@ mantidas (verificado em `work/<slug>/structure-report.md`).
     `sort=True` não causou inversões.
 11. **Numeração das notas**: contínua no livro (Magnetismo) ou reiniciada a
     cada capítulo (Como lidar). As notas são associadas por capítulo e por página.
-12. **Duas edições de O Profano Feminino**: a de 2008 amplia a de 2005
-    (17 capítulos contra 14, mais seções novas).
+12. **Duas edições de O Profano Feminino**: a de 2008 amplia a de 2005. A
+    edição de 2005 foi removida do projeto em 2026-10-24 (duplicada).
 
 ## Capítulos: automático ou manual?
 
