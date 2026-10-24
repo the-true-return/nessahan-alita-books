@@ -1,0 +1,24 @@
+{
+  "book": "profano-feminino-2005",
+  "chapter": "05",
+  "title": "4. Mães, esposas e filhas",
+  "checked_at": "2026-10-24T13:30:47",
+  "segments_total": 11,
+  "segments_translated": 11,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "05-0002",
+      "text": "\"trocam os 'R' pelos 'L'\" describes Portuguese baby talk; kept literally (\"swap their R’s for L’s\"). An English equivalent would be swapping R’s for W’s (\"wabbit\")."
+    },
+    {
+      "segment": "05-0009",
+      "text": "\"o promíscuo 'ficar'\" (Brazilian slang for casual making out or sex without commitment) → “hooking up.” \"segurar o rojão\" (to bear the brunt) → \"hold the bag\"."
+    }
+  ],
+  "translator_notes": []
+}

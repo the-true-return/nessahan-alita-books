@@ -23,7 +23,7 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
   traduza um livro da fila ao mesmo tempo que o agente (veja `automation/state/runner.lock`).
 - Não traduza outros livros sem pedido explícito.
 - Sempre cite os livros pelo título completo (`title_pt` da config), nunca abreviado.
-- `profano-feminino-2005` foi superado pela edição de 2008; não traduzir sem decisão do usuário.
+- *O Profano Feminino* (`profano-feminino-2005`, edição de 2005, superada pela de 2008): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 
 ## Diretórios
 

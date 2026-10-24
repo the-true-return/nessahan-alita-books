@@ -1,0 +1,32 @@
+{
+  "book": "profano-feminino-2005",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T13:30:47",
+  "segments_total": 37,
+  "segments_translated": 37,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Series title follows the glossary proposal \"Man’s Suffering in Love\" (O Sofrimento Amoroso do Homem), as in the other volumes."
+    },
+    {
+      "segment": "00-0006",
+      "text": "The citation gives the English titles; the Portuguese originals are \"O Sofrimento Amoroso do Homem: O Profano Feminino (Considerações sobre a Face da Mulher que Ninguém Quer Encarar)\"."
+    },
+    {
+      "segment": "00-0012",
+      "text": "The author’s notice forbids any alteration of the book’s \"language or title\" (this 2005 edition does not list \"translate\" explicitly, unlike the 2008 edition). Translated faithfully; a human must confirm that this English edition is authorized before publication (as for the other volumes)."
+    },
+    {
+      "segment": "00-0033",
+      "text": "The table of contents reads \"Como elas minam a desconfiança\" (How they undermine distrust), but the chapter heading itself is \"O enfraquecimento das desconfianças\" (The weakening of suspicions). Both kept as in the original, as in the 2008 edition."
+    }
+  ],
+  "translator_notes": []
+}
