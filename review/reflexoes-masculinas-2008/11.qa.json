@@ -1,0 +1,28 @@
+{
+  "book": "reflexoes-masculinas-2008",
+  "chapter": "11",
+  "title": "Referências bibliográficas:",
+  "checked_at": "2026-10-24T01:07:13",
+  "segments_total": 5,
+  "segments_translated": 5,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "11-0002",
+      "text": "Title translated from the Brazilian edition (\"Dogma e Ritual de Alta Magia\"), as in the other books. Waite’s English translation is \"Transcendental Magic: Its Doctrine and Ritual\" (1896)."
+    },
+    {
+      "segment": "11-0003",
+      "text": "Brazilian edition \"O Erotismo: Fantasias e Realidades do Amor e da Sedução\", as in How to Deal with Women; the Italian original is \"L’erotismo\" (1986). \"sem data\" rendered \"n.d.\"."
+    },
+    {
+      "segment": "11-0005",
+      "text": "Brazilian release title \"Hitch: Conselheiro Amoroso\"; original title \"Hitch\"."
+    }
+  ],
+  "translator_notes": []
+}

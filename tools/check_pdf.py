@@ -162,6 +162,9 @@ def check(slug: str) -> bool:
                 errors.append(f"p. {page.number + 1}: font not embedded: {f[3]}")
     # ---- layout
     left, right = metrics["left"], metrics["right"]
+    # Typst hangs punctuation (commas, periods, hyphens) into the right margin
+    # by a fraction of the font size; allow for it at large body sizes.
+    hang = max(3, 0.3 * body_size)
     for i, p in enumerate(pages):
         page = p["page"]
         if not p["spans"]:
@@ -175,7 +178,7 @@ def check(slug: str) -> bool:
                         if ch["c"].isspace():
                             continue
                         x0, y0, x1, y1 = ch["bbox"]
-                        if x0 < left - 3 or x1 > right + 3 or y0 < 40 or y1 > page.rect.height - 30:
+                        if x0 < left - 3 or x1 > right + hang or y0 < 40 or y1 > page.rect.height - 30:
                             errors.append(f"p. {i + 1}: text outside the margins near "
                                           f"'{''.join(c['c'] for c in sp['chars'])[:40]}'")
                             break

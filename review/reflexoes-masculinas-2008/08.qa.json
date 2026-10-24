@@ -1,0 +1,28 @@
+{
+  "book": "reflexoes-masculinas-2008",
+  "chapter": "08",
+  "title": "6. Algumas artimanhas femininas infernizantes",
+  "checked_at": "2026-10-24T01:07:13",
+  "segments_total": 32,
+  "segments_translated": 32,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "08-0001",
+      "text": "This chapter does not appear in the original’s table of contents, and its number \"6.\" coincides with the number the contents give to the previous chapter. Kept as in the original (see known_issues). \"infernizantes\" (that make one’s life hell) rendered \"hellish\"; alternative: \"tormenting\"."
+    },
+    {
+      "segment": "08-0022",
+      "text": "\"Salmanshon\" in the original corrected to Salmansohn (as in 01-0003)."
+    },
+    {
+      "segment": "08-0028",
+      "text": "\"fêmea fatal\" rendered \"fatal female\" (approved glossary term \"female\"), as in How to Deal with Women; alternative: \"femme fatale\"."
+    }
+  ],
+  "translator_notes": []
+}

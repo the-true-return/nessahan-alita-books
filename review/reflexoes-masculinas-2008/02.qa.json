@@ -1,0 +1,24 @@
+{
+  "book": "reflexoes-masculinas-2008",
+  "chapter": "02",
+  "title": "1. Princípios e concepções originais que norteiam os trabalhos de Nessahan Alita",
+  "checked_at": "2026-10-24T01:07:13",
+  "segments_total": 19,
+  "segments_translated": 19,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "02-0007",
+      "text": "\"misóginos e androfóbicos-misândricos espertinhos\": the author’s compound \"androfóbico-misândrico\" rendered \"androphobic misandrists\"; \"espertinhos\" (masculine of the glossary’s \"espertinha(s)\" → \"sly one(s)\") rendered \"sly\"."
+    },
+    {
+      "segment": "02-0018",
+      "text": "The original list jumps from 15 to 17 (there is no item 16). Numbering kept as in the original."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "book": "reflexoes-masculinas-2008",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T01:07:13",
+  "segments_total": 32,
+  "segments_translated": 32,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Series title follows the glossary proposal \"Man’s Suffering in Love\" (O Sofrimento Amoroso do Homem), as in How to Deal with Women."
+    },
+    {
+      "segment": "00-0003",
+      "text": "Subtitle \"Algumas Heresias que Faltaram Dizer\" (glossary proposal). Alternatives: \"Some Heresies That Remained to Be Said\", \"Some Heresies That Went Unsaid\"."
+    },
+    {
+      "segment": "00-0006",
+      "text": "The citation gives the English titles; the Portuguese originals are \"O Sofrimento Amoroso do Homem\" and \"Reflexões Masculinas sobre a Mulher e o Amor (Algumas Heresias que Faltaram Dizer)\"."
+    },
+    {
+      "segment": "00-0012",
+      "text": "The author’s notice forbids any alteration of the book’s \"language or title\" (unlike Volume I, it does not name translation explicitly). Translated faithfully; a human should confirm that this English edition is authorized before publication."
+    },
+    {
+      "segment": "00-0029",
+      "text": "The table of contents numbers this chapter 6, but in the body it is numbered \"5.\" (a second chapter 5, p. 46), and the chapter \"6. Algumas artimanhas femininas infernizantes\" (p. 52) is missing from this list. Kept as in the original (see known_issues)."
+    }
+  ],
+  "translator_notes": []
+}

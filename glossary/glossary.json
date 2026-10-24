@@ -1356,9 +1356,10 @@
       "category": "concept",
       "status": "proposed",
       "books": [
-        "como-lidar-com-mulheres-2008"
+        "como-lidar-com-mulheres-2008",
+        "reflexoes-masculinas-2008"
       ],
-      "notes": "Estado de relação não definida mantido pela mulher para preservar a dúvida e a 'permanência' do interesse masculino (caps. 6, 18, 19, 25 de Como Lidar com Mulheres). 'indefiniteness' na maior parte do livro; 'vagueness' no cap. 6.",
+      "notes": "Estado de relação não definida mantido pela mulher para preservar a dúvida e a 'permanência' do interesse masculino (caps. 6, 18, 19, 25 de Como Lidar com Mulheres). 'indefiniteness' na maior parte do livro; 'vagueness' no cap. 6. Em Reflexões Masculinas sobre a Mulher e o Amor: 07-0013, 09-0013.",
       "display_en": "indefiniteness",
       "display_pt": "indefinição",
       "note_en": "The deliberate refusal to define a relationship (friend, lover, girlfriend, wife), kept up to preserve doubt and to prolong the man’s interest and pursuit. The author advises answering it with ultimatums or by turning it back against the woman."
@@ -1442,6 +1443,66 @@
       "display_en": "humanoid",
       "display_pt": "humanóide",
       "note_en": "The author’s term for the ordinary human being: a rational animal driven by instinct and by the ego, which merely has a human appearance and has not yet become an Authentic Man."
+    },
+    {
+      "term_pt": "matrixiano(s)",
+      "match_pt": [
+        "matrixiano",
+        "matrixianos",
+        "matrixiana"
+      ],
+      "term_en": "Matrixian(s)",
+      "match_en": [
+        "Matrixian",
+        "Matrixians"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Neologismo do autor a partir do filme Matrix: o homem condicionado pela mídia e pelas ilusões românticas convencionais. Reflexões Masculinas sobre a Mulher e o Amor, 04-0025, 05-0036, 06-0004, 06-0007, 06-0008 ('ilusão matrixiana' → 'Matrixian illusion'). Alternativas: 'Matrix-bound', 'plugged-in'.",
+      "display_en": "Matrixian",
+      "display_pt": "matrixiano",
+      "note_en": "The author’s coinage, after the film The Matrix, for the man who lives inside the illusions about passion and romance instilled by the media and therefore acts against his own interests with women."
+    },
+    {
+      "term_pt": "continuidade (do interesse masculino)",
+      "match_pt": [
+        "continuidade"
+      ],
+      "term_en": "continuity (of male interest)",
+      "match_en": [
+        "continuity"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "reflexoes-masculinas-2008"
+      ],
+      "notes": "Teoria da continuidade de Francesco Alberoni (L'erotismo, 1986), reinterpretada pelo autor no cap. 7 de Reflexões Masculinas sobre a Mulher e o Amor (11 ocorrências) e nas Conclusões. Relacionado a 'indefinição'.",
+      "display_en": "continuity",
+      "display_pt": "continuidade",
+      "note_en": "Taken from Francesco Alberoni’s theory of female eroticism and reinterpreted by the author: what woman seeks is not to give sex and love continually but the continuity of male interest, which her contradictory signals keep alive without ever satisfying it."
+    },
+    {
+      "term_pt": "impressionismo",
+      "match_pt": [
+        "impressionismo"
+      ],
+      "term_en": "impressionism",
+      "match_en": [
+        "impressionism"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "reflexoes-masculinas-2008"
+      ],
+      "notes": "Uso do autor: a arte de impressionar, deixar uma marca na imaginação da mulher (Reflexões Masculinas sobre a Mulher e o Amor, 05-0016, 05-0018). Ligado a 'horrorização'. Alternativa: 'making an impression'. Em O Magnetismo nas Relações Sociais (13-0013) 'poder de impressionismo' foi traduzido 'power to impress'; por isso a entrada vale só para este livro até decisão humana.",
+      "display_en": "impressionism",
+      "display_pt": "impressionismo",
+      "note_en": "The author’s word for the art of making an impression: leaving a mark on a woman’s imagination through the fears and desires against which she is not armored, rather than through love letters, flowers, or declarations."
     }
   ]
 }

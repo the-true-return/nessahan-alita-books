@@ -1,0 +1,16 @@
+Reflexões Masculinas sobre a Mulher e o Amor (reflexoes-masculinas-2008): translation complete, awaiting human review.
+Finished: 2026-10-24 ~01:30 (run 1).
+
+- English PDF: books/Nessahan Alita - Masculine Reflections on Woman and Love (2008 Edition).pdf
+  (working copy: output/reflexoes-masculinas-2008/reflexoes-masculinas-2008-en.pdf)
+- Pages: 64 (original: 67)
+- Segments: 276 in 12 chapters (all checked in the PDF); no footnotes, no tables
+- QA (qa.py --all): 0 errors, 0 warnings, all chapters PASS
+- PDF check (check_pdf.py): PASS, 0 errors, 1 warning (Conclusions list continues across pp. 59–60; harmless)
+- Open queries: 31 QUERY + 0 TN (listed in review/reflexoes-masculinas-2008/book-qa.md)
+- Glossary terms added as "proposed": matrixiano(s) → Matrixian(s), continuidade → continuity,
+  impressionismo → impressionism (3); this slug added to indefinição. The book's Glossary appendix has 13 concepts.
+- Tool change: tools/check_pdf.py right-margin tolerance now scales with body size (hanging punctuation);
+  Magnetism in Social Relations and How to Deal with Women rebuilt, re-checked (PASS) and republished.
+- Before distribution: 00-0012, the author's notice forbidding changes of language or title, needs a human decision.
+- Details and items to review: automation/state/reflexoes-masculinas-2008-progress.md
