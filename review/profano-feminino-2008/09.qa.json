@@ -1,0 +1,24 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "09",
+  "title": "8. A duplicidade de sentimentos",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 35,
+  "segments_translated": 35,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "09-0008",
+      "text": "\"a irritação da dúvida, como diz Peirce\" refers to Charles S. Peirce’s \"irritation of doubt\" (\"The Fixation of Belief\", 1877), the established English phrase."
+    },
+    {
+      "segment": "09-0031",
+      "text": "The original reads \"Slayne, o herói celta de Path Mills\"; corrected to Sláine, the Celtic hero of Pat Mills’s comic series (2000 AD). The quoted lines are translated from the author’s Portuguese; the original English wording of the comic was not checked."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "19",
+  "title": "Conclusões",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 20,
+  "segments_translated": 20,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "19-0005",
+      "text": "\"certas ações justas especulares devolutivas refratárias ou desmascarantes\" is an unpunctuated string of adjectives; read as just actions that mirror (cf. \"movimento especular ou de retorno\", 18-0065), give back, are refractory, or unmask. Alternative: \"certain just mirror actions that give back, refract, or unmask.\""
+    }
+  ],
+  "translator_notes": []
+}

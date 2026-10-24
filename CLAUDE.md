@@ -14,6 +14,7 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 - *Como lidar com mulheres* (`como-lidar-com-mulheres-2008`): traduzido pelo agente, PDF em `books/`.
 - *Reflexões Masculinas sobre a Mulher e o Amor* (`reflexoes-masculinas-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *A Guerra da Paixão* (`guerra-da-paixao-2005`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
+- *O Profano Feminino* (`profano-feminino-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - Os 6 livros restantes estão **na fila do agente agendado** (`automation/queue.txt`,
   `automation/README.md`): traduz um por vez e faz commit + push ao terminar cada um.
   Progresso em `automation/state/<slug>-progress.md`. Numa sessão interativa, não

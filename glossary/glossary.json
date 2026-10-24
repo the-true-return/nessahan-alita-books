@@ -1563,6 +1563,106 @@
       "display_en": "sentimental selfishness",
       "display_pt": "egoísmo sentimental",
       "note_en": "The author’s name for the principle that, in the war of passion, only one’s own feelings matter. It drives the sly ones to judge as “logical” whatever gives them desirable feelings and to seek constant proof that the man is suffering for love."
+    },
+    {
+      "term_pt": "duplicidade de sentimentos",
+      "match_pt": [
+        "duplicidade de sentimentos",
+        "duplicidade dos sentimentos"
+      ],
+      "term_en": "duplicity of feelings",
+      "match_en": [
+        "duplicity of feelings"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "profano-feminino-2008"
+      ],
+      "notes": "Título e tema do cap. 8 de O Profano Feminino (09-0001 a 09-0029; sumário 00-0033): o homem passa a amar e odiar a mesma mulher ao mesmo tempo. 'duplicity' no sentido de duplicidade/divisão, não de falsidade. Alternativas: 'doubleness of feelings', 'divided feelings'.",
+      "display_en": "duplicity of feelings",
+      "display_pt": "duplicidade de sentimentos",
+      "note_en": "The split produced in a man by a woman’s contradictory conduct, which feeds his hopes and then frustrates them, so that he comes to love and hate the same woman at once. The author sees freedom from passion as the only way out."
+    },
+    {
+      "term_pt": "pilantragem",
+      "match_pt": [
+        "pilantragem",
+        "pilantragens"
+      ],
+      "term_en": "crookedness / crooked trick",
+      "match_en": [
+        "crookedness",
+        "crooked trick",
+        "crooked tricks"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Ato de pilantra (glossário: 'crook'). O Profano Feminino, 08-0004, 08-0010 ('pilantragem emocional/feminina' → 'emotional/female crookedness'), 09-0022 ('a pilantragem que cometeram' → 'the crooked trick they pulled')."
+    },
+    {
+      "term_pt": "amor consciente",
+      "match_pt": [
+        "amor consciente"
+      ],
+      "term_en": "conscious love",
+      "match_en": [
+        "conscious love"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Terceira forma de amor segundo Samael Aun Weor (amor sexual, emocional e consciente); O Profano Feminino, cap. 14 (15-0002, 15-0005 a 15-0008). Oposto ao 'amor passional' ('passionate love').",
+      "display_en": "conscious love",
+      "display_pt": "amor consciente",
+      "note_en": "Following Samael Aun Weor, the higher form of love, as opposed to sexual and emotional (romantic) love: a disinterested wish for the beloved’s well-being, free of possessiveness and of the need for closeness. The author considers it the true love."
+    },
+    {
+      "term_pt": "Sagrado Feminino / Profano Feminino",
+      "match_pt": [
+        "Sagrado Feminino",
+        "Profano Feminino"
+      ],
+      "term_en": "Sacred Feminine / Profane Feminine",
+      "match_en": [
+        "Sacred Feminine",
+        "Profane Feminine"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Oposição central de O Profano Feminino (01, 18-0029): o aspecto superior e nobre da mulher vs. o aspecto inferior que 'impera nos dias atuais'. 'Profano Feminino' também é o título do livro (entrada title).",
+      "display_en": "Sacred Feminine / Profane Feminine",
+      "display_pt": "Sagrado Feminino / Profano Feminino",
+      "note_en": "The author’s opposition between the higher, noble aspect of woman, which he says he adores, and her lower aspect, which he says prevails today and which he fights. He presents his criticism as aimed at the Profane Feminine, not at women as persons."
+    },
+    {
+      "term_pt": "centro emocional",
+      "match_pt": [
+        "centro emocional",
+        "centros emocionais"
+      ],
+      "term_en": "emotional center(s)",
+      "match_en": [
+        "emotional center",
+        "emotional centers"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Termo de Gurdjieff/Samael Aun Weor (centros intelectual, emocional, motor). Usado em vários livros (17 ocorrências); O Profano Feminino 18-0137, 18-0138. Já traduzido como 'emotional center' nos livros anteriores.",
+      "display_en": "emotional center",
+      "display_pt": "centro emocional",
+      "note_en": "From Gurdjieff and Samael Aun Weor: the psychic center of feelings, distinct from the intellectual and motor centers. The author holds that a man must master it to stay immune to emotional provocation and manipulation."
     }
   ]
 }

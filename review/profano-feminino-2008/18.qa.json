@@ -1,0 +1,36 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "18",
+  "title": "17. Esclarecimentos adicionais",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 150,
+  "segments_translated": 150,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "18-0069",
+      "text": "Lalande’s “Vocabulaire technique et critique de la philosophie” (French original), quoted in the author’s own Portuguese translation; translated here from his Portuguese. “(p. 763, tradução minha)” kept as the author’s statement (“my translation”). “sub. Vº” (sub verbo) rendered as “s.v.” The same applies to 18-0070 to 18-0073 and 18-0077."
+    },
+    {
+      "segment": "18-0079",
+      "text": "“NOVA ENCICLOPÉDIA BARSA” rendered “NEW BARSA ENCYCLOPEDIA” and, in 18-0080, “GRANDE ENCICLOPÉDIA LAROUSSE CULTURAL” rendered “GREAT LAROUSSE CULTURAL ENCYCLOPEDIA” (Brazilian encyclopedias; the quotations are translated from the Portuguese). Keep consistent with the bibliography (chapter 20)."
+    },
+    {
+      "segment": "18-0083",
+      "text": "Encyclopedia quotation translated from the Portuguese; the bracketed insertions are the author’s."
+    },
+    {
+      "segment": "18-0104",
+      "text": "The original prints the French title as \"Du Fundament de l’Induction\"; Lachelier's work is \"Du fondement de l’induction\" (1871). Corrected the spelling and kept the title in French, as in the original."
+    },
+    {
+      "segment": "18-0115",
+      "text": "The original spells the title \"Tratactus Theologico-Politicus\"; corrected to Spinoza's \"Tractatus Theologico-Politicus\" (Latin, kept as in the original)."
+    }
+  ],
+  "translator_notes": []
+}

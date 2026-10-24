@@ -1,0 +1,28 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "15",
+  "title": "14. O amor em suas várias formas",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 12,
+  "segments_translated": 12,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "15-0002",
+      "text": "Book titles translated from the author’s Portuguese. “Tratado de Psicologia Revolucionária” and “O Matrimônio Perfeito” are known in English as “Treatise of Revolutionary Psychology” and “The Perfect Matrimony” (as in How to Deal with Women). “Dialética da Razão Objetiva” rendered literally as “Dialectic of Objective Reason”; no established English title was identified (possibly the work published as “The Dialectic of Consciousness” / “Introduction to Gnosis”; to be checked)."
+    },
+    {
+      "segment": "15-0003",
+      "text": "Title translated from the Brazilian edition (“Dogma e Ritual de Alta Magia”), as in the other books; Waite’s English translation is “Transcendental Magic: Its Doctrine and Ritual” (1896)."
+    },
+    {
+      "segment": "15-0009",
+      "text": "Fromm’s categories are given as the author lists them (from the Brazilian translation); they do not correspond exactly to the headings of the English original of “The Art of Loving” (1956)."
+    }
+  ],
+  "translator_notes": []
+}

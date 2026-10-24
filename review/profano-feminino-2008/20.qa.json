@@ -1,0 +1,32 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "20",
+  "title": "Referências bibliográficas:",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 8,
+  "segments_translated": 8,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "20-0002",
+      "text": "Brazilian edition \"O Erotismo: Fantasias e Realidades do Amor e da Sedução\", rendered as in How to Deal with Women; the Italian original is \"L’erotismo\" (1986). \"sem data\" rendered \"n.d.\"."
+    },
+    {
+      "segment": "20-0004",
+      "text": "\"GRANDE ENCICLOPÉIDA [sic] LAROUSSE CULTURAL\" (typo in the original) rendered \"GREAT LAROUSSE CULTURAL ENCYCLOPEDIA\", as in the body text (18-0080). Publisher names kept."
+    },
+    {
+      "segment": "20-0006",
+      "text": "The author cites the Spanish edition; its title is kept in Spanish (the original prints \"Vocabulário\", corrected to Spanish \"Vocabulario\"). The French original is \"Vocabulaire technique et critique de la philosophie\". The Spanish phrase \"Obra laureada por la Academia Francesa\" and the Portuguese \"Original da Sociedade Francesa de Filosofía\" were translated."
+    },
+    {
+      "segment": "20-0007",
+      "text": "\"Encyclopaedia Britannica do Brasil Publicações Ltda.\" is the publisher's corporate name and is kept as a proper name."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,32 @@
+{
+  "book": "profano-feminino-2008",
+  "chapter": "03",
+  "title": "2. Porque elas não olham para você",
+  "checked_at": "2026-10-24T03:50:15",
+  "segments_total": 29,
+  "segments_translated": 29,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "03-0006",
+      "text": "\"fêmeas fatais\" → \"fatal females\", keeping the approved \"female\" (fêmea) and the author’s play on \"femme fatale\". Alternative: \"femmes fatales\"."
+    },
+    {
+      "segment": "03-0008",
+      "text": "\"as gostosonas\" (slang augmentative: sexy, curvy women) → \"the hotties\". Alternative: \"the sexiest babes\"."
+    },
+    {
+      "segment": "03-0009",
+      "text": "The original says \"as 24% restantes\" after 74% (the remainder would be 26%). Kept \"24%\" as in the original; possibly a slip of the author."
+    },
+    {
+      "segment": "03-0024",
+      "text": "\"phalus erectus\" is already Latin in the original and kept as written (the usual spelling would be \"phallus\"). \"quatro metros\" kept in meters (about 13 feet)."
+    }
+  ],
+  "translator_notes": []
+}
