@@ -1,0 +1,32 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "00",
+  "title": "(front matter)",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 38,
+  "segments_translated": 38,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "00-0001",
+      "text": "Series title follows the glossary proposal \"Man’s Suffering in Love\" (O Sofrimento Amoroso do Homem), as in the other volumes."
+    },
+    {
+      "segment": "00-0003",
+      "text": "Subtitle \"As artimanhas e os truques ardilosos das mulheres no amor\". \"artimanhas\" → \"wiles\" (glossary). Alternative: \"Women’s Wiles and Cunning Tricks in Love\"."
+    },
+    {
+      "segment": "00-0006",
+      "text": "The citation gives the English titles; the Portuguese originals are \"O Sofrimento Amoroso do Homem\" and \"A Guerra da Paixão (As artimanhas e os truques ardilosos das mulheres no amor)\"."
+    },
+    {
+      "segment": "00-0012",
+      "text": "The author’s notice forbids any alteration of the book’s \"language or title\". Translated faithfully; a human should confirm that this English edition is authorized before publication (as for the other volumes)."
+    }
+  ],
+  "translator_notes": []
+}

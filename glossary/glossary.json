@@ -1357,9 +1357,10 @@
       "status": "proposed",
       "books": [
         "como-lidar-com-mulheres-2008",
-        "reflexoes-masculinas-2008"
+        "reflexoes-masculinas-2008",
+        "guerra-da-paixao-2005"
       ],
-      "notes": "Estado de relação não definida mantido pela mulher para preservar a dúvida e a 'permanência' do interesse masculino (caps. 6, 18, 19, 25 de Como Lidar com Mulheres). 'indefiniteness' na maior parte do livro; 'vagueness' no cap. 6. Em Reflexões Masculinas sobre a Mulher e o Amor: 07-0013, 09-0013.",
+      "notes": "Estado de relação não definida mantido pela mulher para preservar a dúvida e a 'permanência' do interesse masculino (caps. 6, 18, 19, 25 de Como Lidar com Mulheres). 'indefiniteness' na maior parte do livro; 'vagueness' no cap. 6. Em Reflexões Masculinas sobre a Mulher e o Amor: 07-0013, 09-0013. Em A Guerra da Paixão: 04-0003, 05-0008, 05-0011, 09-0003.",
       "display_en": "indefiniteness",
       "display_pt": "indefinição",
       "note_en": "The deliberate refusal to define a relationship (friend, lover, girlfriend, wife), kept up to preserve doubt and to prolong the man’s interest and pursuit. The author advises answering it with ultimatums or by turning it back against the woman."
@@ -1478,9 +1479,10 @@
       "category": "concept",
       "status": "proposed",
       "books": [
-        "reflexoes-masculinas-2008"
+        "reflexoes-masculinas-2008",
+        "guerra-da-paixao-2005"
       ],
-      "notes": "Teoria da continuidade de Francesco Alberoni (L'erotismo, 1986), reinterpretada pelo autor no cap. 7 de Reflexões Masculinas sobre a Mulher e o Amor (11 ocorrências) e nas Conclusões. Relacionado a 'indefinição'.",
+      "notes": "Teoria da continuidade de Francesco Alberoni (L'erotismo, 1986), reinterpretada pelo autor no cap. 7 de Reflexões Masculinas sobre a Mulher e o Amor (11 ocorrências) e nas Conclusões. Relacionado a 'indefinição'. Em A Guerra da Paixão: nota 01-0009 (Alberoni) e caps. 15-16.",
       "display_en": "continuity",
       "display_pt": "continuidade",
       "note_en": "Taken from Francesco Alberoni’s theory of female eroticism and reinterpreted by the author: what woman seeks is not to give sex and love continually but the continuity of male interest, which her contradictory signals keep alive without ever satisfying it."
@@ -1503,6 +1505,64 @@
       "display_en": "impressionism",
       "display_pt": "impressionismo",
       "note_en": "The author’s word for the art of making an impression: leaving a mark on a woman’s imagination through the fears and desires against which she is not armored, rather than through love letters, flowers, or declarations."
+    },
+    {
+      "term_pt": "megera(s)",
+      "match_pt": [
+        "megera",
+        "megeras"
+      ],
+      "term_en": "shrew(s)",
+      "match_en": [
+        "shrew",
+        "shrews"
+      ],
+      "category": "expression",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Recorrente em A Guerra da Paixão (caps. 10-11: 'megeras histéricas', 'megera espertinha'). Alternativa: 'harpy'."
+    },
+    {
+      "term_pt": "ilogicidade(s)",
+      "match_pt": [
+        "ilogicidade",
+        "ilogicidades"
+      ],
+      "term_en": "illogicality / illogicalities",
+      "match_en": [
+        "illogicality",
+        "illogicalities"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "guerra-da-paixao-2005"
+      ],
+      "notes": "Título e tema do cap. 1 de A Guerra da Paixão (02-0001 a 02-0014): ilogicidades reais (confusão psicológica) vs. fingidas (simulações de desentendimento).",
+      "display_en": "illogicality",
+      "display_pt": "ilogicidade",
+      "note_en": "The apparent absurdity of female choices in love, such as preferring the men who reject them. The author distinguishes genuine illogicalities, born of psychological confusion, from feigned ones used to escape being cornered, and recommends indifference toward both."
+    },
+    {
+      "term_pt": "egoísmo sentimental",
+      "match_pt": [
+        "egoísmo sentimental"
+      ],
+      "term_en": "sentimental selfishness",
+      "match_en": [
+        "sentimental selfishness"
+      ],
+      "category": "concept",
+      "status": "proposed",
+      "books": [
+        "*"
+      ],
+      "notes": "Princípio nomeado pelo autor em A Guerra da Paixão, cap. 11 (12-0016, 12-0026, 12-0027); também nos sumários de Como Lidar com Mulheres e Reflexões Masculinas sobre a Mulher e o Amor, já traduzido como 'sentimental selfishness'. Alternativa descartada: 'emotional selfishness'.",
+      "display_en": "sentimental selfishness",
+      "display_pt": "egoísmo sentimental",
+      "note_en": "The author’s name for the principle that, in the war of passion, only one’s own feelings matter. It drives the sly ones to judge as “logical” whatever gives them desirable feelings and to seek constant proof that the man is suffering for love."
     }
   ]
 }

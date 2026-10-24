@@ -1,0 +1,20 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "05",
+  "title": "4. O inferno psicológico principal",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 17,
+  "segments_translated": 17,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "05-0003",
+      "text": "\"da(o) parceiro(a)\" marks both genders; English \"the partner\" is already gender-neutral, so the marking was not reproduced."
+    }
+  ],
+  "translator_notes": []
+}

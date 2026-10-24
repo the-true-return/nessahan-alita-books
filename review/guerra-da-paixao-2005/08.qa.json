@@ -1,0 +1,22 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "08",
+  "title": "7. Como não se apaixonar",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 26,
+  "segments_translated": 26,
+  "complete": true,
+  "pending_from": null,
+  "status": "warn",
+  "errors": [],
+  "warnings": [
+    "08-0002: length ratio 0.74 (check for omissions or additions)"
+  ],
+  "queries": [
+    {
+      "segment": "08-0007",
+      "text": "\"pentalfa invertida\" (inverted pentalpha, i.e., the five-pointed star with its point downward, as in Eliphas Lévi) rendered \"inverted pentagram\". Alternative: \"inverted pentalpha\"."
+    }
+  ],
+  "translator_notes": []
+}

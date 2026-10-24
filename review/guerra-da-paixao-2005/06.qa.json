@@ -1,0 +1,24 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "06",
+  "title": "5. A atração pela crueldade",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 15,
+  "segments_translated": 15,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "06-0003",
+      "text": "\"Cláudia Pacheco\" cited without a title; name kept as in the original (possibly the Brazilian author of books on relationships). A human may want to identify the work."
+    },
+    {
+      "segment": "06-0005",
+      "text": "\"Elane Calligaris\" kept as in the original. Possibly a misspelling of \"Eliana Calligaris\" or a reference to psychoanalyst Contardo Calligaris, who wrote on the prostitution fantasy; not corrected because the intended author is uncertain."
+    }
+  ],
+  "translator_notes": []
+}

@@ -1,0 +1,19 @@
+A Guerra da Paixão (guerra-da-paixao-2005): translation complete, awaiting human review.
+Finished: 2026-10-24 ~03:30 (run 2).
+
+- English PDF: books/Nessahan Alita - The War of Passion (2005 Edition).pdf
+  (working copy: output/guerra-da-paixao-2005/guerra-da-paixao-2005-en.pdf)
+- Pages: 98 (original: 103)
+- Segments: 371 in 19 chapters (00 front matter, introduction, chapters 1–16, conclusions); 351 checked in the PDF text, no tables
+- QA (qa.py --all): 0 errors; all chapters PASS except 08 WARN (1 warning, list of nouns with a low length ratio; checked)
+- PDF check (check_pdf.py): PASS, 0 errors, 0 warnings
+- Open queries: 20 QUERY + 0 TN (listed in review/guerra-da-paixao-2005/book-qa.md)
+- Glossary terms added as "proposed": megera(s) → shrew(s), ilogicidade(s) → illogicality,
+  egoísmo sentimental → sentimental selfishness (3); this slug added to indefinição and continuidade.
+  The book's Glossary appendix has 15 concepts.
+- Tool change: tools/build_pdf.py raises the page number for large page-number sizes (this book's 12 pt numbers
+  fell outside the checked area). Magnetism in Social Relations, How to Deal with Women and Masculine Reflections
+  on Woman and Love were rebuilt, re-checked (PASS) and republished; How to Deal with Women grew 207 → 208 pages
+  because its appendix now includes "sentimental selfishness."
+- Before distribution: 00-0012, the author's notice forbidding changes of language or title, needs a human decision.
+- Details and items to review: automation/state/guerra-da-paixao-2005-progress.md

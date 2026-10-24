@@ -1,0 +1,24 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "01",
+  "title": "Introdução",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 15,
+  "segments_translated": 15,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "01-0009",
+      "text": "\"assimilam este instinto\" translated literally as \"assimilate this instinct\" (i.e., integrate/master it, as opposed to remaining passive before it). Alternatives: \"come to terms with\", \"master\"."
+    },
+    {
+      "segment": "01-0011",
+      "text": "\"muit(o)as\" marks both genders (muitos/muitas); rendered \"many women (and men)\". The pronouns \"as estou ajudando\", \"elas próprias\" refer to women; made explicit as \"women\" for clarity."
+    }
+  ],
+  "translator_notes": []
+}

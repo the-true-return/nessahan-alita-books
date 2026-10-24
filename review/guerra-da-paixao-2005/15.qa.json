@@ -1,0 +1,24 @@
+{
+  "book": "guerra-da-paixao-2005",
+  "chapter": "15",
+  "title": "14. Levando-as a se revelarem",
+  "checked_at": "2026-10-24T03:31:32",
+  "segments_total": 20,
+  "segments_translated": 20,
+  "complete": true,
+  "pending_from": null,
+  "status": "pass",
+  "errors": [],
+  "warnings": [],
+  "queries": [
+    {
+      "segment": "15-0010",
+      "text": "\"Eliane Calligaris\" kept as in the original; in 06-0005 the same author appears as \"Elane Calligaris.\" Probably the psychoanalyst Eliana Calligaris; spelling not corrected because the identification is uncertain."
+    },
+    {
+      "segment": "15-0013",
+      "text": "The original reads \"Uma vez que acredite que o mesmo não verificou sua presença no local B\" (\"did not check ... at location B\"), which contradicts the logic of the example; translated as \"location A\" on the evident sense. If the original was intended, read \"location B.\""
+    }
+  ],
+  "translator_notes": []
+}
