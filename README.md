@@ -60,14 +60,17 @@ source for anyone studying the movement.
 
 ## The books
 
-Each book below links to the final English PDF. Every English edition ends with
-a **Glossary** of the author's key concepts, an addition made for this
-translation.
+Each book is available in two formats: a **PDF** typeset to follow the layout
+of the original edition (in [`books/`](books/)) and an **EPUB** ebook with
+reflowable text for e-readers, phones, and tablets (in [`epubs/`](epubs/)).
+Every English edition ends with a **Glossary** of the author's key concepts, an
+addition made for this translation.
 
 ### *Man's Suffering in Love* (the series)
 
 **Volume I — [How to Deal with Women](books/Nessahan%20Alita%20-%20How%20to%20Deal%20with%20Women%20%282008%20Edition%29.pdf)**
-*Como Lidar com Mulheres*, 2005 (2008 edition) · 208 pages
+*Como Lidar com Mulheres*, 2005 (2008 edition) · 208 pages  
+[PDF](books/Nessahan%20Alita%20-%20How%20to%20Deal%20with%20Women%20%282008%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20How%20to%20Deal%20with%20Women%20%282008%20Edition%29.epub)  
 The longest and best-known volume. The author sketches a "behavioral profile"
 of a certain type of woman in love relationships and catalogs her emotional
 games, tests, and ploys. He then prescribes how a man should respond: hiding
@@ -76,7 +79,8 @@ mastering himself. The book closes with an interview with the author and his
 replies to readers' letters.
 
 **Volume II — [The Profane Feminine](books/Nessahan%20Alita%20-%20The%20Profane%20Feminine%20%282008%20Edition%29.pdf)**
-*O Profano Feminino*, 2005 (2008 edition) · 88 pages
+*O Profano Feminino*, 2005 (2008 edition) · 88 pages  
+[PDF](books/Nessahan%20Alita%20-%20The%20Profane%20Feminine%20%282008%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20The%20Profane%20Feminine%20%282008%20Edition%29.epub)  
 Presented as the "reverse of the Sacred Feminine," this volume examines what
 the author calls the animal, instinctive side of women. Topics include why
 women ignore some men, female privileges, the duplicity of feelings, the value of
@@ -85,7 +89,8 @@ clarifications about his intentions and the philosophical influences on his
 thinking.
 
 **Volume III — [The War of Passion](books/Nessahan%20Alita%20-%20The%20War%20of%20Passion%20%282005%20Edition%29.pdf)**
-*A Guerra da Paixão*, 2005 · 98 pages
+*A Guerra da Paixão*, 2005 · 98 pages  
+[PDF](books/Nessahan%20Alita%20-%20The%20War%20of%20Passion%20%282005%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20The%20War%20of%20Passion%20%282005%20Edition%29.epub)  
 Subtitled "the wiles and crafty tricks of women in love." The author
 distinguishes between the "authentic Woman" and the "humanoid female" and
 describes the tactics he attributes to the latter: feigned misunderstandings,
@@ -94,7 +99,8 @@ interest." He also offers ways not to fall in love and to resist these
 tactics.
 
 **Volume IV — [Masculine Reflections on Woman and Love](books/Nessahan%20Alita%20-%20Masculine%20Reflections%20on%20Woman%20and%20Love%20%282008%20Edition%29.pdf)**
-*Reflexões Masculinas sobre a Mulher e o Amor*, 2008 · 64 pages
+*Reflexões Masculinas sobre a Mulher e o Amor*, 2008 · 64 pages  
+[PDF](books/Nessahan%20Alita%20-%20Masculine%20Reflections%20on%20Woman%20and%20Love%20%282008%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20Masculine%20Reflections%20on%20Woman%20and%20Love%20%282008%20Edition%29.epub)  
 Subtitled "some heresies left unsaid," this volume fills gaps left by the
 earlier ones. It covers the principles behind the author's work, the ways a
 man becomes emotionally "imprisoned" by a woman (using Gurdjieff's centers),
@@ -104,7 +110,8 @@ relationships.
 ### Other works
 
 **[Magnetism in Social Relations](books/Nessahan%20Alita%20-%20Magnetism%20in%20Social%20Relations%20%282008%20Edition%29.pdf)**
-*O Magnetismo nas Relações Sociais*, 2002 (2008 edition) · 56 pages
+*O Magnetismo nas Relações Sociais*, 2002 (2008 edition) · 56 pages  
+[PDF](books/Nessahan%20Alita%20-%20Magnetism%20in%20Social%20Relations%20%282008%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20Magnetism%20in%20Social%20Relations%20%282008%20Edition%29.epub)  
 The author's first essay, inspired by Eliphas Lévi. It argues that social life
 obeys a "universal magnetism" of attraction and repulsion, and that
 manipulators control people through their passions: desires and fears. The
@@ -112,14 +119,16 @@ book describes how such manipulation works so that readers can recognize and
 resist it. Its remedy is self-mastery through the "death of the egos."
 
 **[Supplementary Texts](books/Nessahan%20Alita%20-%20Supplementary%20Texts%20%282008%20Edition%29.pdf)**
-*Textos Complementares*, 2008 · 59 pages
+*Textos Complementares*, 2008 · 59 pages  
+[PDF](books/Nessahan%20Alita%20-%20Supplementary%20Texts%20%282008%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20Supplementary%20Texts%20%282008%20Edition%29.epub)  
 Short essays written to clarify and correct readings of the earlier books.
 Topics include ambiguous behavior, generating attraction, the meanings of the
 sexual act, the author's disagreements with "seductology," and his concept of
 male self-mastery ("male self-power").
 
 **[Supplementary Texts II](books/Nessahan%20Alita%20-%20Supplementary%20Texts%20II%20%282009%20Edition%29.pdf)**
-*Textos Complementares II*, 2009 · 46 pages
+*Textos Complementares II*, 2009 · 46 pages  
+[PDF](books/Nessahan%20Alita%20-%20Supplementary%20Texts%20II%20%282009%20Edition%29.pdf) · [EPUB](epubs/Nessahan%20Alita%20-%20Supplementary%20Texts%20II%20%282009%20Edition%29.epub)  
 The last volume continues the clarifications. It includes a table of "main
 wiles and the corresponding solutions," essays on contradictory signals,
 lovesickness, and "freeing the soul," and closes with a collection of
@@ -136,8 +145,12 @@ aphorisms.
 - **Typesetting:** the PDFs are typeset with [Typst](https://typst.app) to
   follow the originals' page size, margins, fonts, spacing, and footnotes.
   They use free fonts (Liberation, TeX Gyre Bonum, Gelasio).
+- **Ebooks:** the EPUBs (EPUB 3) are built from the same translated text as
+  the PDFs, with reflowable text, pop-up footnotes, a table of contents, and
+  the Glossary. They use the reader's own fonts and pass the W3C
+  [EPUBCheck](https://www.w3.org/publishing/epubcheck/) validator.
 - **How it was made:** see [INSTRUCTIONS.md](INSTRUCTIONS.md) for how the
-  project is organized and how to rebuild the books.
+  project is organized and how to rebuild the PDFs and EPUBs.
 
 ## Sources
 

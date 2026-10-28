@@ -1,6 +1,7 @@
 # generated, reproducible
 output/*/build/
 output/*/preview/
+output/*/epub-preview/
 *.tmp
 __pycache__/
 automation/logs/

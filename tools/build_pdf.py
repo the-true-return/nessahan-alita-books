@@ -227,8 +227,9 @@ def chapter_body(segments, en, layout, metrics, footnotes, used) -> str:
     return "\n\n".join(out)
 
 
-def glossary_appendix(slug: str, book_text: str) -> str:
-    """Appendix for the English edition: the glossary concepts used in this book.
+def glossary_entries(slug: str, book_text: str) -> list[dict]:
+    """The glossary concepts used in this book, sorted, for the appendix of the
+    English edition (PDF and EPUB).
 
     Every concept/style entry that occurs in the book must have English notes
     (display_en, display_pt, note_en); otherwise the build fails, so no future
@@ -252,6 +253,12 @@ def glossary_appendix(slug: str, book_text: str) -> str:
         raise PipelineError("glossary concepts used in this book have no English note "
                             f"(add display_en/display_pt/note_en in glossary.json): {missing}")
     used.sort(key=lambda e: e["display_en"].lower())
+    return used
+
+
+def glossary_appendix(slug: str, book_text: str) -> str:
+    """Appendix for the English edition: the glossary concepts used in this book."""
+    used = glossary_entries(slug, book_text)
     out = ["#pagebreak(weak: true)", "#heading(level: 1)[Glossary]",
            f"#par(first-line-indent: 0pt)[#emph[{s(GLOSSARY_INTRO)}]]"]
     for e in used:

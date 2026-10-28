@@ -17,7 +17,7 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 - *O Profano Feminino* (`profano-feminino-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *Textos Complementares* (`textos-complementares-2008`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
 - *Textos Complementares II* (`textos-complementares-ii-2009`): traduzido pelo agente, PDF em `books/`; aguarda revisão humana.
-- Todos os livros do projeto estão traduzidos (7). A edição de 2005 de *O Profano
+- Todos os livros do projeto estão traduzidos (7) e têm EPUB em inglês em `epubs/`. A edição de 2005 de *O Profano
   Feminino* foi **removida** do projeto a pedido do usuário (duplicava a de 2008);
   não a recrie.
 - O agente agendado (`automation/`) terminou a fila e a tarefa foi removida; para
@@ -37,7 +37,9 @@ Antes de traduzir qualquer coisa, leia `translation-rules.md` e o glossário
 | `glossary/glossary.json` | Glossário compartilhado entre todos os livros | Claude propõe, humano aprova |
 | `translations/<slug>/NN.en.md` | Traduções, um arquivo por capítulo | Claude (tradução) |
 | `review/<slug>/` | Relatórios de QA, revisão bilíngue, dúvidas | `tools/qa.py` |
-| `output/<slug>/` | PDFs gerados (futuro) | ferramenta de rebuild (futuro) |
+| `output/<slug>/` | PDFs e EPUBs de trabalho, verificações e prévias | `build_pdf.py`, `build_epub.py` |
+| `books/` | PDFs finais verificados | `check_pdf.py` |
+| `epubs/` | EPUBs finais verificados | `check_epub.py` |
 | `docs/` | Análise da extração e plano de reconstrução dos PDFs | — |
 
 Nunca modifique `portuguese-original-pdf/` nem `extracted/`. `work/` é
@@ -118,6 +120,25 @@ O progresso é derivado dos próprios arquivos; não há estado a atualizar à m
 
 As ferramentas gravam arquivos de forma atômica (arquivo temporário +
 renomeação), então uma interrupção não deixa relatórios corrompidos.
+
+## EPUBs
+
+Cada livro também tem um EPUB 3 em inglês, gerado das mesmas fontes do PDF
+(traduções, estilos dos segmentos, glossário), com texto refluível, notas de
+rodapé como notas pop-up ao fim de cada capítulo, capa gerada com Typst e o
+apêndice "Glossary". Não embute fontes.
+
+```powershell
+& $py tools\build_epub.py <slug>    # output/<slug>/<slug>-en.epub (--all: todos; --draft ignora o QA)
+& $py tools\check_epub.py <slug>    # output/<slug>/epub-check.md + epub-preview/*.png; publica em epubs/
+```
+
+- O `check_epub.py` verifica estrutura, XML, manifesto, links, notas, a
+  presença de cada segmento traduzido em ordem, contagem de palavras, resíduos
+  de marcação e português, e roda o EPUBCheck (`pip install epubcheck`, Java).
+  Só EPUBs sem erros vão para `epubs/`.
+- A capa usa `subtitle_en`, `series_en` e `series_index` da config, se houver.
+- Depois de alterar uma tradução, gere de novo o PDF **e** o EPUB do livro.
 
 ## Glossário
 
